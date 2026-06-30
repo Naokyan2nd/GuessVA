@@ -1,0 +1,2512 @@
+{{Otheruses|声優の東山奈央|音楽グループ・Buzyのメンバーであった'''當'''山奈央|Buzy}}
+{{半保護}}
+{{RADIOLISTEN}}
+{{声優
+| 名前 = 東山 奈央
+| ふりがな = とうやま なお
+| 画像ファイル = T-SPOOK 2016 Nao Toyama 2016.10.30.jpg
+| 画像サイズ = 220px
+| 画像コメント = T-SPOOK 2016より<ref>{{Cite web2|df=ja|url=https://web.archive.org/web/20161102151528/https://lineblog.me/official/archives/1061992356.html |title=ワルキューレ（鈴木みのり、安野希世乃、東山奈央、JUNNA、西田望見）がハロウィーンで“ブラック・ワルキューレ”に!T-SPOOK 2016|work=V.I.P. Press|date=2016-10-30|accessdate=2017-04-12}}</ref>
+| 本名 = 
+| 愛称 = 奈央ぼう、とーやまん<ref name="animatetv">{{Cite web2|df=ja|url=http://www.animatetimes.com/school/interview_details.php?s_id=A01&id=1307341998 |title=日本ナレーション演技研究所 日本ナレーション演技研究所出身 東山奈央さん 前編 |work=スクールガイド |publisher=アニメイトタイムズ |date=2011-08-05 |accessdate=2011-08-06|archiveurl=https://web.archive.org/web/20160825133718/http://www.animatetimes.com/school/interview_details.php?s_id=A01&id=1307341998|archivedate=2016-08-25|url-status-date=2022年9月}}</ref>、東山プロ<ref>{{Cite web|和書|title=石上静香、東山奈央、種崎敦美、全員はまり役?　『鬼滅の刃』宇髄天元の嫁たちにも注目 |url=https://realsound.jp/movie/2021/12/post-922892.html |website=Real Sound |date=2021-12-11 |accessdate=2022-12-22}}</ref>
+| 性別 = [[女性]]
+| 出生地 = 
+| 出身地 = {{JPN}}・[[東京都]]
+| 死没地 = 
+| 生年 = 1992
+| 生月 = 3
+| 生日 = 11
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|A型]]<ref name="intention">{{Cite web2|df=ja|url=https://intention-k.com/profile/nao_toyama|title=Nao Toyama｜intention|accessdate=2020-09-18}}</ref>
+| 身長 = 152 [[センチメートル|cm]]{{R|intention}}
+| 職業 = [[声優]]、[[歌手]]
+| 事務所 = [[インテンション (企業)|インテンション]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = [https://toyamanao.com/ 東山奈央 オフィシャルサイト]
+| 活動 = {{声優/活動
+  | 職種 = 声優
+  | 活動期間 = [[2010年]]<ref name="animatetv2">{{Cite web2|df=ja|url=http://www.animatetimes.com/school/interview_details.php?s_id=A01&id=1307344236 |title= 日本ナレーション演技研究所 日本ナレーション演技研究所出身 東山奈央さん 後編 |work=スクールガイド |author= |publisher=アニメイトタイムズ |date=2011-08-22 |accessdate=2011-08-23|archiveurl=https://web.archive.org/web/20160825133838/http://www.animatetimes.com/school/interview_details.php?s_id=A01&id=1307344236|archivedate=2016-08-25}}</ref> -
+  | ジャンル = [[アニメ (日本のアニメーション作品)|アニメ]]、[[ゲーム]]
+  | デビュー作 = シルマ（『[[グラール騎士団]]』）{{R|animatetv2}}
+}}{{声優/音楽活動
+  | 活動期間 = [[2017年]] - [[2027年]]
+  | ジャンル = [[J-POP]]、[[アニメソング]]
+  | 職種 = [[歌手]]
+  | レーベル = [[フライングドッグ|FlyingDog]]
+  | 共同作業者 = [[ワルキューレ (マクロスΔ)|ワルキューレ]]<br />[[ぽかぽかイオン]]（[[安野希世乃]]）
+}}
+}}
+'''東山 奈央'''（とうやま なお、[[1992年]][[3月11日]]<ref>{{Cite web2|df=ja|url=https://artist.cdjournal.com/a/toyama-nao/905028|title=東山 奈央 - CDJournal |work=CDジャーナル |publisher=[[音楽出版社 (企業)|音楽出版社]] |accessdate=2020-09-18}}</ref><ref>{{Cite journal |和書 |journal=[[声優グランプリ]] |issue=2010年12月号 |page={{要ページ番号|date=2016年8月}} |date=2010年11月 |publisher=[[主婦の友社]]}}</ref> - ）は、[[日本]]の[[女性]][[声優]]、[[歌手]]。[[東京都]]出身{{R|intention}}。[[インテンション (企業)|インテンション]]所属{{R|intention}}。レコードレーベルは[[フライングドッグ|FlyingDog]]。
+{{VOICE Notice Hidden|冒頭部分に記載する代表作は、編集合戦誘発の原因となりますので、多数の出典で確認できるものに限ってください。プロジェクト:声優#冒頭部分にてガイドラインが制定されていますので、そちらも参照して下さい。}}
+
+== 経歴 ==
+小学校の頃は『[[おジャ魔女どれみ]]』や『[[美少女戦士セーラームーン]]』が好きだったが<ref name="nikkei1706">「声優核心バイオグラフィー! 第47回 東山奈央」『[[日経エンタテインメント]]』、日経BP社、2017年5月、107頁。</ref>、『[[鋼の錬金術師 (アニメ)|鋼の錬金術師]]』に感動して「声で心を動かす」ことに興味を持つ<ref name="dvn">{{Cite web2|df=ja|date=2014-07-17 |url=https://web.archive.org/web/20171024101848/https://ddnavi.com/interview/200998/a/ |title=東山奈央さんに50の質問「声優の輪」【第23回】 |publisher=[[ダ・ヴィンチニュース]]「アニメ部」 |accessdate=2018-06-29}}</ref>。中学・高校は一貫教育の女子校に通う<ref name="basketarmyinterview">{{Cite web2|df=ja|date=2013-03-05|url=https://www.famitsu.com/news/201303/05029682.html|title=『武装中学生』書籍発売記念、小清水亜美さん（名取トウコ役）と東山奈央さん（瀬波ヒカリ役）のコメント動画公開|work=|author=|publisher=ファミ通.com|accessdate=2013-03-06}}</ref>。中学2年生の時、声優を目指す同級生の友人と台本の掛け合いをするうちに演技の楽しさを感じて声優を志した{{R|nikkei1706}}。両親には大学受験を頑張ることを条件に、声優養成所に通うことを認めてもらう{{R|nikkei1706}}。高校進学と共に[[日本ナレーション演技研究所]]研修科に入所し{{R|animatetv}}<ref>{{Cite journal |和書 |journal=声優グランプリ |issue=2011年1月号 |title=別冊付録 2011年スペシャル声優カレンダー |publisher=主婦の友社 |date=2010年12月}}</ref>、3年間の研修後、オーディションに合格して[[アーツビジョン]]に所属した。学生生活と声優活動を両立させた。
+
+[[2010年]]10月に同時に始まった『[[神のみぞ知るセカイ]]』の中川かのん役と『[[STAR DRIVER 輝きのタクト]]』のスガタメ・タイガー役でテレビアニメデビューを果たす{{R|animatetv}}{{Efn2|声優としての初アフレコはOVA『[[ひよ恋]]』の美沙役{{R|dvn}}。}}。中川かのん名義ではシングル・アルバムのリリース、ソロコンサート開催など多様な活動を行う。『[[咲-Saki-|咲-Saki- 阿知賀編 episode of side-A]]』などでのヒロイン役を演じ、『[[異国迷路のクロワーゼ The Animation]]』では主役の声を担当。音楽ゲーム『[[太鼓の達人|太鼓の達人 ちびドラゴンと不思議なオーブ]]』では、キャラクターのほかに主題歌を担当した。
+
+[[2014年]]3月、[[早稲田大学]][[早稲田大学文化構想学部|文化構想学部]]を卒業した。同年[[4月1日]]をもってアーツビジョンを退所し、[[5月1日]]付で[[インテンション (企業)|インテンション]]に移籍した<ref>{{Cite web2|df=ja|author=東山奈央 |date=2014-05-01 |url=http://intention-k.com/talent_blog/2014/05/blog.html |title=ごあいさつ |work=Nao's Blog |accessdate=2014-05-01|archiveurl=https://web.archive.org/web/20140716154828/http://intention-k.com/talent_blog/2014/05/blog.html|archivedate=2014-07-16}}</ref>。
+
+[[2016年]][[11月17日]]、個人名義での歌手デビューを発表し、公式サイト・公式[[Twitter]]・[[LINE (アプリケーション)|LINE]]アカウントを開設した<ref name="natalie20161117">{{cite news|url=https://natalie.mu/music/news/209699|title=東山奈央、テレビ＆劇場版「チェンクロ」主題歌でアーティストデビュー|newspaper=[[ナタリー (ニュースサイト)|音楽ナタリー]]|publisher=ナターシャ|date=2016-11-17|accessdate=2016-11-17}}</ref>。2017年2月1日、[[フライングドッグ]]よりデビューシングル「True Destiny / Chain the world」をリリースした{{R|natalie20161117}}。2018年2月3日に[[日本武道館]]でファーストライブを開催した。同日、自身のオフィシャルファンクラブの開設を発表し、同日付で始動した<ref>{{Cite web|和書|url=https://fc.toyamanao.com/news/detail/11|title=東山奈央オフィシャルクラブ「虹のわっか」オープン！|website=東山奈央オフィシャルクラブ「虹のわっか」|date=2018-02-03|accessdate=2022-09-30}}</ref>。
+
+[[2019年]][[3月9日]]、第13回[[声優アワード]]で助演女優賞とゲーム賞を受賞した<ref>{{Cite web2|df=ja|publisher=ナターシャ|work=コミックナタリー|title=「第十三回 声優アワード」主演男優賞は内田雄馬、主演女優賞は三瓶由布子|url=https://natalie.mu/comic/news/323247|accessdate=2019-03-09|date=2019-03-09}}</ref>。
+
+同年、自身のチャリティー活動により、オフィシャルクラブ「虹のわっか」が[[日本赤十字社]]の「金色有功章」を受章した<ref>{{Cite web2|df=ja|title=声優・東山奈央、チャリティー活動で金色有功章を受章 {{!}} アニメイトタイムズ|url=https://www.animatetimes.com/news/details.php?id=1557904797|website=声優・東山奈央、チャリティー活動で金色有功章を受章 {{!}} アニメイトタイムズ|accessdate=2019-05-16|language=ja}}</ref>。
+
+[[2020年]]、声優生活10周年を記念したキャラクターソングアルバムCDを[[8月5日]]に発売した<ref name="natalie20200606">{{cite news|url=https://natalie.mu/music/news/382173|title=声優活動10周年の東山奈央、本人セレクトによるキャラソンベスト発売|newspaper=[[ナタリー (ニュースサイト)|音楽ナタリー]]|publisher=ナターシャ|date=2020-06-06|accessdate=2020-07-14}}</ref>。
+
+[[2021年]]、第15回[[声優アワード]]で「[[ワルキューレ (マクロスΔ)|ワルキューレ]]」として歌唱賞を受賞した<ref>{{Cite news|title=第15回声優アワード：歌唱賞に「マクロスΔ」ワルキューレ|work=MANTANWEB |url=https://mantan-web.jp/article/20210306dog00m200035000c.html|date=2021-03-06|accessdate=2021-03-06}}</ref>。
+
+同年[[11月22日]]、以前から非公式に結成していた[[安野希世乃]]とのユニット「ぽかぽかイオン」を公式結成し、併せて翌年1月放送のテレビアニメ『[[スローループ]]』のOPテーマ「[[やじるし→]]」を担当することを発表した<ref>{{Cite web2|df=ja|url=https://www.animatetimes.com/news/details.php?id=1637575669|title=声優・東山奈央さん＆安野希世乃さんによるスペシャルユニット「ぽかぽかイオン」が公式結成！　冬アニメ『スローループ』OPテーマを担当＆最新アーティスト写真が公開|work=animate Times|date=2021-11-22|accessdate=2021-11-22}}</ref>。
+
+[[2026年]][[2月8日]]、ワンマンライブ「OVER THE RAINBOW」（[[2027年]][[3月11日]]予定）の開催をもって個人名義での音楽活動を休止することを発表、理由について「これまでの10年間の歩みを集大成としてお届けし、その先の音楽人生を考えていくための前向きな決断」であるとしている。あわせて新たなアルバムの制作決定も発表された<ref>{{Cite web |url=https://natalie.mu/music/news/659334 |title=東山奈央が音楽活動休止、日本武道館で休止前ファイナルライブ |accessdate=2026-02-09 |date=2026-02-08 |website=音楽ナタリー |publisher=ナターシャ}}</ref>。
+
+== 人物 ==
+=== 声質・特色 ===
+『[[きんいろモザイク (アニメ)|きんいろモザイク]]』イベント時のインタビューで、父親が帰国子女で小さい頃は父が[[英語]]で話して母が[[日本語]]で返すというような家庭環境であったと語っている<ref name="koepotakiniro">{{Cite web2|df=ja|url=https://news.livedoor.com/lite/article_detail_amp/7581647/|title=【ACE2013】内山夕実、東山奈央インタビュー！「きんいろモザイク」初イベントの感想やユニットを語る|work=|author=| agency=こえぽた(KoePota)|publisher=ライブドアニュース|accessdate=2022-10-01}}</ref>。
+
+声優になるにあたり最も影響を受けた人物として[[朴璐美]]の名前を挙げており、朴の代表作である『[[鋼の錬金術師 (アニメ)|鋼の錬金術師]]』の[[エドワード・エルリック]]役が女性であることを知り、さらに彼女の演技に惹かれて「私も自分もこんなふうに人の心を動かせたらなぁ…」と思っていたと語る。この『鋼の錬金術師』視聴以前から第一期のOPテーマ「[[メリッサ (曲)|メリッサ]]」を担当した[[ポルノグラフィティ]]の大ファン<ref>{{Cite journal|和書 |editor=瓶子吉久 |title= アニコイ出張版 アニメクライマックス特別企画！ 新房昭之×千棘役東山奈央スペシャル対談！！パート2|journal=[[週刊少年ジャンプ]]|issue=2014年25号 |pages=279 |publisher=[[集英社]] |date=2014-05-19}}</ref>でもある。
+
+自身の声を「特徴的じゃない」と評した上で、「色が付いてない方が色々な役に挑戦できる」と前向きに捉えており、「作品のENDロールを見た時に私の名前に気付いて、驚いてもらえるくらい、キャラになりきれる役者になりたい」と語っている{{R|animatetv2}}。
+
+もともと歌うことが好きだったが、音痴を克服するため中学・高校は[[合唱部]]に所属していた{{R|nikkei1706}}。コーラスは[[アルト]]パート担当で、自己主張せず控えめに歌うことに慣れていたため、歌手としてソロで歌うことには難しさがあったという{{R|nikkei1706}}。
+
+[[ジャズダンス]]や[[ヒップホップ]]を10年ほど続けてきたので[[ダンス]]は得意で、イベントなどで楽曲を披露する際にはその振り付けを考えることも多い<ref name="dance">{{Cite web2|df=ja|url=http://www.anican.jp/blog/anicanreport/anicanreport.aspx?number=20130080 |title=Rhodanthe＊（西明日香、田中真奈美、種田梨沙、内山夕実、東山奈央）噴水広場イベントレポート |work=フリーペーパーアニカン公式サイト |publisher=アニカンジェイピー |date=2013-07-28 |accessdate=2014-05-25 |archiveurl=https://archive.is/20140527144006/http://www.anican.jp/blog/anicanreport/anicanreport.aspx?number=20130080 |archivedate=2014年5月27日 <!--|deadlinkdate=2017年10月 --> }}</ref>。ワルキューレのダンス練習では、他のメンバーにアドバイスできるよう、多忙にもかかわらずいち早く振り付けを覚えて来るという<ref>「ワルキューレ5人集合座談会」『[[CUT (雑誌)|CUT]] 2016年8月号』、ロッキングオン、2016年、27頁。</ref>。
+
+=== 性格・エピソード ===
+高校までの[[身長]]は149 [[センチメートル|cm]]だったが、大学に入ってから3 cm伸びて、2011年時点では152 cm{{R|animatetv}}。
+
+性格は本人曰く「小心者で隠れ人見知り」<ref>{{Cite web2|df=ja|url=https://web.archive.org/web/20170827091747/https://lineblog.me/toyamanao/archives/9295796.html|title=東山奈央オフィシャルブログ|date=2017-08-27|accessdate=2018-06-27}}</ref>。座右の銘は『結果の出ない努力はただの言い訳』{{R|dvn}}。愛称の「奈央ぼう」は、小学生時代に坊やの様に小柄であったことから、「とーやまん」は、中学2年の頃に付けられたあだ名「ちびっこヒーローとーやまん」にそれぞれ由来する。趣味・特技として歌唱・ダンス・[[エレクトーン]]が挙げられている<ref>{{Cite web2|df=ja|url=https://intention-k.com/profile/nao_toyama|title=インテンション　タレントプロフィール|work=|author=|publisher=インテンション|accessdate=2021-09-10}}</ref>。[[生卵]]を割ることすらままならない程[[料理]]は苦手だが、[[中華まん|肉まん]]を[[電子レンジ|レンジ]]で暖めることについては自信を持っている。好きな色はベージュ系。自然で素朴な色やファッションを好む{{R|animatetv}}。
+
+恋愛面では夢見がちかつ乙女チックな部分があり、シチュエーションなどの妄想力が豊かで[[鷲崎健]]から「歩く[[別冊マーガレット|別マ]]」と称されている<ref name="2h">{{Cite web2|df=ja|date=2013-06-14|url=https://www.joqr.co.jp/blog/2h/archives/2013/06/post_798.html|title=A&G ARTIST ZONE 鷲崎健の2h|work=|author=|publisher=|accessdate=2014-07-11}}</ref>。
+
+[[山崎はるか]]とは、同じ養成所・同じ事務所・同期・同じ年齢と多くの共通点があり、親友と認め合う間柄である<ref name="kanonnooto2013">{{Cite web2|df=ja|date=2013-03-03|url=http://www.ustream.tv/channel/kaminomi-kanon|title=東山奈央の「かのんのおと」Birthdayスペシャル2013|work=|author=|publisher=|accessdate=2013-03-03|archiveurl=https://web.archive.org/web/20130318153103/http://www.ustream.tv/channel/kaminomi-kanon|archivedate=2013-03-18}}</ref>。また、[[日本ナレーション演技研究所|日ナレ]]で同じクラスだった[[早見沙織]]、[[内田真礼]]とも親交が深い。特に早見とは養成所卒業後も共演する機会が多く、お互いに「さおさん」「奈央ちゃん」と呼び合う関係である。
+
+きんいろモザイクの声優ユニット「[[きんいろモザイク (アニメ)#Rhodanthe*|Rhodanthe*]]」のメンバーとは同作の共演を通して公私ともに親交が深くなり、放送終了後や続編決定後も度々顔を合わせている。同アニメのイベントでは元々小心者であることに加え、周囲の期待に応えようと自分ができる以上のことをやろうとしてしまうと自分を評し、時には終了後に倒れこんでしまうほどイベントを苦手に思うことがあったが、Rhodanthe*として活動していくうちに苦手意識も克服され、Rhodanthe*が自分に居場所をくれたとまで語っている<ref name="Rhodanthe">{{Cite web2|df=ja|url=http://www.anican.jp/blog/anicanreport/anicanreport.aspx?number=20140007 |title=Rhodanthe＊よ永遠なれ！　『KIN-IRO MOSAIC Festa』 |work=フリーペーパーアニカン公式サイト |publisher=アニカンジェイピー |date=2014-01-15 |accessdate=2014-01-15|archiveurl=https://archive.ph/2014.05.27-143950/http://www.anican.jp/blog/anicanreport/anicanreport.aspx?number=20140007|archivedate=2014-05-27|url-status=dead|url-status-date=2016年8月}}</ref>。
+
+アニメ『神のみぞ知るセカイ』中川かのんとして「中川かのん starring 東山奈央 2nd コンサート2014 Ribbon Illusion」で、ピアノの弾き語りを披露する。その楽曲を作曲者へ依頼する際、製作委員会側は難易度を下げないよう重ねて依頼していた。完成した楽曲は、作曲者自身も弾くだけで困難を極め、難易度を数値化すると100に対し100でありこれ以上は上げられないレベルと語る。また、東山本人が弾けない場合は制作し直す旨を念押しし製作側の担当者に渡している。その後、何か月たっても返事が来ないまま約1年が経過した頃、東山本人が弾けたと連絡を受け驚く。その後、完成度をあげる為に東山は再度練習の日々だったと語る{{R|kanonnooto2013}}。
+
+デビュー前に、アニメ『[[たまゆら (アニメ)|たまゆら]]』のオーディションを受けるが、その時は声がかからなかったものの、続編で登場したキャラクターに採用されたことを劇場版パンフレットのインタビューで語った。
+
+2022年3月11日、30歳の誕生日に[[井上喜久子]]からの誘いを受けて[[17歳教]]に入信し、「17歳」になった<ref name="17才教">[https://www.oricon.co.jp/news/2227807/ 東山奈央、“17才教”へ 教祖・井上喜久子喜び「うれしいっ」 入団条件や心得は「出身地を聞かれたらお花畑と言う勇気」] - oricon news（2022年3月14日）</ref>{{Efn2|17歳教に入信すると、実年齢に関わらず17歳に固定される{{R|17才教}}。}}。
+
+一人っ子である<ref>{{Cite news|url=https://mantan-web.jp/article/20240329dog00m200026000c.html|title=ゆるキャン△：花守ゆみり×東山奈央×黒沢ともよ　「SEASON3」はどうなる？　飯テロも！|newspaper=[[まんたんウェブ]]|publisher=MANTAN|date=2024-03-30|accessdate=2024-09-21}}</ref>。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{定義リスト2
+| 2010年 |
+* [[STAR DRIVER 輝きのタクト]]（スガタメ・タイガー）<!-- 2010-10-03 -->
+* [[神のみぞ知るセカイ]]（2010年 - 2013年、'''中川かのん'''<ref>{{Cite web2|df=ja|url=http://kaminomi.jp/cd/index.html|title=音楽情報|work=神のみぞ知るセカイ アニメ公式サイト|accessdate=2012-09-23|archiveurl=https://web.archive.org/web/20130605213528/http://kaminomi.jp/cd/index.html|archivedate=2013年6月5日<!--|deadlinkdate=2017年10月-->}}</ref><ref>{{Cite web2|df=ja|publisher=神のみぞ知るセカイ アニメ公式サイト|url=http://kaminomi.jp/cast_staff/index.html|title=キャスト&スタッフ|accessdate=2013-05-22|archiveurl=https://web.archive.org/web/20111019140101/http://kaminomi.jp/cast_staff/index.html|archivedate=2011年10月19日<!--|deadlinkdate=2017年10月-->}}</ref> / '''アポロ'''） - 2シリーズ{{Ras|第1期（2010年）<!-- 2010-11-04 -->、第3期『女神篇』（2013年）<!-- 2013-07-09 -->}}
+* [[閃光のナイトレイド]]
+| 2011年 |
+* [[よんでますよ、アザゼルさん。]]（女子高生、通行人）<!-- 2011-05-06 -->
+* [[アスタロッテのおもちゃ!]]（イソルド）<!-- 2011-05-08 -->
+* [[戦国乙女〜桃色パラドックス〜]]（娘）<!-- 2011-05-24 -->
+* [[青の祓魔師 (アニメ)|青の祓魔師]]（2011年 - 2024年、ニーちゃん、カリバーン） - 4シリーズ{{Ras|第1期（2011年）<!-- 2011-05-29 -->、第2期『京都不浄王篇』（2017年）<!-- 2017-01-21 -->、第3期『島根啓明結社篇』（2024年）<!-- 2024-01-07 -->、第4期『雪ノ果篇』（2024年）<!-- 2024-10-06 -->}}
+* [[異国迷路のクロワーゼ The Animation]]（'''湯音'''<ref>{{Cite web2|df=ja|url=http://www.ikokumeiro.com/character.html |title=キャラクター |work=TVアニメ『異国迷路のクロワーゼ 』オフィシャルサイト |accessdate=2013-07-31 |archiveurl=https://web.archive.org/web/20110404062512/http://www.ikokumeiro.com/character.html |archivedate=2011年4月4日 <!--|deadlinkdate=2017年10月--> }}</ref>）<!-- 2011-07-04 -->
+* [[境界線上のホライゾン]]（2011年 - 2012年、'''マルゴット・ナイト'''<ref>{{Cite web2|df=ja|publisher=境界線上のホライゾン|url=https://www.genesis-horizon.net/caststaff/index.html|title=CAST|accessdate=2012-04-10}}</ref>） - 2シリーズ{{Ras|第1期（2011年）<!-- 2011-10-01 -->、第2期『II』（2012年）<!-- 2012-07-07 -->}}
+* [[ラストエグザイル-銀翼のファム-]]（2011年 - 2012年、フェリシテ<ref>{{Cite web2|df=ja|publisher=ラストエグザイル-銀翼のファム- 公式ホームページ|url=http://www.lastexile-fam.com/cast.html|title=CAST|accessdate=2013-07-31}}</ref>）<!-- 2011-10-07 -->
+| 2012年 |
+* [[戦姫絶唱シンフォギア]]（2012年 - 2015年、寺島詩織<ref>{{Cite web2|df=ja|url=https://www.symphogear.com/staffcast.html|title=スタッフ&キャスト|work=戦姫絶唱シンフォギア 公式サイト|accessdate=2019-05-31}}</ref><ref>{{Cite web2|df=ja|url=https://www.symphogear-g.com/staff_cast.php|title=スタッフ&キャスト|work=TVアニメ「戦姫絶唱シンフォギアＧ」公式サイト|accessdate=2019-05-31}}</ref><ref>{{Cite web2|df=ja|url=https://www.symphogear-gx.com/staff_cast.php|title=スタッフ&キャスト|work=TVアニメ「戦姫絶唱シンフォギアＧＸ」公式サイト|accessdate=2019-05-31}}</ref>、生徒A、母親） - 3シリーズ{{Ras|第1期（2012年）<!-- 2012-01-06 -->、第2期『G』（2013年）<!-- 2013-07-05 -->、第3期『GX』（2015年）<!-- 2015-07-04 -->}}
+* [[べるぜバブ]]（幽子）<!-- 2012-02-05 -->
+* [[パパのいうことを聞きなさい!]]（ルナフルール）<!-- 2012-03-13 -->
+* [[咲-Saki-|咲-Saki- シリーズ]]（2012年 - 2014年、'''新子憧'''<ref>{{Cite web2|df=ja|publisher=テレビ東京・あにてれ 咲-Saki- 阿知賀編 episode of side-A|url=https://www.tv-tokyo.co.jp/anime/saki2/staff/index.html|title=スタッフ・キャスト|accessdate=2013-07-31}}</ref>） - 2シリーズ{{Ras|第2作『阿知賀編 episode of side-A』（2012年）<!-- 2012-04-08 -->、第3作『全国編』（2014年）<!-- 2014-01-06 -->}}
+* [[エウレカセブンAO]]（メイヴ・マキャフリイ、アラタ・ミユ、ノア、デモの女）<!-- 2012-04-13 -->
+* [[AKB0048]]（2012年 - 2013年、ヴェーラ） - 2シリーズ{{Ras|第1期（2012年）<!-- 2012-06-24 -->、第2期（2013年）<!-- 2013-03-30 -->}}
+* [[ココロコネクト]]（円城寺紫乃<ref>{{Cite web|和書|publisher=ファミ通.com|url= https://www.famitsu.com/news/201211/22024860.html |title= 『ココロコネクト ヨチランダム』スペシャルシナリオ2本を2012年11月29日より配信決定 |date=2012-11-22|accessdate=2022-05-18}}</ref>)<!-- 2012-09-30 -->
+* [[さくら荘のペットな彼女]]（女子A、桃子）<!-- 2012-10-09 -->
+| 2013年 |
+* [[まおゆう魔王勇者]]（メイド妹〈農奴妹〉<ref>{{Cite web2|df=ja|publisher=マイコミジャーナル|url=https://news.mynavi.jp/article/20120924-a020/|title=TVアニメ『まおゆう魔王勇者』、今冬放送開始! メインキャスト陣を紹介|accessdate=2012-09-24}}</ref>）<!-- 2013-01-04 -->
+* [[ラブライブ! (テレビアニメ)|ラブライブ!]]（2013年 - 2014年、高坂雪穂） - 2シリーズ{{Ras|第1期（2013年）<!-- 2013-01-06 -->、第2期（2014年）<!-- 2014-04-06 -->}}
+* [[THE UNLIMITED 兵部京介]]（'''ユウギリ'''<ref>{{Cite web2|df=ja|url=https://mantan-web.jp/article/20121024dog00m200027000c.html|title=絶対可憐チルドレン ： 新作アニメは兵部京介のスピンオフ 13年からテレ東で放送 |work=[[まんたんウェブ]] |publisher=MANTAN |date=2012-10-24 |accessdate=2012-10-24}}</ref>）<!-- 2013-01-08 -->
+* [[俺の彼女と幼なじみが修羅場すぎる]]（夏川真那<ref>{{Cite web2|df=ja|url=https://www.oreshura.net/staff_cast/|title=STAFF&CAST|work=TVアニメ「俺の彼女と幼なじみが修羅場すぎる」 公式サイト|accessdate=2012-12-19}}</ref>）<!-- 2013-02-03 -->
+* [[はたらく魔王さま! (アニメ)|はたらく魔王さま！]]（2013年 - 2023年、'''佐々木千穂'''<ref>{{Cite web2|df=ja|url=https://maousama.jp/1st/staff.html|title=スタッフ/キャスト|work=TVアニメ『はたらく魔王さま』公式サイト|accessdate=2021-03-06}}</ref><ref>{{Cite video|url=https://www.youtube.com/watch?v=2RujhvMRhw0|date=2021-03-06|title=【特報PV】TVアニメ『はたらく魔王さま！』第2期制作決定！|publisher=株式会社インフィニット|accessdate=2021-03-06}}-</ref>） - 3シリーズ{{Ras|第1期（2013年）<!-- 2013-04-04 -->、第2期『はたらく魔王さま!!』1st Season（2022年）<!-- 2022-07-14 -->、第2期『はたらく魔王さま!!』2nd Season（2023年）<!-- 2023-07-13 -->}}
+* [[やはり俺の青春ラブコメはまちがっている。 (アニメ)|やはり俺の青春ラブコメはまちがっている。]]（2013年 - 2020年、'''由比ヶ浜結衣'''<ref>{{Cite web2|df=ja|url=https://www.tbs.co.jp/anime/oregairu/1st/staffcast/ |title=スタッフ&キャスト |work=やはり俺の青春ラブコメはまちがっている。 |publisher=TBSテレビ |accessdate=2019-11-10}}</ref><ref>{{Cite web2|df=ja|publisher=TBSテレビ|work=やはり俺の青春ラブコメはまちがっている。続 公式ホームページ|title=スタッフ&キャスト|url=https://www.tbs.co.jp/anime/oregairu/2nd/staffcast/|accessdate=2019-11-10}}</ref><ref>{{Cite web2|df=ja|publisher=TBSテレビ|work=TVアニメ「やはり俺の青春ラブコメはまちがっている。完」公式ホームページ|title=スタッフ＆キャスト|url=https://www.tbs.co.jp/anime/oregairu/staffcast/|accessdate=2019-11-10}}</ref>） -3シリーズ{{Ras|第1期（2013年）<!-- 2013-04-05 -->、第2期『続』（2015年）<!-- 2015-04-03 -->、第3期『完』（2020年）<!-- 2020-07-10 -->}}
+* [[銀河機攻隊 マジェスティックプリンス]]（山田ペコ、ジェーン<ref>{{Cite web2|df=ja|url=http://mjp-anime.jp/06chara/index.html |title=キャラクター |work=アニメ「銀河機攻隊 マジェスティックプリンス」 |accessdate=2013-03-26 |archiveurl=https://web.archive.org/web/20130405150452/http://mjp-anime.jp/06chara/index.html |archivedate=2013年4月5日 <!--|deadlinkdate=2017年10月--> }}</ref>）<!-- 2013-05-16 -->
+* [[たまゆら〜もあぐれっしぶ〜]] （ともちゃん）<!-- 2013-07-03 -->
+* [[きんいろモザイク (アニメ)|きんいろモザイク]]（2013年 - 2015年、'''九条カレン'''<ref>{{Cite web2|df=ja|publisher=TVアニメ「ハロー!!きんいろモザイク」公式サイト|title=第1期 スタッフ&キャスト|url=https://kinmosa.com/series/staff_s1.html|accessdate=2014-07-18}}</ref><ref>{{Cite web2|df=ja|publisher=TVアニメ「ハロー!!きんいろモザイク」公式サイト|title=第2期 スタッフ&キャスト|url=https://kinmosa.com/series/staff_s2.html|accessdate=2014-07-18}}</ref>） - 2シリーズ{{Ras|第1期（2013年）<!-- 2013-07-06 -->、第2期『ハロー!!きんいろモザイク』（2015年）<!-- 2015-04-06 -->}}
+* [[幻影ヲ駆ケル太陽]]（メルティナ・メルヴィス<ref>{{Cite web2|df=ja|publisher=オリジナルアニメーション「幻影ヲ駆ケル太陽」公式サイト|title=Cast|url=http://www.geneitaiyo.com/staffcast/cast.html|accessdate=2013-06-01}}</ref>）<!-- 2013-07-13 -->
+* [[蒼き鋼のアルペジオ -アルス・ノヴァ-]]（'''八月一日静'''<ref>{{Cite web2|df=ja|publisher=TVアニメ「蒼き鋼のアルペジオ -アルス・ノヴァ-」公式HP|title=STAFF & CAST|url=http://www.aokihagane.com/staff_cast.php|accessdate=2013-09-20}}</ref>）<!-- 2013-10-08 -->
+* [[ガリレイドンナ]]（カレン）<!-- 2013-11-07 -->
+| 2014年 |
+* [[ロボットガールズZ]]（ダブラスM2<ref>{{Cite web2|df=ja|url=https://www.toei-anim.co.jp/sp/robot-girlsz/robot-girlsz/character/index_1.php |title=キャラクター |work=ロボットガールズZ 公式サイト |accessdate=2022-03-22}}</ref>）<!-- 2014-01-04 -->
+* [[ノブナガ・ザ・フール]]（'''ヒミコ'''<ref>{{Cite web2|df=ja|publisher=TVアニメ『ノブナガ・ザ・フール』公式サイト|title=STAFF&CAST|url=http://www.nobunaga.tv/staff.html|accessdate=2013-12-08}}</ref>）<!-- 2014-01-06 -->
+* [[魔法戦争]]（'''相羽六'''<ref>{{Cite web2|df=ja|title=登場人物|website=TBSテレビ：魔法戦争 公式ホームページ|url=https://www.tbs.co.jp/anime/mahosen/chara/|accessdate=2022-10-08}}</ref>、マホコ）<!-- 2014-01-10 -->
+* [[ニセコイ]]（2014年 - 2015年、'''桐崎千棘'''<ref>{{Cite web2|df=ja|work=TVアニメ「ニセコイ」公式サイト|url=https://www.nisekoi.jp/1st/cast/|title=キャスト|accessdate=2014-12-21}}</ref><ref>{{Cite web2|df=ja|url=https://www.nisekoi.jp/cast/ |title=キャスト |work=TVアニメ「ニセコイ:」公式サイト |publisher=アニプレックス |accessdate=2014-12-21}}</ref> / '''幼い千棘'''） - 2シリーズ{{Ras|第1期（2014年）<!-- 2014-01-11 -->、第2期『ニセコイ:』（2015年）<!-- 2015-04-10 -->}}
+* [[ノラガミ]]（少女）<!-- 2014-02-02 -->
+* [[のうりん]]（中沢工）<!-- 2014-03-22 -->
+* [[犬神さんと猫山さん]]（'''猫山鈴'''<ref>{{Cite web2|df=ja|publisher=ナターシャ|work=コミックナタリー|title=「犬神さんと猫山さん」アニメ化、上坂すみれ＆東山奈央で|url=https://natalie.mu/comic/news/107981|accessdate=2014-01-17}}</ref>）<!-- 2014-04-11 -->
+* [[グラスリップ]]（深水陽菜<ref>{{Cite web2|df=ja|publisher=TVアニメ「グラスリップ」公式サイト|title=スタッフ&キャスト|url=http://glasslip.jp/staffcast/index.html|accessdate=2014-05-25}}</ref>）<!-- 2014-07-03 -->
+* [[さばげぶっ!]]（'''豪徳寺かよ'''<ref>{{Cite web2|df=ja|title=キャラクター|website=TVアニメ「さばげぶっ！」公式サイト|url=http://sabagebu.com/character.html|accessdate=2022-10-08}}</ref>）<!-- 2014-07-06 -->
+* [[魔法科高校の劣等生 (アニメ)|魔法科高校の劣等生]]（2014年 - 2024年、ピクシー） - 3シリーズ{{Ras|第1期（2014年）<!-- 2014-08-31 -->、第2期『来訪者編』（2020年）<!-- 2020-11-15 -->、第3期（2024年）<!-- 2024-05-17 -->}} 
+* [[クロスアンジュ 天使と竜の輪舞]]（2014年 - 2015年、シルヴィア・斑鳩・ミスルギ<ref>{{Cite web2|df=ja|publisher=クロスアンジュ 天使と竜の輪舞|title=STAFF/CAST|url=http://crossange.com/staff/|accessdate=2014-09-10}}</ref>、オリビエ）<!-- 2014-10-05 -->
+* [[愛・天地無用!]]（'''川流もも'''<ref>{{Cite web2|df=ja|url=https://www.vap.co.jp/ai-tenchi/cast_staff/index.html |title=CAST・STAFF |work=愛・天地無用！アニメ公式サイト |accessdate=2016-08-24}}</ref>）<!-- 2014-10-06 -->
+* [[ガールフレンド（仮）]]（相楽エミ<ref>{{Cite web2|df=ja|url=https://girlfriend-kari-anime.jp/cast-and-staff |title=キャスト＆スタッフ |work=「ガールフレンド（仮）」アニメ公式サイト |publisher=サイバーエージェント |accessdate=2014-10-03}}</ref>）<!-- 2014-10-13 -->
+* [[トリニティセブン]]（'''リーゼロッテ＝シャルロック'''<ref>{{Cite web2|df=ja|publisher=TVアニメ「トリニティセブン」公式サイト|title=staff&cast|url=https://trinity-7.com/cast.php|accessdate=2014-08-07}}</ref>）<!-- 2014-10-22 -->
+* [[棺姫のチャイカ AVENGING BATTLE]]（ウルスラ・タトラ12）<!-- 2014-10-30 -->
+* [[ヤマノススメ (アニメ)|ヤマノススメ シリーズ]]（2014年 - 2022年、'''黒崎ほのか'''<ref>{{Cite web2|df=ja|url=http://yamanosusume.com/staff/|title=スタッフ・キャスト|work=TVアニメ『ヤマノススメ サードシーズン』公式サイト|accessdate=2018-04-02}}</ref><ref>{{Cite web|和書|work=テレビアニメ『ヤマノススメ Next Summit』公式サイト|url=https://yamanosusume-ns.com/staffcast/|title=スタッフ&キャスト|accessdate=2022-10-08}}</ref>） - 3シリーズ{{Ras|第2期『セカンドシーズン』（2014年）<!-- 2014-12-03 -->、第3期『サードシーズン』（2018年）<!-- 2018-07-31 -->、第4期『Next Summit』（2022年）<!-- 2022-10-19 -->}}
+| 2015年 |
+* [[みりたり!]]（'''ルトガルニコフ中尉'''<ref>{{Cite web2|df=ja|publisher=マイナビニュース|title=アニメ「みりたり！」で東山奈央、佐倉綾音らが美少女軍人に|url=https://news.mynavi.jp/article/20141122-a003/|accessdate=2014-11-21|archiveurl=https://web.archive.org/web/20190923090749/https://news.mynavi.jp/article/20141122-a003/|archivedate=2019-09-23}}</ref>）<!-- 2015-01-07 -->
+* [[艦隊これくしょん -艦これ- (アニメ)|艦隊これくしょん -艦これ-]]<ref>{{Cite web2|df=ja|publisher=アニメ「艦隊これくしょん -艦これ-」公式サイト|title=スタッフ&キャスト|url=http://kancolle-anime.jp/staffcast/|accessdate=2015-01-27}}</ref>（金剛、比叡、榛名、霧島、高雄、愛宕）<!-- 2015-01-08 -->
+* [[アイドルマスター シンデレラガールズ (アニメ)|アイドルマスター シンデレラガールズ]]（川島瑞樹<ref>{{Cite web2|df=ja|url=https://imas-cinderella.com/character/#list |title=CHARACTER |work=TVアニメ「アイドルマスターシンデレラガールズ」オフィシャルサイト |publisher=アニプレックス |accessdate=2015-01-27}}</ref>） - 2シリーズ{{Ras|1stシーズン（2015年）<!-- 2015-01-10 -->、2ndシーズン（2015年）<!-- 2015-07-28 -->}}
+* [[Go!プリンセスプリキュア]]（2015年 - 2016年、'''パフ'''<ref>{{Cite web|和書|url=https://mantan-web.jp/article/20141226dog00m200022000c.html|title=Go！プリンセスプリキュア ： 主人公声優に「Gレコ」アイーダ姫の嶋村侑　浅野真澄や山村響も|work=まんたんウェブ|publisher=MANTAN|accessdate=2022-10-08}}</ref>、狩野さやか<ref name="animage201705">『アニメージュ』2017年5月号P.88。</ref>{{Efn2|name="precurenc"|ノンクレジット。}}）<!-- 2015-02-01 -->
+* [[GATE 自衛隊 彼の地にて、斯く戦えり]]（2015年 - 2016年、'''レレイ・ラ・レレーナ'''<ref>{{Cite web2|df=ja|url=http://gate-anime.com/staff-cast/ |title=スタッフ＆キャスト |work=TVアニメ「GATE 自衛隊 彼の地にて、斯く戦えり」公式サイト |accessdate=2016-08-24}}</ref>） - 2シリーズ{{Ras|第1クール（2015年）<!-- 2015-07-04 -->、第2クール（2016年）<!-- 2016-01-09 -->}}
+* [[空戦魔導士候補生の教官]]（'''レクティ・アイゼナッハ'''<ref>{{Cite web2|df=ja|url=http://ku-sen.jp/staffcast/ |title=STAFF & CAST |work=空戦魔導士候補生の教官 公式サイト |accessdate=2016-08-24}}</ref>）<!-- 2015-07-09 -->
+* [[学戦都市アスタリスク]]（2015年 - 2016年、'''クローディア・エンフィールド'''<ref>{{Cite web2|df=ja|url=https://asterisk-war.com/character/|title=CHARACTER|website=TVアニメ「学戦都市アスタリスク」公式サイト|accessdate=2022-10-08}}</ref>） - 2シリーズ{{Ras|1st SEASON（2015年）<!-- 2015-10-03 -->、2nd SEASON（2016年）<!-- 2016-04-02 -->}}
+* [[落第騎士の英雄譚]]（'''黒鉄珠雫'''<ref>{{Cite web2|df=ja|work=|url=http://www.ittoshura.com/|title=GA文庫10周年プロジェクト第3弾 TVアニメ「落第騎士の英雄譚」|accessdate=2015-07-26}}</ref>）<!-- 2015-10-10 -->
+| 2016年 |
+* [[ラクエンロジック]]（'''ヴィーナス'''<ref>{{Cite web2|df=ja|publisher=オリジナルアニメ『ラクエンロジック』公式サイト|url=http://luckandlogic-animation.com/staff-cast/|title=STAFF&CAST|accessdate=2015-11-17|archiveurl=https://web.archive.org/web/20151118000623/http://luckandlogic-animation.com/staff-cast/|archivedate=2015-11-18}}</ref>）<!-- 2016-01-09 -->
+* [[NARUTO -ナルト- 疾風伝]]（[[うちはサスケ]]〈乳児期・幼児期〉）<!-- 2016-03-03 -->
+* [[マクロスΔ]]（'''[[ワルキューレ (マクロスΔ)#レイナ・プラウラー|レイナ・プラウラー]]'''<ref>{{Cite web2|df=ja|work=MACROSS PORTAL SITE|url= http://macross.jp/delta/cast/|title=CAST|accessdate=2016-03-10|archiveurl=https://web.archive.org/web/20160310100714/http://macross.jp/delta/cast/|archivedate=2016-03-10}}</ref>、ミーヤ<ref>「ワルキューレ INTERVIEW」『リスアニ！ Vol.26.1』、エムオン・エンタテインメント、2016年、26頁。</ref>）<!-- 2016-04-03 -->
+* [[少年アシベ GO! GO! ゴマちゃん]]（2016年 - 2019年、'''ゴマちゃん'''<ref>{{Cite web2|df=ja|publisher=ナターシャ|work=コミックナタリー|url=https://natalie.mu/comic/news/180340|title=アニメ「少年アシベ」アシベは河村梨恵、ゴマちゃんに東山奈央!コミカライズも|date=2016-03-18|accessdate=2016-03-18}}</ref>、'''阿南スガオ'''、ナレーション） - 4シリーズ{{Ras|第1期（2016年 - 2017年）<!-- 2016-04-05 -->、第2期（2017年 - 2018年）<!-- 2017-04-04 -->、第3期（2018年 - 2019年）<!-- 2018-04-03 -->、第4期（2019年）<!-- 2019-04-02 -->}}
+* [[ばくおん!!]]（'''鈴乃木凜'''<ref>{{Cite web2|df=ja|publisher=アニメ『ばくおん!!』公式サイト|url=http://bakuon-anime.com/staffcast/index.html|title=STAFF &CAST|accessdate=2016-01-15}}</ref>）<!-- 2016-04-05 -->
+* [[田中くんはいつもけだるげ]]（早夜<ref>{{Cite news|work=TVアニメ「田中くんはいつもけだるげ」公式サイト|url=http://tanakakun.tv/staff/|title=STAFF & CAST|accessdate=2016-02-18}}</ref>）<!-- 2016-06-04 -->
+* [[レガリア The Three Sacred Stars]]（'''ケイ・ティエスト'''<ref>{{Cite web2|df=ja|work=「レガリア The Three Sacred Stars」アニメ公式サイト|title=Cast|url=http://regalia-anime.com/cast.html|accessdate=2016-04-22}}</ref>）<!-- 2016-07-07 -->
+* [[この美術部には問題がある!]]（'''伊万莉まりあ'''<ref>{{Cite web2|df=ja|publisher=TBSテレビ|work=この美術部には問題がある! 公式ホームページ|title=キャスト|url=https://www.tbs.co.jp/anime/konobi/|accessdate=2016-03-13}}</ref>）<!-- 2016-08-12 -->
+* [[魔法少女育成計画]]（2016年 - 、'''スノーホワイト''' / '''姫河小雪'''<ref>{{Cite web2|df=ja|url=https://mahoiku.jp/news/index00030000.html |title=キャスト公開いたしました！ |work=TVアニメ「魔法少女育成計画」公式サイト |accessdate=2016-07-21}}</ref><ref>{{Cite web|和書|url=https://natalie.mu/comic/news/603656|title=アニメ「魔法少女育成計画restart」に南條愛乃、ファイルーズあい、近藤玲奈ら|website=コミックナタリー|publisher=ナターシャ|date=2024-12-13|accessdate=2024-12-13}}</ref>） - 2シリーズ{{Ras|第1期（2016年）<!-- 2016-10-02 -->、第2期『restart』（時期未定）}}
+* [[響け!ユーフォニアム (アニメ)|響け!ユーフォニアム]]（2016年 - 2024年、'''傘木希美'''<ref>{{Cite web2|df=ja|url=http://anime-eupho.com/staffcast/ |title=STAFF/CAST |work=TVアニメ『響け！ユーフォニアム2』公式サイト |accessdate=2016-08-24 |archiveurl=https://web.archive.org/web/20150315003144/http://anime-eupho.com/staffcast/ |archivedate=2015年3月15日 <!--|deadlinkdate=2017年10月--> }}</ref>） - 2シリーズ{{Ras|第2期『2』（2016年）<!-- 2016-10-06 -->、第3期『3』（2024年）<!-- 2024-06-16 -->}}
+* [[ろんぐらいだぁす!]]（'''倉田亜美'''<ref>{{Cite web2|df=ja|url=https://natalie.mu/comic/news/165152|title=「ろんぐらいだぁす！」TVアニメ化、2016年秋より30分枠で放送決定|work=コミックナタリー|publisher=ナターシャ|date=2015-11-06|accessdate=2015-11-06}}</ref>）<!-- 2016-10-08 -->
+* [[終末のイゼッタ]]（ロッテ<ref>{{Cite web2|df=ja|publisher=オリジナルTVアニメ「終末のイゼッタ」公式サイト|title=STAFF / CAST|url=http://izetta.jp/staff.html|accessdate=2016-09-02}}</ref>）<!-- 2016-10-22 -->
+| 2017年 |
+* [[アイドル事変]]（光武リイナ<ref>{{Cite news|publisher=アニメイト|work=アニメイトタイムズ|url=https://www.animatetimes.com/news/details.php?id=1486099503|title=TVアニメ『アイドル事変』第6話より先行カット到着！幽霊たちとゴーストバスターズな展開に……!?|date=2017-02-06|accessdate=2017-02-06}}</ref>）<!-- 2017-02-12 -->
+* [[GRANBLUE FANTASY The Animation]]（2017年 - 2019年、'''ルリア'''<ref>{{Cite web2|df=ja|url=https://anime.granbluefantasy.jp/1st/staffcast/|title=STAFF/CAST|work=グランブルーファンタジー ジ・アニメーション 公式サイト|accessdate=2019-08-03}}</ref><ref>{{Cite web2|df=ja|url=https://anime.granbluefantasy.jp/staffcast/|title=STAFF/CAST|work=GRANBLUE FANTASY The Animation Season2公式サイト|accessdate=2019-09-13}}</ref>） - 2シリーズ{{Ras|第1期（2017年）<!-- 2017-04-02 -->、第2期『Season 2』（2019年）<!-- 2019-10-05 -->}}
+* [[月がきれい]]（園田涼子<ref>{{Cite web2|df=ja|work=|url=https://tsukigakirei.jp/|title=月がきれい ☾|accessdate=2017-02-24}}</ref>）<!-- 2017-04-07 -->
+* [[デジモンユニバース アプリモンスターズ]]（ソウタ）<!-- 2017-04-22 -->
+* [[アイドルマスター シンデレラガールズ劇場]]（2017年 - 2019年、'''川島瑞樹'''<ref name="cingeki">{{Cite web2|df=ja|url=http://cingeki-anime.com/staffcast/ |title=スタッフ＆キャスト |work=TVアニメ「シンデレラガールズ劇場」公式サイト |publisher= |accessdate=2019-05-01}}</ref>） - 4シリーズ{{Ras|第1期（2017年）<!-- 2017-05-30 -->、第2期（2017年）<!-- 2017-12-19 -->、第3期（2018年）<!-- 2018-07-31 -->、第4期『CLIMAX SEASON』（2019年）<!-- 2019-05-07 -->}}
+* [[バトルガール ハイスクール]]（'''天野望'''<ref>{{Cite web2|df=ja|work=バトルガール ハイスクール｜株式会社コロプラ【スマートフォンゲーム＆位置ゲー】公式サイト|url=https://colopl.co.jp/battlegirl-hs/anime/|title=STAFF&CAST|accessdate=2017-03-22}}</ref>）<!-- 2017-07-03 -->
+* [[ようこそ実力至上主義の教室へ (テレビアニメ)|ようこそ実力至上主義の教室へ]]（2017年 - 2026年{{ep|5|s=第4期}}<!-- 2026-04-08 -->、'''[[一之瀬帆波]]'''<ref>『メガミマガジン 2017年9月号』 学研プラス、2017年7月29日発売、52頁、{{ASIN|B071FMWJ94}}</ref><ref>『メガミマガジン 2022年8月号』 学研プラス、2022年6月30日発売、73頁、{{ASIN|B0B45LGNQ3}}</ref><ref>『メガミマガジン 2024年3月号』 Gakken、2024年1月30日発売、82頁、{{ASIN|B0CSQG73B5}}</ref>{{ep|1|s=第1期}}） - 4シリーズ{{Ras|第1期（2017年）<!-- 2017-07-12 -->、第2期『2nd Season』（2022年）<!-- 2022-07-04 -->、第3期『3rd Season』（2024年）<!-- 2024-01-03 -->、第4期『4th Season 2年生編1学期』（2026年）<!-- 2026-04-08 #5 -->}}
+* [[異世界食堂]]（2017年 - 2021年、イリス、ヒルダ<ref>{{Cite web2|df=ja|url=https://isekai-shokudo2.com/staffcast.html|title=STAFF/CAST|work=TVアニメ「異世界食堂２」公式サイト|accessdate=2021-08-14}}</ref>） - 2シリーズ{{Ras|第1期（2017年）<!-- 2017-09-12 -->、第2期『2』（2021年）<!-- 2021-10-02 -->}}
+* [[18if]]（神崎ユリナ<ref>{{Cite web2|df=ja|url=http://18if.jp/caststaff/|title=CAST/STAFF|work=TVアニメ「18if」公式サイト|accessdate=2017-06-20}}</ref>）<!-- 2017-09-15 -->
+* [[BORUTO-ボルト- NARUTO NEXT GENERATIONS]]（2017年 - 2022年、蛇苺、うちはサスケ〈幼少期〉）<!-- 2017-10-11 -->
+| 2018年 |
+* [[ゆるキャン△ (アニメ)|ゆるキャン△]]（2018年 - 2027年、'''志摩リン'''<ref>{{Cite web2|df=ja|url=https://yurucamp.jp/first/caststaff/|title=Cast & Staff|work=TVアニメ「ゆるキャン△」公式サイト|accessdate=2020-03-23}}</ref><ref>{{Cite web2|df=ja|url=https://yurucamp.jp/second/staffcast/|title=Staff & Cast|work=TVアニメ 第2期「ゆるキャン△」公式サイト|accessdate=2020-03-23}}</ref><ref>{{Cite web2|df=ja|url=https://yurucamp.jp/third/staffcast/|title=Staff & Cast|work=TVアニメ「ゆるキャン△ SEASON3」公式サイト|accessdate=2023-07-09}}</ref><ref>{{Cite web2|df=ja|url=https://yurucamp.jp/fourth/staffcast/|title=Staff & Cast|work=TVアニメ「ゆるキャン△ SEASON4」公式サイト|accessdate=2026-03-01}}</ref>） - 4シリーズ{{Ras|第1期（2018年）<!-- 2018-01-04 -->、第2期『SEASON2』（2021年）<!-- 2021-01-07 -->、第3期『SEASON3』（2024年）<!-- 2024-04-04 -->、第4期『SEASON4』（2027年）<!-- 2027 -->}}
+* [[BEATLESS]]（'''レイシア'''<ref>{{Cite web2|df=ja|work=TVアニメ「BEATLESS ビートレス」公式サイト|title=CAST&STAFF|url=http://beatless-anime.jp/sp/caststaff/|accessdate=2022-10-08}}</ref>） - 2シリーズ{{Ras|『BEATLESS』<!-- 2018-01-13 -->、『BEATLESS Final Stage』}}
+* [[オーバーロードII]]（ヴィクティム）<!-- 2018-01-30 -->
+* [[かくりよの宿飯]]（2018年 - 2025年{{ep|1|s=第2期}}<!-- 2025-10-02 -->、'''津場木葵'''<ref>{{Cite web|和書|url=https://kakuriyo-anime.com/1st/cast/|title=スタッフ・キャスト|website=TVアニメ『かくりよの宿飯（やどめし）』公式サイト|accessdate=2025-08-08}}</ref><ref>{{Cite web|和書|url=https://kakuriyo-anime.com/staff-cast/|title=制作・出演|website=TVアニメ『かくりよの宿飯 弐』公式サイト|accessdate=2025-08-08}}</ref>{{ep|1|s=第1期}}） - 2シリーズ{{Ras|第1期（2018年）<!-- 2018-04-02 -->、第2期『弐』（2025年）<!-- 2025-10-02 #1 -->}}
+* [[重神機パンドーラ]]（'''クロエ・ラウ'''<ref>{{Cite web2|df=ja|url=http://www.project-pandora.jp/cast/|title=STAFF&CAST|work=TVアニメ「重神機パンドーラ」公式サイト|accessdate=2017-10-17|archiveurl=https://web.archive.org/web/20171017204115/http://www.project-pandora.jp/sp/cast/|archivedate=2017-10-17}}</ref>）<!-- 2018-04-04 -->
+* [[デビルズライン]]（天城那々子<ref>{{Cite web2|df=ja|work= - モーニング公式サイト - モアイ|url=http://morning.moae.jp/news/4104|title=【禁断のアニメ化速報】 アニメ『デビルズライン』メインスタッフ＆追加キャストが解禁！ TVアニメ放送開始は2018年4月!!!|date=2017-12-20|accessdate=2017-12-20}}</ref>）<!-- 2018-04-21 -->
+* [[あかねさす少女]]（'''みあ シルバーストーン'''<ref>[https://web.archive.org/web/20180809060640/http://akanesasushojo.com/chara/mia.html "Character"]. ''テレビアニメ ＆ スマートフォンゲーム『あかねさす少女』公式サイト''. 2018年8月9日時点のhttp://akanesasushojo.com/chara/mia.html{{リンク切れ|date=2022年10月|archiveurl=1}}よりアーカイブ。2018年8月9日閲覧。</ref>）<!-- 2018-10-01 -->
+* [[色づく世界の明日から]]（'''川合胡桃'''<ref>{{Cite web2|df=ja|url=https://infinitedayo.jp/archive/iroduku/character/|title=CHARACTER|work=色づく世界の明日から 公式サイト|accessdate=2018-10-06}}</ref>）<!-- 2018-10-06 -->
+* [[おとなの防具屋さん]]（2018年 - 2021年、'''リリエッタ'''<ref>{{Cite web2|df=ja|url=https://ganma.jp/g/anime/otonabougu/cands.html|title=CAST&STAFF|work=GANMA!アニメ「おとなの防具屋さん」|accessdate=2018-10-09}}</ref><ref>{{Cite web2|df=ja|publisher=ナターシャ|work=コミックナタリー|url=https://natalie.mu/comic/news/395984|title=「おとなの防具屋さん」アニメ第2期制作決定！主要キャストは続投、CF企画も始動|date=2020-09-11|accessdate=2020-09-11}}</ref> / ロリエッタ） - 2シリーズ{{Ras|第1期（2018年）<!-- 2018-10-09 -->、第2期『II』（2021年）<!-- 2021-01-02 -->}}
+* [[青春ブタ野郎シリーズ (アニメ)|青春ブタ野郎シリーズ]]（2018年 - 2025年{{ep|1|s=サンタクロース}}<!-- 2025-07-05 -->、'''古賀朋絵'''<ref>{{Cite web2|df=ja|url=https://ao-buta.com/staffcast/|title=Staff·Cast|work=TVアニメ「青春ブタ野郎はバニーガール先輩の夢を見ない」公式サイト|accessdate=2018-10-28}}</ref>{{ep|2|s=バニーガール先輩}}） - 2シリーズ{{Ras|『[[青春ブタ野郎はバニーガール先輩の夢を見ない (アニメ)|バニーガール先輩]]』（2018年）<!-- 2018-10-11 -->、『[[青春ブタ野郎はサンタクロースの夢を見ない (アニメ)|サンタクロース]]』<ref>{{Cite web |和書 |url=https://natalie.mu/comic/news/611936 |title=「青ブタ」大学生編　少し成長した古賀朋絵、双葉理央、豊浜のどか、梓川花楓の姿公開 |website=コミックナタリー |publisher=ナターシャ |date=2025-02-16 |accessdate=2025-02-16}}</ref>（2025年）<!-- 2025-07-05 #1 -->}}
+* [[おじゃる丸]]（少女）<!-- 2018-10-12 -->
+* [[ゴブリンスレイヤー]]（2018年 - 2023年、'''妖精弓手'''<ref>{{Cite web2|df=ja|url=http://www.goblinslayer.jp/1st/caststaff/|title=キャスト&スタッフ|work=TVアニメ「ゴブリンスレイヤー」公式サイト|accessdate=2018-08-09}}</ref><ref>{{Cite web2|df=ja|url=https://goblinslayer.jp/2nd/#StaffCast|title=Staff & Cast|website=TVアニメ「ゴブリンスレイヤー」公式サイト|accessdate=2023-01-05}}</ref>） - 2シリーズ{{Ras|第1期（2018年）<!-- 2018-10-14 -->、第2期『II』（2023年）<!-- 2023-10-06 -->}}
+* [[叛逆性ミリオンアーサー]]（2018年 - 2019年、クーピー<ref>{{Cite web2|df=ja|work=TVアニメ「叛逆性ミリオンアーサー」公式サイト|title=STAFF&CAST|url=https://web.archive.org/web/20180726072006/http://hangyakusei-anime.com/staffcast/|accessdate=2018-07-26}}</ref>） - 2シリーズ{{Ras|第1シーズン（2018年）<!-- 2018-10-25 -->、第2シーズン（2019年）<!-- 2019-04-04 -->}}
+* [[ラディアン]]（2018年 - 2019年、ミス・メルバ<ref>{{Cite web2|df=ja|url=https://web.archive.org/web/20180831072114/https://www6.nhk.or.jp/anime/topics/detail.html?i=5129|title=アニメ「ラディアン」初回放送日＆メインビジュアル＆キャスト第２弾発表！|website=NHK アニメワールド|publisher=[[日本放送協会]]|date=2018-08-31|accessdate=2018-08-31}}</ref>） - 2シリーズ{{Ras|第1シリーズ（2018年 - 2019年）<!-- 2018-11-10 -->、第2シリーズ（2019年）<!-- 2019-10-16 -->}}
+| 2019年 |
+* [[荒野のコトブキ飛行隊]]（リリコ<ref>{{Cite web2|df=ja|url=https://kotobuki-anime.com/cast/|title=キャスト|work= TVアニメ『荒野のコトブキ飛行隊』公式サイト|accessdate=2018-11-21}}</ref>）<!-- 2019-01-13 -->
+* [[ポプテピピック TVスペシャル]] 玄武ver.（'''ピピ美'''〈第13話Aパート〉<ref>{{Cite web2|df=ja|url=https://www.oricon.co.jp/news/2132746/full/|title=アニメ『ポプテピピック』放送媒体毎にキャスト変更 前代未聞のできごとにネット上騒然|publisher=[[ORICON NEWS]]|date=2019-04-01|accessdate=2019-04-01}}</ref><ref>{{Cite web2|df=ja|url=http://hoshiiro.jp/news/|title=「ポプテピピック TVスペシャル」Blu-ray＆DVD収録内容詳細決定！|publisher=TVアニメ「ポプテピピック」公式サイト|date=2019-04-02|accessdate=2019-04-02}}</ref>）<!-- 2019-04-01 -->
+* [[キャロル&チューズデイ]]（ケイティ・キムラ<ref>{{Cite web2|df=ja|title=CHARACTER|work= TVアニメ「キャロル&チューズデイ」公式サイト|url=http://caroleandtuesday.com/chara/katykimura.html|accessdate=2019-05-29}}</ref>）<!-- 2019-05-30 -->
+* [[名探偵コナン (アニメ)|名探偵コナン]]（伊部遥{{ep|944}}）<!-- 2019-06-22 -->
+* [[胡蝶綺 〜若き信長〜]]（お市<ref>{{Cite web2|df=ja|title=CHARACTER |work=TVアニメ「胡蝶綺 〜若き信長〜」公式サイト|url=http://wakanobu.com/character_09.html|accessdate=2019-04-26}}</ref>、織田信勝〈勘十郎〉）<!-- 2019-07-08 -->
+* [[しまじろうのわお!]]（うるる）<!-- 2019-07-13 -->
+* [[ダンベル何キロ持てる?]]（'''ジーナ・ボイド'''<ref>{{Cite web2|df=ja|url=https://dumbbell-anime.jp/staffcast/|title=STAFF&CAST|work=TVアニメ「ダンベル何キロ持てる？」公式サイト|accessdate=2019-06-29}}</ref>）<!-- 2019-08-07 -->
+* [[Z/X Code reunion]]（獅子島・L・七尾<ref>{{Cite web2|df=ja|url=https://www.zxtcg.com/reunion/staffcast/#Cast|title=キャスト-スタッフ|work=Z-X Code reunion(ゼクス コード リユニオン)|accessdate=2019-10-05}}</ref>）<!-- 2019-10-15 -->
+* [[歌舞伎町シャーロック]]（2019年 - 2020年、'''メアリ・モーンスタン'''<ref>{{Cite web2|df=ja|url=http://pipecat-kabukicho.jp/staff.html|title=STAFF&CAST|work=オリジナルTVアニメ「歌舞伎町シャーロック」公式サイト|accessdate=2018-12-25}}</ref>）<!-- 2019-10-19 -->
+* [[魔入りました!入間くん]]（2019年 - 2026年{{ep|1|s=第4シリーズ}}<!-- 2026-04-04 -->、'''クロケル・ケロリ'''{{ep|4|s=第1シリーズ}} / '''くろむ'''<ref>{{Cite web2|df=ja|url=https://web.archive.org/web/20191202070628/https://www6.nhk.or.jp/anime/topics/detail.html?i=5528|title=「魔入りました！入間くん」くろむ役は東山奈央さん!!|work=NHKアニメワールド|publisher=[[日本放送協会]]|date=2019-08-26|accessdate=2019-08-26}}</ref>{{ep|21|s=第1シリーズ}}） - 4シリーズ{{Ras|第1シリーズ（2019年 - 2020年）<!-- 2019-10-26 -->、第2シリーズ（2021年）、第3シリーズ（2022年 - 2023年）、第4シリーズ（2026年）<!-- 2026-04-04 #1 -->}}
+* [[この音とまれ!]]（堂島晶<ref>{{Cite web2|df=ja|title=キャスト・スタッフ|work=TVアニメ『この音とまれ！』公式サイト|url=http://www.konooto-anime.jp/caststaff/|accessdate=2019-09-04}}</ref>）<!-- 2019-10-27 -->
+* [[どるふろ]]（2019年 - 2020年、カリーナ） - 2シリーズ{{Ras|第1期『-癒し篇-』（2019年）<!-- 2019-11-09 -->、第2期『-狂乱篇-』（2020年）}}
+* [[俺を好きなのはお前だけかよ]]（'''ツバキ'''〈'''洋木茅春'''〉<ref>{{Cite web2|df=ja|work=TVアニメ「俺を好きなのはお前だけかよ」|url=https://ore.ski/tv/staffcast/|title=STAFFCAST|accessdate=2019-08-26}}</ref>）<!-- 2019-11-14-->
+| 2020年 |
+* [[恋する小惑星]]（'''桜井美景'''<ref>{{Cite web2|df=ja|url=http://koiastv.com/staff.html|title=Staff&Cast|work=TVアニメ「恋する小惑星」公式サイト|accessdate=2019-10-28}}</ref>）<!-- 2020-01-03 -->
+* [[へやキャン△ (アニメ)|へやキャン△]]（'''志摩リン'''<ref>{{Cite web2|df=ja|url=https://yurucamp.jp/heyacamp/staffcast/|title=キャスト＆スタッフ|work=TVアニメ「へやキャン△」公式サイト|accessdate=2019-11-15}}</ref>）<!-- 2020-01-20 -->
+* [[＜Infinite Dendrogram＞-インフィニット・デンドログラム-]]（迅羽<ref>{{Cite web2|df=ja|url=https://dendro-anime.jp/staffcast/|title=STAFF/CAST|work=TVアニメ「インフィニット・デンドログラム」公式サイト|accessdate=2019-10-18}}</ref>）<!-- 2020-02-27 -->
+* [[グレイプニル (漫画)|グレイプニル]]（'''青木紅愛'''<ref>{{Cite web2|df=ja|url=http://gleipnir-anime.com/staffcast/|title=STAFF＆CAST|work=TVアニメ「グレイプニル」公式サイト|accessdate=2020-03-31}}</ref>）<!-- 2020-04-05 -->
+* [[おしりたんてい]]（ケロリーヌ<ref>{{Cite web|和書|url=https://oshiri-tantei.com/character/other.html?char=char-other16|title=キャラクター|work=おしりたんてい アニメ公式ホームページ|accessdate=2022-06-04}}</ref>）<!-- 2020-05-09 -->
+* [[彼女、お借りします]]（2020年 - 2026年{{ep|49}}<!-- 2026-04-11 -->、'''更科瑠夏'''<ref>{{Cite web|url=https://kanokari-official.com/staffcast|title=STAFF / CAST|work=「彼女、お借りします」TVアニメ公式|accessdate=2022-04-14|archiveurl=https://web.archive.org/web/20200706100058/https://kanokari-official.com/staffcast/|archivedate=2020-07-06}}</ref><ref>{{Cite video|url=https://www.youtube.com/watch?v=EwbHVNLPM4g|title=TVアニメ『彼女、お借りします』第2期ティザーPV 【2022年7月放送！】|work=[[YouTube]]|date=2022-01-14|accessdate=2022-01-14|time=0:25}}</ref><ref>{{Cite news|url=https://natalie.mu/comic/news/515389|title=「彼女、お借りします」八重森みに役は芹澤優、CV聞けるティザーPV公開|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-03-05|accessdate=2023-03-05}}</ref><ref>{{Cite web2|df=ja|url=https://kanokari-official.com/|title=STAFF&CAST|work=TVアニメ『彼女、お借りします』公式サイト|accessdate=2025-01-15}}</ref>{{ep|6}}） - 5シリーズ{{Ras|第1期（2020年）<!-- 2020-07-11 -->、第2期（2022年）<!-- 2022-07-02 -->、第3期（2023年）<!-- 2023-07-08 -->、第4期（2025年）<!-- 2025-07-05 #37 -->、第5期（2026年）<!-- 2026-04-11 #49 -->}}
+* [[Re:ゼロから始める異世界生活 (アニメ)|Re:ゼロから始める異世界生活]]（ダフネ<ref>{{Cite web2|df=ja|work=TVアニメ『Re:ゼロから始める異世界生活』オフィシャルサイト|url=http://re-zero-anime.jp/tv/staffcast/#Cast|title=STAFF&CAST|accessdate=2020-09-11}}</ref>）<!-- 2020-09-02 -->
+* [[ぐらぶるっ!]]（'''ルリア'''<ref>{{Cite web2|df=ja|url=https://guraburu.granbluefantasy.jp/staffcast/|title=STAFF/CAST|work=アニメ「ぐらぶるっ！」公式サイト|publisher=Cygames|accessdate=2020-09-01}}</ref>）<!-- 2020-10-08 -->
+* [[憂国のモリアーティ]]（ルイス・ジェームズ・モリアーティ〈幼少期・少年〉<ref>{{Cite web2|df=ja|url=https://moriarty-anime.com/news/?p=487|title=モリアーティ3兄弟幼少期設定＆キャスト公開|work=TVアニメ「憂国のモリアーティ」公式サイト|date=2020-10-02|accessdate=2020-10-16}}</ref>）<!-- 2020-10-18 -->
+| 2021年 |
+* [[蜘蛛ですが、なにか?]]（'''カルナティア・セリ・アナバルド''' / '''大島叶多'''<ref>{{Cite web2|df=ja|url=https://kumo-anime.com/character.html|title=CHARACTER|work=TVアニメ「蜘蛛ですが、なにか？」公式サイト|accessdate=2021-01-08}}</ref>）<!-- 2021-01-08 -->
+* [[新幹線変形ロボ シンカリオンZ]]（2021年 - 2022年、'''安城ナガラ'''<ref>{{Cite web2|df=ja|url=https://www.shinkalion.com/news/5071/|title=【追加キャラクター情報解禁】Ｎ７００Ｓのぞみ・Ｎ７００Ｓヒダ・安城シマカゼ・安城ナガラ|work=新幹線変形ロボ シンカリオン Z|accessdate=2021-05-31}}</ref>）<!-- 2021-06-18 -->
+* [[ピーチボーイリバーサイド]]（'''ミコト'''<ref>{{Cite web2|df=ja|url=https://peachboyriverside.com/staffcast/|title=STAFF&CAST|work=TVアニメ「ピーチボーイリバーサイド」公式サイト|accessdate=2021-03-06}}</ref>）<!-- 2021-07-01 -->
+* [[ぼくたちのリメイク]]（'''河瀬川英子'''<ref>{{Cite web2|df=ja|url=https://bokurema.com/character/eiko/|title=キャラクター（河瀬川英子）|work=TVアニメ「ぼくたちのリメイク」公式サイト|accessdate=2021-02-26}}</ref><ref>{{Cite news|publisher=[[アニメイト]]|newspaper=[[アニメイトタイムズ]]|url=https://www.animatetimes.com/news/details.php?id=1614328723|title=アニメ『ぼくたちのリメイク』に声優・伊藤昌弘さん、古賀葵さん、愛美さん、東山奈央さん、石谷春貴さんが出演決定！ キービジュアル・スタッフ・コメントが解禁！|date=2021-02-26|accessdate=2021-10-29}}</ref>）<!-- 2021-07-03 -->
+* [[精霊幻想記]]（2021年 - 2024年<!-- 2024-10-15 #2 -->、'''リーゼロッテ＝クレティア'''<ref>{{Cite web2|df=ja|url=http://seireigensouki.com/staffcast/|title=STAFF / CAST|work=TVアニメ『精霊幻想記』公式サイト|accessdate=2021-04-24}}</ref>） - 2シリーズ{{Ras|第1期（2021年）<!-- 2021-07-27 -->、第2期『2』（2024年）<!-- 2024-10-15 #2 -->}}
+* [[白い砂のアクアトープ]]（米倉マリナ<ref>{{Cite web2|df=ja|url=https://aquatope-anime.com/staffcast/|title=Staff&Cast|website=TVアニメ『白い砂のアクアトープ』|accessdate=2021-09-24}}</ref>）<!-- 2021-10-01 -->
+* [[真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました]]（2021年 - 2024年、メグリア<ref>{{Cite web2|df=ja|url=https://shinnonakama.com/#character|title=Character|work=TVアニメ「真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました」公式サイト|accessdate=2021-06-22}}</ref>） - 2シリーズ{{Ras|第1期（2021年）<!-- 2021-10-06 -->、第2期『2nd』（2024年）<!-- 2024-01-21 -->}}
+| 2022年 |
+* [[鬼滅の刃 (アニメ)|鬼滅の刃]]（2022年 - 2024年、須磨<ref>{{Cite web2|df=ja|url=https://www.oricon.co.jp/news/2216524/full/|title=『鬼滅の刃』2期・遊郭編の追加キャスト発表 宇髄天元の嫁3人は種崎敦美・石上静香・東山奈央【コメント全文あり】|work=ORICON NEWS|date=2021-12-06|accessdate=2021-12-06}}</ref>） - 2シリーズ{{Ras|第2期『遊郭編』（2022年）<!-- 2022-01-02 -->、第4期『柱稽古編』（2024年）<!-- 2024-05-12 -->}}
+* [[スローループ]]（吉永虹<ref>{{Cite web2|df=ja|url=https://natalie.mu/comic/news/457291|title=アニメ「スローループ」東山奈央と安野希世乃が出演、Webラジオや放送直前特番も決定|work=コミックナタリー|publisher=ナターシャ|date=2021-12-11|accessdate=2021-12-11}}</ref>）<!-- 2022-01-14 -->
+* [[ドールズフロントライン]]（カリーナ<ref>{{Cite web2|df=ja|url=https://www.youtube.com/watch?v=uTnmApB8h0Q|title=アニメ『ドールズフロントライン』PV 第2弾|website=[[YouTube]]|accessdate=2021-10-23}}</ref>）<!-- 2022-01-15 -->
+* [[天才王子の赤字国家再生術]]（'''ロウェルミナ・アースワルド'''〈'''ロワ'''〉<ref>{{Cite web2|df=ja|url=https://tensaiouji-anime.com/news/index00090000.html|title=ロウェルミナのキャスト情報解禁！|work=TVアニメ『天才王子の赤字国家再生術』公式サイト|date=2021-03-19|accessdate=2021-03-19}}</ref>）<!-- 2022-01-25 -->
+* [[プリンセスコネクト!Re:Dive Season 2]]（ヒヨリ）<!-- 2022-02-22 -->
+* [[ヒロインたるもの!〜嫌われヒロインと内緒のお仕事〜]]（高見沢アリサ<ref>{{Cite web2|df=ja|url=https://natalie.mu/comic/news/459658|title=LIP×LIPのマネージャー描く「ヒロインたるもの！」に榎木淳弥ら、KVと新PV公開|work=コミックナタリー|publisher=ナターシャ|date=2021-12-27|accessdate=2021-12-27}}</ref>）<!-- 2022-04-07 -->
+* [[ドラえもん (2005年のテレビアニメ)|ドラえもん（テレビ朝日版第2期）]]（[[フー子]]<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/474423|title=「ドラえもん」台風のフー子役で東山奈央が出演「約10分の物語とは思えない感動」|website=[[コミックナタリー]]|publisher=ナターシャ|date=2022-04-19|accessdate=2022-04-19}}</ref>）<!-- 2022-04-23 -->
+* [[カッコウの許嫁]]（2022年 - 2025年{{ep|1|s=Season2}}<!-- 2025-07-08 -->、'''瀬川ひろ'''<ref>{{Cite news2|url=https://mantan-web.jp/article/20210914dog00m200058000c.html|title=カッコウの許嫁：東山奈央が瀬川ひろに　PV、ビジュアルも　テレビアニメ追加キャスト|newspaper=まんたんウェブ|publisher=MANTAN|date=2021-09-15|accessdate=2021-09-15}}</ref>{{ep|1|s=Season1}}） - 2シリーズ{{Ras|Season1（2022年）<!-- 2022-04-24 -->、Season2（2025年）<!-- 2025-07-08 #1 -->}}
+* [[ラブライブ!虹ヶ咲学園スクールアイドル同好会]]<!-- 2022-06-25（役名表記なし） -->
+* [[神クズ☆アイドル]]（'''最上アサヒ'''<ref>{{Cite web2|df=ja|url=https://kami-kuzu.com/|title=TVアニメ「神クズ☆アイドル公式」公式サイト|accessdate=2021-11-26}}</ref>）<!-- 2022-07-02 -->
+* [[ハナビちゃんは遅れがち]]（'''堀江タコスロ墨'''<ref>{{Cite web|和書|url= https://hanabichan.com/cast-staff/|title= キャスト・スタッフ|work= TVアニメ 「ハナビちゃんは遅れがち」公式サイト|accessdate= 2022-04-07}}</ref>）<!-- 2022-08-28 -->
+* [[「艦これ」いつかあの海で]]<ref>{{Cite web|url=https://kancolle-itsuumi.com/#staffcast|title=STAFF&CAST|work=アニメ『「艦これ」いつかあの海で』公式サイト|accessdate=2022-03-26}}</ref>（2022年 - 2023年、ナレーション、金剛、榛名）<!-- 2022-11-04 -->
+| 2023年 |
+* [[スパイ教室]]（'''ジビア'''<ref>{{Cite web|url=https://spyroom-anime.com/staffcast/|title=STAFF/CAST|website=TVアニメ「スパイ教室」公式サイト|accessdate=2022-07-15}}</ref>） - 2シリーズ{{Ras|1st season（2023年）<!-- 2023-01-05 -->、2nd season（2023年）<!-- 2023-07-13 -->}}
+* [[便利屋斎藤さん、異世界に行く]]（'''ラファンパン'''<ref>{{Cite web|url=https://saitou-anime.com/#staffcast|title=STAFF & CAST|website=TVアニメ『便利屋斎藤さん、異世界に行く』公式サイト|accessdate=2022-07-22}}</ref>）<!-- 2023-01-08 -->
+* [[ヴィンランド・サガ]]（ロタ）<!-- 2023-01-10 -->
+* [[異世界でチート能力を手にした俺は、現実世界をも無双する〜レベルアップは人生を変えた〜]]（2023年 - 2026年{{ep|f=TVSP}}<!-- 2026-03-31 -->、'''ナイト'''<ref>{{Cite news|url=https://natalie.mu/comic/news/513529|title=アニメ「いせれべ」は4月6日から！加隈亜衣・日高里菜ら参加、メインPVも公開|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-02-19|accessdate=2023-02-19}}</ref>{{ep|5|s=第1期}}） - 1シリーズ + 特別編{{Ras|第1期（2023年）<!-- 2023-05-05 -->、テレビスペシャル（2026年3月31日）}}
+* [[アイドルマスター シンデレラガールズ U149]]（川島瑞樹）<!-- 2023-06-15 -->
+* [[BLEACH 千年血戦篇]]（2023年 - 2024年<!-- 2024-11-09 #32 -->、ジゼル・ジュエル<ref>{{Cite news|url=https://natalie.mu/comic/news/526347|title=「BLEACH 千年血戦篇」第2クールは7月8日開幕、追加キャストに悠木碧や小山剛志|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-05-28|accessdate=2023-05-28}}</ref>） - 2シリーズ{{Ras|第2クール『-訣別譚-』（2023年）<!-- 2023-07-08 -->、第3クール『-相剋譚-』（2024年）<!-- 2024-11-09 #32 -->}}
+* [[英雄教室]]（'''ソフィ'''<ref>{{Cite web|title=CHARACTER|url=https://eiyukyoushitsu-anime.com/#CHARACTER|website=TVアニメ『英雄教室』公式サイト|accessdate=2022-12-17}}</ref>）<!-- 2023-07-09 -->
+* [[うちの会社の小さい先輩の話]]（鮎川星〈配信者〉）<!-- 2023-08-06 -->
+* [[SHY (漫画)|SHY]]（2023年 - 2024年、'''小石川惟子'''<ref>{{Cite web|和書|url=https://shy-anime.com/staffcast|title=STAFF&CAST|website=TVアニメ「SHY」公式サイト|accessdate=2024-03-14}}</ref>） - 2シリーズ{{Ras|第1期（2023年）<!-- 2023-10-03 -->、第2期『東京奪還編』（2024年）<!-- 2024-07-02 -->}}
+* [[ポーション頼みで生き延びます!]]（'''セレスティーヌ'''<ref>{{Cite news2|url=https://mantan-web.jp/article/20230628dog00m200015000c.html|title=ポーション頼みで生き延びます！：テレビアニメが10月スタート　東山奈央がセレスティーヌに　harmoeがED担当|newspaper=まんたんウェブ|publisher=MANTAN|date=2023-06-28|accessdate=2023-06-28}}</ref>）<!-- 2023-10-08 -->
+* [[ティアムーン帝国物語〜断頭台から始まる、姫の転生逆転ストーリー〜]]（'''ラフィーナ・オルカ・ヴェールガ'''<ref>{{Cite news|url=https://mantan-web.jp/article/20230816dog00m200024000c.html|title=ティアムーン帝国物語：テレビアニメが10月7日スタート　東山奈央が“聖女”ラフィーナに　追加キャストに高尾奏音も|newspaper=まんたんウェブ|publisher=MANTAN|date=2023-08-16|accessdate=2023-08-16}}</ref>）<!-- 2023-10-22 -->
+* [[鴨乃橋ロンの禁断推理]]（2023年 - 2024年{{ep|17}}<!-- 2024-10-28 -->、'''卯咲もふ'''<ref>{{Cite news|url=https://natalie.mu/comic/news/542245|title=「鴨乃橋ロンの禁断推理」に福山潤・東山奈央、PV第2弾公開　渋谷に大型ポスター掲出|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-09-24|accessdate=2023-09-24}}</ref>{{ep|6}}） - 2シリーズ{{Ras|1st Season（2023年）<!-- 2023-11-06 -->、2nd Season（2024年）<!-- 2024-10-28 #17 -->}}
+| 2024年 |
+* [[休日のわるものさん]]（山野さん<ref>{{Cite news|和書|url=https://natalie.mu/comic/news/554668|title=「休日のわるものさん」コンビニ店員役で東山奈央が出演　放送直前番組を生配信|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-12-25|accessdate=2023-12-25}}</ref>{{ep|1}}）<!-- 2024-01-08 -->
+* [[ゆびさきと恋々]]（'''中園エマ'''<ref>{{Cite news|url=https://natalie.mu/comic/news/550285|title=「ゆびさきと恋々」キービジュアルが公開、エマ役と心役は東山奈央と畠中祐|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-11-23|accessdate=2023-11-23}}</ref>{{ep|3}}）<!-- 2024-01-20 -->
+* [[愚かな天使は悪魔と踊る]]（'''棚橋夕香'''<ref>{{Cite news|url=https://natalie.mu/comic/news/538372|title=アニメ「愚かな天使は悪魔と踊る」追加キャストに梅田修一朗、土岐隼一、東山奈央|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-08-25|accessdate=2023-08-25}}</ref>{{ep|3}}）<!-- 2024-01-23 -->
+* [[終末トレインどこへいく?]]（'''中富葉香'''<ref>{{Cite web|和書|url=https://shumatsu-train.com/chara/yoka.html|title=CHARACTER|website=オリジナルTVアニメーション『終末トレインどこへいく？』公式サイト|accessdate=2024-03-15}}</ref>{{ep|1}}）<!-- 2024-04-01 -->
+* [[じいさんばあさん若返る]]（'''斎藤詩織'''<ref>{{Cite news|url=https://natalie.mu/comic/news/549750|title=アニメ「じいさんばあさん若返る」来年4月放送開始　三木眞一郎らがボイコミから続投|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-11-19|accessdate=2023-11-19}}</ref>{{ep|2}}）<!-- 2024-04-14 -->
+* [[魔王学院の不適合者 II 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜]]（アルカナ<ref>{{Cite news|url=https://natalie.mu/comic/news/562793|title=選定審判編描く「魔王学院の不適合者 II」第2クールに東山奈央、関俊彦、悠木碧|newspaper=コミックナタリー|publisher=ナターシャ|date=2024-02-27|accessdate=2024-02-27}}</ref>{{ep|14}}）<!-- 2024-04-19 -->
+* [[声優ラジオのウラオモテ]]（'''柚日咲めくる'''<ref>{{Cite web|和書|url=https://seiyuradio-anime.com/news/detail/?id=8|title=追加キャストは長谷川育美と東山奈央に決定！キャラクタービジュアルも解禁！|website=声優ラジオのウラオモテ|accessdate=2024-02-14}}</ref>{{ep|4}}）<!-- 2024-05-01 -->
+* [[夜のクラゲは泳げない]]（亜璃恵瑠<ref>{{Cite news|和書|url=https://natalie.mu/comic/news/568329|title=「夜のクラゲは泳げない」追加キャストに松浦愛弓、安済知佳、東山奈央ら6人|newspaper=コミックナタリー|publisher=ナターシャ|date=2024-04-07|accessdate=2024-04-07}}</ref>{{ep|6}}）<!-- 2024-05-12 -->
+* [[ささやくように恋を唄う]]（天沢キョウ{{ep|8}}）<!-- 2024-06-02 -->
+* [[かつて魔法少女と悪は敵対していた。]]（スピカ<ref>{{Cite web|和書|url=https://mahoaku-anime.com/#cast|title=CAST|website=TVアニメ「かつて魔法少女と悪は敵対していた。」|accessdate=2024-05-13}}</ref>{{ep|1}}）<!-- 2024-07-09 -->
+* [[グレンダイザーU]]（'''牧葉ヒカル'''<ref>{{Cite web|和書|url=https://grendizer-official.net/#cast|title=CAST|website=グレンダイザーU|accessdate=2023-11-16}}</ref>{{ep|3}}）<!-- 2024-07-20 -->
+* [[合コンに行ったら女がいなかった話]]（'''琥珀'''<ref>{{Cite news|url=https://natalie.mu/comic/news/562467|title=アニメ「合コンに行ったら女がいなかった話」男装女子役は小松未可子、悠木碧、東山奈央|newspaper=コミックナタリー|publisher=ナターシャ|date=2024-02-26|accessdate=2024-02-26}}</ref>{{ep|1}}）<!-- 2024-10-05 -->
+* [[星降る王国のニナ]]（'''ムフルム'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/584556|title=アニメ「星降る王国のニナ」OPテーマは坂本真綾 東山奈央はムフルム役&EDも|website=コミックナタリー|publisher=ナターシャ|date=2024-07-31|accessdate=2024-10-14}}</ref>{{ep|2}}）<!-- 2024-10-17 -->
+* [[結婚するって、本当ですか]]（クラウディア<ref>{{Cite web|和書|url=https://365-wedding-anime.com/staff/|title=Cast クラウディア|website=TVアニメ「結婚するって、本当ですか」公式サイト|publisher=[[若木民喜|若木 民喜]]・[[小学館]]／ アニメ「結婚するって、本当ですか」製作委員会|accessdate=2024-10-19}}</ref><ref>{{Cite web|url=https://news.ponycanyon.co.jp/2024/09/102934|title=TVアニメ『結婚するって、本当ですか』第2弾キービジュアル＆第3弾PV公開！追加キャストに東山奈央、ファイルーズあい、玄田哲章が決定！ |website= PONY CANYON NEWS |publisher=[[ポニーキャニオン]]|date=2024-09-16|accessdate=2024-10-19}}</ref>{{ep|3}}）<!-- 2024-10-17 -->
+* [[七つの大罪 黙示録の四騎士]]（ローズバンク{{ep|32}}）<!-- 2024-12-01 -->
+* [[妖怪学校の先生はじめました!]]（狸塚ビーンズ{{ep|11}}）<!-- 2024-12-17 -->
+| 2025年 |
+* [[SAKAMOTO DAYS]]（'''坂本葵'''<ref>{{Cite web|和書|url=https://sakamotodays.jp/staffcast/|website=TVアニメ『SAKAMOTO DAYS』公式サイト|title=STAFF/CAST|accessdate=2024-07-31}}</ref>{{ep|1}}） - 2シリーズ{{Ras|第1クール（2025年）<!-- 2025-01-11 -->、第2クール（2025年）<!-- 2025-07-22 #13 -->}}
+* [[異修羅]]（'''黒曜リナリス'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/592267|title=「異修羅」第2期の新キャストに東山奈央・小野大輔・村瀬歩・くじら・緒方恵美|website=コミックナタリー|publisher=ナターシャ|date=2024-09-24|accessdate=2024-09-24}}</ref>{{ep|14}}）<!-- 2025-01-15 -->
+* [[Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます]]（マリエッタ{{ep|3}}）<!-- 2025-01-18 -->
+* [[いずれ最強の錬金術師?]]（'''マリア'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/572668|title=「いずれ最強の錬金術師？」来年1月にアニメ化、坂田将吾・茅野愛衣・東山奈央ら出演|website=コミックナタリー|publisher=ナターシャ|date=2024-05-09|accessdate=2024-05-09}}</ref>{{ep|3}}）<!-- 2025-01-22 -->
+* [[想星のアクエリオン Myth of Emotions]]（ハイダ<ref>{{Cite web|和書|url=https://mantan-web.jp/article/20241219dog00m200046000c.html|title=想星のアクエリオン Myth of Emotions：1万2000年前描く過去神話編PV公開　榎木淳弥、石川由依、東山奈央出演|publisher=MANTAN|website=まんたんウェブ|date=2024-12-19|accessdate=2024-12-19}}</ref>{{ep|3}}）<!-- 2025-01-24 -->
+* [[ユア・フォルマ]]（'''ビガ'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/611371|title=アニメ「ユア・フォルマ」追加キャストに東山奈央、岡本信彦ら　OPはyama|website=コミックナタリー|publisher=ナターシャ|date=2025-02-12|accessdate=2025-02-12}}</ref>{{ep|1}}）<!-- 2025-04-02 -->
+* [[片田舎のおっさん、剣聖になる]]（'''アリューシア・シトラス'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/593970|title=「片田舎のおっさん、剣聖になる」ベリルを慕う騎士団長・アリューシア役は東山奈央|website=コミックナタリー|publisher=ナターシャ|date=2024-10-04|accessdate=2024-10-04}}</ref>{{ep|1}}）<!-- 2025-04-05 -->
+* [[阿波連さんははかれない season2]]（'''玉那覇りく'''<ref>{{Cite web|和書|url=https://aharen-pr.com/#TopStaffCast|title=スタッフ&キャスト|website=TVアニメ『阿波連さんははかれない season2』|accessdate=2024-12-24}}</ref>{{ep|1}}）<!-- 2025-04-07 -->
+* [[前橋ウィッチーズ]]（三葉凛子<ref>{{Cite web|和書|url=https://mantan-web.jp/article/20250321dog00m200077000c.html|title=前橋ウィッチーズ：サンライズ新作オリジナルアニメ　舞台は前橋　ゲストキャラ声優に芹澤優、東山奈央、鬼頭明里|publisher=MANTAN|website=まんたんウェブ|date=2025-03-22|accessdate=2025-03-22}}</ref>{{ep|2}}）<!-- 2025-04-13 -->
+* [[未ル わたしのみらい]]（'''ミホ'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/613115|title=ヤンマーのロボアニメ「未ル わたしのみらい」に山寺宏一、早見沙織、安済知佳ら|website=コミックナタリー|publisher=ナターシャ|date=2025-02-25|accessdate=2025-04-24}}</ref>{{ep|4}}）<!-- 2025-04-24 -->
+* [[ある魔女が死ぬまで]]（セレナ{{ep|9}}）<!-- 2025-05-27 -->
+* [[mono (漫画)|mono]]（志摩リン{{ep|8}}）<!-- 2025-06-01 -->
+* [[ロックは淑女の嗜みでして]]（高柳弥生{{ep|11}}）<!-- 2025-06-12 -->
+* [[地獄先生ぬ〜べ〜 (2025)]]（2025年 - 2026年{{ep|18}}<!-- 2026-02-04 -->、[[地獄先生ぬ〜べ〜の登場人物|中島法子]]<ref>{{Cite web|和書|url=https://mantan-web.jp/article/20250323dog00m200011000c.html|title=地獄先生ぬ〜べ〜：マンガも復活　新作「怪」連載へ　26年ぶり新作アニメも話題|website=まんたんウェブ|publisher=MANTAN|date=2025-03-23|accessdate=2025-03-23}}</ref>{{ep|1}}） - 2シリーズ{{Ras|第1クール（2025年）<!-- 2025-07-02 -->、第2クール（2026年）<!-- 2026-02-04 #18 -->}}
+* [[コウペンちゃん]]（みずいろのコウペンちゃん<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/636444|title=ショートアニメ「コウペンちゃん」に東山奈央、みずいろのコウペンちゃん役　来週も登場|website=コミックナタリー|publisher=ナターシャ|date=2025-08-17|accessdate=2025-08-18}}</ref>{{ep|20}}）<!-- 2025-08-17 -->
+* [[うたごえはミルフィーユ]]（'''仙石喜歌'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/592050 |title=アニメ「うたごえはミルフィーユ」第1弾キービジュ解禁、総監督は佐藤卓哉|website=コミックナタリー|publisher=ナターシャ|date=2024-09-22 |accessdate=2024-09-22}}</ref>{{ep|6}}）<!-- 2025-08-21 -->
+* [[機械じかけのマリー]]（'''マリー'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/621262|title=TVアニメ「機械じかけのマリー」マリー役は東山奈央、アーサー役は石谷春貴|website=コミックナタリー|publisher=ナターシャ|date=2025-04-23|accessdate=2025-04-23}}</ref>{{ep|1}}）<!-- 2025-10-05 -->
+| 2026年 |
+* [[花ざかりの君たちへ]]（梅田里緒{{ep|7}}）<!-- 2026-02-15 -->
+* [[名探偵プリキュア!]]（'''森亜るるか''' / '''キュアアルカナ・シャドウ'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/655722|title=「名探偵プリキュア！」舞台は1999年！キュアアンサー役は千賀光莉 |website=コミックナタリー|publisher=ナターシャ|date=2026-01-11|accessdate=2026-01-11}}</ref>{{ep|3}}）<!-- 2026-02-15 --> - 第11話・第12話の提供クレジットアナウンスも担当<ref>[https://natalie.mu/comic/news/667614 「名探偵プリキュア！」第11話で変身！キュアアルカナ・シャドウのキャンペーンを展開（コメントあり）],コミックナタリー,2026年4月9日</ref>。
+* [[エリスの聖杯]]（サン{{ep|7}}）<!-- 2026-02-20 -->
+* [[真夜中ハートチューン]]（百歳あお<ref>{{Cite web |和書 |url=https://natalie.mu/comic/news/654912 |title=「真夜中ハートチューン」アイコ役で若井友希、百歳あお役で東山奈央が出演 |website=コミックナタリー |publisher=ナターシャ |date=2026-01-04 |accessdate=2026-01-04}}</ref>{{ep|9}}）<!-- 2026-03-03 -->
+* [[春夏秋冬代行者 春の舞]]（薺<ref>{{Cite web|和書|url=https://mantan-web.jp/article/20260315dog00m200034000a.html|title=春夏秋冬代行者 春の舞：テレビアニメに花澤香菜、東山奈央出演　「ヴァイオレット・エヴァーガーデン」作者の四季の物語|publisher=MANTAN|website=まんたんウェブ|date=2026-03-15|accessdate=2026-03-15}}</ref>{{ep|1}}）<!-- 2026-03-29 -->
+* [[本好きの下剋上 領主の養女]]（アンゲリカ<ref>{{cite news|title=『本好きの下剋上　領主の養女』追加声優に田村ゆかりさん・小山茉美さんら7名発表！　意気込みコメント＆キャラクター立ち絵も公開|newspaper=animate Times|date=2026-03-01|url=https://www.animatetimes.com/news/details.php?id=1772340851|accessdate=2026-03-04|publisher=株式会社アニメイト}}</ref>{{ep|3}}）<!-- 2026-04-18 -->
+* [[領民0人スタートの辺境領主様]]（エイマ<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/673991|title=「領民0人スタートの辺境領主様」に安田陸矢、日笠陽子ら　OP＆ED情報、新PV公開|website=コミックナタリー|publisher=ナターシャ|date=2026-05-29|accessdate=2026-05-29}}</ref>）<!-- 2026-07 -->
+* [[LV999の村人]]（'''アリス'''<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/636987|title=「LV999の村人」2026年にTVアニメ化、猪股慧士＆東山奈央が出演　ティザーPVも|website=コミックナタリー|publisher=ナターシャ|date=2025-08-21|accessdate=2025-08-21}}</ref>）<!-- 2026 -->
+}}
+
+=== 劇場アニメ ===
+{{定義リスト2
+| 2011年 |
+* [[鋼の錬金術師 嘆きの丘の聖なる星]]（カリナ）<!-- 2011-07-02 -->
+| 2012年 |
+* [[映画 スマイルプリキュア! 絵本の中はみんなチグハグ!]]（犬）<!-- 2012-10-27 -->
+* [[花の詩女 ゴティックメード]]<!-- 2012-11-01 -->
+* [[青の祓魔師 ―劇場版―]]（ニーちゃん）<!-- 2012-12-28 -->
+| 2013年 |
+* [[スタードライバー THE MOVIE]]（スガタメ・タイガー）<!-- 2013-02-09 -->
+| 2015年 |
+* [[劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ-]]（八月一日静<ref>{{Cite web2|df=ja|work=アニメ「蒼き鋼のアルペジオ -アルス・ノヴァ-」公式HP|url=https://aokihagane.com/cinema-staff-cast|title=劇場版 スタッフ&キャスト|accessdate=2014-12-28}}</ref><ref>{{Cite web2|df=ja|url=https://www.animatetimes.com/news/details.php?id=1438687116 |title=『劇場版 蒼き鋼のアルペジオ』第2弾より、新キャラ・ヤマトのキャストが明らかに！　コミケ情報もお届け |publisher=アニメイトタイムズ |date=2015-08-04 |accessdate=2016-08-24}}</ref>） - 2作品{{Ras|第1作『DC』（2015年）<!-- 2015-01-31 -->、第2作『Cadenza』（2015年）<!-- 2015-10-03 -->}}
+* [[映画 プリキュアオールスターズ 春のカーニバル♪]]（'''パフ'''<ref>{{Cite web2|df=ja|url=http://www.precure-allstars.com/charactor/index.html |title=キャラクター |work=映画 プリキュアオールスターズ 春のカーニバル♪ |accessdate=2015-03-12 |archiveurl=https://web.archive.org/web/20150408084800/http://www.precure-allstars.com/charactor/ |archivedate=2015-04-08}}</ref>）<!-- 2015-03-14 -->
+* [[ラブライブ!The School Idol Movie]]（高坂雪穂）<!-- 2015-06-13 -->
+* [[映画 Go!プリンセスプリキュア Go!Go!!豪華3本立て!!!]]（'''パフ'''<ref>{{Cite web2|df=ja|url=http://precure-movie.com/|title=映画 Go!プリンセスプリキュア Go!Go!!豪華3本立て!!!|accessdate=2015-07-19}}</ref>）<!-- 2015-10-31 -->
+| 2016年 |
+* [[映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法!]]（'''パフ'''）<!-- 2016-03-19 -->
+* [[劇場版マジェスティックプリンス 覚醒の遺伝子]]（山田ペコ）<!-- 2016-11-04 -->
+* [[劇場版 艦これ]]（'''金剛'''、'''鳥海'''、比叡、榛名、霧島、高雄、愛宕、綾波、敷波）<!-- 2016-11-26 -->
+* [[好きになるその瞬間を。〜告白実行委員会〜]]（高見沢アリサ<ref>{{Cite web2|df=ja|work=映画『好きになるその瞬間を。〜告白実行委員会〜』オフィシャルサイト|url=https://www.honeyworks-movie.jp/2nd/staffcast/|title=スタッフ・キャスト|accessdate=2016-07-21}}</ref>）<!-- 2016-12-17 -->
+| 2017年 |
+* [[劇場版 トリニティセブン|劇場版 トリニティセブンシリーズ]]（2017年 - 2019年、'''リーゼロッテ＝シャルロック'''<ref>{{Cite web2|df=ja|work=劇場版「トリニティセブン」公式サイト|url=https://movie.trinity-7.com/ea/staffcast.php|title=STAFF / CAST|accessdate=2016-10-07}}</ref><ref>{{Cite web2|df=ja|url=https://movie.trinity-7.com/staffcast/|title=STAFF/CAST|work=劇場版「トリニティセブン」公式サイト|accessdate=2019-02-08}}</ref>） - 2作品{{Ras|『悠久図書館と錬金術少女』（2017年）<!-- 2017-02-25 -->、『天空図書館と真紅の魔王』（2019年）<!-- 2019-03-29 -->}}
+* [[響け!ユーフォニアム (アニメ)|響け！ユーフォニアムシリーズ]]（2017年 - 2023年、'''傘木希美'''） - 3作品{{Ras|『[[劇場版 響け!ユーフォニアム〜届けたいメロディ〜|届けたいメロディ]]』（2017年）<!-- 2017-09-30 -->、『[[リズと青い鳥]]』<ref>{{Cite web2|df=ja|url=https://natalie.mu/comic/news/271171|title=「リズと青い鳥」みぞれ役の種﨑敦美、希美役の東山奈央などユーフォ声優陣続投|work=コミックナタリー|publisher=ナターシャ|date=2018-02-26|accessdate=2018-02-26}}</ref>（2018年）<!-- 2018-04-21 -->、『[[特別編 響け!ユーフォニアム〜アンサンブルコンテスト〜|アンサンブルコンテスト]]』<ref>{{Cite web2|df=ja|url=http://anime-eupho.com/cast-staff/|title=CAST&STAFF|work=『特別編 響け！ユーフォニアム〜アンサンブルコンテスト〜』公式サイト|accessdate=2023-04-07}}</ref>（2023年）<!--2023-08-04 -->}}
+* [[映画 プリキュアドリームスターズ!]]（'''パフ'''<ref>[https://www.animatetimes.com/news/details.php?id=1484232708 『映画プリキュアドリームスターズ』豪華ゲスト声優陣を発表！],アニメイトタイムズ,2017年1月13日</ref>、狩野さやか{{R|animage201705}}{{Efn2|name="precurenc"}}）
+* [[映画ドラえもん のび太の南極カチコチ大冒険]]（ユカタン<ref>{{Cite news|publisher=@niftyニュース|url=https://news.nifty.com/article/entame/showbizd/12173-oric2086192/|title=『映画ドラえもん』に浪川大輔、釘宮理恵らが声の出演|date=2017-02-18|accessdate=2017-02-18}}</ref>）
+* [[映画 キラキラ☆プリキュアアラモード パリッと!想い出のミルフィーユ!|Petit☆ドリームスターズ!レッツ・ラ・クッキン?ショータイム!]]（'''パフ'''<ref>[https://ameblo.jp/ayaka-saitou0602/entry-12295988870.html ♡プチドリームスターズ！レッツ・ラ・クッキン？ショータイム！♡プレスコ収録ー！！！],齋藤彩夏オフィシャルブログ「彩夏のブログ」,2017年7月26日</ref>）
+* [[くまのがっこう|くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ]]（ミンディ）
+| 2018年 |
+* [[劇場版マクロスΔ 激情のワルキューレ]]（レイナ・プラウラー）
+* [[映画 妖怪ウォッチ FOREVER FRIENDS]]（'''有星タエ'''）<!-- 2018-12-14 -->
+| 2019年 |
+* [[バースデー・ワンダーランド]]（'''ピポ'''<ref>{{Cite web2|df=ja|url=https://wwws.warnerbros.co.jp/birthdaywonderland/|title=映画『バースデー・ワンダーランド』オフィシャルサイト|publisher=ワーナー・ブラザース|accessdate=2019-02-19}}</ref>）<!-- 2019-04-26 -->
+* [[青春ブタ野郎シリーズ (アニメ)|青春ブタ野郎シリーズ]]（2019年 - 2023年、'''古賀朋絵'''<ref>{{Cite web2|df=ja|url=https://ao-buta.com/yumemiru/#m-staffcast|title=Staff•Cast|work=「青春ブタ野郎はゆめみる少女の夢を見ない」 ｜ 青春ブタ野郎シリーズ|accessdate=2022-12-04}}</ref>） - 3作品{{Ras|『ゆめみる少女の夢を見ない』（2019年）<!-- 2019-06-15 -->、『おでかけシスターの夢を見ない』<ref>{{Cite web2|df=ja|url=https://ao-buta.com/|title=アニメ『青春ブタ野郎』シリーズ公式サイト|accessdate=2022-12-04}}</ref>（2023年）<!-- 2023-06-23 -->、『ランドセルガールの夢を見ない』（2023年）<!-- 2023冬 -->}}
+| 2020年 |
+* [[モンスターストライク THE MOVIE ルシファー 絶望の夜明け]]（レビィ<ref>{{Cite web2|df=ja|url=https://anime-movie.monster-strike.com/2020/character/|title=CHARACTER|work=劇場版モンスト「ルシファー 絶望の夜明け」公式サイト|accessdate=2020-11-09}}</ref>）<!-- 2020-11-06 -->
+| 2021年 |
+* [[劇場版 きんいろモザイク Thank You!!]]（'''九条カレン'''<ref>{{Cite web2|df=ja|work=ファミ通.com|url=https://www.famitsu.com/news/202101/19213032.html|title=映画『きんいろモザイク Thank you!!』2021年夏劇場公開決定＆キービジュアル公開！ ゆるふわ学園コメディー最後の高校生活|accessdate=2020-01-19}}</ref>）<!-- 2021-08-20 -->
+* [[劇場版マクロスΔ 絶対LIVE!!!!!!]]（'''レイナ・プラウラー'''<ref>{{Cite web2|df=ja|url=https://macross.jp/deltamovie2/staffcast/|title=スタッフ/キャスト|work=MACROSS PORTAL SITE マクロスポータルサイト|accessdate=2021-09-18}}</ref>、闇レイナ<ref name="animate0918">{{Cite web2|df=ja|url=https://www.animatetimes.com/news/details.php?id=1631965980|title=マクロス40周年記念企画「超時空コラボアルバム」制作決定！　ワルキューレ史上初のTikTok企画がスタート|work=[[アニメイトタイムズ]]|date=2021-09-18|accessdate=2021-09-19}}</ref>）<!-- 2021-10-08 -->
+* [[フラ・フラダンス]]（日羽〈子供〉<ref>{{Cite web2|df=ja|url=https://hula-fulladance.com/news/?id=58539|title=豪華 新キャスト公開！ - NEWS |work=オリジナルアニメ映画『フラ・フラダンス』|date=2021-09-09|accessdate=2021-09-09}}</ref>）<!-- 2021-12-03 -->
+| 2022年 |
+* [[映画 ゆるキャン△]]（'''志摩リン'''<ref>{{Cite web2|df=ja|url=https://www.animatetimes.com/news/details.php?id=1633754044|title=映画『ゆるキャン△』2022年初夏公開決定、ティザービジュアル公開！　花守ゆみりさんら出演声優発表、原作・あfろ氏＆京極義昭監督よりコメントも到着|work=アニメイトタイムズ|date=2021-10-09|accessdate=2021-10-09}}</ref>）<!-- 2022-07-01 -->
+| 2024年 |
+* [[大室家 (アニメ)|大室家]]（三輪藍<ref>{{Cite news|和書|url=https://natalie.mu/comic/news/544707|title=映画「大室家」櫻子の仲良し4人組キャストに上坂すみれ・東山奈央・悠木碧|newspaper=コミックナタリー|publisher=ナターシャ|date=2023-10-12|accessdate=2023-10-12}}</ref>） - 2作品{{Ras|第1作『dear sisters』（2024年）<!-- 2024-02-02 -->、第2作『dear friends』（2024年）<!-- 2024-06-21 -->}}
+| 2025年 |
+* [[たべっ子どうぶつ#劇場アニメ|たべっ子どうぶつ THE MOVIE]]（きりんちゃん）
+* [[この本を盗む者は#アニメ映画|この本を盗む者は]]（御倉ひるね<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/644383|title=劇場アニメ「この本を盗む者は」主演は片岡凜 ビジュアル＆本予告公開 主題歌はYUKI|website=コミックナタリー|publisher=ナターシャ|date=2025-10-16|accessdate=2025-10-16}}</ref>）<!-- 2025-12-26 -->
+| 2026年 |
+* 映画名探偵プリキュア!（2026年、'''森亜るるか''' / '''キュアアルカナ・シャドウ'''<ref>{{Cite web |url=https://natalie.mu/comic/news/666994 |title=「名探偵プリキュア！」9月に映画化！ビジュアルに物語の鍵となるサンキャッチャー描く |accessdate=2026-04-05 |date=2026-04-05 |website=コミックナタリー |publisher=ナターシャ}}</ref>）<!-- 2026-04-05 -->
+}}
+
+=== OVA ===
+{{定義リスト2
+| 2010年 |
+* [[ひよ恋]]（美沙） - 夏ドキッ★りぼんっ子パーティー55上映作品
+| 2011年 |
+* [[神のみぞ知るセカイ]] 4人とアイドル（'''中川かのん'''）
+| 2012年 |
+* [[いじめ (漫画)#OVA|いじめ]]（'''君島文香'''） - [[ちゃお]] 2012年3月号付録
+* [[コードギアス 亡国のアキト]]（クロエ・ウィンケル<ref>{{Cite web2|df=ja|publisher=コードギアス亡国のアキト 公式サイト|url=http://www.geass.jp/akito/staff.html|title=スタッフ/キャスト|accessdate=2012-06-01}}</ref>）
+| 2013年 |
+* [[暗殺教室]]（'''潮田渚'''） - ジャンプスーパーアニメツアー2013上映作品<ref>{{Cite web2|df=ja|url=http://www.jumpfesta.com/anime/ansatukyoucitu.html |title=上映アニメ |work=ジャンプスーパーアニメツアー2013 |accessdate=2013-09-29 |archiveurl=https://web.archive.org/web/20131231001737/http://www.jumpfesta.com/anime/ansatukyoucitu.html |archivedate=2013-12-31}}</ref>
+* [[侵略!!イカ娘]]（少女） - コミックス第14巻オリジナルアニメDVD付限定版
+* [[神のみぞ知るセカイ|マジカル☆スター かのん100%]]（'''中川かのん'''） - コミックス第22巻DVD付き特別版に収録<ref>{{Cite web2|df=ja|publisher=神のみぞ知るセカイ|title=かのんちゃんスピンオフ「マジカル☆スター かのん100%」発表！|url=https://web.archive.org/web/20101112012448/http://kaminomi.jp/kanon/index.html|accessdate=2013-03-13}}</ref>
+| 2014年 |
+* [[絶滅危愚少女 Amazing Twins]]（アヤ<ref>{{Cite web2|df=ja|publisher=OVA「絶滅危愚少女 Amazing Twins」公式サイト|url=http://amazing-twins.com/caststaff/|title=キャスト&スタッフ|accessdate=2013-11-24|archiveurl=https://web.archive.org/web/20131202231621/http://amazing-twins.com/caststaff/|archivedate=2013年12月2日<!--|deadlinkdate=2017年10月-->}}</ref>）
+* [[ニセコイ]]（'''桐崎千棘'''）
+| 2015年 |
+* [[たまゆら (アニメ)|たまゆら〜卒業写真〜]]（ともちゃん<ref>{{Cite web2|df=ja|work=たまゆら〜卒業写真〜|url=http://tamayura.info/staff|title=スタッフ・キャスト|accessdate=2015-03-22}}</ref>）
+* [[ヤマノススメ セカンドシーズン]]（'''黒崎ほのか'''） - Blu-ray/DVD第7巻TV未放送オリジナルエピソード
+| 2016年 |
+* [[きんいろモザイク Pretty Days]]（'''九条カレン'''）
+* [[ストライク・ザ・ブラッド (アニメ)|ストライク・ザ・ブラッド]]（2016年 - 2022年、江口結瞳<ref>{{Cite web2|df=ja|publisher=アニメイト|work=アニメイトタイムズ|url=https://www.animatetimes.com/news/details.php?id=1624961998|title=アニメ『ストライク・ザ・ブラッド』本篇完結までを描くOVA「FINAL」の制作が決定＆制作決定記念PVが公開！　細谷佳正さん、種田梨沙さんをはじめとする総勢10名の出演声優のコメントが到着|date=2021-06-30|accessdate=2021-06-30}}</ref>） - 4シリーズ
+| 2017年 |
+* [[東方Project]]二次創作同人アニメ「秘封活動記録 -祝-」（[[東風谷早苗]]<ref>[http://kyotofantasytroupe.net/archives/758 秘封活動記録第二話－祝－本予告 + 予約情報]</ref>）
+| 2019年 |
+* [[ガールズ&パンツァー 最終章]]（エクレール）<!-- 2019-06-15 -->
+| 2020年 |
+* [[ゴブリンスレイヤー -GOBLIN'S CROWN-]]（'''妖精弓手'''<ref>{{Cite web2|df=ja|url=http://goblinslayer.jp/1st/news/607/|title=新作エピソード 『ゴブリンスレイヤー -GOBLIN'S CROWN-』2020年2月1日（土）劇場公開！|work=TVアニメ「ゴブリンスレイヤー」公式サイト|date=2019-09-09|accessdate=2020-01-30}}</ref>）<!-- 2020-02-01 -->
+* [[ゆるキャン△ (アニメ)|ゆるキャン△スペシャルエピソード]]（'''志摩リン'''） - へやキャン△ BD / DVD特典映像<!-- 2020-05-27 -->
+* [[俺を好きなのはお前だけかよ〜俺たちのゲームセット〜]]（'''ツバキ'''〈'''洋木茅春'''〉<ref>{{Cite web2|df=ja|url= https://ore.ski/|title=俺を好きなのはお前だけかよ〜俺たちのゲームセット〜|accessdate=2020-03-22}}</ref>）<!-- 2020-09-02 -->
+| 2021年 |
+* [[Fate/Grand Carnival]]（茨木童子<ref>{{Cite web2|df=ja|url=https://anime.fate-go.jp/fgc/#staffcast|title=Staff&Cast|website=「Fate/Grand Carnival」公式サイト|accessdate=2021-06-06}}</ref>）<!-- 2021-06-02 -->
+| 2023年 |
+* [[ラブライブ!虹ヶ咲学園スクールアイドル同好会 NEXT SKY]]（アイラ）<!-- 2023-06-23 -->
+| 2024年 |
+* [[コードギアス 奪還のロゼ]]（'''キャサリン・サバスラ'''<ref>{{Cite web|和書|url=https://geass.jp/roze/staff/|title=STAFF&CAST|website=コードギアス 奪還のロゼ|accessdate=2024-03-23}}</ref>）<!-- 2024- -->
+
+}}
+
+=== Webアニメ ===
+{{dl2
+| 2011年 |
+* [[武装中学生]]（瀬波ヒカリ<ref>{{Cite web2|df=ja|url=http://basketarmy.jp/movie |title=ショートアニメ・オーディオドラマ |work=武装中学生 |accessdate=2013-07-31 |archiveurl=https://web.archive.org/web/20120123180018/http://basketarmy.jp/movie |archivedate=2012-01-23}}</ref>）
+| 2016年 |
+* 佐賀県を巡るアニメーション「約束の器 有田の初恋」「冬の誓い 夏の祭り 武雄の大楠」（'''山口凛子'''<ref>{{Cite video|url=https://www.youtube.com/watch?v=FlvsFBsEVJQ&t=663s|title=佐賀県を巡るアニメーション『約束の器 有田の初恋』|time=11:03|work=SagaKouhouMovie|date=2016-04-01|accessdate=2021-12-10}}</ref><ref>{{Cite web2|df=ja|url=https://www.youtube.com/watch?v=DghP5Ej6CNc|title=佐賀県を巡るアニメーション【冬の誓い　夏の祭り　武雄の大楠】|work=佐賀新聞[SagaShimbun]|accessdate=2016-04-16}}</ref>）
+| 2017年 |
+* [[たまぽんず]]（'''美尋'''<ref>{{Cite web2|df=ja|url=http://www.tamasichi.net/tama-pawns/#staff |title=STAFF&CAST |work=たまぽんず公式サイト |accessdate=2017-01-17}}</ref>）
+* [[エウレカセブンAO]]「ロード・ドント・スロー・ミー・ダウン」（メイヴ<ref>『エウレカセブンAO』Blu-ray BOX 映像特典より。</ref>）<!-- 2017-01-30 -->
+* [[バイブリーアニメーションスタジオ]] プロモーションムービー（ボブちゃん<ref>{{Cite web2|df=ja|url= http://bibury-st.com/works/works01.php|title=Bibury PROMOTION MOVIE |publisher=[[バイブリーアニメーションスタジオ]]|date=2017-08-19|accessdate=2022-09-30}}</ref>）
+* [[アイドルマスター シンデレラガールズ劇場]] 火曜シンデレラシアター / Extra Stage（2017年 - 2021年、'''川島瑞樹'''{{R|cingeki}}） - 2シリーズ<!-- 2017-11-07 -->
+| 2018年 |
+* [[モンスターストライク (アニメ)|モンスターストライク]]（レビィ）<!-- 2018-12 -->
+| 2019年 |
+* 愛姫 MEGOHIME（2019年 - 2021年、'''[[愛姫|愛姫 MEGOHIME]]''' / '''田村愛'''<ref>{{Cite web2|df=ja|publisher=[[ガイナ (アニメ制作会社)|株式会社福島ガイナ]]|url=https://fukushimagaina.com/megoamimation/|title=愛姫アニメーション|date=2019-03-10|accessdate=2020-07-31}}</ref>）
+* [[7SEEDS]]（2019年 - 2020年、'''岩清水ナツ'''<ref>{{Cite web2|df=ja|url=http://7seeds.jp/staffcast/|title=STAFF/CAST|work=アニメ「7SEEDS」公式サイト|accessdate=2018-11-27}}</ref>） - 2シリーズ <!-- 2019-06-28 -->
+* [[斉木楠雄のΨ難 Ψ始動編]]（鈴宮陽衣<ref name="saisidou">[https://www.oricon.co.jp/news/2146349/full/ Netflix『斉木楠雄のΨ難』新キャラに鳥海浩輔&東山奈央 神谷浩史の“爆速セリフ”に注目　オリコン]</ref>）<!-- 2019-12-30 -->
+| 2020年 |
+* [[＜Infinite_Dendrogram＞-インフィニット・デンドログラム-#Webアニメ|なぜなにデンドログラム]]（迅羽）<!-- 2020-02-28 -->
+* [[彼女、お借りします ぷち]]（2020年 - 2023年、'''更科瑠夏'''）<!-- 2020-08-13 -->
+| 2021年 |
+* [[どるふろ -癒し篇2-]]（カリーナ）<!-- 2021-03-12 -->
+* [[天才王子の赤字国家再生術]] ショートドラマ（2021年 - 2022年、'''ロウェルミナ・アースワルド'''〈'''ロワ'''〉）<!-- 2021-08-12 -->
+| 2022年 |
+* ミコノート 第"0"話 -前日譚-（カグラ<ref>{{cite video|title=【ミコノート】第"０"話 -前日譚-|url=https://www.youtube.com/watch?v=Fnz7Con7JfE|medium=YouTube|publisher=ミコノート公式 |time=10分51秒〜|date=2022-03-01|accessdate=2022-07-25}}</ref>）<!-- 2022-03-01 -->
+* [[ポンコツクエスト〜魔王と派遣の魔物たち〜]]（スミ）<!-- 2022-04-13 -->
+* [[カッコウの許嫁#ミニアニメ|カッコウのいいかげん！]]（'''瀬川ひろ'''）<!-- 2022-05-27 -->
+* [[BASTARD!! -暗黒の破壊神-]]（2022年 - 2023年、'''シーラ・トェル・メタ＝リカーナ'''<ref>{{Cite web2|df=ja|url=https://bastard-anime.com/staffcast/|title=Staff＆cast|website=アニメ『BASTARD!! 暗黒の破壊神』公式サイト|accessdate=2022-02-10}}</ref>） - 2シリーズ{{Ras|第1期（2022年）<!-- 2022-06-30 -->、第2期『地獄の鎮魂歌編』（2023年）<!-- 2023- -->}}
+* [[はたらく魔王さま!_(アニメ)#Webアニメ|はたらく魔王さま!! ちいちゃい!魔王さま!!]]（2022年 - 2023年、'''佐々木千穂'''）<!-- 2022-07-24 -->
+* [[CINDERELLA GIRLS 10th Anniversary Celebration Animation ETERNITY MEMORIES]]（川島瑞樹）<!-- 2022-08-28 -->
+| 2024年 |
+* [[精霊幻想記#Webアニメ|セリア先生のどきどきインタビュールーム]]（リーゼロッテ＝クレティア）<!-- 2024-03-15 -->
+* [[精霊幻想記#Webアニメ|リーゼロッテのわくわくまじかる商会]]（'''リーゼロッテ＝クレティア'''）<!-- 2024-08-22 -->
+| 2025年 |
+* [[Fate/Grand Order 藤丸立香はわからない]]（茨木童子）<!-- 2025-10-01 -->
+}}
+
+=== ゲーム ===
+{{定義リスト2
+| 2010年 |
+* [[剣と魔法と学園モノ。2|剣と魔法と学園モノ。2G]]（ヴォローネ）<!-- 2010-07-22 -->
+* [[ぱすてるチャイムContinue]]（高橋なの）<!-- 2010-12-09 -->
+* [[武装神姫 BATTLE RONDO]]（スプーン型MMS メリエンダ）
+| 2011年 |
+* [[STAR DRIVER 輝きのタクト 銀河美少年伝説]]（スガタメ・タイガー<ref>{{Cite web2|df=ja|publisher=STAR DRIVER 輝きのタクト 銀河美少年伝説|url=http://sutadora.channel.or.jp/character.html|title=キャラクター|accessdate=2013-07-31}}</ref>）<!-- 2011-03-03 -->
+| 2012年 |
+* [[アイドルマスター シンデレラガールズ]]（2012年 - 2024年、'''[[川島瑞樹]]'''） - 3作品{{Ras|『[[アイドルマスター シンデレラガールズ|シンデレラガールズ]]』（2012年 - 2022年）、『[[アイドルマスター シンデレラガールズ スターライトステージ|スターライトステージ]]』（2015年 - 2025年）、『[[アイドルマスター シンデレラガールズ ビューイングレボリューション|ビューイングレボリューション]]』（2017年）<!-- 2017-01-25 -->}}
+* [[FAIRY TAIL ゼレフ覚醒]]（謎の少女〈イーリス〉）<!-- 2012-03-22 -->
+* [[太鼓の達人 ちびドラゴンと不思議なオーブ]]（'''ソプラノ姫'''、'''ラルコ'''、リヴァ）<!-- 2012-07-12 -->
+* [[UNDER NIGHT IN-BIRTH]]（2012年 - 2024年、バティスタ<ref>{{Cite web2|df=ja|publisher=UNDER NIGHT IN-BIRTH|url=http://inbirth.info/chr_vat.html|title=Character バティスタ|accessdate=2012-09-01}}</ref><ref>{{Cite web2|df=ja|publisher=UNDER NIGHT IN-BIRTH Exe:Late|url=http://arcsystemworks.jp/uni/character8.html|title=キャラクター|accessdate=2014-05-01}}</ref><ref>{{Cite web2|df=ja|work=UNDER NIGHT IN-BIRTH Exe:Late[st]|url=http://www.arcsystemworks.jp/unist/chara/|title=キャラクター|accessdate=2015-07-09}}</ref>） - 5作品{{Ras|『UNDER NIGHT IN-BIRTH』（2012年）<!-- 2012-09-20 -->、『exe:Late』（2013年）<!-- 2013-09-05 -->、『exe:Late[st]』（2015年）<!-- 2015-07-23 -->、『exe:Late[cl-r]』（2020年）<!-- 2020-02-20 -->、『II Sys:Celes』（2024年）<!-- 2024-01-25 -->}}
+* [[君と一緒に|君と一緒に2]]（小早川佐奈<ref>{{Cite web2|df=ja|publisher=|url=http://www.kimisho.net/2nd/character.php|title=君と一緒に2 キャラクター|accessdate=2012-08-11|archiveurl=https://web.archive.org/web/20120815234202/http://www.kimisho.net/2nd/character.php|archivedate=2012年8月15日<!--|deadlinkdate=2017年10月-->}}</ref>）
+* [[桃色大戦ぱいろん]]（椿ゆに、クロノス・クロニカ）
+| 2013年 |
+* エンゲージナイツ 〜新約英雄大戦〜（ノストラダムス<ref>{{Cite web2|df=ja|url=https://www.4gamer.net/games/206/G020612/20130516061/ |title=ガマニアの新作「エンゲージナイツ」のプレオープンβテストが本日スタート。ゲーム内通貨「ジュエル」や「UC：ウィリアム・テル」がもらえる企画も実施 |work=4Gamer.net |publisher=Aetas |accessdate=2016-08-24}}</ref>、ジャンヌ・ダルク<ref>{{Cite web2|df=ja|url=https://www.4gamer.net/games/206/G020612/20130314064/ |title=「エンゲージナイツ」のデバッグテストがスタート。プレイヤーのパートナーとなる「エンゲージナイト」の情報も公開 |work=4Gamer.net |publisher=Aetas |accessdate=2016-08-24}}</ref>）
+* [[俺に働けって言われても 乙]]（'''リリウム・マクラツム'''<ref>{{Cite journal |和書 |journal=[[電撃PlayStation]] |issue=Vol.533 |page={{要ページ番号|date=2016年8月}} |publisher=[[アスキー・メディアワークス]] |date=2012-12-27}}</ref>）
+* [[ガールフレンド（仮）]]（2013年 - 2024年、相楽エミ<ref>{{Cite web2|df=ja|date=2013-10-08|publisher=ガールフレンド（仮）公式ブログ|url=https://ameblo.jp/girlfriend-kari/entry-11626248213.html|title=『イベント攻略！5STEPキューピッド〜新登場♪エミ＆あやめ＆乙女編〜』開催中♪|accessdate=2013-10-09}}</ref>）
+* [[限界凸騎 モンスターモンピース]]（レイハーネフ<ref>{{Cite journal |和書 |journal=電撃PlayStation |issue=Vol.530 |page={{要ページ番号|date=2016年8月}} |publisher=アスキー・メディアワークス |date=2012-11-08}}</ref>）<!-- 2013-01-24 -->
+* [[艦隊これくしょん -艦これ-]]（2013年 - 2024年、金剛、比叡、榛名、霧島、高雄、愛宕、摩耶、鳥海、綾波、敷波<ref>{{Cite journal |和書 |journal=艦これ白書-艦隊これくしょんオフィシャルブック |page={{要ページ番号|date=2016年8月}} |publisher=KADOKAWA |date=2013-10-30}}</ref>、Jervis<ref>コンプティーク2018年4月号</ref>） - 3作品{{Ras|『艦隊これくしょん -艦これ-』（2013年 - 2024年）<!-- 2013-04-23 -->、『艦これ改』（2016年）<!-- 2016-02-18 -->、『艦これアーケード』（2016年）<!-- 2016-04-26 -->}}
+* [[境界線上のホライゾン PORTABLE]]（'''マルゴット・ナイト'''<ref>{{Cite journal |和書 |journal=電撃PlayStation |issue=Vol.523 |page={{要ページ番号|date=2016年8月}} |publisher=アスキー・メディアワークス |date=2012-07-26}}</ref>）<!-- 2013-04-25 -->
+* [[グラナド・エスパダ]]（シエラ・ローズ<ref>{{Cite web2|df=ja|publisher=4Gamer.net/Aetas Inc.|url=https://www.4gamer.net/games/013/G001370/20131204108/|title=バハマルの魔女「シエラ」が編入キャラクターに追加。|accessdate=2014-02-18}}</ref>）
+* 幻獣姫（メイヴ）
+* [[咲-Saki-#咲-Saki-_阿知賀編_episode_of_side-A_Portable|咲-Saki- 阿知賀編 episode of side-A Portable]]（'''新子憧'''<ref>{{Cite web2|df=ja|url=http://products.alchemist-net.co.jp/products/saki-A/chara/index.html |title=登場人物 |publisher=咲-Saki- 阿知賀編 episode of side-A Portable |accessdate=2013-06-27 |archiveurl=https://web.archive.org/web/20140405002112/http://products.alchemist-net.co.jp/products/saki-A/chara/index.html |archivedate=2014年4月5日 <!--|deadlinkdate=2017年10月--> }}</ref>）<!-- 2013-08-29 -->
+* [[やはりゲームでも俺の青春ラブコメはまちがっている。]]（2013年 - 2023年、'''由比ヶ浜結衣'''<ref>{{Cite web2|df=ja|publisher=ファミ通.com|url=https://www.famitsu.com/news/201306/06034425.html|title=『やはりゲームでも俺の青春ラブコメはまちがっている。』人気ライトノベルがアドベンチャーゲーム化|accessdate=2013-06-06}}</ref><ref>{{Cite journal|和書 |editor=坂本武郎 |title= 第1報 やはりゲームでも俺の青春ラブコメはまちがっている。続 |journal=[[週刊ファミ通]]|issue=2015年8月20日・27日合併号 |pages=32 |publisher=[[カドカワ|KADOKAWA・DWANGO]] |date=2015-08-06}}</ref>） - 3作品{{Ras|『やはりゲームでも俺の青春ラブコメはまちがっている。』（2013年）<!-- 2013-09-19 -->、『続』（2016年）<!-- 2016-10-27 -->、『完』（2023年）<!-- 2023-04-27 -->}}
+* [[神撃のバハムート]]（メルヴィ<ref>{{Cite tweet|user=bahamut_cygames|author=神撃のバハムート公式|number=390027630029713408|title=新ｲﾍﾞﾝﾄ「おばけ南瓜と麗しき魔女の輪舞曲」が開始しました！|date=2013-10-15|accessdate=2022-09-30}}</ref>）
+* スナイパイ72（'''ミウ'''）
+* [[フェアリーフェンサー エフ]]（ハーラー<ref>{{Cite journal|和書 |editor=[[浜村弘一]] |title= 続報 フェアリーフェンサー エフ |journal=[[週刊ファミ通]]|issue=2013年6月13日号 |pages=188 |publisher=[[エンターブレイン]] |date=2013-05-30}}</ref>）<!-- 2013-10-10 -->
+* [[星霜のアマゾネス]]（'''ヒメ'''<ref>{{Cite journal |和書 |journal=[[週刊ファミ通]] |issue=2013年9月12日号 |page={{要ページ番号|date=2016年8月}} |publisher=エンターブレイン |date=2013-08-29}}</ref>）<!-- 2013-11-14 -->
+* [[ドラッグオンドラグーン3]]（'''ミハイル'''<ref>{{Cite web2|df=ja|publisher=電撃オンライン|url=https://dengekionline.com/elem/000/000/662/662476/|title=『ドラッグ オン ドラグーン3』ニコ生で声優発表＆藍井エイルさん出演中。ゼロ役は内田真礼さん、ワン役は田中理恵さん【電撃DOD3】|accessdate=2013-10-06}}</ref>）<!-- 2013-12-19 -->
+* 機巧少女は傷つかない Facing "Burnt Red"（'''迦具夜'''<ref>{{Cite web2|df=ja|publisher=|url=http://app.machine-doll.com/|title=機巧少女は傷つかない Facing "Burnt Red"|accessdate=2013-11-20}}</ref>）
+* [[嫁コレ]]（佐々木千穂、由比ヶ浜結衣、相羽六）
+| 2014年 |
+* [[Wake Up, Girls! ステージの天使]]（森崎つばさ）
+* [[ナナミと一緒に学ぼ!English日常会話]]（'''ナナミ'''<ref>{{Cite web2|df=ja|publisher=|url=http://www.media-5.co.jp/3ds/773/nitijyou.html|title=ニンテンドー3DSソフト ナナミと一緒に学ぼ! English日常会話|accessdate=2013-12-17}}</ref>）<!-- 2014-01-29 -->
+* [[グランブルーファンタジー]]（2014年 - 2026年、'''ルリア'''<ref>{{Cite web2|df=ja|publisher=Social Game Info|url=https://gamebiz.jp/news/123968|title=Cygames、RPG『グランブルーファンタジー』を発表！　キャラクターデザイン：皆葉英夫氏、音楽：植松伸夫氏|accessdate=2014-11-01}}</ref><ref>{{Cite web2|url=https://granbluefantasy.com/ja/news/9686/|title=『グランブルーファンタジー』×『鋼の錬金術師 FULLMETAL ALCHEMIST』コラボレーションイベント開催のお知らせ|work=グランブルーファンタジー|publisher=[[Cygames]]|date=2026-05-14|accessdate=2026-05-20}}</ref><!-- 2026-05-15 -->、ジェイド<ref>{{Cite web2|df=ja|publisher=[[ニコニコ動画]] |url=https://www.nicovideo.jp/watch/1499662780 |title=「ぐらぶるちゃんねるっ!」#71天星器を鍛えよう！編 |date=2017-07-10 |accessdate=2017-12-25}}</ref>、テツロウ<ref>{{Cite web2|df=ja|publisher=Cygames|work=『グランブルーファンタジー』公式サイト|url=https://granbluefantasy.jp/pages/?p=34084|title=イベント「ロボミ　史上最大の戦い　ゴッドギガンテス 対 空の調停者ゾーイ」開催のお知らせ|date=2020-12-27|accessdate=2020-12-27}}</ref>、川島瑞樹<ref>{{Cite web2|df=ja|publisher=[[4Gamer.net]]|url=https://www.4gamer.net/games/238/G023885/20150511027/|title=「グラブル」と「アイマス シンデレラガールズ」のコラボ第3弾が本日19：00に開始。川島瑞樹/前川みく/双葉杏/諸星きらりがグラブルに登場 |accessdate=2015-05-17}}</ref>、桃色の生物） - 4作品{{Ras|『グランブルーファンタジー』（2014年 - 2026年）<!-- 2014-03-10 -->、『[[グランブルーファンタジー ヴァーサス|ヴァーサス]]』（2020年 - 2021年）<!-- 2020-02-06 -->、『ヴァーサス -ライジング-』（2023年 - 2024年）<!-- 2023-12-14 -->、『[[Granblue Fantasy: Relink|リリンク]]』（2024年）<ref>{{Cite web2|df=ja|publisher=[[Cygames]]|url=https://relink.granbluefantasy.jp/characters/detail/?chara=lyria|title=CHARACTER|work=『GRANBLUE FANTASY Re:LINK』公式サイト|accessdate=2023-01-07}}</ref><!-- 2024-02-01 -->}}
+* [[ジェイスターズ ビクトリーバーサス]]（桐崎千棘）<!-- 2014-03-19 -->
+* [[クレヨンしんちゃん 嵐を呼ぶ カスカベ映画スターズ!]]（トーキー<ref>{{Cite web2|df=ja|publisher=クレヨンしんちゃん 嵐を呼ぶ カスカベ映画スターズ!|url=http://shinchan-game.eigastars.bngames.net/character/gameOriginal.php|title=キャラクター|accessdate=2013-12-22}}</ref>）<!-- 2014-04-10 -->
+* [[FREEDOM WARS フリーダムウォーズ|フリーダムウォーズ]]（'''エルフリーデ・“サカモト”・カブレラ'''<ref>{{Cite web2|df=ja|publisher=ファミ通.com|url=https://www.famitsu.com/news/201403/18049947.html|title=【先出し週刊ファミ通】『フリーダムウォーズ』発売日は2014年6月26日に決定！　新キャラクター＆大幅アップデート情報も！（2014年3月20日発売号）|accessdate=2014-03-18}}</ref>）<!-- 2014-06-26 -->
+* [[キスベル]]（'''渋谷みつば'''<ref>{{Cite web2|df=ja|publisher=電撃オンライン|url=https://dengekionline.com/elem/000/000/850/850920/|title=恋愛ADV『キスベル』がPS Vita用ソフトとして登場！ 伊藤かな恵さん、東山奈央さん演じる新ヒロインなどをひっさげて8月28日に発売|accessdate=2014-05-14}}</ref>）<!--2014-08-28 -->
+* [[禁忌のマグナ]]（アメリア<ref>{{Cite journal|和書 |editor=坂本武郎 |title= 続報 禁忌のマグナ |journal=[[週刊ファミ通]]|issue=2014年6月5日号 |pages=211 |publisher=[[カドカワ]] |date=2014-05-22}}</ref>）<!-- 2014-10-10 -->
+* [[戦場の円舞曲]]（ユリアナ<ref>{{Cite journal |和書 |journal=[[B's-LOG]] |issue=2014年7月号 |page={{要ページ番号|date=2016年8月}} |publisher=[[エンターブレイン]] |date=2014-05-20}}</ref>）<!-- 2014-11-20 -->
+* ニセコイ ヨメイリ!?（'''桐崎千棘'''<ref>{{Cite web2|df=ja|publisher=ニセコイ ヨメイリ!?|url=http://www.konami.jp/nisekoi/vita/chara/|title=ジンブツ|accessdate=2014-07-28}}</ref>）<!-- 2014-11-27 -->
+* [[魔法科高校の劣等生|魔法科高校の劣等生 Out of Order]]（ピクシー<ref>{{Cite web2|df=ja|publisher=電撃オンライン|url=https://dengekionline.com/elem/000/000/940/940777/|title=『魔法科高校の劣等生 Out of Order』の下着だらけの精密計測CG公開！ そして物語のカギを握る少女とは……？|accessdate=2014-10-11}}</ref>）<!-- 2014-12-25 -->
+* [[グリモア〜私立グリモワール魔法学園〜]]（'''越水ソフィア'''<ref>{{Cite web2|df=ja|publisher=グリモア 〜私立グリモワール魔法学園〜　公式サイト|url=http://grimoire.applibot.co.jp/preregister/grimoire_new/detail.html?char|title=キャラクター紹介|accessdate=2014-07-14|archiveurl=https://web.archive.org/web/20140714225105/http://grimoire.applibot.co.jp/preregister/grimoire_new/detail.html?char|archivedate=2014年7月14日<!--|deadlinkdate=2017年10月-->}}</ref>）
+* JKヴァンパイア 〜運命のフェスタ〜（'''エマ・ティグリス'''<ref>{{Cite web2|df=ja|publisher=JKヴァンパイア 〜運命のフェスタ〜|url=http://jkv.mbga.jp/students/|title=生徒紹介|accessdate=2014-10-24|archiveurl=https://web.archive.org/web/20141028145500/http://jkv.mbga.jp/students/|archivedate=2014年10月28日<!--|deadlinkdate=2017年10月-->}}</ref>）
+* [[蒼穹のスカイガレオン]]（クリスティーナ・リンドホルム）
+* [[ニセコイ|ニセコイ マジコレ!?]]（'''桐崎千棘'''<ref>{{Cite web2|df=ja|url=http://www.konami.jp/nisekoi/app/ |title=キャラクター紹介!! |work=ニセコイ マジコレ!? |accessdate=2014-01-17 |archiveurl=https://web.archive.org/web/20131129182922/http://www.konami.jp/nisekoi/app/ |archivedate=2013-11-29}}</ref>）
+* [[ノブナガ・ザ・フール#ゲーム|ノブナガ・ザ・フール 戦乱のレガリア]]（'''ヒミコ'''<ref>{{Cite web2|df=ja|publisher=ファミ通app|url=https://app.famitsu.com/20140624_395975/|title=『ノブナガ・ザ・フール 戦乱のレガリア』二重惑星を舞台にしたSF戦国バトルに新展開!!|accessdate=2014-08-07}}</ref>）
+* [[ファントム オブ キル]]<ref>{{Cite web2|df=ja|publisher=ファントム オブ キル 公式サイト|url=https://pk.fg-games.co.jp/cast/|title=Cast & Staff|accessdate=2014-09-11}}</ref>（アポロン）
+* モンスターハンター メゼポルタ開拓記（'''ナモナ'''、アリーシャ<ref>{{Cite web2|df=ja|publisher=モンスターハンター メゼポルタ開拓記 公式サイト|url=http://www.mh-m.jp|title=キャラクター紹介|accessdate=2014-09-20}}</ref>）
+* [[妖怪百姫たん!]]（雷獣<ref>{{Cite web2|df=ja|publisher=ボイスつき妖怪憑依RPG『妖怪百姫たん!』公式サイト|url=http://yokai-hyakkitan.com/character14.html#characterTop|title=雷獣|accessdate=2014-09-16}}</ref>、犬神<ref>{{Cite web2|df=ja|publisher=ボイスつき妖怪憑依RPG『妖怪百姫たん!』公式サイト|url=http://yokai-hyakkitan.com/character38.html#characterTop|title=犬神|accessdate=2014-09-16}}</ref>）
+* 落櫻散華抄（早乙女葵）
+* [[ロボットガールズZ|ロボットガールズZ ONLINE]]（ダブラスM2、テキサスマっ子<ref>{{Cite web2|df=ja|publisher=ロボットガールズZ ONLINE|url=http://rgzonline.ujj.co.jp/modules/sdrun/|title=ロボットガールズ一覧|accessdate=2014-07-03}}</ref>）
+* [[リング☆ドリーム 女子プロレス大戦]]（ティフィ青山、稲荷ひめり）
+| 2015年 |
+* ウチの姫さまがいちばんカワイイ（九条カレン、由比ヶ浜結衣、ユゥナ）
+* [[XBLAZE LOST:MEMORIES]]（'''ノーバディ'''<ref>{{Cite web2|df=ja|work=XBLAZE LOST:MEMORIES|url=http://www.arcsystemworks.jp/xblaze_lm/character/nobody/|title=CHARACTER|accessdate=2014-12-25}}</ref>）<!-- 2015-04-09 -->
+* CLOSERS（'''ユリ＝アスマ'''<ref>{{Cite web2|df=ja|publisher=[[セガ]]|work=『CLOSERS』公式サイト|url=https://web.archive.org/web/20150705075407/https://cls.sega-online.jp/|title=キャラクター紹介|accessdate=2015-07-09}}</ref>）
+* [[クロスアンジュ 天使と竜の輪舞tr.]]（シルヴィア・斑鳩・ミスルギ<ref>{{Cite web2|df=ja|publisher=[[バンダイナムコゲームス]]|work=クロスアンジュ 天使と竜の輪舞tr.|url=http://crossange.bngames.net/character/sylvia.html|title=キャラクター|accessdate=2015-04-12}}</ref>）<!-- 2015-05-28 -->
+* [[ラングリッサー リインカーネーション -転生-]]（'''リコリス・ロヴィナー'''<ref>{{Cite web2|df=ja|work=ニンテンドー3DSソフト「ラングリッサー」オフィシャルウェブサイト|url=http://www.langrisser.jp/character.html|title=キャラクター|accessdate=2015-03-06|archiveurl=https://archive.ph/2015.03.08-053213/http://www.langrisser.jp/character.html|archivedate=2015-03-08}}</ref>）<!-- 2015-07-23 -->
+* [[Go!プリンセスプリキュア シュガー王国と6人のプリンセス!]]（'''パフ'''）<!-- 2015-07-30 -->
+* 咲-Saki- 全国編（'''新子憧'''<ref>[https://web.archive.org/web/20150625070017/http://www.kaga-create.co.jp/saki/achiga.html "阿知賀女子学院"]. ''PS Vita「咲-Saki- 全国編」公式サイト''. 2015年6月25日時点のhttp://www.kaga-create.co.jp/saki/achiga.html{{リンク切れ|date=2022年10月|archiveurl=1}}よりアーカイブ。2015年6月25日閲覧。</ref>）<!-- 2015-09-17 -->
+* セブンスドラゴンIII code:VFD<ref>{{Cite web2|df=ja|publisher=ファミ通.com|url=https://www.famitsu.com/news/201507/04082425.html|title=『セブンスドラゴンIII code:VFD』新たな職業“デュエリスト”が公開、キャラメイクで選べる声優40名も！|accessdate=2015-07-04}}</ref><!-- 2015-10-15 -->
+* [[フェアリーフェンサー エフ ADVENT DARK FORCE]]（ハーラー<ref>{{Cite journal|和書 |editor=坂本武郎 |title=第1報 フェアリーフェンサー エフ ADVENT DARK FORCE（アドヴェント ダーク フォース） |journal=[[週刊ファミ通]]|issue=2015年5月7・14・21日合併号 |page=42 |publisher=[[カドカワ|KADOKAWA・DWANGO]] |date=2015-04-23}}</ref>）<!-- 2015-11-05 -->
+* ザクセスヘブン リベリオン（常磐<ref>{{Cite web2|df=ja|publisher=DMM.com|url=http://www.dmm.com/netgame/feature/xuccess-heaven-r.html|title=ザクセスヘブン リベリオン|accessdate=2015-09-02}}</ref>）
+* [[ジョジョの奇妙な冒険 アイズオブヘブン]]（トリッシュ・ウナ<ref>{{Cite web2|df=ja|publisher=[[バンダイナムコエンターテインメント]]|work=ジョジョの奇妙な冒険 アイズオブヘブン|url=http://jojogame.bngames.net/character/|title=CHARACTER|accessdate=2015-12-05}}</ref>）<!-- 2015-12-17 -->
+* [[ミラクルガールズフェスティバル]]（九条カレン<ref>{{Cite journal|和書 |editor=坂本武郎 |title= 続報 ミラクルガールズフェスティバル（仮題）|journal=週刊ファミ通|issue=2015年8月6日号 |pages=67 |publisher=KADOKAWA・DWANGO |date=2015-07-23}}</ref>）<!-- 2015-12-17 -->
+* [[白猫プロジェクト]]（ルウシェ・エルレンシア<ref>{{Cite web2|df=ja|work=白猫プロジェクト公式攻略データベース - ファミ通|title=【白猫】ルウシェ（武闘家／拳）の評価とおすすめ武器|url=https://wiki.famitsu.com/shironeko/%E3%83%AB%E3%82%A6%E3%82%B7%E3%82%A7|accessdate=2016-01-03}}</ref>）
+* [[スクール オブ ラグナロク]]（'''スマイルハート'''<ref>{{Cite web2|df=ja|publisher=[[スクウェア・エニックス]]|title=School of Ragnarok - スクール オブ ラグナロク|url=http://www.schoolofragnarok.com/|accessdate=2015-01-29|archiveurl=https://web.archive.org/web/20150201023142/http://www.schoolofragnarok.com/|archivedate=2015年2月1日<!--|deadlinkdate=2017年10月-->}}</ref>）
+* [[戦国姫譚MURAMASA-雅-]]（'''かえで'''<ref>{{Cite web2|df=ja|publisher=YouTube|url=https://www.youtube.com/watch?v=i5P7ARvz7QM|title=「戦国姫譚MURAMASA-雅-」プロモーションムービー|accessdate=2015-10-09}}</ref>）
+* [[初恋の歌]]（'''柏木遙香'''<ref>{{Cite web2|df=ja|url=http://hatsuuta.jp/character01.php |title=柏木遙香｜キャラクター |work=初恋の歌 公式サイト |accessdate=2015-01-30|archiveurl=https://web.archive.org/web/20191113134110/http://hatsuuta.jp/character01.php|archivedate=2019-11-13}}</ref>）
+* [[バトルガール ハイスクール]]（'''天野望'''<ref>{{Cite web2|df=ja|work=バトルガール ハイスクール|url=https://colopl.co.jp/battlegirl-hs/sp/chara/popup/girl04.php|title=CHARACTER|accessdate=2022-10-07}}</ref>）
+* [[プリンセスコネクト!]]（'''春咲ひより'''<ref>{{Cite web2|df=ja|publisher=プリンセスコネクト! 公式サイト|url=http://lp.astrum.amebagames.com/character/index.html|title=キャラクター紹介|accessdate=2014-11-26|archiveurl=https://web.archive.org/web/20141202010846/http://lp.astrum.amebagames.com/character/index.html|archivedate=2014年12月2日<!--|deadlinkdate=2017年10月-->}}</ref>）
+* ゆるかみ!（東塔いるみ、渋谷はち<ref>{{Cite web2|df=ja|url=http://yurukami.com/character |title=キャラクター一覧 |work=ゆるかみ！ |accessdate=2015-07-22 |archiveurl=https://web.archive.org/web/20160320034142/http://yurukami.com/character/ |archivedate=2016-03-20}}</ref>）
+* 乱撃!魔法学園 -ムリムリ女神- by GMO（'''阿古町'''<ref>{{Cite web2|df=ja|publisher=Social Game Info|url=https://gamebiz.jp/news/140833|title=JWord、本格戦術SLG『乱撃!魔法学園-ムリムリ女神-byGMO』のiOS版の事前登録を開始　女神達のボイスには渕上舞さん、東山奈央さん、日高里奈さんらを起用|accessdate=2015-03-03}}</ref>）
+| 2016年 |
+* [[アリスオーダー]]（ドロシー<ref>{{Cite web2|df=ja|work=アリスオーダー |url=http://www.jp.square-enix.com/aliceorder/character/dorothy.html |title=CHARACTER |publisher=SQUARE ENIX |accessdate=2016-01-28 |archiveurl=https://archive.is/20160128123432/http://www.jp.square-enix.com/aliceorder/character/dorothy.html |archivedate=2016年1月28日 <!--|deadlinkdate=2017年10月--> }}</ref>）
+* [[オルタンシア・サーガ -蒼の騎士団-]]（2016年 - 2020年、アネッタ<ref>{{Cite web2|df=ja|publisher=株式会社セガゲームス|work=オルサガ【公式】オルタンシア・サーガ -蒼の騎士団- 第二部特設サイト|url=http://horsaga.sega-net.com/part2/character.html|title=キャラクター|accessdate=2016-03-01}}</ref>、妖精弓手）
+* 学戦都市アスタリスクフェスタ 鳳華絢爛（'''クローディア・エンフィールド'''<ref>{{Cite web2|df=ja|publisher=[[バンダイナムコエンターテインメント]]|work=学戦都市アスタリスクフェスタ 鳳華絢爛|url=http://game-asterisk.bn-ent.net/character/|title=CHARACTER|accessdate=2015-11-06}}</ref>）
+* 学戦都市アスタリスクフェスタ 煌めきのステラ（'''クローディア・エンフィールド'''<ref>{{Cite web2|df=ja|publisher=アスキー・メディアワークス|work=電撃オンライン|url=https://dengekionline.com/elem/000/001/291/1291562/|title=アプリ『学戦都市アスタリスク』事前登録者数が早くも3万人突破。そして星導館が誇る4人の美少女を紹介|date=2016-06-10|accessdate=2016-06-10}}</ref>）
+* 感染×少女（2016年 - 2017年、'''百喰恵'''<ref>{{Cite web2|df=ja|work=感染バトルRPG「感染×少女」公式サイト|url=http://web-sxd.age-corp.jp/character03.html|title=Character|date=2016-08-06|accessdate=2021-01-06}}</ref>、千家小鈴、犬神）
+* [[GATE 自衛隊 彼の地にて、斯く戦えり|GATE ブレイブ スクランブル]]（レレイ・ラ・レレーナ<ref>{{Cite web2|df=ja|publisher=アスキー・メディアワークス|work=電撃オンライン|url=https://dengekionline.com/elem/000/001/231/1231540/|title=アプリ『ゲート』で種田梨沙さんなどが演じるナビゲーターボイスが実装|date=2016-03-03|accessdate=2016-03-03}}</ref>）
+* [[真空管ドールズ]]（アンナ<ref>{{Cite tweet|user=shinkukandolls|author=真空管ドールズ|number=735840050303242240|title=今回、以下の情報を発表いたしました。|date=2016-05-26|accessdate=2022-09-30|link=no}}</ref>）
+* [[メダロット ガールズミッション]]（六角ケイ<ref>{{Cite journal|和書 |editor=坂本武郎 |title=第1報 メダロット ガールズミッション カブトVer./クワガタVer. |journal=[[週刊ファミ通]]|issue=2016年1月21日増刊号 |page=47 |publisher=[[カドカワ]] |date=2016-01-07}}</ref>）<!-- 2016-03-10 -->
+* [[デジモンワールド -next 0rder-]]（'''大淵ヒマリ'''<ref>{{Cite web2|df=ja|publisher=[[バンダイナムコエンターテインメント]]|work=デジモンワールド -next 0rder-|url=http://digimonworld-neo.bn-ent.net/chara/chara.php|title=character / digim0n|accessdate=2015-12-21|archiveurl=https://web.archive.org/web/20151222080505/http://digimonworld-neo.bn-ent.net/chara/chara.php|archivedate=2015年12月22日<!--|deadlinkdate=2017年10月-->}}</ref>）<!-- 2016-03-17 -->
+* [[スターオーシャン5 Integrity and Faithlessness]]（'''ミキ・ソーヴェスタ'''<ref>{{Cite web2|df=ja|publisher=電撃オンライン|url=https://dengekionline.com/elem/000/001/124/1124754/|title=『スターオーシャン5』ヴィクトルとフィオーレの詳細が判明。声優は中村悠一さんと遠藤綾さん【TGS2015】|accessdate=2015-09-19}}</ref>）<!-- 2016-03-31 -->
+* [[スカルガールズ 2ndアンコール]]（マリー<ref>{{Cite web2|df=ja|publisher=電撃オンライン|url=https://dengekionline.com/elem/000/001/133/1133870/|title=『スカルガールズ 2ndアンコール』沢城みゆきさん、杉田智和さん、松浦チエさん演じるキャラ情報が公開|accessdate=2015-10-08}}</ref>）<!-- 2016-04-14 -->
+* [[スーパーロボット大戦OG ムーン・デュエラーズ]]（'''フェステニア・ミューズ'''<ref>{{Cite web2|df=ja|publisher=バンダイナムコエンターテインメント|work=スーパーロボット大戦OG ムーン・デュエラーズ|url=http://srwog-md.suparobo.jp/character/character07.php|title=CHARACTER|accessdate=2016-03-29}}</ref>）<!-- 2016-06-30 -->
+* [[スターオーシャン:アナムネシス]]（ミキ・ソーヴェスタ）
+* [[Fate/Grand Order]]<ref>{{Cite web2|df=ja|work=|url=http://www.fate-go.jp/|title=Fate/Grand Order 公式サイト|accessdate=2016-06-01}}</ref>（2016年 - 2024年、茨木童子、鈴鹿御前、カラミティ・ジェーン） - 2作品{{Ras|『Grand Order』（2016年 - 2024年）<!-- 2016-05-31 -->、『[[Fate/Grand Order Arcade|Arcade]]』（2019年 - 2020年）<!-- 2019-06-13 -->}}
+* マギアコネクト（'''氷見しずく'''<ref>{{Cite web2|df=ja|publisher=藤商事、マギアコネクト|work=「マギアコネクト」公式サイト|url=http://www.magiaconnect.jp/character/chara4.html|title=CHARACTER|accessdate=2016-07-30|archiveurl=https://archive.ph/2016.07.30-041202/http://www.magiaconnect.jp/character/chara4.html|archivedate=2016-07-30}}</ref>）
+* [[マクロスΔスクランブル]]（'''レイナ・プラウラー'''<ref>{{Cite web2|df=ja|publisher=アスキー・メディアワークス|work=電撃オンライン|url=https://dengekionline.com/elem/000/001/325/1325728/|title=『マクロスΔスクランブル』に『超時空要塞マクロス 愛・おぼえていますか』より一条輝＆リン・ミンメイがゲスト参戦!|date=2016-07-28|accessdate=2016-07-28}}</ref>）<!-- 2016-10-20 -->
+* [[ミラクルニキ]]（白蓮、デーヴィー）
+* [[レコラヴ|レコラヴ Blue Ocean / Gold Beach]]（'''相良美宇'''<ref>{{Cite journal|和書 |editor=坂本武郎 |title= 第1報 レコラヴ Blue Ocean / Gold Beach|journal=週刊ファミ通|issue=2016年5月12・19日合併号 |pages=16 |publisher=[[KADOKAWA|カドカワ]] |date=2016-04-28}}</ref>）
+* レムリア 〜Strada Of Chain〜（'''ベラ'''<ref>{{Cite web2|df=ja|url=http://lmsc.funyours.co.jp/intro.html |title=introduction |work=レムリア 〜Strada Of Chain〜 |accessdate=2016-08-24}}</ref>）
+* ワールドチェイン（マリー・アントワネット<ref>{{Cite tweet|user=worldchain_PR|author=ワールドチェイン公式|number=765067189124608000|title=【キャラクター紹介】|date=2016-08-15|accessdate=2022-09-30|link=no}}</ref>）
+* シドマイヤーズ シヴィライゼーション VI（アドバイス）<ref>{{Cite web2|df=ja|publisher=Game Spark - 国内・海外ゲーム情報サイト|url=https://www.gamespark.jp/article/2016/10/04/69060.html|title=『シヴィライゼーションVI』日本語吹替ナレーターに鈴村健一を起用―東山奈央も出演|accessdate=2016-10-31}}</ref><ref>{{Cite web2|df=ja|publisher=ファミ通.com|url=https://www.famitsu.com/news/201610/04117388.html|title=『シドマイヤーズ シヴィライゼーション VI』日本語版吹き替えに声優の鈴村健一さんと東山奈央さんが起用|accessdate=2016-10-31}}</ref>
+| 2017年 |
+* [[STARHORSE Pocket]]（'''北方くるみ'''<ref>{{Cite web2|df=ja|publisher=電撃App|url=https://dengekionline.com/elem/000/001/415/1415406/|title=競走馬育成アプリ『スターホースポケット』Tonyさんが描く秘書キャラの紹介動画が初公開！|accessdate=2016-11-21}}</ref>）<!-- 2017-01-26 -->
+* デジモンワールド -next 0rder- INTERNATIONAL EDITION（'''大淵ヒマリ'''<ref>{{Cite web2|df=ja|url=http://digimonworld-neo.bn-ent.net/ps4/character/|work=デジモンワールド -next 0rder- INTERNATIONAL EDITION|publisher=バンダイナムコエンターテインメント公式サイト|title=キャラクター|accessdate=2016-11-17}}</ref>）<!-- 2017-02-16 -->
+* [[アンジュ・ヴィエルジュ〜ガールズバトル〜]]（レイナ・プラウラー<ref>{{Cite news|publisher=アニメイト|work=アニメイトタイムズ|url=https://www.animatetimes.com/news/details.php?id=1486630691|title=アプリ『アンジュ・ヴィエルジュ』と『マクロスΔ』が友情クロスオーバー! 描き下ろし＆ボイス録り下ろしの「フレイア」と「美雲」が手に入る!|date=2017-02-09|accessdate=2017-02-09}}</ref>）<!-- 2017-02-09 -->
+* [[ドラえもん のび太の南極カチコチ大冒険]]（ユカタン）<!-- 2017-03-02 -->
+* [[チェインクロニクル]]（2017年 - 2023年、ナフヴァム、フローリア、ニール、ラール、妖精弓手）<!-- 2017-03-02 -->
+* [[Shadowverse]]（2017年 - 2020年、メルヴィ、エルフクイーン、死月の使徒、ルリア、ピンクぴにゃこら太）<!-- 2017-03-30 -->
+* [[ファイアーエムブレム Echoes もうひとりの英雄王]]（'''セリカ'''<ref>{{Cite web2|df=ja|publisher=[[任天堂]]|work=ファイアーエムブレム Echoes もうひとりの英雄王|url=https://www.nintendo.co.jp/3ds/ajjj/characters/index.html|title=キャラクター|accessdate=2017-03-15}}</ref>）<!-- 2017-04-20 -->
+* [[ファイアーエムブレム ヒーローズ]]（2017年 - 2026年、セリカ）<!-- 2017-05-15 -->
+* [[歌マクロス スマホDeカルチャー]]（2017年 - 2021年、'''レイナ・プラウラー'''）<!-- 2017-08-03 -->
+* [[御城プロジェクト:RE]]（高天神城<ref>{{Cite tweet|user=ShiroPro_STAFF|author=千狐（城プロRE公式アカウント）|number=894815608461590528|title=【新城娘紹介】 高天神城（★6 鉄砲）|date=2017-08-08|accessdate=2022-09-30|link=no}}</ref>、ヴァルトブルク城<ref>{{Cite tweet|user=ShiroPro_STAFF|author=千狐（城プロRE公式アカウント）|number=920183110989262848|title=【新城娘紹介】 ヴァルトブルク城（★6 盾）|date=2017-10-17|accessdate=2022-09-30|link=no}}</ref>、リーズ城<ref>{{Cite tweet|user=ShiroPro_STAFF|author=千狐（城プロRE公式アカウント）|number=940477397312225280|title=【新城娘紹介】 リーズ城（★6 弓）|date=2017-12-12|accessdate=2022-09-30|link=no}}</ref>）<!-- 2017-08-08 -->
+* [[セブンズストーリー]]（2017年 - 2018年、ノエル<ref>{{Cite web2|df=ja|work=セブンズストーリー（セブスト） 公式サイト|url=https://sevensstory.jp/#character|title=Characters|date=2017-08-18|accessdate=2021-01-06}}</ref>、ララ、レベッカ）<!-- 2017-08-18 -->
+* [[英雄伝説 閃の軌跡|英雄伝説 閃の軌跡III]]（'''ユウナ・クロフォード'''<ref>{{Cite journal|和書|journal=[[電撃PlayStation]]|issue=Vol.639|publisher=[[KADOKAWA]]|date=2017-05-25}}</ref>）<!-- 2017-09-28 -->
+* [[ファイアーエムブレム無双]]（'''セリカ'''<ref>{{Cite web2|df=ja|publisher=[[任天堂]]|work=ファイアーエムブレム無双|url=https://www.gamecity.ne.jp/fe/chara22.html|title=Character|accessdate=2017-09-21}}</ref>）<!-- 2017-09-28 -->
+* [[デスティニーチャイルド]]（ヘラ<ref>{{Cite tweet|user=destinyc_info|author=ディスティニーチャイルド【公式】|number=930406004910538754|title=「ヘラ」の声優さんを紹介するねー！|date=2017-11-14|accessdate=2022-09-30|link=no}}</ref>）<!-- 2017-11-24 -->
+* [[きららファンタジア]]（2017年 - 2022年、九条カレン<ref name="きらファン">{{Cite web2|df=ja|url=https://kirarafantasia.com/staff/ |title=STAFF |work=きららファンタジア 公式サイト|accessdate=2022-07-01}}</ref>、志摩リン{{R|きらファン}}、桜井美景<ref>{{Cite tweet|user=kirarafantasia|author=【公式】きららファンタジア|number=1423207195823464452|title=💫声優色紙プレゼント💫|date=2021-08-05|accessdate=2021-08-14|link=no}}</ref>）<!-- 2017-12-11 -->
+* [[コード・オブ・ジョーカー]] THE AGENTS（ラン・メイラン）
+| 2018年 |
+* [[プリンセスコネクト!Re:Dive|プリンセスコネクト！Re:Dive]]（2018年 - 2024年、'''ヒヨリ'''<ref>{{Cite web2|df=ja|publisher=[[Cygames]] |work=プリンセスコネクト！Re:Dive (プリコネR) 公式サイト|url=https://priconne-redive.jp/character/twinkle_wish/ |title=キャラクター |accessdate=2018-02-16}}</ref> / 春咲ひより）<!-- 2018-02-15 -->
+* [[戦場のヴァルキュリア4]]（'''レイリィ・ミラー'''<ref>{{Cite web2|df=ja|publisher=[[セガゲームス]]|url=http://portal.valkyria.jp/new/jp/|title=戦場のヴァルキュリア4|accessdate=2017-11-20}}</ref>）<!-- 2018-03-21 -->
+* [[暁のエピカ -Union Brave-]]（ベル<ref>{{Cite web2|df=ja|publisher=暁のエピカ -Union Brave- 公式サイト|url=https://epica.x-legend.co.jp/#chara|title=英雄|accessdate=2018-02-14}}</ref>）<!-- 2018-03-28 -->
+* 英雄伝説 閃の軌跡 IV -THE END OF SAGA-（'''ユウナ・クロフォード'''<ref>{{Cite journal|和書|journal=[[電撃PlayStation]]|issue=Vol.659|publisher=[[KADOKAWA]]|date=2018-03-29}}</ref>）
+* [[New ガンダムブレイカー]]（'''ミカグラ・ユイ'''）<!-- 2018 -->
+* [[夢間集]]（シュク<ref>{{Cite tweet|user=mukanshu|author=【公式】夢間集-ムカンシュウ-|number=928835299383197696|title=みんなのお姉さん「シュク」（CV：東山奈央）のことを紹介します！|date=2017-11-10|accessdate=2022-09-30|link=no}}</ref>）<!-- 2018-04-23 -->
+* [[マギアレコード 魔法少女まどか☆マギカ外伝]]（詩音千里）<!-- 2018-05-01 -->
+* [[BLAZBLUE CROSS TAG BATTLE]]（バティスタ<ref>{{Cite web|和書|url=https://www.blazblue.jp/tag/character/inbirth07.php|publisher=[[アークシステムワークス]]|title=バティスタ ｜ CHARACTER ｜ BLAZBLUE CROSS TAG BATTLE ｜ ブレイブルー　クロスタッグバトル 公式サイト 公式サイト|accessdate=2023-01-27}}</ref>） - DLC追加キャラクター<!-- 2018-06-19 -->
+* [[ファンタシースターオンライン2]]（マルガレータ＝オブ＝エピック）<!-- 2018-06-25 -->
+* [[ボンバーガール_(ゲーム)|ボンバーガール]]（'''シロ'''）<!-- 2018-08-30 -->
+* [[ファンタシースターオンライン2 es]]（2018年 - 2020年、デモリションコメット、ホーリーレイ、オプトレイオン、獅子咬、コンゴウ）<!-- 2018-09-12 -->
+* [[CARAVAN STORIES]]（リリ<ref>{{Cite web2|df=ja|url=https://caravan-stories.com/character/|publisher=Aiming|work=【公式】CARAVAN STORIES（キャラバンストーリーズ）|title=キャラクター|accessdate=2020-08-22}}</ref>）<!-- 2018-09-25 -->
+* ワイルドアームズ ミリオンメモリーズ（'''ブリトニー・シュルズベリィ'''<ref>{{Cite web2|df=ja|work=『ワイルドアームズ ミリオンメモリーズ』公式サイト|url=https://wild-arms.com|title=キャラクター|accessdate=2018-09-25|archiveurl=https://web.archive.org/web/20040319075021/https://wild-arms.com|archivedate=2004-03-19}}</ref>）<!-- 2018-09-26 -->
+* [[あかねさす少女]]（'''みあ シルバーストーン'''<ref>[https://web.archive.org/web/20180910133546/http://akanesasushojo-app.com/ "CHARACTER"]. ''あかねさす少女''. 2018年9月10日時点の http://akanesasushojo-app.com/#character よりアーカイブ。2018年9月10日閲覧。</ref>）<!--2018-10-->
+* [[ゆらぎ荘の幽奈さん 湯けむり迷宮]]（'''匣屋マチ'''<ref>{{Cite web2|df=ja|publisher=FURYU|work=ゆらぎ荘の幽奈さん 湯けむり迷宮|url=https://www.cs.furyu.jp/yuragisou/character/machi.html|title=Character|accessdate=2018-09-28}}</ref>）<!-- 2018-11-15 -->
+* [[プレカトゥスの天秤]]（リーフェ・ブロムダール<ref>{{Cite web2|df=ja|work=プレカトゥスの天秤 公式サイト|url=https://precatus.com/gelida/|title=WORLD/CHARACTER|accessdate=2018-09-28}}</ref>）<!-- 2018-10-31 -->
+* ましろウィッチ 真夜中のメルヒェン（'''朝日向万那'''〈活発〉<ref>{{Cite web2|df=ja|work=ましろウィッチ 公式サイト|url=http://www.jp.square-enix.com/mashirocchi/character/|title=キャラクター|accessdate=2017-03-27|archiveurl=https://web.archive.org/web/20170328105519/http://www.jp.square-enix.com/mashirocchi/character/|archivedate=2017-03-28}}</ref>）<!-- 2018-11-01 -->
+* [[アリス・ギア・アイギス]]（SOL ラプター、SOL ストライクラプター<ref>{{Cite web2|df=ja|work=「アリス・ギア・アイギス」公式サイト|url=https://colopl.co.jp/alicegearaegis/news/details/20181122000100.php|title=「メガミデバイス＜SOL ラプター＞」コラボイベント開催決定！　登場キャラクターや担当声優・東山奈央さんのインタビューを公開！|date=2018-11-22|accessdate=2021-01-06}}</ref>）<!-- 2018-11-29 -->
+* [[JUDGE EYES:死神の遺言]]（美浜さな）<!-- 2018-12-13 -->
+| 2019年 |
+* 47 HEROINES（'''飫肥萌'''<ref>{{Cite web2|df=ja|work=47-HEROINES|url=https://yunuo-games.jp/47-heroines/character/45/|title=キャラクター|accessdate=2018-11-15}}</ref>）<!--2019-02-14 -->
+* [[ソードアート・オンライン アーケード ディープ・エクスプローラー]]（'''リコ'''<ref>{{Cite web2|df=ja|url=https://mantan-web.jp/article/20190127dog00m200034000c.html |title=SAO：アーケード版「ディープ・エクスプローラー」3月19日稼働　美少女キャラのイラスト公開 |work=まんたんウェブ|publisher=MANTAN|date=2019-01-28 |accessdate=2019-01-28}}</ref>）<!-- 2019-03-19 -->
+* [[トリニティセブン -夢幻図書館と第7の太陽-]]（'''リーゼロッテ＝シャルロック'''<ref>{{Cite web2|df=ja|work=ゲーム「トリニティセブン -夢幻図書館と第7の太陽-」公式サイト|url=https://game.trinity-7.com/character2/#liese|title=キャラクター|accessdate=2019-04-18}}</ref>） <!-- 2019-03-22 -->
+* グリムエコーズ（'''シータ'''<ref>{{Cite web2|df=ja|publisher=[[スクウェア・エニックス]]|work=グリムエコーズ|url=https://www.jp.square-enix.com/project-echoes/|title=CHARACTER|accessdate=2018-09-21}}</ref>）<!-- 2019-03-28 -->
+* [[スーパーロボット大戦X-Ω]]（ゴマちゃん）<!-- 2019-04-16 -->
+* グランドサマナーズ（妖精弓手）<!-- 2019-04-24 -->
+* [[EVE rebirth terror]]（'''音無橘花'''<ref>{{Cite web2|df=ja|work=電撃オンライン|url=https://dengekionline.com/elem/000/001/869/1869550/|title=『EVE rebirth terror』キャストが判明。天城小次郎役は子安武人さん、法条まりな役は三石琴乃さん|accessdate=2019-01-26}}</ref>）<!-- 2019-04-25 -->
+* [[陰陽師 (ゲーム)|陰陽師本格幻想RPG]]（不知火<ref>{{Cite tweet|user=OnmyojigameJP|author=陰陽師本格幻想【公式】|number=1119526215872929793|title=【新式神情報】|date=2019-04-20|accessdate=2021-01-06|link=no}}</ref>）<!-- 2019-05-08 -->
+* [[ドラゴンクエストライバルズ]]（ロクサーヌ）<!-- 2019-05-23 -->
+* [[D.C.4 〜ダ・カーポ4〜]]（'''鷺澤有里栖'''<ref>{{Cite web2|df=ja|work=D.C.4 〜ダ・カーポ4〜|url=https://circus-co.jp/product/dc4/character/arisu|title=CHARACTER|accessdate=2019-01-19}}</ref>）<!-- 2019-05-31 -->
+* [[妖怪ウォッチ4 ぼくらは同じ空を見上げている]] / 4++（有星タエ、フウくん）<!-- 2019-06-20 -->
+* [[蒼天のスカイガレオン]]（クリスティーナ・リンドホルム）<!-- 2019-08-01 -->
+* [[ファンタジーライフ|ファンタジーライフ オンライン]]（アクア）<!-- 2019-09-01 -->
+* [[八月のシンデレラナイン]]（アメリア・サンダース<ref>{{Cite web2|df=ja|url=https://hachinai.com/character/thunders|publisher=八月のシンデレラナイン公式サイト|title=アメリア・サンダース｜キャラクター|accessdate=2020-12-12}}</ref>、志摩リン）<!-- 2019-09-05 -->
+* [[VARIOUS DAYLIFE]]（'''エフィル・メイ'''）<!-- 2019-09-20 -->
+* クロス×ロゴス（'''コロナ'''<ref>{{Cite web2|df=ja|url=https://crossxlogos.com/character/|title=CHARACTER|work=スマートフォン向けゲームアプリ『クロス×ロゴス』公式サイト|publisher=[[アニプレックス]]|accessdate=2019-06-25}}</ref>）<!-- 2019-09-24 -->
+* [[ザ・キング・オブ・ファイターズ|THE KING OF FIGHTERS '98 ULTIMATE MATCH Online]]（妖精弓手）<!-- 2019-10-25 -->
+* [[ゴブリンスレイヤー#スマートフォンゲーム|ゴブリンスレイヤー THE ENDLESS REVENGE]]（'''妖精弓手'''）<!-- 2019-12-28 -->
+| 2020年 |
+* [[ダンジョンに出会いを求めるのは間違っているだろうか 〜メモリア・フレーゼ〜]]（妖精弓手）<!-- 2020-01-31 -->
+* [[戦姫絶唱シンフォギアXD UNLIMITED]]（寺島詩織）<!-- 2020-03-13 -->
+* [[モンスターストライク]]（2020年 - 2025年、レビィ、アナスタシア、レイナ・プラウラー<ref>{{Cite web|url=https://prtimes.jp/main/html/rd/p/000000744.000025121.html|title=『マクロス7』『マクロスF』『マクロスΔ』×「モンスト」初コラボを12月14日（日）12：00より開催！|work=PR TIMES|publisher=株式会社MIXI|date=2025-12-11|accessdate=2025-12-13}}</ref>）<!-- 2020-04-03 -->
+* 絵師神の絆（'''[[ブラック・ジャック (架空の人物)|ブラック・ジャック]]'''<ref>{{Cite web2|df=ja|work=絵師神の絆|url=https://eshigami.com|title=公式サイト|accessdate=2018-10-15}}</ref>）<!-- 2020-04-07 -->
+* [[ファイナルファンタジー ブレイブエクスヴィアス]]（クレオメ<ref>{{Cite tweet|user=FBE_JP|author=FFBE公式|number=1248558845175234560|title=＼クレオメ役 東山奈央さんのビデオコメントをご紹介🎥／|date=2020-04-10|accessdate=2021-01-06|link=no}}</ref>）<!-- 2020-04-10 -->
+* スナイパイ71（'''ミウ'''<ref>{{Cite web2|df=ja|publisher=ドリームニュース|work=ネット株式会社のプレスリリース|url=https://www.dreamnews.jp/press/0000213341/|title=おうちで「スナイパイ71」を実現！待望のシミュレーターアプリを緊急発売！|date=2020-04-13|accessdate=2020-09-30}}</ref>）<!-- 2020-04-13 -->
+* [[共闘ことばRPG コトダマン]]（2020年 - 2022年、レイピアサシン<ref>{{Cite tweet|user=kotodaman_pr|author=【公式】コトダマン運営会議|number=1263723014769848320|title=【キャラ紹介】必殺必笑・レイピアサシン(cv:#東山奈央)|date=2020-05-22|accessdate=2022-09-30|link=no}}</ref>、ダセット、イケロスヌーズ、レイナ・プラウラー<ref>{{Cite web2|df=ja|url=https://kotodaman.jp/info/detail/075746UBEUudiZ6k.html|title=マクロスΔ＆マクロスF × コトダマンコラボ開催!!|work=【公式】共闘ことばRPG コトダマン|date=2021-10-28| accessdate=2021-11-27}}</ref>、アナスタシア）<!-- 2020-05-22 -->
+* [[英雄伝説 創の軌跡]]（'''ユウナ・クロフォード'''<ref>{{Cite web2|df=ja|publisher=[[日本ファルコム]]|work=英雄伝説 創の軌跡|url=https://www.falcom.co.jp/hajimari/story/erebonia.html|title=CHARACTER|accessdate=2020-03-27}}</ref>）<!-- 2020-08-27 -->
+* [[ラングリッサー モバイル]]（方舟の聖女 / リコリス・ロヴィナー）<!-- 2020-09-22 -->
+* ビーナスイレブンびびっど!（更科瑠夏<ref>{{Cite web2|df=ja|publisher=Amajor6 スタッフブログ|url=https://amajor6.net/blog/?p=31515|title=『ビーナスイレブンびびっど！』 × TVアニメ『彼女、お借りします』コラボイベント開催決定！|accessdate=2020-09-20}}</ref>）<!-- 2020-09-24 -->
+* [[ファイナルギア -重装戦姫-]]<ref>{{Cite web2|df=ja|work=電撃オンライン|url=https://dengekionline.com/articles/45836/|title=100人以上の美少女が活躍！ クラフトメカRPG『ファイナルギア-重装戦姫-』事前登録開始|date=2020-08-06|accessdate=2020-08-30}}</ref><!-- 2020-10-09 -->
+* [[クイズRPG 魔法使いと黒猫のウィズ]]（ヤーシャラージャ・ローカパーラ<ref>{{Cite tweet|user=naobou_official|author=東山奈央 オフィシャル|number=1317404705564155905|title=「魔法使いと黒猫のウィズ」新イベント「SOUL BANKER」にて、ヤーシャラージャ・ローカパーラ役で出演いたします。|date=2020-10-17|accessdate=2022-09-30|link=no}}</ref>、シャスティ）<!-- 2020-10-19 -->
+* スタースマッシュ（'''ケイ'''<ref>{{Cite web2|df=ja|work=【公式】スタースマッシュ|url=https://star-smash.jp|title=CHARACTERS|accessdate=2020-10-29}}</ref>）<!-- 2020-11-16 -->
+* RANBU 三国志乱舞（'''孫尚香'''、華雄<ref>{{Cite web2|df=ja|publisher=[[スクウェア・エニックス]]|work=RANBU 三国志乱舞|url=https://www.jp.square-enix.com/RANBU/character/go.html|title=CHARACTER|accessdate=2020-10-30}}</ref>）<!-- 2020-11-16 -->
+* [[HoneyWorks Premium Live]]（'''高見沢アリサ'''）<!-- 2020-11-18 -->
+* [[STARHORSE4]]（北方くるみ）<!-- 2020-11-20 -->
+* [[グリザイアシリーズ|グリザイア クロノスリベリオン]]（2020年 - 2023年、'''逢沢永夏'''<ref>{{Cite web2|df=ja|publisher=フロントウィング|work=グリザイア クロノスリベリオン|title=キャラクター|url=https://gri-chro.grisaia-pt.com/chara09.html|accessdate=2019-07-27}}</ref><ref>{{Cite web|和書|publisher=フロントウィング|work=グリザイア クロノスリベリオン|title=キャラクター|url=https://gri-chro.grisaia-pt.com/chara_gcr10/|accessdate=2023-01-20}}</ref>） - 2作品{{Ras|アプリ版（2020年 - 2021年）<!-- 2020-11-26 -->、PC版（2023年）<!-- 2023-04-28 -->}}
+* 百鬼異聞録〜妖怪カードバトル〜（不知火<ref>{{Cite tweet|user=OnmyojiCard|author=【公式】百鬼異聞録~妖怪カードバトル~|number=1335433787983896578|title=【新登場式神紹介】 #不知火（CV:#東山奈央）|date=2020-12-06|accessdate=2022-09-30|link=no}}</ref>）<!-- 2020-12-10 -->
+* [[サクラ革命 〜華咲く乙女たち〜]]（'''最明クルミ'''<ref>{{Cite web2|df=ja|work=サクラ革命 〜華咲く乙女たち〜（サクラ革命）公式サイト|url=https://sakura-kakumei.sega.jp/character/list02.html|title=CHARACTER 大帝國華撃団B.L.A.C.K. 一覧|accessdate=2020-09-02}}</ref>）<!-- 2020-12-15 -->
+* [[ファンタジア・リビルド]]（レクティ・アイゼナッハ<ref>{{Cite tweet|user=project_frb|author=【公式】ファンタジア・リビルド|number=1327264989678333952|title=【毎日当選🎉事前登録開始記念CP】|date=2020-11-14|accessdate=2022-09-30|link=no}}</ref><ref>“[https://web.archive.org/web/20201101013716/https://project-frb.jp/staff/ STAFF&CAST]”. ''ファンタジア・リビルド - ファンタジア文庫作品が集うクロスオーバーRPG''. [[KADOKAWA]]. 2020年11月1日時点の https://project-frb.jp/staff/ よりアーカイブ。2020年11月1日閲覧。</ref>）<!-- 2020-12-17 -->
+* [[ラブライブ! スクールアイドルフェスティバル|ラブライブ! スクールアイドルフェスティバルALL STARS]]（高坂雪穂<ref>{{Cite web2|df=ja|url=https://lovelive-as.bushimo.jp/staffcast/|title=staff/cast|publisher=[[スクスタ]]|accessdate=2021-09-03}}</ref>）<!-- 2020 -->
+| 2021年 |
+* [[うみねこのなく頃に|うみねこのなく頃に咲 〜猫箱と夢想の交響曲〜]]（ピース<ref>{{Cite web2|df=ja|work=うみねこのなく頃に咲 〜猫箱と夢想の交響曲〜 オフィシャルサイト|url=https://www.entergram.co.jp/umineko/character.html|title=登場人物|accessdate=2020-10-06}}</ref>）<!-- 2021-01-28 -->
+* [[D.C.4 〜ダ・カーポ4〜|D.C.4 Fortunate Departures 〜ダ・カーポ4〜 フォーチュネイトデパーチャーズ]]（'''鷺澤有里栖'''<ref>{{Cite web2|df=ja|work=D.C.4 Fortunate Departures|url=https://circus-co.jp/product/dc4fd/character/arisu/|title=鷺澤有里栖|accessdate=2020-10-23}}</ref>、'''鷺澤有里咲'''<ref>{{Cite web2|df=ja|work=D.C.4 Fortunate Departures|url=https://circus-co.jp/product/dc4fd/character/arisa/|title=鷺澤有里咲|accessdate=2020-11-13}}</ref>）<!-- 2021-02-26 -->
+* [[ゆるキャン△|ゆるキャン△ VIRTUAL CAMP]]（'''志摩リン'''<ref>{{Cite web2|df=ja|publisher=ナターシャ|work=コミックナタリー|url=https://natalie.mu/comic/news/407184|title=「ゆるキャン△」がVRゲーム化、なでしこ・リンとバーチャルキャンプ体験|date=2020-12-02|accessdate=2020-12-02}}</ref>）<!-- 2021-03-04 -->
+* ロードオブヒーローズ（'''シャーロット'''<ref>{{Cite tweet|user=lordofheroes_jp|author=【公式】世界革命RPG✨ロードオブヒーローズ✨|number=1369559280525840386|title=◣ 声優クイズ第6弾：正解発表 ◥|date=2021-03-10|accessdate=2022-10-01|link=no}}</ref>）<!-- 2021-04-21 -->
+* [[精霊幻想記#精霊幻想記アナザーテイル|精霊幻想記アナザーテイル]]（'''リーゼロッテ＝クレティア'''）<!-- 2021-05-20 -->
+* アニマエ・アルケー（音依〈ネイ〉<ref>{{Cite tweet|user=animae_arche|author=【公式】アニマエ・アルケー|number=1343752652857872385|title=音依(ネイ)CV：＃東山奈央|date=2020-12-29|accessdate=2022-10-01|link=no}}</ref>）<!-- 2021-05-27 -->
+* 終末のアーカーシャ（ノーチラス<ref>{{Cite tweet|user=akashabook_jp|author=終末のアーカーシャ|number=1398474175359205378|title=【新キャラ-幻書入館】|date=2021-05-29|accessdate=2022-10-01|link=no}}</ref>）<!-- 2021-07-29 -->
+* ピーチボーイリバーサイド バトルサーガ（'''ミコト'''<ref>{{Cite web2|df=ja|work=Social Game Info|url=https://gamebiz.jp/news/298022|title=CTW、7月より放送開始のTVアニメ「ピーチボーイリバーサイド」のゲーム化決定！　本日より事前登録開始！|accessdate=2021-06-11}}</ref>）<!-- 2021-07-29 -->
+* [[PARQUET]] （'''茨木リノ、城門ツバサ'''<ref>{{Cite web2|df=ja|date=|url=http://www.yuzusoft-sour.com/products/parquet/index.html|title=PARQUET OFFICIAL WEBSITE|publisher=|accessdate=2021-07-30}}</ref>）<!-- 2021-07-31 -->
+* [[彼女、お借りします ヒロインオールスターズ]]（'''更科瑠夏'''<ref>{{Cite web2|df=ja|work=かのぱず『彼女、お借りします ヒロインオールスターズ』運営サイト|url=https://kanokari-puzzle.enish.com/character/|title=ヒロイン|accessdate=2021-06-17}}</ref>）<!-- 2021-09-02 -->
+* [[ゆるキャン△|ゆるキャン△ Have a nice day!]]（'''志摩リン'''<ref>{{Cite web2|df=ja|publisher=[[MAGES.]]|work=Switch/PS4「ゆるキャン△ Have a nice day!」|url=https://game.mages.co.jp/yurucamp/|title=Character|accessdate=2021-05-21}}</ref>）<!-- 2021-09-30 -->
+* [[ラグナドール 妖しき皇帝と終焉の夜叉姫]]（閻魔王<ref>{{Cite web2|df=ja|work=ラグナドール 公式サイト|url=https://ragnador.jp|title=キャラクター|accessdate=2021-07-27}}</ref>）<!-- 2021-10-21 -->
+* [[ガーディアンテイルズ]]（ナリ<ref>{{Cite tweet|user=GuardianTalesJP|author=ガーディアンテイルズ公式|number=1467010914839064576|title=【英雄紹介】 ナリはバスケットを扱う無属性の遠隔アタッカーです。|date=2021-12-04|accessdate=2022-10-01|link=no}}</ref>）<!-- 2021-11-30 -->
+| 2022年 |
+* [[アイドルマスター ポップリンクス]]（川島瑞樹<ref>{{Cite web|和書|publisher=[[バンダイナムコエンターテインメント]]|work=アイドルマスター ポップリンクス（ポプマス）|url=https://poplinks.idolmaster-official.jp/idol/detail.php?ch=lf1m7yfc|title=IDOL アイドル紹介|accessdate=2022-01-10}}</ref>）<!-- 2022-01-10 -->
+* ミコノート はれときどきけがれ（井上カグラ<ref>{{Cite web|work=ミコノート公式サイト|url=https://mikonote.jp/|title=CHARACTER|accessdate=2022-02-19|archiveurl=https://web.archive.org/web/20220626001541/https://www.mikonote.jp/|archivedate=2022-06-26}}</ref>）<!-- 2022-02-21 -->
+* プリコネ！グランドマスターズ（'''ヒヨリ'''<ref>{{Cite web|和書|url=https://priconne-grandmasters.jp/|title=リーダー|work=プリコネ！グランドマスターズ|accessdate=2022-04-03}}</ref>）<!-- 2022-04-01 -->
+* [[みんなで早押しクイズ]]（神志名サオリ<ref>[https://twitter.com/minhayaofficial/status/1544622189210746883 2022年7月6日19時00分の投稿] - みんなで早押しクイズ公式X（旧Twitter）。2023年8月15日閲覧。</ref>）
+* [[セガNET麻雀 MJ]]（新子憧<ref>{{Cite web2|df=ja|publisher=セガ|url=https://www.sega.jp/topics/detail/220808_3/|title=セガNET麻雀『MJ』シリーズと『咲-Saki-阿知賀編』がコラボ！|accessdate=2022-08-08}}</ref>） - 2作品{{Ras|『セガNET麻雀 MJ』（2022年）<!-- 2022-08-08 -->、『[[セガNET麻雀 MJ Arcade|Arcade]]』（2022年）<!-- 2022-08-08 -->}}
+* [[ソウルハッカーズ2]]（ナナ<ref>{{Cite web2|df=ja|publisher=アトラス|url=https://soul-hackers.jp/dlc/#scenario|title=追加シナリオ「Lost Numbers」|work=ソウルハッカーズ2 - 公式サイト|accessdate=2022-09-22}}</ref>） - DLC追加キャラクター<!-- 2022-08-25 -->
+* フェアリーフェンサー エフ Refrain Chord（ハーラー<ref>{{Cite web2|df=ja|publisher=コンパイルハート|url=https://www.compileheart.com/fairyfencer_f/rc/chara/?page=7|title=CHARACTER|work=フェアリーフェンサー エフ Refrain Chord|accessdate=2022-09-22}}</ref>）<!-- 2022-09-15 -->
+* 三国ドライブ（瀬川ひろ<ref>{{twitter_status|SangokuDrive|1583654376396111872}}</ref>）<!-- 2022-10-20 -->
+* [[タクティクスオウガ リボーン]]（ユーリア・ウォルフ）<!-- 2022-11-11 -->
+* [[雀魂]]（新子憧<ref>{{twitter_status|MahjongSoul_JP|1588727811996532741}}</ref>）<!-- 2022-11-16 -->
+* ゴブリンスレイヤー エンドレスハンティング（'''妖精弓手'''<ref>{{Cite web|和書|publisher=[[CTW|G123]]|url=https://g123.jp/bbs/70/thread/21971?lang=ja|title=G123最新作ゲーム「ゴブリンスレイヤー エンドレスハンティング」のキービジュアルとティザーPVを同時公開！|accessdate=2022-10-07}}</ref>）<!-- 2022-12-20 -->
+| 2023年 |
+* [[ファイアーエムブレム エンゲージ]]（セリカ<ref>{{Twitter status2|FireEmblemJP|1580468384122245121|2022年10月13日|accessdate=2022-10-14}}</ref>）<!-- 2023-01-20 -->
+* [[ブルーアーカイブ -Blue Archive-]]（2023年 - 2025年、聖園ミカ<ref>{{Twitter status2|Blue_ArchiveJP|1617371606233550848|4=ブルーアーカイブ公式@Blue_ArchiveJPの2023年1月23日のツイート|5=2023年1月23日}}</ref><!-- 2023-01-24 --><ref>{{Twitter status2|Blue_ArchiveJP|1946537447573336483|4=ブルーアーカイブ公式@Blue_ArchiveJPの2025年7月19日のツイート|5=2025年7月26日}}</ref><!-- 2025-07-22 -->）<!-- 2023-01-24 -->
+* [[D.C.5 〜ダ・カーポ5〜]]（鷺澤有里咲<ref>{{Cite web|和書|work=D.C.5 〜ダ・カーポ5〜|url=https://circus-co.jp/product/dc5/characters/unknown-girl/|title=D.C.5 〜ダ・カーポ5〜|accessdate=2022-10-27}}</ref>）<!-- 2023-01-27 -->
+* [[ウマ娘 プリティーダービー]]（2023年 - 2024年、メジロラモーヌ<ref>{{Cite web|url=https://umamusume.jp/character/mejiroramonu|title=CHARACTER |work=ウマ娘 プリティーダービー 公式ポータルサイト|publisher=[[Cygames]]|accessdate=2023-02-22}}</ref>）<!-- 2023-02-24 -->
+* キュービックスターズ（アナスタシア<ref>{{Twitter status2|cubicstars_mixi|1656615221010780161|2023年5月11日|accessdate=2023-05-12}}</ref>）<!-- 2023-05-23 -->
+* [[ストリートファイター6]]（キンバリー）<!-- 2023-06-02 -->
+* [[アナザーエデン 時空を超える猫]]（エルシール）<!-- 2023-06-08 -->
+* ゆるキャン△ つなげるみんなのオールインワン!!（'''志摩リン'''<ref>{{Cite web2|df=ja|publisher=enish|url=https://yurucamp-game.enish.com/character/character_detail02_pc.php|title=キャラクター|work=ゆるキャン△スマホゲームプロジェクト|accessdate=2022-09-22}}</ref>）<!-- 2023-06-16 -->
+* [[一騎当千 エクストラバースト]]（妖精弓手<ref>{{Cite web|和書|publisher=マーベラス|url=https://www.marv.jp/product/ikki_eb/collaboration/goblinslayer/|title=『一騎当千エクストラバースト』公式サイト|accessdate=2023-07-19}}</ref>）<!-- 2023-07-19 -->
+* [[ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅]]（チマ<ref>{{Cite web|url=https://www.dragonquest.jp/monsters3/characters/cast.html|title=CHARACTERS|work=ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅|publisher=[[スクウェア・エニックス]]|accessdate=2024-03-04}}</ref>）<!-- 2023-12-01 -->
+* [[ヤマノススメ Next Summit 〜あの山に、もう一度〜]]（'''黒崎ほのか'''<ref>{{Cite web2|df=ja|publisher=ENTERGRAM|work=PS4/Switch「ヤマノススメ Next Summit ～あの山に、もう一度～」オフィシャルサイト|url=https://www.entergram.co.jp/yamanosusume-ns/character/|title=キャラクター|accessdate=2023-08-10}}</ref>）<!-- 2023-12-07 -->
+| 2024年 |
+* [[ゴブリンスレイヤー -ANOTHER ADVENTURER- NIGHTMARE FEAST]]（'''妖精弓手'''<ref>{{Cite web2|df=ja|publisher=ブシロードゲームズ|url=https://goblinslayer.bushiroadgames.com/#character|title=CHARACTER|work=ゴブリンスレイヤー -ANOTHER ADVENTURER- NIGHTMARE FEAST 公式サイト|accessdate=2023-03-26}}</ref>）<!-- 2024-02-29 -->
+* [[ユニコーンオーバーロード]]（'''クロエ'''<ref>{{Cite web|publisher=[[アトラス (ゲーム会社)|アトラス]]|work=ユニコーンオーバーロード - 公式サイト|url=https://unicorn-overlord.com/character/chloe/|title=CHARACTER|accessdate=2023-11-23}}</ref>）<!-- 2024-03-08 -->
+* [[マクロス -Shooting Insight-]]（レイナ・プラウラー）<!--2024-03-14-->
+* [[麻雀格闘倶楽部Sp]]（新子憧<ref>{{Cite web|和書|publisher=コナミデジタルエンタテインメント|url=https://p.eagate.573.jp/game/mfc/mfc_sp/news/info/2024/0422/saki/index.html|title=麻雀格闘倶楽部Sp|date=2024-04-19|accessdate=2024-04-24}}</ref>）<!-- 2024-04-22 -->
+* [[原神]]（ムアラニ<ref>{{Cite web |url=https://x.com/Genshin_7/status/1811611951132246407 |title=【声優発表】  ムアラニ　CV　東山奈央 |access-date=2024-08-28 |publisher=X}}</ref>）<!-- 2024-08-28 -->
+* [[勝利の女神:NIKKE]]（ヘンゼル＆グレーテル<ref>{{Cite web|url=https://dengekionline.com/article/202410/22548 |title=『NIKKE』双子のヘンゼル＆グレーテル（声優：東山奈央）は、交互にしゃべるオチャメな性格!? ニケへのインタビュー企画が公開中【勝利の女神：NIKKE（メガニケ）2周年】|work=電撃オンライン|publisher=KADOKAWA Game Linkage Inc. |date=2024-10-28 |accessdate=2025-05-13}}</ref>） <!-- 2024-10-31 -->
+* [[ドラゴンクエストIII そして伝説へ…#HD-2D版|ドラゴンクエストIII そして伝説へ…（HD-2D版）]]（キャラメイクボイス〈かわいい〉、レイアムランドの巫女 、他<ref>{{Twitter status2|naobou_official|1858478272872599912|access date=2024-11-19}}</ref>）<!-- 2024-11-14 -->
+* 魔女のふろーらいふ（'''リルベチカ'''<ref>{{Cite web|和書|work=ゲーム版『魔女のふろーらいふ』公式サイト|url=https://www.majyofurogame.com/|title=CHARACTER|accessdate=2024-11-08}}</ref>）<!-- 2024-11-26 -->
+* [[彼女、お借りします#ゲーム|彼女、お借りします 〜水平線と水着の彼女〜]]（'''更科瑠夏'''<ref>{{Cite web2|df=ja|publisher=MAGES.|url=https://kanokari.mages.co.jp/|title=「彼女、お借りします 〜水平線と水着の彼女〜」公式サイト|date=2024-08-05|accessdate=2024-08-05}}</ref>）<!-- 2024-11-28 -->
+| 2025年 |
+* ブラウンダスト2（妖精弓手<ref>{{Twitter status2|denfaminicogame|1920375718888026267|2025年5月8日|5=2025年5月20日}}</ref>）<!-- 2025-05-08 -->
+* [[鬼滅の刃 ヒノカミ血風譚2]]（'''須磨'''<ref>{{Cite web|url=https://game.kimetsu.com/hinokami2/character/?chara=41|title=CHARACTER|work=ゲーム「鬼滅の刃 ヒノカミ血風譚2」公式サイト|accessdate=2025-08-02}}</ref>）<!-- 2025-08-01 -->
+* [[スーパーロボット大戦Y]]（レイナ・プラウラー）<!-- 2025-08-28 -->
+* [[牧場物語 ようこそ!風のバザールへ|牧場物語 Let's!風のグランドバザール]]（'''メイプル'''<ref>{{Cite web2|df=ja|work=『牧場物語 Let's!風のグランドバザール』公式サイト|publisher=[[マーベラス (企業)|マーベラス]]|url=https://www.bokumono.com/grabaza/characters/maple/#name|title=そよかぜタウンの人たち|accessdate=2025-03-29}}</ref>）<!-- 2025-08-28 -->
+* [[鵺の陰陽師|鵺の陰陽師 Summer◇Memories]]（'''藤乃代葉'''）<!-- 2025-11-04 -->
+| 2026年 |
+* [[プラグマタ]]（'''ディアナ'''<ref>{{Cite tweet|author=「プラグマタ」公式 |user=PRAGMATA_JP |number=1970854154999591082 |title=【ディアナ】 (識別番号D-I-0336-7) |date=2025-09-24 |accessdate=2026-04-07 }}</ref>）<!-- 2026-04-17 -->
+* [[ネコぱら セカイコネクト]]（ブラウニー<ref>{{Twitter status2|nekoconne|2051542406923739285|2026年05月05日}}</ref>）<!-- 2026-05-08 -->
+* m HOLD'EM（更科瑠夏<ref>{{Cite web ja|publisher=Sammy 2021|url=https://mpj-portal.jp/game/news/gacha/post-423/|title=【彼女、お借りしますコラボキャラガチャ(A)登場！】コラボキャラとスタンプを獲得してポーカーを楽しもう！|accessdate=2026-06-03}}</ref>）<!-- 2026-06-01 -->
+| 時期未定 |
+* [[幻想水滸伝 STAR LEAP]]（クロエ<ref>{{Cite web|和書|publisher=[[コナミ]]|url=https://www.konami.com/games/suikoden/star_leap/jp/ja/|title=CHARACTER|work=幻想水滸伝 STAR LEAP公式サイト|accessdate=2025-09-27}}</ref>）
+}}
+
+=== ドラマCD ===
+<!-- [[プロジェクト:声優#ドラマCD]]を参考にし記述してください。 -->
+{{定義リスト2
+| 2010年 |
+* [[グラール騎士団]]（シルマ）
+| 2011年 |
+* [[艶漢]]（山田アグリ）
+* [[グリオットの眠り姫]]（ローザ・アピアレード）※コミックス第1巻特典CD
+| 2012年 |
+* 暁のヴァンピレス 前奏曲 -side Adelaide × Malheureux-（'''アデレイド・アグレイアーデン'''）※コミックス付属CD<ref>{{Cite web2|df=ja|work=コミックナタリー|publisher=ナターシャ|url=https://natalie.mu/comic/news/79610|title=PEACH-PIT「暁のヴァンピレス」に東山奈央、田村ゆかり|accessdate=2012-11-08}}</ref>
+* あやつりピエロの物語（アリサ<ref>{{Cite web2|df=ja|publisher=あやつりピエロの物語 公式サイト|title=キャスト|url=http://www.team-e.co.jp/sp/pierrot/|accessdate=2012-08-24}}</ref>）
+* [[おれと一乃のゲーム同好会活動日誌#ドラマCD|おれと一乃のゲーム同好会活動日誌]] シリーズ（白崎リリス<ref>{{Cite web2|df=ja|publisher=EDGE RECORDS|url=https://edge-records.jp/title/ichino/|title=おれと一乃のゲーム同好会活動日誌 ドラマCD|accessdate=2013-07-31}}</ref>）
+* [[境界線上のホライゾンのディスコグラフィ#ドラマCD|境界線上のホライゾンHR]]（マルゴット・ナイト）
+* [[ココロコネクト]] 春とデートと妹ごっこ（円城寺紫乃）
+* [[咲-Saki-|咲-Saki- 阿知賀編 episode of side-A]] 「バイト&バイト」（'''新子憧'''）
+* 人狼 - Chaotic Time -（ステイシー・シェリング<ref>{{Cite web2|df=ja|publisher=ドラマCD「人狼 - Chaotic Time -」公式サイト|title=キャラクター|url=http://www.koepota.jp/wearwolf/chara.html|accessdate=2012-08-24}}</ref>）
+* [[ヒカルが地球にいたころ……]] ※小説第5巻ドラマCD同梱版
+* [[101番目の百物語]]（2012年 - 2015年、アリサ<ref name="101番目の百物語">{{Cite web2|df=ja|publisher=[[HOBiRECORDS]]|title=サウンドドラマ 101番目の百物語|url=http://www.hobirecords.com/101/|accessdate=2012-09-30}}</ref>） - 2作品{{Ras|『サウンドドラマ』（2012年）、『果てしない学園祭』（2015年）}}
+* [[僕のショパン|僕のショパン 名曲集&ドラマCDシリーズ ♯2リスト]]（女生徒D）
+| 2013年 |
+* [[おやすみなさいは一度だけ|いっしょに寝るの! 〜estate notturno〜]]（'''狭間菜月'''<ref>{{Cite web2|df=ja|publisher=おやすみなさいは一度だけシリーズ|url=http://www.asgard-japan.com/booston/cd_goodnight/estate_nott.html|title=キャスト|accessdate=2013-04-23}}</ref>）
+* [[なれる!SE]]（'''室見立華'''）
+* [[ぽちゃぽちゃ水泳部]]（'''伊藤初芽'''<ref>{{Cite web2|df=ja|url=http://www.3-arrows.info/list.html |title=商品一覧 |publisher=THREE ARROWS |accessdate=2013-05-23 |archiveurl=https://web.archive.org/web/20130529022221/http://www.3-arrows.info/list.html |archivedate=2013-05-29}}</ref>）
+* 伏 銀華と氷刃の猟奇録 巻之弐（'''道節'''）
+| 2014年 |
+* [[空戦魔導士候補生の教官]] （'''レクティ・アイゼナッハ'''<ref>{{Cite web2|df=ja|publisher=とらのあな|title=「空戦魔導士候補生の教官」ドラマCD 2014年11月20日発売決定！|url=http://www.toranoana.jp/info/dojin/kusen_madoushi/index.html|accessdate=2014-10-18}}</ref>）
+* [[Z/X#CD|Z/X -Zillions of enemy X- NC DramaCD]] (1)『[[超鋼神器ローレンシウム]]』（獅子島・L・七尾<ref>{{Cite web2|df=ja|publisher=|url=http://www.broccoli.co.jp/cd/title/BRDR1135_zx_nc_drama01.php|title=トレーディングカードゲーム「Z/X」から正義のドラマCDが登場！|accessdate=2014-08-15|archiveurl=https://web.archive.org/web/20140907212720/http://www.broccoli.co.jp/cd/title/BRDR1135_zx_nc_drama01.php|archivedate=2014-09-07}}</ref>）
+* フレイム王国興亡記 ドラマCD「乙女の戦い -Sweet Girl's War-」（'''ソニア・ソルバニア'''<ref>{{Cite web2|df=ja|publisher=とらのあな|url=http://www.toranoana.jp/toranoanarecords/flame_kingdom/index.html|title=フレイム王国興亡記 ドラマCD「乙女の戦い -Sweet Girl's War-」|accessdate=2014-11-15}}</ref>）
+| 2015年 |
+* [[のうりん]] ドラマCD（ナタリー<ref>[http://ga.sbcr.jp/bunko_blog/010151/021083/ 3月刊「のうりん10」はドラマCD付き限定特装版に特典も満載!] - GA文庫ブログ</ref>）※小説10巻ドラマCD付き限定特装版
+* [[うそカノ]] ドラマCD（'''神宮寺すばる'''）※コミックス第5巻ドラマCD付き特装版<ref>{{Cite web2|df=ja|publisher=白泉社 |url=https://www.hakusensha.co.jp/comicslist/42601/ |title=コミック情報 うそカノ 5 ドラマCD付き特装版|accessdate=2020-11-20}}</ref>
+* [[グランブルーファンタジー#ドラマCD|GRANBLUE FANTASY 臆病勇者と囚われの姫君 / 救国の忠騎士]]（2015年 - 2016年、ルリア）<!-- 2015-05-02 -->
+| 2016年 |
+* [[スターオーシャン5 -Integrity and Faithlessness-]]（'''ミキ・ソーヴェスタ'''）
+| 2017年 |
+* 劇的奇想音盤 艶漢（森園蔦枝）
+* [[ストライクウィッチーズ|ノーブルウィッチーズ6 第506統合戦闘航空団 疑心!]]（ジーナ・プレディ<ref>{{Cite web2|df=ja|url=http://sneakerbunko.jp/series/noble-witches/dramaCD04/index.php|title=CAST|accessdate=2017-02-24|publisher=スニーカー文庫公式サイト ザ・スニーカーWEB}}</ref>）※オリジナルドラマCD付同梱版
+* [[プリンセスコネクト!Re:Dive#音楽CD|プリンセスコネクト！Re:Dive PRICONNE CHARACTER SONG]]（2017年 - 2019年、ヒヨリ） - 2作品{{Ras|『PRICONNE CHARACTER SONG 01』（2017年）<!-- 2017-09-20 -->、『PRICONNE CHARACTER SONG 10』（2019年）<!-- 2019-10-30 -->}}
+| 2018年 |
+* [[温泉むすめ#ドラマCD|温泉むすめ ドラマCD]] Vol.3『北海道 Collection 北海道湯けむり横断記』（雪・キャニオン・層雲峡<ref>{{Cite web2|df=ja|url=https://onsen-musume.jp/news/4889|title=温泉むすめ ドラマCD 第二弾＆第三弾の試聴動画をアップ！|work=温泉むすめ公式サイト|date=2018-07-23|accessdate=2020-09-14}}</ref>）
+* [[ヤンキーショタとオタクおねえさん]]（姫野りんこ<ref>{{Cite news|publisher=アニメイト|work=アニメイトタイムズ|url=https://www.animatetimes.com/news/details.php?id=1507278291|title=ドラマCD『ヤンキーショタとオタクおねえさん』に出演する声優を一挙公開！ アニメイト各店での早期予約キャンペーンは10月22日まで開催|date=2017-10-09|accessdate=2017-10-09}}</ref>）
+| 2019年 |
+* [[ぼっちゃまは今日もイジられる]]（'''外囿ホカノ'''）
+| 2021年 |
+* [[響け!ユーフォニアム_(アニメ)#ドラマCD|「響け！ユーフォニアム」5th Anniversary Disc 〜きらめきパッセージ〜]]（傘木希美<ref>{{Cite web|和書 |url=https://anime-eupho.com/disc/ |title=5th Anniversary Disc 〜きらめきパッセージ〜 |accessdate=2024-08-29 |website=アニメ『響け！ユーフォニアム』公式サイト }}</ref>）<!-- 2021-03-24 -->
+| 2022年 |
+* [[ティアムーン帝国物語 〜断頭台から始まる、姫の転生逆転ストーリー〜]]（2022年 - 2023年、'''ラフィーナ・オルカ・ヴェールガ'''<ref>{{Cite web2|df=ja|publisher=[[TOブックス]]|url=https://www.tobooks.jp/tearmoon_dramacd/index.html|title=「ティアムーン帝国物語〜断頭台から始まる、姫の転生逆転ストーリー〜」ドラマCD特設サイト|accessdate=2021-12-04}}</ref>） - 2作品{{Ras|ドラマCD1（2022年）<!-- 2022-01-08 -->、ドラマCD2（2023年）<!-- 2023-04-10 -->}}
+| 2023年 |
+* [[ゆるキャン△]] ドラマCD〜野クルが作るキャンプマニュアル〜（'''志摩リン'''）<!-- 2022-06-28 -->
+}}
+
+=== 吹き替え ===
+* [[ダーククリスタル: エイジ・オブ・レジスタンス]]（2019年、ディート<ref>{{Cite web2|df=ja|work=4Gamer.net|url=https://www.4gamer.net/games/999/G999905/20190816031/|title=TVシリーズ「ダーククリスタル：エイジ・オブ・レジスタンス」の吹替キャストが公開|accessdate=2019-08-19}}</ref>）
+* [[百妖譜]]（2024年、'''桃夭'''<ref>{{Cite news|url=https://mantan-web.jp/article/20231126dog00m200026000c.html|title=百妖譜：日本語吹き替え版の声優に東山奈央、村瀬歩、河西健吾　中国の人気アニメ|newspaper=MANTANWEB|publisher=MANTAN|date=2023-11-27|accessdate=2023-11-27}}</ref>） - 2シリーズ{{Ras|第1期（2024年）<!-- 2024-01-11 #1 -->、第2期（2024年）<!-- 2024-10-03 #1 -->}}
+
+=== 人形劇 ===
+* [[Thunderbolt Fantasy 東離劍遊紀|Thunderbolt Fantasy 西幽玹歌]]（2019年、'''睦天命'''）
+* Thunderbolt Fantasy 東離劍遊紀3（2021年、'''睦天命'''）
+
+=== デジタルコミック ===
+* [[なみだうさぎ〜制服の片想い〜|なみだうさぎ]]（2011年、'''宇佐美桃花'''<ref>{{Cite web2|df=ja|url=http://www.artsvision.co.jp/data.php?id=1104 |title=東山奈央公式プロフィール |publisher=アーツビジョン |accessdate=2011-06-21 |archiveurl=https://web.archive.org/web/20150325152617/http://www.artsvision.co.jp/data.php?id=1104 |archivedate=2015-03-25}}</ref>）
+* [[告白実行委員会〜恋愛シリーズ〜]]『今好きになる』『ロメオ』（2015年 - 2017年、高見沢アリサ<ref>{{Cite web2|df=ja|url=https://honeyworks.jp/news/1865/|title=4thアルバム「何度だって、好き。〜告白実行委員会〜」商品全概要公開！|accessdate=2017-01-17}}</ref>） - 2作品
+* [[未成年だけどコドモじゃない]]（2017年、'''折山香琳'''）
+* [[聖剣学院の魔剣使い]]（2020年、'''リーセリア'''<ref>{{Cite web2|df=ja|title=【ボイスコミック】『聖剣学院の魔剣使い』0話＋1話|url=https://www.youtube.com/watch?v=eu8EIETlfRo|publisher=KADOKAWAオフィシャルチャンネル（YouTubeアカウント）|accessdate=2020-05-26}}</ref>）
+* [[ゲーセン少女と異文化交流]]（2020年、'''リリー'''）<!-- 2020-12-08 -->
+* 青春ヘビーローテーション（2021年、'''小坂奈緒'''<ref>{{Cite web2|df=ja|url=https://natalie.mu/comic/news/415160|title=木村良平・東山奈央ら出演「青春ヘビーローテーション」ボイスコミックがSho-Comiに|date=2020-08-20|accessdate=2024-08-02}}</ref>）<!--2021-02-05-->
+* 桜井さんは気づいてほしい（2021年、'''桜井咲耶'''<ref>{{Cite tweet|user=naobou_official|author=東山奈央|number=1430370566989508609|title=ボイスコミック「桜井さんは気づいてほしい」 桜井咲耶役で出演いたしました🙋|date=2021-08-25|accessdate=2022-10-01|link=no}}</ref>）
+*[[四つ子ぐらし]]（2021年、'''宮美一花'''）<!--2021-09-10-->
+* 悪役令嬢は嫌われ貴族に恋をする（2021年、'''エリス'''<ref>{{Cite news|title=「悪役令嬢は嫌われ貴族に恋をする」東山奈央×林勇でボイスコミック化、4週連続配信|work=コミックナタリー|publisher=ナターシャ|date=2021-10-06|url=https://natalie.mu/comic/news/448231|accessdate=2021-10-08}}</ref>）<!-- 2021-10-08 -->
+* [[じいさんばあさん若返る]]（2021年、斎藤詩織<ref>{{Cite web2|df=ja|url=https://prtimes.jp/main/html/rd/p/000009414.000007006.html|title=三木眞一郎＆能登麻美子がおしどり夫婦を演じる作品に、新たに東山奈央が出演！　シリーズ累計60万部突破の若返りコメディ『じいさんばあさん若返る』コミックス最新④巻発売＆ボイスコミック第2弾公開！ |accessdate=2021-10-22|website=PR TIMES}}</ref>）
+* [[神クズ☆アイドル]] 番外編（2022年、'''最上アサヒ'''）<!-- 2022-07-22 -->
+* [[我が焔炎にひれ伏せ世界]]（2022年、'''プロト'''<ref>{{Cite video|url=https://www.youtube.com/watch?v=Rhis2NyTFqw|title=【ボイスコミック】その少女、凶暴につき！？『我が焔炎にひれ伏せ世界』|medium=YouTube|publisher=KADOKAWAanime|date=2022-12-06|accessdate=2023-02-28}}</ref>）<!-- 2022-12-06 -->
+
+=== ラジオ ===
+<!-- 単発のゲスト出演などは不要。レギュラー番組のみ。 -->
+※は[[インターネットラジオ|インターネット配信]]。
+* [[神のみぞ知るセカイ#WEBラジオ|神のみぞ知るセカイ〜落とし神Calling you〜]]（2011年、[[音泉]]※）ラジオ内ミニ番組「東山奈央のかのんのおと」担当
+* [[神のみぞ知るセカイ#WEBラジオ|神のみぞ知るセカイ〜落とし神Calling you〜 女神篇]]（2013年 - 2014年、音泉※）
+* [[異国迷路のクロワーゼ#WEBラジオ|異国迷路のクロワーゼ・ロアの歩廊を歩きながら]]（2011年、[[HiBiKi Radio Station]]※）
+* [[まおゆう魔王勇者#Webラジオ|千和と奈央のまおゆうメイドラジオ]]（2011年、[[ニコニコ生放送]]※・[[ファミ通.com]]※）
+* [[ラジオどっとあい|東山奈央のなおのこと!奈央のこと♪]]（2012年、[[BBQR]]※）<ref>{{Cite web2|df=ja|url=http://www.agqr.jp/pginfo/2012/03/post-167.php |title=【新番組】ラジオどっとあい50代目が決定！「東山奈央のなおのこと！奈央のこと♪」 |accessdate=2012-03-28 |archiveurl=https://web.archive.org/web/20120402004353/http://www.agqr.jp/pginfo/2012/03/post-167.php |archivedate=2012年4月2日 <!--|deadlinkdate=2017年10月--> }}</ref>
+* [[咲-Saki-#インターネットラジオ|咲らじ-阿知賀女子学院麻雀部-]]（2012年、ニコニコ生放送※）隔回レギュラー
+* 千和と奈央のまおゆうメイドラジオ 第2期（2012年、ニコニコ生放送※・ファミ通.com※）
+* [[なれる!SE#WEBラジオ|なれる!SE 萌えるSE相談所]]（2012年、なれる!SE公式サイト※）
+* 千和と奈央のまおゆうメイドラジオ 第3期（2012年、ニコニコ生放送※・ファミ通.com※）
+* [[咲-Saki-#咲らじ-阿知賀女子学院麻雀部-|咲らじ-SP-]]（2013年、音泉※）不定期配信<ref>{{Cite web2|df=ja|url=http://www.saki-anime.com/blog/information/post_710/ |title=公式サイト「咲らじ-阿知賀女子学院麻雀部-SP- 配信開始！」|accessdate=2013-02-12}}</ref>
+* 千和と奈央のまおゆうメイドラジオα（2012年 - 2013年、ニコニコ生放送※・ファミ通.com※）隔回レギュラー
+* [[はたらく魔王さま!_(アニメ)#Webラジオ|ラジオでもはたらく勇者さま!]]（2013年、[[ランティスウェブラジオ]]※）
+* [[総武高校奉仕部ラジオ。]]（2013年、[[アニメイトTV]]※）<ref>[https://web.archive.org/web/20130227042133/http://www.animate.tv/radio/details.php?id=houshibu "総武高校奉仕部ラジオ。"]. ''アニメイトTV''. FRONTIER WORKS. 2013年2月27日時点のhttp://www.animate.tv/radio/details.php?id=houshibu{{リンク切れ|date=2022年10月|archiveurl=1}}よりアーカイブ。2013年3月3日閲覧。</ref>
+* [[魔法戦争#Webラジオ|ラジオ魔法戦争]]（2013年 - 2014年、音泉※<ref>{{Cite web2|df=ja|publisher=音泉|url=http://www.onsen.ag/blog/?p=32239|title=TVアニメ「魔法戦争」のラジオ配信決定！|accessdate=2013-12-16}}</ref>）
+* [[ニセコイ#Webラジオ|ニセコイラジオ]]（2014年、TVアニメ「ニセコイ」公式サイト※<ref>{{Cite web2|df=ja|publisher=アニプレックス|url=https://www.nisekoi.jp/1st/radio/|title=Webラジオ &#124; TVアニメ「ニセコイ」公式サイト|accessdate=2016-01-15}}</ref>）
+* [[東山奈央のドリーム*シアター]]（2014年 - 2017年、超A&G+※）
+* [[魔法戦争#Webラジオ|ラジオ魔法戦争〜番外編〜]]（2014年、音泉※<ref>{{Cite web2|df=ja|url=http://www.onsen.ag/blog/?p=35371 |title=「ラジオ魔法戦争〜番外編〜」配信決定!さらに・・・ |publisher=音泉 |accessdate=2014-06-20 |archiveurl=https://archive.is/20140620014643/http://www.onsen.ag/blog/?p=35371 |archivedate=2014年6月20日 <!--|deadlinkdate=2017年10月--> }}</ref>）
+* [[グランブルーファンタジー#ラジオ|ぐらぶるちゃんねるっ!]]（2014年 - 、[[ニコニコ動画]]※）<ref>{{Cite web2|df=ja|publisher=Cygames|title=CHANNEL|url=https://granbluefantasy.jp/channel/|accessdate=2014-10-21}}</ref>
+* 矢作紗友里・東山奈央のRADIO：XBLAZE（2014年 - 2015年、超!A&G+※）<ref>{{Cite web2|df=ja|url=http://www.agqr.jp/pginfo/2014/10/radioxblaze10924.php |title=矢作紗友里・東山奈央のRADIO：XBLAZE番組スタート |work=A&G番組情報 |accessdate=2014-10-07 |archiveurl=https://web.archive.org/web/20141008015821/http://www.agqr.jp/pginfo/2014/10/radioxblaze10924.php |archivedate=2014-10-08}}</ref>
+* [[Rhodanthe*|Rhodanthe*のおしゃべりモザイク]]（2015年 - 、[[フライングドッグ|FlyingDog]]※<ref>{{Cite web2|df=ja|title=Rhodanthe*ラジオサポーターズクラブ|url=http://sp.rhodanthe-rsc.jp/|accessdate=2015-02-17}}</ref>）
+* [[総武高校奉仕部ラジオ。続]]（2015年、アニメイトTV※）<ref>{{Cite web2|df=ja|url=http://www.animatetimes.com/radio/details.php?id=houshibu |title=総武高校奉仕部ラジオ。続 |publisher=アニメイトタイムズ |accessdate=2016-08-24}}</ref>
+* [[ニセコイ#Webラジオ|ニセコイラジオ:]]（2015年、TVアニメ「ニセコイ:」公式サイト※<ref>{{Cite web2|df=ja|publisher=アニプレックス|url=https://www.nisekoi.jp/radio/|title=Webラジオ &#124; TVアニメ「ニセコイ:」公式サイト|accessdate=2016-01-15}}</ref>）
+* [[落第騎士の英雄譚#Webラジオ|石上静香と東山奈央の英雄譚RADIO]]（2015年 - 2016年、音泉※・アニメイトTV※）<ref>{{Cite web2|df=ja|url=http://www.onsen.ag/program/rakudai/ |title=石上静香と東山奈央の英雄譚RADIO |publisher=音泉 |date=2015-09-04 |accessdate=2016-08-24}}</ref>
+* [[ろんぐらいだぁす!#ラジオ|ろんぐらいだぁす! らじおフレッシュ]]（2016年 - 2017年、音泉※）<ref>{{Cite web2|df=ja|url=http://www.onsen.ag/program/long/ |title=ろんぐらいだぁす！らじおフレッシュ |publisher=音泉 |date=2016-09-15 |accessdate=2016-10-14}}</ref>
+* [[魔法少女育成計画#Webラジオ|魔放送女育成計画]]（2016年 - 2017年、音泉※）<ref>{{Cite web2|df=ja|url=https://mahoiku.jp/news/index00230000.html |title=魔法少女育成計画 ラジオ配信決定！ |publisher=TVアニメ「魔法少女育成計画」公式サイト |date=2016-09-26 |accessdate=2016-09-29}}</ref>
+* [[東山奈央のラジオ@リビング]]（2017年 - 、超!A&G+※）
+* [[重神機パンドーラ#Webラジオ|東山奈央のパンドーRADIO クロエの家族日誌]]（2018年、音泉※）<ref>{{Cite web2|df=ja|url=http://www.onsen.ag/program/chloe_p/|title=東山奈央のパンドーRADIO クロエの家族日誌|publisher=音泉|accessdate=2018-04-09}}</ref>
+* [[カッコウの許嫁#Webラジオ|カッコウのプチラジオ]]（2022年、[[YouTube]]※）
+* カッコウのラジオ（生）（2022年、音泉※・YouTube※）
+* [[はたらく魔王さま!_(アニメ)#Webラジオ|ラジオでもはたらく魔王さま!!]]（2022年 - 2023年、超!A&G+※・YouTube※） - 2シリーズ{{Ras|1st Season（2022年）<!-- 2022-07-08 -->、2nd Season（2023年）<!-- 2023-07-08 -->}}
+* [[SHY_(漫画)#Webラジオ|SHY RADIO〜恥ずかしいけどパーソナリティー頑張ります！〜]]（2023年、音泉※）
+* [[声優ラジオのウラオモテ#Webラジオ|声優ラジオのウラカブリ]]（2024年、YouTube※）
+
+=== ラジオCD ===
+* DJCD [[総武高校奉仕部ラジオ。]] 〜sideA〜 / 〜sideB〜（2013年）
+* [[アイドルマスター シンデレラガールズ#ラジオ アイドルマスター シンデレラガールズ『デレラジ』|ラジオ アイドルマスター シンデレラガールズ『デレラジ』DVD Vol.5]]（2014年）ゲスト
+
+=== ナレーション ===
+<!-- 単発の担当などは不要です。レギュラー担当または期間担当のみ。 -->
+<!-- CMについては第3者出典があるものに限ります。スポンサーおよび声優の自己発信出典は無効です。 -->
+
+=== テレビ番組 ===
+<!-- 単発のゲスト出演などは不要。レギュラー番組のみ。 -->
+※は[[インターネットテレビ|インターネット配信]]。
+* [[AG学園 あに☆ぶん]]（2010年 - 2012年、[[テレビ神奈川|tvk]]）'''秋津かえで''' 役<!-- 2010-07-17 -->
+* [[境界線上のホライゾン]] 生勉強会（2011年 - 2012年、[[バンダイチャンネル]]※）<!-- 2011-06-26 -->
+* [[まおゆう魔王勇者#Webラジオ|なお☆えりの『まおゆう』盛り上げた〜い！]]（2013年、[[ニコニコ生放送]]※）<!-- 2013-01-11 -->
+* [[きんいろモザイク (アニメ)#ミニドラマ|きゅんいろモザイク]]（2013年、[[YouTube]]内「FlyngDog Channel」※<ref>{{Cite web2|df=ja|url=http://www.youtube.com/user/flyingDOGch|title=FlyngDog Channel公式サイト|work=動画まとめ|accessdate=2013-10-19}}</ref>）<!-- 2013-06-25 -->
+* 「[[犬神さんと猫山さん#関連番組|犬神さんと猫山さん]]」ワンだふる放送局みんなでみようニャン！（2014年、ニコニコ生放送※）<!-- 2014-04-08 -->
+* マクロスがとまらない（2017年 - 、[[SHOWROOM (ストリーミングサービス)|SHOWROOM]]※）<!-- 2017-01-06 -->
+* 東山奈央の月イチバラエティ番組 なおトーーク！（2019年 - 、[[LINE LIVE]]※）<!-- 2019-01-31 -->
+
+=== 映像商品 ===
+* 中川かのん starring 東山奈央 1st コンサート2012 Ribbon Revolution（2013年）
+* [[ハヤテのごとく!×神のみぞ知るセカイ・ジョイントコンサート2013 『本日、満開桜色!』]]（2013年）
+* [[声優DVD企画 宝探し|宝探し 探偵学園エデン 〜怪盗アビルからの挑戦〜]]（2014年）
+* [[人狼バトル|人狼バトル〜missing girl in fairyland〜]]（2014年）
+* Rhodanthe* Special Live BD 2014「ハロー*コンニチハ!!」@Zepp Tokyo 2014.5.4（2014年）
+* 中川かのん starring 東山奈央 2nd コンサート2014 Ribbon Illusion（2014年）
+* THE IDOLM@STER CINDERELLA GIRLS 2ndLIVE PARTY M@GIC!!（2015年）<ref>{{Cite web2|df=ja|url=https://columbia.jp/idolmaster/COXC-1151.html|title=アイドルマスター｜THE IDOLM@STER CINDERELLA GIRLS 2ndLIVE PARTY M@GIC!!|publisher=[[日本コロムビア]]|work=[[アイドルマスター シンデレラガールズ]]|accessdate=2016-05-22}}</ref>
+* THE IDOLM@STER CINDERELLA GIRLS 3rdLIVE シンデレラの舞踏会 -Power of Smile- Blu-ray Day2（2016年）<ref>{{Cite web2|df=ja|url=https://columbia.jp/idolmaster/COXC-1191.html|title=アイドルマスター｜THE IDOLM@STER CINDERELLA GIRLS 3rdLIVE シンデレラの舞踏会 -Power of Smile- Blu-ray BOX|work=[[アイドルマスター シンデレラガールズ]]|publisher=[[日本コロムビア]]|accessdate=2016-08-22}}</ref>
+* Rhodanthe* New Year Concert 2016 BD「FIRST*MODE」＠東京国際フォーラムホールA（2016）<ref>{{Cite web|和書|url=https://www.jvcmusic.co.jp/flyingdog/-/Discography/A024450/VTXL-27.html |title=作品詳細 > Rhodanthe* New Year Concert 2016 BD「FIRST*MODE」＠東京国際フォーラムホールA |website=FlyingDog Official Web Site |publisher=FlyingDog |accessdate=2025-03-02}}</ref>
+* Rhodanthe* Music Festival 2022 「大感謝!!」 ＠ぴあアリーナMM（2023年）<ref>{{Cite web|和書|url=https://www.jvcmusic.co.jp/flyingdog/-/Discography/A024450/VTXL-47.html |title=作品詳細 > Rhodanthe* Music Festival 2022 「大感謝!!」 ＠ぴあアリーナMM |website=FlyingDog Official Web Site |publisher=FlyingDog |accessdate=2025-03-02}}</ref>
+
+=== 舞台 ===
+* 朗読劇『[[まおゆう魔王勇者|まおゆう魔王勇者 エピソード0 はじまりに至る物語]]』昼の部・夜の部（2012年2月19日）
+** 『駄肉祭』（2012年12月29日）
+** 朗読劇『まおゆう魔王勇者 人間宣言 〜名もなき少女が 魂の解放を叫ぶ〜』昼の部・夜の部（2013年8月18日）
+* [[ノブナガ・ザ・フール#舞台|ノブナガ・ザ・フール]]（2013年12月8日、2014年4月6日・7月20日） - ヒミコの声（声の出演）
+* 詠唱劇「[[新本格魔法少女りすか]]」（2021年6月8日）水倉りすか、水倉破記 役<ref>{{Cite web2|df=ja|date=2021-06-08 |url=https://natalie.mu/stage/news/431589 |title=詠唱劇「新本格魔法少女りすか」第3話、東山奈央＆内田雄馬の「act.1」今夜配信 |website=[[ステージナタリー]] |publisher=ナターシャ |accessdate=2021-06-12}}</ref>
+* 舞台『[[少年アシベ#舞台|青少年アシベ]]』（2022年7月13日、17日、大手町三井ホール） - ゴマちゃんの声（声の出演）
+* 朗読ライブ「[[旅のラゴス#朗読ライブ|旅のラゴス]]」（2022年10月30日、Mixalive TOKYO Theater Mixa）
+* 朗読劇『[[魔法少女育成計画#朗読劇|森の音楽家クラムベリー外伝 魔法少女育成計画 UNRIPE DUET]]』（2023年1月28日 - 29日、[[草月ホール]]） - ミーヤ・オクターブ 役
+* 朗読劇『スノーホワイト育成計画』（2023年10月14日 - 15日、[[飛行船シアター]]） - '''スノーホワイト''' 役
+* 朗読劇『じいさんばあさん若返る』（2024年8月11日、[[科学技術館]] サイエンスホール） - 詩織 役<ref>{{Cite web|和書|url=https://natalie.mu/stage/news/577978|title=「じいさんばあさん若返る」が朗読劇に、三木眞一郎・能登麻美子らアニメの声優陣が出演|website=ステージナタリー|publisher=ナターシャ|date=2024-06-17|accessdate=2024-06-17}}</ref>
+
+=== パチンコ・パチスロ ===
+* [[パチスロ]] スナイパイ72（2013年、'''ミウ'''）
+* パチスロ [[まつりば!]]（2016年、'''紅音'''<ref>{{YouTube|yrCvgEirqVI|公式PV - スロット「まつりば！」特別動画}}. 2016年3月7日閲覧。</ref>）
+* パチスロ ドリスタせかんど（2017年、'''ミウ'''）<!-- 2017-03 -->
+* パチスロ シンデレラブレイド3（2017年、'''ミウ'''）<!-- 2017-09 -->
+* [[ゲート_自衛隊_彼の地にて、斯く戦えり#パチスロ|パチスロ GATE]]（2018年、'''レレイ・ラ・レレーナ'''）<!-- 2018-02 -->
+* [[咲-Saki-#パチンコ・パチスロ|P咲 -Saki- 阿知賀編 episode of side-A]]（2019年、'''新子憧'''）<!-- 2019-03 -->
+* パチスロ スナイパイ71（2020年、'''ミウ'''）<!-- 2020-04 -->
+* パチスロ 〜[[ガールズケイリン]]〜GIフェアリーグランプリ（2020年、'''武井リン'''）
+* [[ゴブリンスレイヤー#パチンコ・パチスロ|Lゴブリンスレイヤー]]（2023年、'''妖精弓手'''）<!-- 2023-04-17 -->
+* Pゴブリンスレイヤー（2023年、'''妖精弓手'''）<!-- 2023-05-08 -->
+
+=== オーディオドラマ ===
+* ラブボイスフェア [[カノジョは嘘を愛しすぎてる]]（2012年、'''理子'''<ref>{{Cite web|和書|url= https://natalie.mu/comic/news/82330 |title=戸松遥、櫻井孝宏ら参加、Cheese!作品をボイスドラマ化|publisher=コミックナタリー |date=2012-12-29 |accessdate=2024-08-02}}</ref>）
+* [[多数決ドラマ]]『[[青春ブタ野郎はバニーガール先輩の夢を見ない]] with [[さくら荘のペットな彼女]]』（2016年、古賀朋絵）<!-- 2016-02-05 -->
+* [[グランブルーファンタジー#OTOCA&アクキー限定セット|グランブルーファンタジー OTOCA]] 救国の四騎士 / 舞い歌う五花 / 氷晶宮でミックスパイを / 氷炎牆に鬩ぐ（2016年 - 2017年、ルリア）<!-- 2016-12-21 -->
+* [[彼女、お借りします#ボイスドラマ|かのかり デートムービー]]（2020年 - 2022年、'''更科瑠夏'''<ref>{{Cite tweet|user=kanokari_anime|author=((「彼女、お借りします」TVアニメ公式))|number=1281875882555191296|title=💕デートムービー💕|date=2020-07-11|accessdate=2022-10-01|link=no}}</ref>） - 2シリーズ{{Ras|第1期（2020年）<!-- 2020-07-11 -->、第2期（2022年）<!-- 2022-08-21 -->}}
+* [[スパイ教室]] 第3巻発売記念ボイスドラマ （2020年、ジビア<ref>{{Cite web2|df=ja|date=2020-08-15|url=https://ln-news.com/articles/109370|title=『スパイ教室』第3巻発売を記念したボイスドラマコードが重版幅広帯仕様の第1〜2巻と最新3巻の帯に付属　試聴動画も解禁|work=ラノベニュースオンライン|accessdate=2020-10-19}}</ref>）<!--2020-08-15-->
+* [[彼女、お借りします#大東建託リーシング「いい部屋ネット」|いい部屋ネット×彼女、お借りします]]オリジナル音声ドラマ 瑠夏ver（2020年、'''更科瑠夏'''<ref>{{Cite tweet|user=eheya_net|author=いい部屋ネット[公式]|number=1297731606271188992|title=＼#彼女お借りしますコラボ企画🎊／|date=2020-08-24|accessdate=2022-10-01|link=no}}</ref>）<!-- 2020-08-24 -->
+* 薬師の魔女ですが、なぜか副業で離婚代行しています 挿しボイスコード（2022年、'''カーラ'''<ref name="yakushi">{{Cite web|和書|publisher=[[ドリコム]]メディア|url=https://drecom-media.jp/drenovels/product/5|title=薬師の魔女ですが、なぜか副業で離婚代行しています|accessdate=2022-12-01}}</ref>）<!--2022-11-10-->
+* [[我が焔炎にひれ伏せ世界]] ボイスドラマ（2022年、'''プロト'''<ref>{{Cite video|url=https://www.youtube.com/watch?v=rWdoGgQ3_dU|title=遠野ひかる×ファイルーズあい×愛美×東山奈央×内田真礼『我が焔炎にひれ伏せ世界』ボイスドラマ|medium=YouTube|publisher=KADOKAWAanime|date=2022-11-30|accessdate=2023-02-28}}</ref>）<!-- 2022-11-30 -->
+* [[ゆるキャン△]] みんなで眺める冬の星空キャンプ！（2023年、'''志摩リン'''<ref>{{Cite web2|df=ja|url=https://mimicle.com/album/e5gsNTcf|title=ゆるキャン△　みんなで眺める冬の星空キャンプ！|website=mimicle|date=2023-06-16|accessdate=2023-08-08}}</ref>）<!-- 2023-06-16 -->
+* 悪役令嬢、セシリア・シルビィは死にたくないので男装することにした。〜もしかして運命の強制力!? ドキドキお菓子作り!〜（2023年、'''セシリア'''<ref>{{Cite web2|df=ja|url=https://beans.kadokawa.co.jp/blog/infomation/entry-3969.html|title=特報！　ボイスドラマ配信開始！　「悪役令嬢、セシリア・シルビィは死にたくないので男装することにした。」|website=角川ビーンズ文庫公式サイト|date=2023-10-06|accessdate=2023-11-08}}</ref>）
+* Go!プリンセスプリキュア ごきげんよう!10thドリームパーティー 新作オーディオドラマ「幻のキー!?夢開くオータムパーティー」（2026年、'''パフ'''<ref>{{Twitter status|precure_15th|2045064730281476169}}</ref>）
+
+=== オーディオブック ===
+* [[秘密 (谷崎潤一郎)|秘密]]（2022年、朗読<ref>{{Cite web2|df=ja|url=https://ebookstore.sony.jp/item/LT000174805001663676/|title=秘密【東山奈央：朗読音声付き】 : YOMIBITO|website=ソニーの電子書籍ストア -Reader Store|accessdate=2023-03-02}}</ref>）<!-- 2022-12-23 -->
+
+=== ASMR ===
+* 新・ねこぐらし。〜ハバナ猫娘 編〜（2021年、'''ハバナ猫'''<ref>{{Cite web2|df=ja|url=https://natalie.mu/music/news/443033|title=東山奈央、ストーリー×ASMR音声作品「新・ねこぐらし。」で“妹系猫娘”演じる|website=音楽ナタリー|accessdate=2022-06-25}}</ref>）
+* おしごとねいろ 〜キャンパー編〜（2022年、'''大山小峰'''<ref>{{Cite web2|df=ja|url=https://prtimes.jp/main/html/rd/p/000000019.000069770.html|title=ASMRレーベル「kotoneiro」の6月新作『おしごとねいろ 〜キャンパー編〜』が発売！人気声優・東山奈央がCVを担当！|website=PR TIMES|accessdate=2022-06-22}}</ref>）
+
+=== PV ===
+{{dl2
+| 2020年 |
+* [[MF文庫J]] 聖剣学院の魔剣使い PV（レオニス / リーセリア）<ref>{{Cite web2|df=ja|url=https://mfbunkoj.jp/blog/new/entry-9795.html|title=【新PV公開中！】『聖剣学院の魔剣使い』【有償特典紹介！】|publisher=MF文庫J編集部ブログ|accessdate=2020-01-16}}</ref>
+* [[富士見ファンタジア文庫]] [[スパイ教室]] PV（コードネーム〈百鬼〉）<ref>{{Cite web2|df=ja|url=https://prtimes.jp/main/html/rd/p/000006700.000007006.html|title=ライトノベル史上初、豪華声優8名起用のPV＆ヒロインボイス作戦も開始！ 「第32回ファンタジア大賞」《大賞》受賞作、『スパイ教室』ファンタジア文庫より1月18日発売！|publisher=PR TIMEES|accessdate=2020-01-17}}</ref>
+| 2021年 |
+* [[ドラゴンコミックスエイジ]] [[かいじゅう色の島]] PV（千川棔<ref>{{Cite web2|df=ja|url=https://natalie.mu/comic/news/418818|title=はっとりみつる「かいじゅう色の島」アニメPV公開、声優は東山奈央と上坂すみれ|work=コミックナタリー|publisher=ナターシャ|date=2021-03-05|accessdate=2021-03-20}}</ref>）
+* [[富士見ファンタジア文庫]] 両親の借金を肩代わりしてもらう条件は日本一可愛い女子高生と一緒に暮らすことでした。 PV（'''楓'''（主題歌「プライスレスLove」歌唱）<ref>{{Cite web2|df=ja|publisher=YouTube|work=KADOKAWAanime|url=https://www.youtube.com/watch?v=jA8M_oYpODo|title=【Official Music Video】両親の借金を肩代わりしてもらう条件は日本一可愛い女子高生と一緒に暮らすことでした。主題歌『プライスレスLove』PV（東山奈央×榎木淳弥）|date=2021-04-19|accessdate=2021-07-19}}</ref>））
+| 2022年 |
+* ファンタジア文庫『[[王様のプロポーズ]]』ヒロイン告白PV（'''不夜城瑠璃'''<ref>{{Cite video|url=https://m.youtube.com/watch?v=EDKy-nEkk50|title=ファンタジア文庫『王様のプロポーズ』ヒロイン告白PV第3弾【不夜城瑠璃 （CV.東山奈央）編】|medium=YouTube|publisher=KADOKAWA|date=2022-04-01|accessdate=2022-04-29}}</ref>）
+* 薬師の魔女ですが、なぜか副業で離婚代行しています PV（'''カーラ'''{{R|yakushi}}）<!-- 2022-11-04 -->
+| 2023年 |
+* にゃんたじあ！オリジナルアニメーション（'''魔法使いの女の子'''<ref>{{Cite video|url=https://www.youtube.com/watch?v=SAkSX2vp9HE|title=【サンリオ×日テレClaN】新規VTuberプロジェクト「にゃんたじあ！」オリジナルアニメーション|medium=YouTube|publisher=にゃんたじあ!|date=2023-08-24|accessdate=2023-10-02}}</ref>）<!-- 2023-08-24 -->
+* 魔女は満月に咲く（'''湊紫麻'''）<!-- 2023-10-31 -->
+| 2024年 |
+* [[鵺の陰陽師]]（'''藤乃代葉'''<ref>{{Twitter status2|NueNo_official|1785958140586168525|4=鵺の陰陽師【公式】の2024年5月2日のツイート|5=2024-05-04}}</ref>）<!-- 2024-05-02 -->
+}}
+
+=== その他コンテンツ ===
+* [[サンリオ]] [[ウィッシュミーメル]]（2014年、'''メル'''）
+* [[バンダイ]] [[Go!プリンセスプリキュア]] おしゃれヘアアレンジパフ（2015年、'''パフ'''）
+* [[千葉都市モノレール]]車内放送（2015年 - 2016年<ref>{{Cite web2|df=ja|url=http://chiba-monorail.co.jp/wp/wp-content/themes/2015/pdf/jikoku/HA11_gairu.pdf|format=PDF|title=2016年3月31日の時刻表<!--アナウンス実施予定を示す色分けあり-->|publisher=千葉都市モノレール|accessdate=2016-04-03}}</ref><ref>{{Cite web2|df=ja|url=http://chiba-monorail.co.jp/wp/wp-content/themes/2015/pdf/jikoku/HA21_gairu.pdf|format=PDF|title=2016年4月1日の時刻表<!--アナウンス実施の予定なし-->|publisher=千葉都市モノレール|accessdate=2016-04-03}}</ref>、由比ヶ浜結衣<ref>{{Cite web2|df=ja|format=PDF|publisher=千葉都市モノレール|title=やはり俺の青春ラブコメはまちがっている。続×千葉都市モノレール ラッピングモノレール 7/25（土）アニメキャラによる車内アナウンス開始!|url=http://chiba-monorail.co.jp/wp/wp-content/themes/2015/pdf/topic/20150706gairuannounce.pdf|accessdate=2015-07-06}}</ref>）
+* [[明石スクールユニフォームカンパニー]] PRキャラクター（2015年、神楽小町）
+* [[コナミアミューズメント|TAKASAGO広報課!]]（2016年、'''朝比奈ひなた'''<ref>{{Cite web2|df=ja|url=http://www.takasago-ei.jp/koho-ka/index.html|title=高砂電器産業株式会社｜製品情報 &#124; TAKASAGO広報課！|accessdate=2013-12-07}}</ref>）
+* [[温泉むすめ]]（2018年、雪・キャニオン・層雲峡<ref>{{Cite web2|df=ja|url=https://onsen-musume.jp/news/4653|title=新キャラクター「雪・キャニオン・層雲峡（ゆき・きゃにおん・そううんきょう）」を追加！|work=温泉むすめ公式サイト|accessdate=2018-06-29}}</ref>）
+* 『[[かがみの孤城]]』 オーディオブック（2019年、オオカミさま）<!--2019-11-20-->
+* 謎解きイベント「恋愛漫画のモブキャラになっていたんだが無事に元の世界に脱出できるだろうか?」（2020年、'''奈緒'''<ref>{{Cite web2|df=ja|url=https://natalie.mu/comic/news/392901|title=「青春ヘビーローテーション」の世界で胸キュン謎解き、声は東山奈央＆木村良平|date=2020-08-20|accessdate=2024-08-02}}</ref>）
+* [[Menu (アプリ)|menu]] [[彼女、お借りします]] 非売品オリジナルボイス付きスペシャルサンクスカード（2020年、'''更科瑠夏'''<ref>{{Cite press release|和書|publisher=menu株式会社のプレスリリース|url=https://prtimes.jp/main/html/rd/p/000000045.000046860.html|title=「かのかりヒロイン」たちのボイス付きスペシャルサンクスカードと豪華グッズが合計200名に当たる！『彼女、お借りします』×『menu』コラボキャンペーン11月27日（金）スタート！ |date=2020-11-26|accessdate=2020-12-31}}</ref>）<!-- 2020-11-27 -->
+* [[ヤマハ]] 「TW-E3B 志摩リンオリジナルカラー」音声ガイダンス（2021年、'''志摩リン'''<ref>[https://barks.jp/news/899481/ アニメ『ゆるキャン△』 x ヤマハがコラボ、志摩リン（CV:東山奈央）のボイスを収録したBluetoothイヤホン限定モデル「TW-E3B 志摩リンオリジナルカラー」],BARKS,2021年2月25日</ref>）
+* 一番近くて遠い星（2021年、'''香織'''<ref>{{Cite web2|df=ja|url=https://www.zkai.co.jp/home/cm/summerghost/|title=Cast & Staff|website=Ｚ会グループ×loundraw初監督映画作品「サマーゴースト」コラボレーション『一番近くて遠い星』|accessdate=2021-08-24}}</ref>）
+* [[霧島酒造]] 霧島ほろる/霧島するる TVCM（2023年、鳥の声<ref>{{Cite tweet|author=霧島酒造 |user=kirishimashuzo |title=霧島ほろる 霧島するる のTVCMで聞こえてくる鳥の声は… |number=1715888195718586753 |date=2023-10-22 |accessdate=2023-10-25}}</ref>）
+* バンダイ [[名探偵プリキュア]] ティアアルカナロッド（2026年、'''キュアアルカナ・シャドウ'''）
+
+== ディスコグラフィ ==
+{{For2|ワルキューレでの活動|ワルキューレ (マクロスΔ)}}
+=== シングル ===
+{|class="wikitable" style="font-size:small;"
+! rowspan="2"| !! rowspan="2"|発売日 !! rowspan="2"|タイトル !! colspan="3"|規格品番 !! rowspan="2"|[[オリコンチャート|オリコン]]<br />最高位<ref>{{Cite web2|df=ja|url=https://www.oricon.co.jp/prof/511142/rank/single/|title=東山奈央のシングル売上ランキング |work=ORICON NEWS |publisher=oricon ME |accessdate=2025-11-22}}</ref>
+|-
+! 限定盤 !! 通常盤 !! アニメ盤
+|-
+! 1st
+| 2017年2月1日 || '''[[True Destiny/Chain the world]]''' || VTZL-119 || VTCL-35252 || VTCL-35253 || 13位
+|-
+! 2nd
+| 2017年5月24日 || '''[[イマココ/月がきれい]]''' || VTZL-128 || VTCL-35256 || VTCL-35257 || 11位
+|-
+! 3rd
+| 2018年5月30日 || '''[[灯火のまにまに]]''' || VTZL-144 || VTCL-35275 || VTCL-35276 || 14位
+|-
+! 4th
+| 2020年2月5日 || '''[[歩いていこう!|歩いていこう！]]''' || VTZL-165 || VTCL-35312 || VTCL-35313 || 6位
+|-
+! 5th
+| 2021年11月3日 || '''[[冷めない魔法]]''' || VTZL-188 || VTCL-35335 || VTZL-189 || 10位
+|-
+! 6th
+| 2022年6月8日 || '''[[あの日のことば/Growing]]''' || VTZL-204 (A)<br />VTZL-205 (B) || VTCL-35348 || || 11位
+|-
+! 7th
+| 2023年7月26日 || '''[[door (東山奈央のシングル)|door]]''' || VTZL-228 || VTCL-35359 || VTZL-229 || 8位
+|-
+! 8th
+| 2024年10月23日 || '''星の伝言''' || VTZL-245 || VTCL-35378 || VTZL-246 || 10位
+|-
+! 9th
+| 2025年11月5日 || '''とおりゃんせ''' || VTZL-257 || VTCL-35388 || VTZL-258 || 8位
+|}
+
+=== アルバム ===
+{|class="wikitable" style="font-size:small;"
+! rowspan="2"| !! rowspan="2"|発売日 !! rowspan="2"|タイトル !! colspan="2"|規格品番 !! rowspan="2"|オリコン<br />最高位<ref>{{Cite web2|df=ja|url=https://www.oricon.co.jp/prof/511142/rank/album/|title=東山奈央のアルバム売上ランキング |work=ORICON NEWS |publisher=oricon ME |accessdate=2023-05-02}}</ref>
+|-
+! 限定盤 !! 通常盤
+|-
+! 1st
+| 2017年10月25日 || '''[[Rainbow (東山奈央のアルバム)|Rainbow]]''' || VTZL-140 || VTCL-60461 || 12位
+|-
+! 2nd
+| 2019年4月3日 || '''[[群青インフィニティ]]''' || VTZL-156 || VTCL-60495 || 9位
+|-
+! キャラ
+| 2020年8月5日 || '''[[Special Thanks!]]''' || VTZL-177 || VTCL-60535 || 3位
+|-
+! ミニ
+| 2021年5月12日 || '''[[off (アルバム)|off]]''' || VTZL-185 || VTCL-60545 || 4位
+|-
+! 3rd
+| 2022年9月28日 || '''[[Welcome to MY WONDERLAND]]''' || VTZL-214 || VTCL-60567 || 8位
+|-
+! ライブ
+| 2024年12月25日 || '''NAO TOYAMA Billboard Live 2024 “p.rhythm”''' ||  || FLDZM-5 || 30位
+|-
+! 4th
+| 2026年10月7日（予定） || '''OVER THE RAINBOW''' || VTZL-271（初回限定盤A･CD+Blu-ray）<br>VTZL-272（初回限定盤B） || VTCL-60702 ||
+|}
+
+=== 配信楽曲 ===
+{| class="wikitable" style="font-size:small;"
+! !! style="width:8em" | 発売日 !! style="width:60%;" | タイトル !! 備考
+|-
+! 1st
+| 2023年10月25日 || '''Shut Out My Lie''' || 
+|-
+! 2nd
+| 2023年11月29日 || '''真夜中の怪獣''' || 
+|-
+! 3rd
+| 2023年12月20日 || '''「年越し蕎麦は麺類ならなんでも良い」というのが我が家、古くからの伝統でありまして。当然ながら坦々麺やらワンタン麺、はたまたソーキそばでめんそーれでも構わないのであります。申し遅れました。私、飛犬の東山と申します。えーさてさて話は戻りまして、今年の年越し蕎麦はいったいなぁに?と申しますとあれが食べたいだのこれが食べたいだの毎度毎度の大騒ぎ。こっちの東山がラーメンと言えば、あっちの東山はナポリタンと言い出し、斜向かいの東山がわんこ蕎麦と言えば、3軒隣の東山はフォー!と言い張りもうすったもんだのヒトリーオンリーロンリー家族会議でございますがこれが大晦日の恒例行事、全麺類総選挙。押しつ押されつの激戦を勝ち抜き、栄えある第1位に輝いたのは、ドゥルルルルルルルルルルルルルルル ダンッ!かた焼きそばの餡掛け。料理は得意ではないもんで、頑張れと自分を奮い立たせるが、驚くなかれにゃんだって美味しく食べられる私がいるのであります。そろそろ餡掛けが完パケできそうになった頃、煩悩を消すための除夜の鐘が響き渡り餡掛けで願掛け、飛犬に幸あれ。なんやかんやわーわー言うてますけど、おめでたいからとにかくファンファーレ!全人類へのファンファーレ!'''<ref>{{Cite web|和書|title=【Music】歌手活動7周年・前夜祭企画 3カ月連続配信リリース決定！ |url=https://toyamanao.com/2023/10/24/digital/ |website=東山奈央 オフィシャルサイト |date=2023-10-24 |accessdate=2023-10-25}}</ref> || タイトル略称「（前略）全人類へのファンファーレ!」
+|-
+! rowspan="3"|ライブ
+| rowspan="3"|2024年12月4日 || '''Last Season (Acoustic Live)''' || rowspan="3"|NAO TOYAMA Billboard Live 2024 “p.rhythm” (Special Edition)
+|-
+| '''グー (Acoustic Live)'''
+|-
+| '''群青インフィニティ (Acoustic Live)'''
+|}
+
+=== タイアップ曲 ===
+{| class="wikitable" style="font-size:small;"
+! 楽曲 !! タイアップ !! 時期
+|-
+| True Destiny || アニメ『[[チェインクロニクル 〜ヘクセイタスの閃〜]]』テレビ版エンディングテーマ || rowspan="11"|2017年
+|-
+| Chain the world || アニメ『チェインクロニクル 〜ヘクセイタスの閃〜』イベント上映版オープニングテーマ
+|-
+| 風空花人 || アニメ『チェインクロニクル〜ヘクセイタスの閃〜』挿入歌
+|-
+| イマココ || テレビアニメ『[[月がきれい]]』オープニングテーマ<ref name="natalie20170314">{{Cite web|和書|url=https://natalie.mu/music/news/224515|title=東山奈央、2ndシングルにアニメ「月がきれい」OPとED収録|website=音楽ナタリー|publisher=ナターシャ|date=2017-03-14|accessdate=2025-09-27}}</ref>
+|-
+| 月がきれい || テレビアニメ『月がきれい』エンディングテーマ<ref name="natalie20170314" />
+|-
+| [[初恋 (村下孝蔵の曲)|初恋]] || rowspan="6"|テレビアニメ『月がきれい』挿入歌
+|-
+| [[やさしい気持ち]]
+|-
+| [[3月9日 (曲)|3月9日]]
+|-
+| [[夏祭り (JITTERIN'JINNの曲)|夏祭り]]
+|-
+| [[fragile (Every Little Thingの曲)|fragile]]
+|-
+| [[未来へ (Kiroroの曲)|未来へ]]
+|-
+| 灯火のまにまに || テレビアニメ『[[かくりよの宿飯]]』オープニングテーマ<ref>{{Cite web|和書|url=https://natalie.mu/music/news/276440|title=東山奈央が稲荷神社で舞う「灯火のまにまに」MV公開|website=音楽ナタリー|publisher=ナターシャ|date=2018-04-03|accessdate=2025-09-27}}</ref> || 2018年
+|-
+| 歩いていこう！ || テレビアニメ『[[恋する小惑星]]』オープニングテーマ<ref>{{Cite web|和書|url=https://barks.jp/news/858915/|title=東山奈央、TVアニメ『恋する小惑星』OP曲MV＆ジャケット公開|website=BARKS|publisher=BARKS|date=2019-12-26|accessdate=2025-09-27}}</ref> || 2020年
+|-
+| 冷めない魔法 || テレビアニメ『[[異世界食堂2]]』エンディングテーマ<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/442494|title=「異世界食堂2」OP&ED初披露の本PV公開、森の中のファルダニア描いたビジュアルも|website=コミックナタリー|publisher=ナターシャ|date=2021-08-26|accessdate=2025-09-27}}</ref> || 2021年
+|-
+| Growing || テレビアニメ『[[勇者、辞めます]]』エンディングテーマ<ref>{{Cite web|和書|url=https://barks.jp/news/935363/|title=東山奈央、TVアニメ『勇者、辞めます』EDテーマ担当|website=BARKS|publisher=BARKS|date=2022-02-25|accessdate=2025-09-27}}</ref> || rowspan="2"|2022年
+|-
+| あの日のことば || テレビアニメ『[[本好きの下剋上 (アニメ)|本好きの下剋上 司書になるためには手段を選んでいられません]]』第3期オープニングテーマ<ref>{{Cite web|和書|url=https://mantan-web.jp/article/20220312dog00m200013000c.html|title=東山奈央：「本好きの下剋上」テレビアニメ第3期　OP「あの日のことば」担当　「涙がこぼれてしまいそう」|website=MANTANWEB|publisher=MANTAN|date=2022-03-12|accessdate=2025-09-27}}</ref>
+|-
+| door || テレビアニメ『[[シュガーアップル・フェアリーテイル]]』第2クールエンディングテーマ<ref>{{Cite web|和書|url=https://barks.jp/news/972019/|title=東山奈央、TVアニメ『シュガーアップル・フェアリーテイル』第2クールエンディングテーマ『door』を7/26にリリース|website=BARKS|publisher=BARKS|date=2023-05-25|accessdate=2025-09-27}}</ref>
+|2023年
+|-
+| 星の伝言 || テレビアニメ『[[星降る王国のニナ]]』エンディングテーマ<ref>{{Cite web |url=https://barks.jp/news/535716/ |title=東山奈央、アニメ『星降る王国のニナ』EDテーマ「星の伝言」リリース決定 |publisher=[[BARKS]] |date=2024-07-31 |accessdate=2024-08-01}}</ref> || 2024年
+|-
+| とおりゃんせ || テレビアニメ『[[かくりよの宿飯 弐]]』オープニングテーマ<ref>{{Cite web|和書|url=https://natalie.mu/comic/news/635497|title=「かくりよの宿飯」第2期のティザーPV公開、大石昌良によるOP曲を東山奈央が歌う|website=コミックナタリー|publisher=ナターシャ|date=2025-08-08|accessdate=2025-08-08}}</ref> || rowspan="2"|2025年
+|-
+| 涙のレシピ || テレビアニメ『かくりよの宿飯 弐』エンディングテーマ<ref>{{Cite web|和書|url=https://www.animatetimes.com/news/details.php?id=1756433144|title=『かくりよの宿飯 弐』ED主題歌が東山奈央さんの「涙のレシピ」に決定！ Wタイアップを記念した生配信が実施決定|website=アニメイトタイムズ|publisher=アニメイト|date=2025-08-29|accessdate=2025-09-06}}</ref>
+|-
+|}
+
+=== 映像作品 ===
+{| class="wikitable" style="font-size:small;"
+! !! 発売日 !! タイトル !! 規格品番
+|-
+! 1st
+| 2018年5月30日 || '''東山奈央1st LIVE「Rainbow」at 日本武道館 ライブBlu-ray''' || VTXL-33
+|-
+! 2nd
+| 2019年12月18日 || '''1st TOUR“LIVE Infinity”at パシフィコ横浜 ライブBlu-ray''' || VTXL-39
+|-
+! 3rd
+| 2023年5月3日 || '''5th ANNIVERSARY TOUR「Welcome to MY WONDERLAND」 at パシフィコ横浜''' || VTXL-48
+|}
+
+=== 歌手参加作品 ===
+{| class="wikitable" style="font-size:small;"
+! 発売日 !! 商品名 !! 歌 !! 楽曲 !! 備考
+|-
+| 2017年7月5日 || 月がきれい サウンドコレクション
+| '''東山奈央'''
+| 「[[初恋 (村下孝蔵の曲)|初恋]]」<br />「[[やさしい気持ち]]」<br />「[[3月9日 (曲)|3月9日]]」<br />「[[夏祭り (JITTERIN'JINNの曲)|夏祭り]]」<br />「[[fragile (Every Little Thingの曲)|fragile]]」<br />「[[未来へ (Kiroroの曲)|未来へ]]」
+| テレビアニメ『[[月がきれい]]』挿入歌
+|-
+| {{nobr|2020年6月12日}} || なんてカラフルな世界！
+| [[オーイシマサヨシ]]（[[OxT]]）、[[KISHOW]]（[[GRANRODEO]]）、[[i☆Ris]]、[[亜咲花]]、[[雨宮天]]、'''東山奈央'''、幹葉（[[スピラ・スピカ]]）、[[鈴木愛奈]]、[[仲村宗悟]]、[[伊藤昌弘 (声優)|伊藤昌弘]]（[[Argonavis]]）
+| 「なんてカラフルな世界！」
+| ライブイベント『[[Animelo Summer Live#2020年|Animelo Summer Live 2020 -COLORS-]]』テーマソング
+|-
+| {{nobr|2024年5月22日}} || 魔王 / Amateras || [[BURNOUT SYNDROMES]] × '''東山奈央''' || 「魔王」 || テレビアニメ『[[魔王学院の不適合者 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜]] 2nd Season』オープニングテーマ<ref>{{Cite web |url=https://skream.jp/news/2024/05/burnout_syndromes_toyamanao_artist_photo.php |title=BURNOUT SYNDROMES、声優／歌手の東山奈央とコラボした新アー写公開。TVアニメ"魔王学院の不適合者 Ⅱ"2ndクールOPテーマ「魔王」MVを5/22公開 |publisher=skream! |date=2024-05-15 |accessdate=2024-05-17}}</ref>。<br/>「魔王」は4月13日に先行配信<ref>{{Cite web |url=https://skream.jp/news/2024/03/burnout_syndromes_toyamanao.php |title=BURNOUT SYNDROMES、TVアニメ"魔王学院の不適合者 Ⅱ"2ndクールOPテーマ「魔王」で声優／歌手の東山奈央とコラボ。ニュー・シングル5/22リリース決定 |publisher=skream! |date=2024-03-24 |accessdate=2024-05-17}}</ref>。
+|-
+|}
+
+=== キャラクターソング ===
+{{VOICE Notice Hidden|
+◆ 「キャラクター（声優名）」で統一すること。
+◆ 当記事の声優のみ「キャラクター（'''声優名'''）」とすること。
+◆ ユニットの場合は{{Vau}}を用いる。使い方は[[Template:Vau]]を参照。}}
+{| class="wikitable" style="font-size:small"
+! 発売日 !! 商品名 !! style="width:30%;"|歌 !! 楽曲 !! 備考
+|-
+| 2010年12月8日 || [[コイノシルシ]]
+| {{vau|神のみぞ知り隊|1}}
+| 「コイノシルシ」
+| テレビアニメ『[[神のみぞ知るセカイ]]』エンディングテーマ
+|-
+| rowspan="2"|{{nobr|2010年12月15日}} || rowspan="2"|[[神のみキャラCD#3 中川かのん|神のみキャラCD.3 中川かのん starring 東山奈央]]
+| rowspan="3"|中川かのん（'''東山奈央'''）
+| 「ハッピークレセント」
+| テレビアニメ『神のみぞ知るセカイ』挿入歌
+|-
+| 「コイノシルシ from Kanon」
+| rowspan="2"|テレビアニメ『神のみぞ知るセカイ』関連曲
+|-
+| 2011年3月3日
+| Birth
+| 「Date of Birth」<br />「LOVE KANON」<br />「YES-TODAY」<br />「ALL 4 YOU」<br />「ウラハラブ」<br />「想いはRain Rain」<br />「らぶこーる」<br />「ダーリンベイビ」<br />「Birth」
+|-
+| 2011年5月11日
+| 神のみぞ知るセカイ ROUTE 4.0 BD 限定版特典CD
+| {{vau|シトロン}}
+| 「恋、ヨロシクお願いします！」
+| テレビアニメ『神のみぞ知るセカイ』挿入歌
+|-
+| 2011年7月20日
+| 世界は踊るよ、君と。／ここからはじまる物語
+| rowspan="3"|湯音（'''東山奈央'''）
+| 「ここからはじまる物語」
+| テレビアニメ『[[異国迷路のクロワーゼ The Animation]]』エンディングテーマ
+|-
+| rowspan="2"|2011年8月24日
+| 異国迷路のクロワーゼ The Animation オリジナルサウンドトラック
+| 「咲いたさくら」<br />「見渡せば」<br />「遠く君へ」
+| テレビアニメ『異国迷路のクロワーゼ The Animation』関連曲
+|-
+| 異国迷路のクロワーゼ The Animation ラジオCD ロアの歩廊を歩きながら 出張盤
+| 「風にまかせて」
+| Webラジオ『異国迷路のクロワーゼ・ロアの歩廊を歩きながら』エンディングテーマ
+|-
+| rowspan="3"|2011年9月14日
+| 異国迷路のクロワーゼ The Animation ドラマCD 音語り
+| 湯音（'''東山奈央'''）、アリス（[[悠木碧]]）
+| 「ふたりの歌」
+| ドラマCD『音語り』エンディングテーマ
+|-
+| rowspan="2"|夏色サプライズ
+| rowspan="2"|中川かのん（'''東山奈央'''）
+| 「夏色サプライズ」
+| OVA『神のみぞ知るセカイ 4人とアイドル』オープニングテーマ
+|-
+| 「サマーボーイ」
+| テレビアニメ『神のみぞ知るセカイ』関連曲
+|-
+| 2011年11月18日
+| やはり俺の青春ラブコメはまちがっている。第3巻 限定版付属ドラマCD
+| 雪ノ下雪乃（[[早見沙織]]）、由比ヶ浜結衣（'''東山奈央'''）
+| 「Bright Generation」
+| ドラマCD『[[やはり俺の青春ラブコメはまちがっている。]]』挿入歌
+|-
+| 2011年12月21日
+| [[「神のみぞ知るセカイ」キャラクター・カバーALBUM 〜選曲:若木民喜〜]]
+| 中川かのん（'''東山奈央'''）
+| 「[[愛・おぼえていますか]]」
+| テレビアニメ『神のみぞ知るセカイ』関連曲
+|-
+| 2012年1月27日
+| [[境界線上のホライゾンのディスコグラフィ#BD特典CD|境界線上のホライゾン Blu-ray 第2巻 初回限定版特典CD]]
+| rowspan="2"| {{vau|愛繕}}
+| 「Morgen-Nacht」
+| rowspan="2"|テレビアニメ『[[境界線上のホライゾン]]』関連曲
+|-
+| 2012年2月24日
+| 境界線上のホライゾン Blu-ray 第3巻 初回限定版特典CD
+| 「Streiken Schreck」
+|-
+| 2012年3月3日
+| 桜色卒業｜バレバレ・バレンタイン
+| 中川かのん（'''東山奈央'''）
+| 「桜色卒業」<br />「バレバレ・バレンタイン」
+| テレビアニメ『神のみぞ知るセカイ』関連曲
+|-
+| 2012年4月25日
+| [[SquarePanicSerenade/Futuristic Player]]
+| 高鴨穏乃（悠木碧）、新子憧（'''東山奈央'''）、松実玄（[[花澤香菜]]）、松実宥（[[MAKO]]）、鷺森灼（[[内山夕実]]）
+| 「SquarePanicSerenade」
+| テレビアニメ『[[咲-Saki- 阿知賀編 episode of side-A]]』エンディングテーマ
+|-
+| 2012年5月9日
+| パパのいうことを聞きなさい！ 3 BD限定版特典CD
+| ルナフルール（'''東山奈央'''）、ルナノアール（[[佐倉綾音]]）
+| 「ルナルナGO!GO!」
+| テレビアニメ『[[パパのいうことを聞きなさい!|パパのいうことを聞きなさい！]]』関連曲
+|-
+| 2012年5月30日
+| 中川かのん starring 東山奈央 1st コンサート2012 Ribbon Revolution
+| 中川かのん（'''東山奈央'''）、ハクア（早見沙織）
+| 「アイノヨカン」<br />「コイノシルシ」
+| テレビアニメ『神のみぞ知るセカイ』関連曲
+|-
+| rowspan="2"| 2012年6月20日
+| 咲-Saki- 阿知賀編 episode of side-A キャラクターソングVol.2 Live A-Life
+| 新子憧（'''東山奈央'''）
+| 「Live A-Life」<br />「まじかる☆まーじゃん☆わーるど」
+| rowspan="2"|テレビアニメ『咲-Saki- 阿知賀編 episode of side-A』関連曲
+|-
+| 咲-Saki- 阿知賀編 episode of side-A - BD限定版特典CD
+| 高鴨穏乃（悠木碧）、新子憧（'''東山奈央'''）、松実玄（花澤香菜）、松実宥（MAKO）、鷺森灼（内山夕実）
+| 「四角い宇宙で待ってるよ（阿知賀女子すぺしゃるver.）」<br />「熱烈歓迎わんだーらんど（阿知賀女子すぺしゃるver.）」
+|-
+| 2012年7月25日
+| [[境界線上のホライゾンのディスコグラフィ#第4弾|境界線上のホライゾン 演目披露 第4弾 マルゴット・ナイト]]
+| マルゴット・ナイト（'''東山奈央'''）
+| 「Abendsonne」<br />「印章は白と黒」
+| テレビアニメ『境界線上のホライゾン』関連曲
+|-
+| 2012年10月26日
+| 境界線上のホライゾンII Blu-ray 第2巻 初回限定版特典CD
+| {{vau|愛繕}}
+| 「黒金屋-Eisen・テーマ曲」
+| テレビアニメ『[[境界線上のホライゾンII]]』関連曲
+|-
+| 2012年12月5日
+| なれる！SE ドラマCD
+| 室見立華（'''東山奈央'''）
+| 「Gooood Job!!」
+| ドラマCD『[[なれる!SE|なれる！SE]]』関連曲
+|-
+| 2012年12月21日
+| 境界線上のホライゾンII Blu-ray 第4巻 初回限定版特典CD
+| {{vau|愛繕}}
+| 「キンコンカンコン」
+| テレビアニメ『境界線上のホライゾンII』関連曲
+|-
+| 2013年1月23日
+| [[THE IDOLM@STER CINDERELLA MASTER#第3弾|THE IDOLM@STER CINDERELLA MASTER 014 川島瑞樹]]
+| 川島瑞樹（'''東山奈央'''）
+| 「Angel Breeze」
+| ゲーム『[[アイドルマスター シンデレラガールズ]]』関連曲
+|-
+| 2013年2月13日
+| [[リンゴリボン]]
+| 中川かのん（'''東山奈央'''）、水蓮寺ルカ（[[山崎はるか]]）
+| 「リンゴリボン」<br />「ヘルプルミミ」
+| テレビアニメ『[[ハヤテのごとく! (アニメ)|ハヤテのごとく！]]』『神のみぞ知るセカイ』関連曲
+|-
+| rowspan="2"|2013年2月27日
+| rowspan="2"|タカラモノ
+| rowspan="2"|ユウギリ（'''東山奈央'''）
+| 「タカラモノ」
+| テレビアニメ『[[THE UNLIMITED 兵部京介]]』関連曲
+|-
+| 「未来物語」
+| テレビアニメ『THE UNLIMITED 兵部京介』挿入歌
+|-
+| 2013年3月19日
+| やはり俺の青春ラブコメはまちがっている。第7巻限定版付属ドラマCD
+| 雪ノ下雪乃（早見沙織）、由比ヶ浜結衣（'''東山奈央'''）
+| 「ROCK YOU!!」
+| ドラマCD『やはり俺の青春ラブコメはまちがっている。』挿入歌
+|-
+| rowspan="3"|2013年4月10日
+| rowspan="3"|奇跡のドア
+| 中川かのん（'''東山奈央'''）、水蓮寺ルカ（山崎はるか）
+| 「リンゴリボン」
+| rowspan="3"|テレビアニメ『ハヤテのごとく！』『神のみぞ知るセカイ』関連曲
+|-
+| 桂ヒナギク（[[伊藤静]]）、中川かのん（'''東山奈央'''）
+| 「ピンク・デコ・モーション」
+|-
+| 桂ヒナギク（伊藤静）、中川かのん（'''東山奈央'''）、ハクア（早見沙織）、水蓮寺ルカ（山崎はるか）
+| 「奇跡のドア」
+|-
+| rowspan="2"|2013年5月22日
+| rowspan="2"|Hello Alone
+| 雪ノ下雪乃（早見沙織）、由比ヶ浜結衣（'''東山奈央'''）
+| 「Hello Alone」
+| rowspan="2"|テレビアニメ『やはり俺の青春ラブコメはまちがっている。』エンディングテーマ
+|-
+| 由比ヶ浜結衣（'''東山奈央'''）
+| 「Hello Alone -Yui Ballade-」
+|-
+| rowspan="2"|2013年6月19日
+| rowspan="2"|かのん100%
+| rowspan="2"|中川かのん（'''東山奈央'''）
+| 「かのん100%」
+| OVA『[[マジカル☆スター かのん100%]]』オープニングテーマ
+|-
+| 「君色ラブソング」
+| OVA『マジカル☆スター かのん100%』エンディングテーマ
+|-
+| rowspan="3"|2013年7月10日
+| rowspan="3"|やはりこのキャラソンはまちがっている。
+| rowspan="2"|雪ノ下雪乃（早見沙織）、由比ヶ浜結衣（'''東山奈央'''）
+| 「Bitter Bitter Sweet」
+| テレビアニメ『やはり俺の青春ラブコメはまちがっている。』挿入歌
+|-
+| 「Hello Alone -Band arrange-」
+| テレビアニメ『やはり俺の青春ラブコメはまちがっている。』エンディングテーマ
+|-
+| 由比ヶ浜結衣（'''東山奈央'''）
+| 「Smile Go Round」
+| テレビアニメ『やはり俺の青春ラブコメはまちがっている。』関連曲
+|-
+| rowspan="2"|2013年7月24日
+| rowspan="2"|Jumping!!/Your Voice
+| rowspan="3"|{{vau|Rhodanthe*|5}}
+| 「Jumping!!」
+| テレビアニメ『[[きんいろモザイク (アニメ)|きんいろモザイク]]』オープニングテーマ
+|-
+| 「Your Voice」
+| テレビアニメ『きんいろモザイク』エンディングテーマ
+|-
+| rowspan="2"|2013年8月21日
+| rowspan="2"|きんいろモザイク サウンドブック はじめまして よろしくね。
+| 「さつきいろハルジオン」
+| rowspan="2"|テレビアニメ『きんいろモザイク』関連曲
+|-
+| アリス・カータレット（[[田中真奈美]]）、九条カレン（'''東山奈央'''）
+| 「きんいろ＋ぎんいろモクセイ」
+|-
+| 2013年8月28日
+| エミル・クロニクル・オンライン アルマモンスター キャラクターソングCD
+| ダークフェザー・アルマ（'''東山奈央'''）
+| 「ずっといつまでも」
+| ゲーム『[[エミル・クロニクル・オンライン]]』関連曲
+|-
+| rowspan="2"|2013年9月11日
+| rowspan="2"|歌う魔王さま!?
+| 真奥貞夫（[[逢坂良太]]）、佐々木千穂（'''東山奈央'''）
+| 「マグロナルド幡ヶ谷駅前店へようこそ」
+| rowspan="2"|テレビアニメ『[[はたらく魔王さま!|はたらく魔王さま！]]』関連曲
+|-
+| 佐々木千穂（'''東山奈央'''）
+| 「Respect? < LOVE!!」
+|-
+| 2013年9月11日
+| キズナノユクエ
+| {{vau|ユピテルの姉妹}}
+| 「キズナノユクエ」
+| テレビアニメ『[[神のみぞ知るセカイ 女神篇]]』エンディングテーマ
+|-
+| 2013年9月25日
+| 初めて恋をした記憶
+| {{vau|2B PENCILS}}、中川かのん（'''東山奈央'''）
+| 「初めて恋をした記憶」
+| テレビアニメ『神のみぞ知るセカイ女神篇』関連曲
+|-
+| rowspan="2"|2013年10月9日
+| rowspan="2"|TVアニメーション きんいろモザイク サウンドブック いつまでも一緒だよ。
+| 猪熊陽子（[[内山夕実]]）、九条カレン（'''東山奈央'''）
+| 「あきいろスターマイン」
+| rowspan="2"|テレビアニメ『[[きんいろモザイク]]』関連曲
+|-
+| {{vau|Rhodanthe*|5}}
+| 「さくらいろチェリッシュ」
+|-
+| rowspan="2"|2013年10月30日
+| rowspan="2"|Colors
+| rowspan="2"|中川かのん（'''東山奈央'''）
+| 「瞳からスノー」
+| テレビアニメ『神のみぞ知るセカイ 女神篇』エンディングテーマ
+|-
+| 「青春パラダイス」<br />「ろまんてぃっく愛情」<br />「秋色片想い」<br />「恋に落ちたサンタ」<br />「歩いていくもん」
+| テレビアニメ『神のみぞ知るセカイ』関連曲
+|-
+| 2013年11月6日
+| [[戦姫絶唱シンフォギアのディスコグラフィ#戦姫絶唱シンフォギアG（特典）|戦姫絶唱シンフォギアG BD&DVD第2巻限定版特典CD]]
+| 板場弓美（[[赤﨑千夏]]）、寺島詩織（'''東山奈央'''）、安藤創世（[[小松未可子]]）
+| 「現着ッ!電光刑事バン（ver.秋桜祭）」
+| テレビアニメ『[[戦姫絶唱シンフォギアG]]』挿入歌
+|-
+| 2013年12月18日
+| 本命アンサー
+| 桐崎千棘（'''東山奈央'''）、小野寺小咲（花澤香菜）
+| 「本命アンサー」
+| テレビアニメ『[[ニセコイ]]』関連曲
+|-
+| 2014年1月29日
+| きんいろモザイク BD・DVD第5巻特典CD
+| 九条カレン（'''東山奈央'''）
+| 「はるいろアネモネ」
+| テレビアニメ『きんいろモザイク』関連曲
+|-
+| 2014年2月12日
+| 「神のみぞ知るセカイ」キャラクター・カバーALBUM2 〜選曲:若木民喜〜
+| 中川かのん（'''東山奈央'''）
+| 「[[想い出がいっぱい]]」
+| テレビアニメ『神のみぞ知るセカイ』関連曲
+|-
+| 2014年2月26日
+| きんいろモザイク BD・DVD第6巻特典CD
+| 大宮忍（[[西明日香]]）、アリス・カータレット（田中真奈美）、小路綾（[[種田梨沙]]）、猪熊陽子（内山夕実）、九条カレン（'''東山奈央'''）
+| 「ぎんいろスノウドロップ」
+| テレビアニメ『きんいろモザイク』関連曲
+|-
+| 2014年3月12日
+| 魔法戦争キャラクターCD II
+| 相羽六（'''東山奈央'''）
+| 「Dearest Wish」
+| テレビアニメ『[[魔法戦争]]』関連曲
+|-
+| 2014年3月26日
+| ニセコイ Blu-ray & DVD 第1巻 完全生産限定版 特典CD
+| 桐崎千棘（'''東山奈央'''）
+| 「Heart Pattern」
+| テレビアニメ『ニセコイ』エンディングテーマ
+|-
+| rowspan="5"|2014年5月28日
+| rowspan="4"|いぬねこジュークBOX
+| 犬神八千代（[[上坂すみれ]]）、猫山鈴（'''東山奈央'''）
+| 「絶対♡服従宣言」
+| テレビアニメ『[[犬神さんと猫山さん]]』主題歌
+|-
+| 猫山鈴（'''東山奈央'''）、杜松美希音（[[堀野紗也加]]）
+| 「ちっちゃいもの同盟」
+| rowspan="3"|テレビアニメ『犬神さんと猫山さん』関連曲
+|-
+| 犬神八千代（上坂すみれ）、猫山鈴（'''東山奈央'''）、杜松美希音（堀野紗也加）、牛若雪路（[[藤本葵]]）
+| 「青春あらいぶ」
+|-
+| 猫山鈴（'''東山奈央'''）
+| 「くろねこにっき」
+|-
+| 魔法戦争 BD・DVD第2巻特典CD
+| 相羽六（'''東山奈央'''）、五十島くるみ（[[瀬戸麻沙美]]）
+| 「恋のSandstorm」
+| テレビアニメ『魔法戦争』関連曲
+|-
+| 2014年6月6日
+| 蒼き鋼のアルペジオ -アルス・ノヴァ- BD・DVD第6巻特典CD
+| 八月一日静（'''東山奈央'''）、四月一日いおり（[[津田美波]]）
+| 「Expose」
+| テレビアニメ『[[蒼き鋼のアルペジオ -アルス・ノヴァ-]]』関連曲
+|-
+| 2014年6月25日
+| ノブナガ・ザ・フール キャラクターソング Vol.5 ヒミコ
+| ヒミコ（'''東山奈央'''）
+| 「EARNEST LOVE」<br />「DEDICATE」
+| テレビアニメ『[[ノブナガ・ザ・フール]]』関連曲
+|-
+| rowspan="2"|2014年8月20日
+| rowspan="2"|ぴてぃぱてぃサバイバード
+| rowspan="2"|{{vau|ゲスかわ☆ガールズ}}
+| 「ぴてぃぱてぃサバイバード」
+| テレビアニメ『[[さばげぶっ!|さばげぶっ！]]』エンディングテーマ
+|-
+| 「全女子力でExtarminating!!」
+| テレビアニメ『さばげぶっ！』イメージソング
+|-
+| 2014年8月25日
+| 艦隊これくしょん -艦これ- 艦娘想歌【弐】KanColle Vocal Collection vol.2<ref>{{Cite web2|df=ja|title=艦隊これくしょん -艦これ- 艦娘想歌 【弐】 KanColle Vocal Collection vol.2 |url= http://www.korder.com/ditails.asp?prdid=KI1407023|accessdate=2014-08-01|publisher=KORDER.com}}</ref>
+| {{vau|金剛型高速戦艦}}<ref>{{Cite tweet|user=KanColle_STAFF|author=「艦これ」開発/運営|number=494679725227266049|title=ボーカル【艦娘想歌】情報です。|date=2014-07-31|accessdate=2014-08-01|link=no}}</ref>
+| 「提督との絆」
+| ゲーム『[[艦隊これくしょん -艦これ-]]』関連曲
+|-
+| 2014年8月27日
+| ニセコイ BD・DVD第6巻特典CD
+| 桐崎千棘（'''東山奈央'''）、小野寺小咲（花澤香菜）、鶫誠士郎（小松未可子）、橘万里花（[[阿澄佳奈]]）
+| 「想像ダイアリー」
+| rowspan="2"|テレビアニメ『ニセコイ』エンディングテーマ
+|-
+| 2014年9月24日
+| ニセコイ BD・DVD第7巻特典CD
+| 桐崎千棘（'''東山奈央'''）、小野寺小咲（花澤香菜）
+| 「大切の作り方」
+|-
+| 2014年10月1日
+| さばげぶっ！ キャラクターソング1 園川モモカ
+| 園川モモカ（[[大橋彩香]]）、豪徳寺かよ（'''東山奈央'''）
+| 「LONELY DOLLS」
+| rowspan="4"|テレビアニメ『さばげぶっ！』関連曲
+|-
+| rowspan="3"|2014年10月22日
+| さばげぶっ！ キャラクターソング4 経堂麻耶
+| 経堂麻耶（[[Lynn]]）、園川モモカ（大橋彩香）、豪徳寺かよ（'''東山奈央'''）
+| 「PEACEMAKER!」
+|-
+| rowspan="2"|さばげぶっ！ キャラクターソング5 豪徳寺かよ
+| 豪徳寺かよ（'''東山奈央'''）
+| 「マジカル・カモフラージュ！」
+|-
+| 豪徳寺かよ（'''東山奈央'''）、鳳美煌（内山夕実）、春日野うらら（[[大久保瑠美]]）
+| 「銃・ゲーム・モワ・ノン・プリュ」
+|-
+| 2014年10月29日
+| グラスリップ キャラクターソングアルバム 歌声の欠片
+| 深水陽菜（'''東山奈央'''）
+| 「恋想チケット」
+| テレビアニメ『[[グラスリップ]]』関連曲
+|-
+| 2014年12月19日
+| トリニティセブン エンディング・ソング Theme4 ReSTART "THE WORLD"
+| {{vau|TWINKle MAGIC}}
+| 「ReSTART "THE WORLD"」
+| テレビアニメ『[[トリニティセブン]]』エンディングテーマ
+|-
+| rowspan="2"|2014年12月17日
+| rowspan="2"|[[THE IDOLM@STER CINDERELLA MASTER jewelries!#Cool jewelries! 002|THE IDOLM@STER CINDERELLA MASTER Cool Jewelries! 002]]
+| 川島瑞樹（'''東山奈央'''）、白坂小梅（[[桜咲千依]]）、アナスタシア（上坂すみれ）、神谷奈緒（[[松井恵理子]]）、北条加蓮（[[渕上舞 (声優)|渕上舞]]）
+| 「オルゴールの小箱」<br />「ゴキゲンParty Night」
+| rowspan="2"|ゲーム『アイドルマスター シンデレラガールズ』関連曲
+|-
+| 川島瑞樹（'''東山奈央'''）
+| 「[[クロス探偵物語#概要|大都会交響楽]]」
+|-
+| rowspan="2"|2015年1月21日
+| rowspan="2"|愛・天地無用！ BD・DVD第1巻特典CD
+| 川流もも（'''東山奈央'''）
+| 「愛してるって叫びましょ!!」
+| rowspan="2"|テレビアニメ『[[愛・天地無用!|愛・天地無用！]]』エンディングテーマ
+|-
+| 川流もも（'''東山奈央'''）、鬼ノ城紅（[[大地葉]]）
+| 「キミと見た花 キミと見た空」
+|-
+| 2015年2月14日
+| みりたりずむ！
+| ルトガルニコフ中尉（'''東山奈央'''）
+| 「みりたりずむ！ M870ver.」
+| テレビアニメ『[[みりたり!|みりたり！]]』主題歌
+|-
+| 2015年2月18日
+| [[THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT#01 Star!!|THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 01 Star!!]]
+| 高垣楓（早見沙織）、城ヶ崎美嘉（[[佳村はるか]]）、小日向美穂（津田美波）、十時愛梨（[[原田ひとみ]]）、川島瑞樹（'''東山奈央'''）、日野茜（赤﨑千夏）、輿水幸子（[[竹達彩奈]]）、佐久間まゆ（[[牧野由依]]）、白坂小梅（桜咲千依）
+| 「お願い！シンデレラ」
+| テレビアニメ『[[アイドルマスター シンデレラガールズ (アニメ)|アイドルマスター シンデレラガールズ]]』挿入歌
+|-
+| 2015年2月25日
+| ガールフレンド（仮） BD・DVD第2巻特典CD
+| 相楽エミ（'''東山奈央'''）
+| 「Smile Day」
+| テレビアニメ『[[ガールフレンド（仮）]]』関連曲
+|-
+| rowspan="2"|2015年3月18日
+| rowspan="2"|愛・天地無用！ BD・DVD第3巻特典CD
+| 川流もも（'''東山奈央'''）、ハチ子（[[優木かな]]）、沙流葉七（[[M・A・O]]）、笛山塔里（[[深田愛衣]]）
+| 「Best Party」
+| rowspan="2"|テレビアニメ『愛・天地無用！』エンディングテーマ
+|-
+| 川流もも（'''東山奈央'''）
+| 「もも並木」
+|-
+| rowspan="2"|2015年3月25日
+| rowspan="2"|艦娘乃歌 Vol.1
+| {{vau|金剛型四姉妹}}
+| 「進め！金剛型四姉妹」
+| テレビアニメ『艦隊これくしょん -艦これ-』挿入歌
+|-
+| {{vau|艦娘特別艦隊}}
+| 「Let's not say "good-bye"」
+| テレビアニメ『艦隊これくしょん -艦これ-』エンディングテーマ
+|-
+| 2015年3月28日
+| 紛争の友〜みりたり！サウンドトラック〜
+| ルトガルニコフ中尉（'''東山奈央'''）
+| 「ししゃものうた」
+| テレビアニメ『みりたり！』関連曲
+|-
+| 2015年4月1日
+| ハロー!!きんいろモザイク キャラクターCD Music Palette 3
+| 九条カレン（'''東山奈央'''）
+| 「わたしいろダリア」
+| テレビアニメ『[[ハロー!!きんいろモザイク]]』関連曲
+|-
+| rowspan="2"|2015年4月15日 || ツブ★ドル ドラマCD 〜紹介します？舞台裏！〜 主題歌もできたし全国デビューしちゃうよ盤
+| {{vau|ツブ★ドル|1}}
+| rowspan="2"|「ツブ★ドル」
+| OVA『[[ツブ★ドル]]』主題歌
+|-
+| ツブ★ドル ドラマCD 〜紹介します？舞台裏！〜 アニメイト限定特典CD
+| 相模あすか（竹達彩奈）、紫陽たまお（'''東山奈央'''）、上溝このみ（[[石上静香]]）、鵜野森かえで（大坪由佳）、小田相ゆず（[[阿東せれな]]）
+| OVA『ツブ★ドル』関連曲
+|-
+| 2015年4月23日
+| アイドルマスター シンデレラガールズ BD・DVD 第1巻完全生産限定版特典CD「346Pro IDOL selection vol.1」
+| 高垣楓（早見沙織）、川島瑞樹（'''東山奈央'''）
+| 「Nocturne」
+| テレビアニメ『アイドルマスター シンデレラガールズ』関連曲
+|-
+| rowspan="2"|2015年4月29日
+| rowspan="2"|夢色パレード/My Best Friends
+| rowspan="2"|{{vau|Rhodanthe*|5}}
+| 「夢色パレード」
+| テレビアニメ『ハロー!!きんいろモザイク』オープニングテーマ
+|-
+| 「My Best Friends」
+| テレビアニメ『ハロー!!きんいろモザイク』エンディングテーマ
+|-
+| 2015年6月3日
+| エブリデイワールド
+|  雪ノ下雪乃（早見沙織）、由比ヶ浜結衣（'''東山奈央'''）
+| 「エブリデイワールド」
+| テレビアニメ『[[やはり俺の青春ラブコメはまちがっている。続]]』エンディングテーマ
+|-
+| 2015年6月17日
+| ハロー!!きんいろモザイク サウンドブック また、会えたね。
+| {{vau|Rhodanthe*|5}}
+| 「きらめきいろサマーレインボー」
+| テレビアニメ『ハロー!!きんいろモザイク』オープニングテーマ
+|-
+| rowspan="2"|2015年6月24日
+| キミとボクのミライ 〜GRANBLUE FANTASY〜<ref>{{Cite web2|df=ja|publisher=[[4Gamer.net]]|url=https://www.4gamer.net/games/238/G023885/20150423012/|title=「グランブルーファンタジー」エイプリルフール企画で使用した楽曲がCD化。6月24日発売|date=2015-04-23|accessdate=2015-05-17}}</ref>
+| ジータ（[[金元寿子]]）、ルリア（'''東山奈央'''）、ヴィーラ（[[今井麻美]]）、マリー（[[長谷川明子]]）
+| 「キミとボクのミライ」
+|ゲーム『[[グランブルーファンタジー]]』関連曲
+|-
+| ニセコイ: BD・DVD第1巻特典CD
+| 桐崎千棘（'''東山奈央'''）、小野寺小咲（花澤香菜）、鶫誠士郎（小松未可子）、橘万里花（阿澄佳奈）
+| 「曖昧ヘルツ」
+| テレビアニメ『[[ニセコイ:]]』エンディングテーマ
+|-
+| 2015年7月15日
+| [[Go!プリンセスプリキュア サウンドアルバム|Go!プリンセスプリキュア ボーカルアルバム1 つよく、やさしく、美しく。]]
+| パフ（'''東山奈央'''）、アロマ（[[古城門志帆]]）
+| 「Royal Fairy Courage」
+|  テレビアニメ『[[Go!プリンセスプリキュア]]』関連曲
+|-
+| 2015年7月22日
+| ニセコイ: BD・DVD第2巻特典CD
+| 桐崎千棘（'''東山奈央'''）
+| 「Sleep zzz...」
+| テレビアニメ『ニセコイ:』エンディングテーマ
+|-
+| rowspan="2"|2015年8月19日
+| [[ぷりずむコミュニケート]]
+| テュカ（金元寿子）、レレイ（'''東山奈央'''）、ロゥリィ（種田梨沙）
+| 「ぷりずむコミュニケート」
+| テレビアニメ『[[GATE 自衛隊 彼の地にて、斯く戦えり]]』エンディングテーマ
+|-
+| ぷりずむコミュニケート レレイ盤
+| レレイ（'''東山奈央'''）
+| 「とうめいな、みずうみ」
+| テレビアニメ『GATE 自衛隊 彼の地にて、斯く戦えり』関連曲
+|-
+| rowspan="2"|2015年9月2日
+| rowspan="2"|FIRST*MODE
+| {{vau|Rhodanthe*|5}}
+| 「シロツメクサの約束」<br />「ほしいろサザンクロス」<br />「にじいろアンダンテ」
+| rowspan="2"|テレビアニメ『ハロー!!きんいろモザイク』関連曲
+|-
+| '''東山奈央'''
+| 「祭りデス☆クリスマス!!」
+|-
+| 2015年9月16日
+| 蒼き鋼のアルペジオ -アルス・ノヴァ- Blue Field キャラクターSongs Vol.2
+| 八月一日静（'''東山奈央'''）、四月一日いおり（津田美波）
+| 「With you forever」
+| テレビアニメ『蒼き鋼のアルペジオ -アルス・ノヴァ-』関連曲
+|-
+| 2015年9月25日
+| 空戦魔導士候補生の教官 BD・DVD第1巻特典CD
+| レクティ（'''東山奈央'''）
+| 「TOO SHY GIRL」
+| テレビアニメ『[[空戦魔導士候補生の教官]]』関連曲
+|-
+| 2015年9月30日
+| GATE 自衛隊 彼の地にて、斯く戦えり キャラクターソング・アルバム
+| レレイ（'''東山奈央'''）
+| 「まっしろの頁」
+| テレビアニメ『GATE 自衛隊 彼の地にて、斯く戦えり』関連曲
+|-
+| 2015年10月28日
+| ハロー!!きんいろモザイク BD・DVD第5巻特典CD
+| 九条カレン（'''東山奈央'''）
+| 「ゆめいろハナミズキ」
+| rowspan="2"|テレビアニメ『ハロー!!きんいろモザイク』関連曲
+|-
+| 2015年11月25日
+| ハロー!!きんいろモザイク BD・DVD第6巻特典CD
+| 大宮忍（西明日香）、アリス・カータレット（田中真奈美）、小路綾（種田梨沙）、猪熊陽子（内山夕実）、九条カレン（'''東山奈央'''）
+| 「せいしゅんいろミモザ」
+|-
+| 2015年12月16日
+| [[「初恋の歌」〜LOVE SONGS〜]]
+| 柏木遙香（'''東山奈央'''）
+| 「初恋の歌」
+| ゲーム『[[初恋の歌]]』エンディングテーマ
+|-
+| rowspan="2"|2015年12月29日
+| rowspan="2"|やはりこのキャラソンはまちがっている。続
+| 雪ノ下雪乃（早見沙織）、由比ヶ浜結衣（'''東山奈央'''）
+| 「変わる空の下」
+| rowspan="2"|テレビアニメ『やはり俺の青春ラブコメはまちがっている。続』関連曲
+|-
+| 由比ヶ浜結衣（'''東山奈央'''）
+| 「ハッピーエンドのそばで」
+|-
+| rowspan="2"|2016年1月27日
+| いつだってコミュニケーション
+| テュカ（金元寿子）、レレイ（'''東山奈央'''）、ロゥリィ（種田梨沙）
+| 「いつだってコミュニケーション」
+| テレビアニメ『GATE 自衛隊 彼の地にて、斯く戦えり』エンディングテーマ
+|-
+| いつだってコミュニケーション レレイ盤
+| レレイ（'''東山奈央'''）
+| 「セツナクテ論理」
+| テレビアニメ『GATE 自衛隊 彼の地にて、斯く戦えり』関連曲
+|-
+| 2016年3月16日
+| [[映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法! ミュージカルソングス|映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法！ ミュージカルソングス]]
+| 朝日奈みらい（[[高橋李依]]）、リコ（[[堀江由衣]]）、モフルン（[[齋藤彩夏]]）、春野はるか（[[嶋村侑]]）、海藤みなみ（[[浅野真澄]]）、天ノ川きらら（[[山村響]]）、紅城トワ（[[沢城みゆき]]）、パフ（'''東山奈央'''）、アロマ（古城門志帆）
+| 「あなたがいるから」
+| 劇場アニメ『[[映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法!|映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法！]]』挿入歌
+|-
+| 2016年4月27日 || STAR☆T
+| {{vau|Tiara}}
+| 「ハートの軌跡」
+| ゲーム『[[バトルガール ハイスクール]]』関連曲
+|-
+| rowspan="2"|2016年5月11日
+| rowspan="2"|ぶぉん！ぶぉん！らいど・おん！
+| rowspan="2"|佐倉羽音（[[上田麗奈]]）、鈴乃木凜（'''東山奈央'''）、天野恩紗（[[内山夕実]]）、三ノ輪聖（[[山口立花子]]）
+| 「ぶぉん！ぶぉん！らいど・おん！」
+| テレビアニメ『[[ばくおん!!]]』エンディングテーマ
+|-
+| 「夕焼けロードウエイ」
+| テレビアニメ『ばくおん!!』関連曲
+|-
+| 2016年6月8日
+| [[ラクエンロジックのディスコグラフィ#TVアニメ「ラクエンロジック」キャラソンアルバム「SONGS_&_MELODY」|TVアニメ「ラクエンロジック」キャラソンアルバム「SONGS & MELODY」]]
+| 揺音玉姫（種田梨沙）、ヴィーナス（'''東山奈央'''）
+| 「愛が世界を救う♡Love is forever♡」
+| テレビアニメ『[[ラクエンロジック]]』関連曲
+|-
+| rowspan="2"|2016年7月13日
+| rowspan="2"|TVアニメ『ばくおん!!』キャラソンミニアルバム
+| 鈴乃木凜（'''東山奈央'''）
+| 「乗りたくて乗りたくて〜LOVE SONG for “S”〜」
+| rowspan="2"|テレビアニメ『ばくおん!!』関連曲
+|-
+| 佐倉羽音（上田麗奈）、鈴乃木凜（'''東山奈央'''）、天野恩紗（内山夕実）、三ノ輪聖（山口立花子）、中野千雨（[[木戸衣吹]]）
+| 「ぶぉん！ぶぉん！らいど・おん！（Five Cylinder ver.）」
+|-
+| 2016年8月10日
+| マホウのノート 〜GRANBLUE FANTASY〜
+| ルリア（'''東山奈央'''）、シェロカルテ（[[加藤英美里]]）
+| 「マホウのノート」
+| ゲーム『グランブルーファンタジー』関連曲
+|-
+| 2016年8月24日 || Pop☆Girls!
+| {{vau|ROUGE}}
+| 「Unlock」
+| ゲーム『バトルガール ハイスクール』関連曲
+|-
+| 2016年10月14日 || THE IDOLM@STER CINDERELLA GIRLS 4thLIVE TriCastle Story -Brand new Castle- 会場オリジナルCD 絶対ピンクな小箱
+| 川島瑞樹（'''東山奈央'''）
+| 「オルゴールの小箱」
+| ゲーム『アイドルマスター シンデレラガールズ』関連曲
+|-
+| rowspan="2"|2016年11月9日
+| rowspan="2"|Happy⋆Pretty⋆Clover
+| rowspan="2"|{{vau|Rhodanthe*|5}}
+| 「Happy⋆Pretty⋆Clover」
+| 劇場アニメ『[[きんいろモザイク Pretty Days]]』主題歌
+|-
+| 「Shining Star」<br />「Starring!!」
+| 劇場アニメ『きんいろモザイク Pretty Days』関連曲
+|-
+| rowspan="2"|2016年11月23日 || ハッピーアイスクリーム！
+| {{vau|チーム フォルトゥーナ}}
+| 「ハッピーアイスクリーム！」
+| テレビアニメ『[[ろんぐらいだぁす!|ろんぐらいだぁす！]]』エンディングテーマ
+|-
+| Musica Magica
+| スノーホワイト（'''東山奈央'''）、ラ・ピュセル（佐倉綾音）
+| 「ユメトユメ」
+| テレビアニメ『[[魔法少女育成計画]]』関連曲
+|-
+| 2016年12月7日 || [[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER#07 サマカニ!!|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 07 サマカニ!!]]
+| 川島瑞樹（'''東山奈央'''）、日野茜（赤﨑千夏）、堀裕子（[[鈴木絵理]]）、上田鈴帆（[[春野ななみ]]）、難波笑美（[[伊達朱里紗]]）
+| 「サマカニ!!（M@STER VERSION）」
+| ゲーム『[[アイドルマスター シンデレラガールズ スターライトステージ]]』関連曲
+|-
+| 2016年12月9日 || すっPON♡PON JAPAN
+| メル（'''東山奈央'''）
+| 「すっPON♡PON JAPAN」<br />「きもち きっと つながるよ。」
+| 『[[ウィッシュミーメル]]』関連曲
+|-
+| 2017年1月25日
+| THE IDOLM@STER CINDERELLA GIRLS VIEWING REVOLUTION Yes! Party Time!!
+| 川島瑞樹（'''東山奈央'''）、小早川紗枝（[[立花理香]]）、高垣楓（早見沙織）、高森藍子（[[金子有希]]）、十時愛梨（[[原田ひとみ]]）
+| 「GOIN'!!」
+| ゲーム『[[アイドルマスター シンデレラガールズ ビューイングレボリューション]]』関連曲
+|-
+| rowspan="2"|2017年2月1日
+| [[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER#08 BEYOND THE STARLIGHT|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 08 BEYOND THE STARLIGHT]]
+| 城ヶ崎莉嘉（[[山本希望]]）、緒方智絵里（[[大空直美]]）、北条加蓮（渕上舞）、川島瑞樹（'''東山奈央'''）、大槻唯（[[山下七海]]）
+| 「BEYOND THE STARLIGHT（M@STER VERSION）」
+| ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+| True Destiny/Chain the world
+| ムジカ（'''東山奈央'''）
+| 「風空花人」
+| テレビアニメ『[[チェインクロニクル 〜ヘクセイタスの閃〜]]』挿入歌
+|-
+| rowspan="2"|2017年2月8日
+| rowspan="2"|[[THE IDOLM@STER CINDERELLA MASTER#テーマソング|THE IDOLM@STER CINDERELLA MASTER EVERMORE]]
+| アナスタシア（上坂すみれ）、緒方智絵里（大空直美）、神谷奈緒（松井恵理子）、川島瑞樹（'''東山奈央'''）、輿水幸子（竹達彩奈）、小早川紗枝（立花理香）、佐久間まゆ（牧野由依）、白坂小梅（桜咲千依）、高森藍子（金子有希）、十時愛梨（原田ひとみ）、日野茜（赤﨑千夏）、北条加蓮（渕上舞）、星輝子（[[松田颯水]]）、堀裕子（鈴木絵理）、三村かな子（[[大坪由佳]]）
+| 「ゴキゲンParty Night」
+| rowspan="2"|ゲーム『アイドルマスター シンデレラガールズ』関連曲
+|-
+| 大橋彩香、[[福原綾香]]、[[原紗友里]]、[[藍原ことみ]]、[[青木志貴]]、[[青木瑠璃子]]、[[飯田友子]]、[[五十嵐裕美]]、[[今井麻夏]]、上坂すみれ、[[内田真礼]]、桜咲千依、大空直美、大坪由佳、[[金子真由美 (声優)|金子真由美]]、金子有希、[[木村珠莉]]、[[黒沢ともよ]]、[[佐藤亜美菜]]、[[下地紫野]]、[[洲崎綾]]、鈴木絵理、[[髙野麻美]]、[[高森奈津美]]、立花理香、種﨑敦美、[[千菅春香]]、'''東山奈央'''、[[長島光那]]、[[原優子]]、早見沙織、春瀬なつみ、渕上舞、牧野由依、松井恵理子、[[松嵜麗]]、[[三宅麻理恵]]、[[村中知]]、[[杜野まこ]]、[[安野希世乃]]、山下七海、山本希望、[[佳村はるか]]、[[ルゥティン]]、[[和氣あず未]]
+| 「EVERMORE（4thLIVE MIX）」
+|-
+| rowspan="3"|2017年2月22日
+| 何度だって、好き。〜告白実行委員会〜<ref>{{Cite web2|df=ja|title=HoneyWorks4枚目のフルアルバムが発売！「何度だって、好き。〜告白実行委員会〜」 |publisher=HoneyWorks Official web site |url=http://honeyworks.jp/release/14.html |accessdate=2017-01-16 |archiveurl=https://web.archive.org/web/20170116041453/http://honeyworks.jp/release/14.html |archivedate=2017年1月16日 <!--|deadlinkdate=2017年10月--> }}</ref>
+| [[HoneyWorks]] feat. 高見沢アリサ（'''東山奈央'''）
+| 「ハートの主張」
+| 『[[告白実行委員会〜恋愛シリーズ〜]]』関連曲
+|-
+| rowspan="2"| 「この美術部には問題がある！」BD・DVD第6巻 キャラクターソングCD vol.2
+| 宇佐美みずき（[[小澤亜李]]）、コレット（上坂すみれ）、伊万莉まりあ（'''東山奈央'''）、立花夢子（[[水樹奈々]]）
+| 「ココロ*パレット (合唱 ver.)」
+| rowspan="2"| テレビアニメ『[[この美術部には問題がある!|この美術部には問題がある！]]』関連曲
+|-
+| 伊万莉まりあ（'''東山奈央'''）
+| 「未来への扉」
+|-
+| 2017年3月15日
+| TVアニメーション「チェインクロニクル ~ヘクセイタスの閃~」オリジナルサウンドトラック
+| ムジカ（'''東山奈央'''）
+| 「真実の詩」
+| アニメ『[[チェインクロニクル 〜ヘクセイタスの閃〜]]』挿入歌
+|-
+| rowspan="2"| 2017年3月22日
+| rowspan="2"| 我武者羅彡ガール
+| rowspan="2"| {{vau|ミカリナ}}
+| 「我武者羅彡ガール」
+| テレビアニメ『[[アイドル事変]]』挿入歌
+|-
+| 「電子レンジでチンしてね」
+| ゲーム『アイドル事変』関連曲
+|-
+| 2017年4月6日 || style="text-align:center;"| -{{Efn2|name="NOTCD"|CD未収録。}}
+| メル（'''東山奈央'''）
+| 「メルのサンリオかわいいおぼえうた」
+| 『ウィッシュミーメル』関連曲
+|-
+| 2017年4月19日
+| [[ガールフレンド（仮） キャラクターソングシリーズ#Vol.04|ガールフレンド（仮） キャラクターソングシリーズ Vol.04]]
+| 佐伯鞠香（伊藤かな恵）、相楽エミ（'''東山奈央'''）、椎名心実（佐藤聡美）
+| 「今輝く日々」
+| rowspan="2"|ゲーム『[[ガールフレンド（仮）]]』関連曲
+|-
+| 2017年6月21日
+| [[ガールフレンド（仮） キャラクターソングシリーズ#Vol.06|ガールフレンド（仮） キャラクターソングシリーズ Vol.06]]
+| 加賀美茉莉（[[釘宮理恵]]）、相楽エミ（'''東山奈央'''）、鈴河凜乃（[[加藤英美里]]）
+| 「熱中夢中☆Diary」
+|-
+| 2017年6月24日
+| THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!! 静岡・幕張・福岡 会場オリジナルCD
+| 川島瑞樹（'''東山奈央'''）
+| 「サマカニ!!（M@STER VERSION）」<br />「BEYOND THE STARLIGHT（M@STER VERSION）」
+| ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+| 2017年7月26日
+| ホシノキズナ
+| {{vau|神樹ヶ峰女学園星守クラス}}
+| 「ホシノキズナ」
+| テレビアニメ『[[バトルガール ハイスクール#テレビアニメ|バトルガール ハイスクール]]』オープニングテーマ
+|-
+| 2017年8月23日
+| TVアニメ「艦隊これくしょん -艦これ-」キャラクターソング “艦娘乃歌” Vol.2
+| 愛宕（'''東山奈央'''）
+| 「ぱん☆ぱか☆ぱーん♪」
+| テレビアニメ『艦隊これくしょん -艦これ-』関連曲
+|-
+| 2017年9月20日
+| プリンセスコネクト！Re:Dive PRICONNE CHARACTER SONG 01
+| ユイ（種田梨沙）、ヒヨリ（'''東山奈央'''）、レイ（早見沙織）
+| 「つなぐもの」
+| ゲーム『[[プリンセスコネクト!|プリンセスコネクト！]]』テーマソング
+|-
+| 2017年11月8日
+| [[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER#14 情熱ファンファンファーレ|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 14 情熱ファンファンファーレ]]
+| 高垣楓（早見沙織）、川島瑞樹（'''東山奈央'''）、松永涼（千菅春香）、速水奏（飯田友子）、新田美波（洲崎綾）
+| 「Nocturne」
+| ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+| 2017年12月20日
+| バトルガール ハイスクール BD・DVD第2巻特典CD
+|  天野望（'''東山奈央'''）
+| 「ホシノキズナ」<br />「ハートの軌跡」<br />「Unlock」<br />「Dear Dreamer」
+| テレビアニメ『バトルガール ハイスクール』関連曲
+|-
+| rowspan="3"|2017年12月22日 || rowspan="3"|OVER THE SKY 〜GRANBLUE FANTASY〜
+| グラン（[[小野友樹]]）、ジータ（金元寿子）、ルリア（'''東山奈央'''）、ビィ（[[釘宮理恵]]）
+| rowspan="3"|「OVER THE SKY」
+| rowspan="3"|ゲーム『グランブルーファンタジー』関連曲
+|-
+| グラン（小野友樹）、ルリア（'''東山奈央'''）
+|-
+| ジータ（金元寿子）、ルリア（'''東山奈央'''）
+|-
+| 2018年3月7日 || 永遠にシンデレラメイト
+| {{vau|ツブ★ドル|2}}
+| 「永遠にシンデレラメイト」
+| OVA『ツブ★ドル』関連曲
+|-
+| 2018年4月18日 || [[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER#16 ∀NSWER|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 16 ∀NSWER]]
+| 川島瑞樹（'''東山奈央'''）
+| 「Dreaming of you」
+| ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+|2018年5月30日
+|太鼓の達人 オリジナルサウンドトラック りんごあめ
+|ソプラノ姫 ('''東山奈央''')
+|「キミと響くハーモニー 」
+|ゲーム『太鼓の達人』関連曲
+|-
+| 2018年8月24日 || [[ヤマノススメのディスコグラフィ#キャラクターソング|ヤマノススメ サードシーズン キャラクターソングミニアルバム]]
+| ほのか（'''東山奈央'''）
+| 「テンダー・ファインダー」
+| テレビアニメ『[[ヤマノススメ サードシーズン]]』関連曲
+|-
+| 2018年10月3日 || 不可思議のカルテ
+| 桜島麻衣（瀬戸麻沙美）、古賀朋絵（'''東山奈央'''）、双葉理央（[[種﨑敦美]]）、豊浜のどか（内田真礼）、梓川かえで（[[久保ユリカ]]）、牧之原翔子（[[水瀬いのり]]）
+| 「不可思議のカルテ」
+| テレビアニメ『[[青春ブタ野郎はバニーガール先輩の夢を見ない (アニメ)|青春ブタ野郎はバニーガール先輩の夢を見ない]]』エンディングテーマ
+|-
+| 2018年11月28日 || KI-te MI-te HIT PARADE!
+| {{vau|パーリィ☆フェアリィ}}
+| 「KI-te MI-te HIT PARADE!」
+| テレビアニメ『[[叛逆性ミリオンアーサー]]』エンディングテーマ
+|-
+| rowspan="2"|2018年12月28日 || rowspan="2"|アイドルマスター シンデレラガールズ After20 第2巻特別版特典CD
+| 川島瑞樹（'''東山奈央'''）、三船美優（[[原田彩楓]]）
+| 「オルゴールの小箱」
+| rowspan="2"|漫画『アイドルマスター シンデレラガールズ After20』関連曲
+|-
+| 片桐早苗（和氣あず未）、川島瑞樹（'''東山奈央'''）、高垣楓（早見沙織）
+| 「命燃やして恋せよ乙女」
+|-
+| rowspan="2"|2019年2月6日 || 青春ブタ野郎はバニーガール先輩の夢を見ない BD・DVD第2巻特典CD
+| 古賀朋絵（'''東山奈央'''）
+| 「不可思議のカルテ」
+| テレビアニメ『青春ブタ野郎はバニーガール先輩の夢を見ない』エンディングテーマ
+|-
+| Harmony
+| {{vau|Rhodanthe*|6}}
+| 「Harmony」
+| 『きんいろモザイク』関連曲
+|-
+| rowspan="2"|2019年3月29日 || rowspan="2"|OVER THE TRINITY
+| {{vau|√venustas}}
+| 「OVER THE TRINITY」
+| 劇場アニメ『[[劇場版 トリニティセブン -天空図書館と真紅の魔王-]]』挿入歌
+|-
+| リーゼロッテ＝シャルロック（'''東山奈央'''）
+| 「OVER THE TRINITY (Logos Art Form)」
+| 劇場アニメ『劇場版 トリニティセブン -天空図書館と真紅の魔王-』関連曲
+|-
+| 2019年5月1日 || [[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER#28 凸凹スピードスター|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 28 凸凹スピードスター]]
+| 前川みく（高森奈津美）、川島瑞樹（'''東山奈央'''）、白坂小梅（桜咲千依）、三村かな子（大坪由佳）
+| 「キミとボクのミライ」
+| ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+| 2019年5月22日 || PEARLY×PARTY
+| {{vau|パーリィ☆フェアリィ}}
+| 「PEARLY×PARTY」
+| テレビアニメ『叛逆性ミリオンアーサー』エンディングテーマ
+|-
+| 2019年9月11日 || 新ワールドウィッチーズシリーズ秘め歌コレクション特別版 ディジョン篇
+| ジーナ・プレディ（'''東山奈央'''）
+| 「falcon eyes」
+| 『[[ワールドウィッチーズ]]』関連曲
+|-
+| 2019年10月30日 || プリンセスコネクト！Re:Dive PRICONNE CHARACTER SONG 10
+| ユイ（種田梨沙）、ヒヨリ（'''東山奈央'''）、レイ（早見沙織）
+| 「TwinkleStars」
+| ゲーム『[[プリンセスコネクト!Re:Dive|プリンセスコネクト！Re:Dive]]』挿入歌
+|-
+| 2019年11月27日 || 青春ブタ野郎はゆめみる少女の夢を見ない BD・DVD特典 Original Soundtrack
+| 桜島麻衣（瀬戸麻沙美）、古賀朋絵（'''東山奈央'''）、双葉理央（種﨑敦美）、豊浜のどか（内田真礼）、梓川かえで（久保ユリカ）、牧之原翔子（水瀬いのり）
+| 「不可思議のカルテ movie ver.」
+| 劇場アニメ『[[青春ブタ野郎はゆめみる少女の夢を見ない (映画)|青春ブタ野郎はゆめみる少女の夢を見ない]]』エンディングテーマ
+|-
+| 2019年12月25日 || [[Mai Kuraki Single Collection 〜Chance for you〜]]【Merci Edition】
+| [[倉木麻衣]]、メル（'''東山奈央'''）
+| 「chance for you 〜Merci ver.〜」
+| 『ウィッシュミーメル』関連曲
+|-
+| 2020年1月15日 || 好きすぎてやばい。〜告白実行委員会キャラクターソング集〜
+| HoneyWorks feat. 高見沢アリサ（'''東山奈央'''）
+| 「生意気ハニー-another story-」
+| 『告白実行委員会〜恋愛シリーズ〜』関連曲
+|-
+| rowspan="2"|2020年3月25日 || プリンセスコネクト！Re:Dive PRICONNE CHARACTER SONG 13
+| ペコリーヌ（M・A・O）、コッコロ（[[伊藤美来]]）、キャル（立花理香）、ユイ（種田梨沙）、ヒヨリ（'''東山奈央'''）、レイ（早見沙織）、シェフィ（[[近藤玲奈]]）
+| 「Mirage Game」
+| ゲーム『プリンセスコネクト！Re:Dive』第2部メインテーマ
+|-
+| 恋する小惑星 サウンドコレクション
+| 桜井美景（'''東山奈央'''）
+| 「ちっぽけな願いごと」
+| テレビアニメ『[[恋する小惑星]]』関連曲
+|-
+| rowspan="2"|2020年4月22日 || rowspan="2"|[[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!#07 Gaze and Gaze|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 07 Gaze and Gaze]]
+| 川島瑞樹（'''東山奈央'''）、村上巴（[[花井美春]]）
+| rowspan="2"|「Gaze and Gaze（M@STER VERSION）」
+| rowspan="2"|ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+| 川島瑞樹（'''東山奈央'''）
+|-
+| 2020年5月20日 || 魔入りました！入間くん ミュージックコレクション 悪MAX!!!
+| くろむ（'''東山奈央'''）、イルミ（[[村瀬歩]]）
+| 「キミの小悪魔黙示録」
+| テレビアニメ『[[魔入りました!入間くん|魔入りました！入間くん]]』挿入歌
+|-
+| 2020年5月27日 || 俺を好きなのはお前だけかよ BD・DVD第5巻特典CD
+| ツバキ（'''東山奈央'''）
+| 「365ワンダーランド」
+| テレビアニメ『[[俺を好きなのはお前だけかよ]]』関連曲
+|-
+| 2020年6月10日 || [[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER#39 O-Ku-Ri-Mo-No Sunday!|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 39 O-Ku-Ri-Mo-No Sunday!]]
+| 川島瑞樹（'''東山奈央'''）
+| 「[[Hello Especially]]」
+| ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+| rowspan="2"|2020年7月15日 || rowspan="2"|ダイヤモンドの純度
+| 雪ノ下雪乃（早見沙織）、由比ヶ浜結衣（'''東山奈央'''）
+| 「ダイヤモンドの純度」
+| rowspan="2"|テレビアニメ『[[やはり俺の青春ラブコメはまちがっている。完]]』エンディングテーマ
+|-
+| 由比ヶ浜結衣（'''東山奈央'''）
+| 「ダイヤモンドの純度 〜Yui Ballade〜」
+|-
+| rowspan="2"|2020年9月16日 || rowspan="2"|[[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!#01 Go Just Go!|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 01 Go Just Go!]]
+| 夢見りあむ（[[星希成奏]]）、大槻唯（山下七海）、北条加蓮（渕上舞）、佐藤心（[[花守ゆみり]]）、一ノ瀬志希（藍原ことみ）、鷹富士茄子（[[森下来奈]]）、棟方愛海（[[藤本彩花]]）、川島瑞樹（'''東山奈央'''）、五十嵐響子（種﨑敦美）
+| rowspan="2"|「Go Just Go!（M@STER VERSION）」
+| rowspan="2"|ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+| 川島瑞樹（'''東山奈央'''）
+|-
+| 2020年10月22日 || Wonderful Future{{Efn2|name="DL"|配信限定。}}
+| {{vau|大帝國華撃団B.L.A.C.K.}}
+| 「Wonderful Future」
+| ゲーム『[[サクラ革命 〜華咲く乙女たち〜]]』関連曲
+|-
+| 2020年11月25日 || KanColle Memorial Compilation
+| 榛名（'''東山奈央'''）
+| 「榛名の時間」
+| ゲーム『艦隊これくしょん -艦これ-』関連曲
+|-
+| 2020年11月27日 || やはりこのキャラソンはまちがっている。完
+| 由比ヶ浜結衣（'''東山奈央'''）
+| 「Lの感情」
+| テレビアニメ『[[やはり俺の青春ラブコメはまちがっている。完]]』関連曲
+|-
+| 2020年12月23日 || 彼女、お借りします BD第3巻特典CD
+| 更科瑠夏（'''東山奈央'''）
+| 「Favorite Lover」<br />「彼女宣言」
+| rowspan="2"|テレビアニメ『[[彼女、お借りします]]』関連曲
+|-
+| rowspan="2"|2021年1月27日 || 彼女、お借りします ゲーマーズ全巻購入特典CD
+| 水原千鶴（[[雨宮天]]）、七海麻美（悠木碧）、更科瑠夏（'''東山奈央'''）、桜沢墨（高橋李依）
+| 「Favorite Lover」
+|-
+| PHANTASY STAR ONLINE 2 キャラクターソングCD〜Song Festival〜VI 豪華盤
+| マルガレータ（'''東山奈央'''）
+| 「マジェスティックエンターテイメント」
+| ゲーム『[[ファンタシースターオンライン2]]』関連曲
+|-
+| 2021年2月17日 || 魔法科高校の劣等生 来訪者編 BD・DVD第3巻特典CD
+| 光井ほのか（[[雨宮天]]）、ピクシー（'''東山奈央'''）
+| 「ハートRe:boot」
+| テレビアニメ『[[魔法科高校の劣等生 (アニメ)|魔法科高校の劣等生 来訪者編]]』関連曲
+|-
+| 2021年6月2日 || Fate/Grand Carnival 1st Season 完全生産限定版特典CD
+| マシュ・キリエライト（高橋李依）、ニトクリス（[[田中美海]]）、エリザベート・バートリー（大久保瑠美）、酒呑童子（悠木碧）、茨木童子（'''東山奈央'''）、女王メイヴ（佐倉綾音）、アタランテ（早見沙織）、謎のヒロインX（[[川澄綾子]]）、イシュタル（[[植田佳奈]]）、ネロ・クラウディウス（[[丹下桜]]）、シトナイ（[[門脇舞以]]）
+| 「すーぱー☆あふぇくしょん」
+| OVA『[[Fate/Grand Carnival]]』テーマソング
+|-
+| rowspan="3"|2021年8月18日 || rowspan="2"|きんいろローダンセ
+| rowspan="3"|{{vau|Rhodanthe*|6}}
+| 「きんいろローダンセ」
+| 劇場アニメ『[[劇場版 きんいろモザイク Thank You!!]]』主題歌
+|-
+| 「Cheers」<br />「Thank You for Your Smile」
+| rowspan="2"|『きんいろモザイク』関連曲
+|-
+| 大感謝
+| 「シロツメクサの約束 -Garland Ver.-」<br />「Happy★Pretty★Clover -Garland Ver.-」<br />「さつきいろハルジオン -Garland Ver.-」<br />「Jumping!! -Garland Ver.-」<br />「Starring -Garland Ver.-」<br />「にじいろアンダンテ -Garland Ver.-」<br />「Shining Star -Garland Ver.-」<br />「さくらいろチェリッシュ -Garland Ver.-」<br />「Your Voice -Garland Ver.-」<br />「夢色パレード -Garland Ver.-」<br />「ほしいろサザンクロス -Garland Ver.-」<br />「きらめきいろサマーレインボー -Garland Ver.-」<br />「せいしゅんいろミモザ -Garland Ver.-」<br />「My Best Friends -Garland Ver.-」<br />「ぎんいろスノウドロップ -Garland Ver.-」
+|-
+| 2021年9月1日 || 魔入りました！入間くん ミュージックコレクション 悪MAX!!! Vol.2
+| くろむ（'''東山奈央'''）
+| 「恋する乙女は最強無敵」
+| テレビアニメ『魔入りました！入間くん』第2シリーズ挿入歌
+|-
+| rowspan="2" | 2021年9月28日 || rowspan="2" |プリンセスコネクト！Re:Dive PRICONNE CHARACTER SONG 29
+| ユイ（種田梨沙）、ヒヨリ（'''東山奈央'''）、レイ（早見沙織）
+| rowspan="2" |「Secret Star」
+| ゲーム『プリンセスコネクト！Re:Dive』挿入歌
+|-
+| ヒヨリ（'''東山奈央'''）
+| ゲーム『プリンセスコネクト！Re:Dive』関連曲
+|-
+| 2021年9月30日 || [[神クズ☆アイドルのディスコグラフィ#BD_第1巻|神クズ☆アイドル BD 第1巻 特典CD]]
+| 最上アサヒ（'''東山奈央'''）
+| 「ハレラルラ」
+| テレビアニメ『[[神クズ☆アイドル]]』エンディングテーマ
+|-
+| rowspan="2"|2021年10月20日 || rowspan="2"|劇場版マクロスΔ 絶対LIVE!!!!!! オリジナルサウンドトラック{{R|animate0918}}
+| {{vau|Yami_Q_ray}}
+| 「Glow in the dark」<br />「Diva in Abyss」<br />「綺麗な花には毒がある」
+| rowspan="2"|劇場アニメ『[[劇場版マクロスΔ 絶対LIVE!!!!!!]]』挿入歌
+|-
+| ハインツ（[[メロディー・チューバック]]）、{{vau|Yami_Q_ray}}
+| 「Heinz vs.Yami_Q_ray」
+|-
+| rowspan="2"|2021年11月24日 || rowspan="2"|[[THE IDOLM@STER CINDERELLA MASTER#テーマソング|THE IDOLM@STER CINDERELLA MASTER EVERLASTING]]
+| 本田未央（原紗友里）、辻野あかり（[[梅澤めぐ]]）、双葉杏（五十嵐裕美）、木村夏樹（安野希世乃）、アナスタシア（上坂すみれ）、ナターリア（[[生田輝]]）、 橘ありす（佐藤亜美菜）、輿水幸子（竹達彩奈）、依田芳乃（[[高田憂希]]）、川島瑞樹（'''東山奈央'''）
+| rowspan="2"|「EVERLASTING（M@STER VERSION）」
+| rowspan="2"|ゲーム『アイドルマスター シンデレラガールズ』関連曲
+|-
+| 川島瑞樹（'''東山奈央'''）
+|-
+| 2023年3月15日 || ねぇ、好きって痛いよ。 〜告白実行委員会キャラクターソング集〜
+| HoneyWorks feat. 高見沢アリサ（'''東山奈央'''）
+| 「男の子の目的は何？」
+| 『告白実行委員会〜恋愛シリーズ〜』関連曲
+|-
+| rowspan="3"|2023年3月29日 || rowspan="2"|ウマ娘 プリティーダービー WINNING LIVE 11
+| スペシャルウィーク（和氣あず未）、トウカイテイオー（[[Machico]]）、テイエムオペラオー（[[徳井青空]]）、ナリタブライアン（[[衣川里佳]]）、シンボリルドルフ（[[田所あずさ]]）、マヤノトップガン（[[星谷美緒]]）、マンハッタンカフェ（[[小倉唯]]）、アグネスタキオン（上坂すみれ）、アドマイヤベガ（[[咲々木瞳]]）、マーベラスサンデー（[[三宅麻理恵]]）、ミスターシービー（[[天海由梨奈]]）、ツインターボ（花井美春）、サトノダイヤモンド（[[立花日菜]]）、キタサンブラック（[[矢野妃菜喜]]）、サクラローレル（[[真野美月]]）、ナリタトップロード（[[中村カンナ]]）、シンボリクリスエス（[[春川芽生]]）、タニノギムレット（[[松岡美里]]）、メジロラモーヌ（'''東山奈央'''）、サトノクラウン（[[鈴代紗弓]]）、シュヴァルグラン（[[夏吉ゆうこ]]）、ジャングルポケット（[[藤本侑里]]） 、カツラギエース（[[藤原夏海]]）
+| 「DRAMATIC JOURNEY」
+| rowspan="2"|ゲーム『ウマ娘 プリティーダービー』関連曲
+|-
+| スペシャルウィーク（和氣あず未）、トウカイテイオー（Machico）、ウオッカ（大橋彩香）、テイエムオペラオー（徳井青空）、ナリタブライアン（衣川里佳）、シンボリルドルフ（田所あずさ）、マヤノトップガン（星谷美緒）、マンハッタンカフェ（小倉唯）、アグネスタキオン（上坂すみれ）、アドマイヤベガ（咲々木瞳）、マーベラスサンデー （三宅麻理恵）、ミスターシービー（天海由梨奈）、ツインターボ（花井美春）、サトノダイヤモンド（立花日菜）、キタサンブラック（矢野妃菜喜）、ツルマルツヨシ（[[青山吉能]]）、サクラローレル（真野美月）、ナリタトップロード（中村カンナ）、シンボリクリスエス（春川芽生）、タニノギムレット（松岡美里）、メジロラモーヌ（'''東山奈央'''）、サトノクラウン（鈴代紗弓）、シュヴァルグラン（夏吉ゆうこ）、ジャングルポケット（藤本侑里）、カツラギエース（藤原夏海）
+| 「[[うまぴょい伝説]]」
+|-
+| TVアニメ「スパイ教室」スペシャルエンディングテーマCD File.01
+| ジビア（'''東山奈央'''）
+| 「DON'T」
+| テレビアニメ『[[スパイ教室]]』エンディングテーマ
+|-
+| 2023年7月 || ワンダー・ファニー・ハーモニー
+| サクラコ（[[加隈亜衣]]）、ヒナタ（[[日高里菜]]）、マリー（小澤亜李）、ウイ（[[後藤沙緒里]]）、シミコ（[[富田美憂]]）、ヒフミ（[[本渡楓]]）、アズサ（種田梨沙）、ハナコ（[[豊田萌絵]]）、コハル（[[赤尾ひかる]]）、ミカ（'''東山奈央'''）、ツルギ（[[小林ゆう]]）、イチカ（[[鷲見友美ジェナ]]）
+| 「ワンダー・ファニー・ハーモニー」
+| Webアニメ『[[ブルーアーカイブ -Blue Archive-|ブルーアーカイブ 2.5周年記念ショートアニメーション]]』主題歌
+|-
+| rowspan="2" | 2023年11月28日
+| rowspan="2" | 彼女、お借りします 〜水平線と水着の彼女〜 限定盤特典サウンドトラック
+| 水原千鶴（雨宮天）、七海麻美（悠木碧）、更科瑠夏（'''東山奈央'''）、桜沢墨（高橋李依）、八重森みに（[[芹澤優]]）
+| 「サイダーの向こう」
+| ゲーム『彼女、お借りします 〜水平線と水着の彼女〜』オープニングテーマ
+|-
+| 更科瑠夏（'''東山奈央'''）
+| 「サイダーの向こう -更科瑠夏 ver.-」
+| ゲーム『彼女、お借りします 〜水平線と水着の彼女〜』関連曲
+|-
+| rowspan="2"|2023年12月20日 || rowspan="2"|TVアニメ『SHY』Music Collection「SHYの音楽なので」
+| 小石川惟子（'''東山奈央'''）
+| 「君だけがヒーロー」
+| rowspan="2"|テレビアニメ『[[SHY (漫画)|SHY]]』エンディングテーマ
+|-
+| rowspan="2"|シャイ/紅葉山テル（下地紫野）、小石川惟子（'''東山奈央'''）
+| 「シリタイキモチ」
+|-
+| 2024年7月9日 || そばにいるよ<ref group="注" name="DL" />
+| 「そばにいるよ」
+| テレビアニメ『SHY』第2期エンディングテーマ
+|-
+| rowspan="2"|2024年9月4日 || 『大室家 dear friends』主題歌「My Sunny Side! / パッチワーク・エトセトラ！」
+| 大室撫子（[[斎藤千和]]）、園川めぐみ（上坂すみれ）、三輪藍（'''東山奈央'''）、八重野美穂（悠木碧）
+| rowspan="2"|「パッチワーク・エトセトラ！」
+| 劇場アニメ『[[大室家 dear friends]]』エンディングテーマ
+|-
+| 『大室家 dear friends』主題歌「My Sunny Side! / パッチワーク・エトセトラ！」【初回限定盤】
+| 三輪藍（'''東山奈央'''）
+| 劇場アニメ『大室家 dear friends』関連曲
+|-
+| 2024年11月20日 || BRAIN HACK
+| {{vau|Parabola|1}}
+| 「BRAIN HACK」<br />「[[勇者 (YOASOBIの曲)|勇者]] -アカペラアレンジver.-」
+| 『[[うたごえはミルフィーユ]]』関連曲
+|-
+|2024年11月30日
+|[[響け!ユーフォニアムのディスコグラフィ#シングルVol.3|TVアニメ『響け!ユーフォニアム3』キャラクターソングシングル Vol.3]]
+|傘木希美（'''東山奈央'''）、鎧塚みぞれ（種崎敦美）
+|Tenderly, two line
+|テレビアニメ『[[響け!ユーフォニアム (アニメ)|響け!ユーフォニアム3]]』関連曲
+|-
+| rowspan="2"|2025年4月9日 || rowspan="2"|ウマ娘 プリティーダービー [[WINNING_LIVE#26|WINNING LIVE 26]]
+| ウマ娘<ref group="メンバー" name="WL26_Legend-Changer">オグリキャップ（[[高柳知葉]]）、エルコンドルパサー（[[髙橋ミナミ]]）、ナリタブライアン（[[衣川里佳]]）、シンボリルドルフ（[[田所あずさ]]）、シーキングザパール（[[福原綾香]]）、スマートファルコン（[[大和田仁美]]）、ミスターシービー（[[天海由梨奈]]）、キタサンブラック（[[矢野妃菜喜]]）、シリウスシンボリ（[[ファイルーズあい]]）、メジロラモーヌ（'''東山奈央'''）、ホッコータルマエ（[[菊池紗矢香]]）、シーザリオ（[[佐藤榛夏]]）、オルフェーヴル（[[日笠陽子]]）、ジェンティルドンナ（[[芹澤優]]）、アーモンドアイ（[[石原夏織]]）、実況 (男性) （[[茂木淳一]]）</ref>
+| 「Legend-Changer」
+| rowspan="2"|ゲーム『ウマ娘 プリティーダービー』関連曲
+|-
+| ウマ娘<ref group="メンバー" name="WL26_うまぴょい伝説">オグリキャップ（[[高柳知葉]]）、エルコンドルパサー（[[髙橋ミナミ]]）、ナリタブライアン（[[衣川里佳]]）、シンボリルドルフ（[[田所あずさ]]）、ミホノブルボン（[[長谷川育美]]）、ライスシャワー（[[石見舞菜香]]）、シーキングザパール（[[福原綾香]]）、スマートファルコン（[[大和田仁美]]）、ナカヤマフェスタ（[[下地紫野]]）、ミスターシービー（[[天海由梨奈]]）、キタサンブラック（[[矢野妃菜喜]]）、シリウスシンボリ（[[ファイルーズあい]]）、ノースフライト（[[指出毬亜]]）、メジロラモーヌ（'''東山奈央'''）、シュヴァルグラン（[[夏吉ゆうこ]]）、ヴィルシーナ（[[奥野香耶]]）、ヴィブロス（[[伊藤彩沙]]）、ホッコータルマエ（[[菊池紗矢香]]）、シーザリオ（[[佐藤榛夏]]）、オルフェーヴル（[[日笠陽子]]）、ジェンティルドンナ（[[芹澤優]]）、アーモンドアイ（[[石原夏織]]）、ラヴズオンリーユー（[[久保田未夢]]）、実況 (女性)（[[明坂聡美]]）</ref>
+| 「うまぴょい伝説」
+|-
+| 2025年4月23日 || うたごえハイシックス/STAY GOLD
+| {{vau|Parabola|1}}
+| 「STAY GOLD」
+| 『うたごえはミルフィーユ』関連曲
+|-
+| rowspan="2"|2025年5月21日 || rowspan="2"|[[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER CRYSTAL QUALIA#05 スマイルファンタジー|THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER CRYSTAL QUALIA 05 スマイルファンタジー]]
+| 道明寺歌鈴（[[新田ひより]]）、鷹富士茄子（[[森下来奈]]）、城ヶ崎莉嘉（[[山本希望]]）、川島瑞樹（'''東山奈央'''）、アナスタシア（上坂すみれ）
+| rowspan="2"|「スマイルファンタジー（M@STER VERSION）」
+| rowspan="2"|ゲーム『アイドルマスター シンデレラガールズ スターライトステージ』関連曲
+|-
+| 川島瑞樹（'''東山奈央'''）
+|-
+| rowspan="2"|2025年7月9日 || rowspan="2"|ウマ娘 プリティーダービー [[WINNING_LIVE#28|WINNING LIVE 28]]
+| デアリングタクト（[[羊宮妃那]]）、メジロラモーヌ（'''東山奈央'''）、ヴィブロス（[[伊藤彩沙]]）、スティルインラブ（[[宮下早紀]]）、ジェンティルドンナ（[[芹澤優]]）、アーモンドアイ（[[石原夏織]]）、グランアレグリア（[[夏目妃菜]]）、ラヴズオンリーユー（[[久保田未夢]]）、クロノジェネシス（[[真名瀬日和]]）
+| 「黎明に咲く華」
+| rowspan="2"|ゲーム『ウマ娘 プリティーダービー』関連曲
+|-
+| ウマ娘<ref group="メンバー" name="WL28_うまぴょい伝説">アグネスデジタル（[[鈴木みのり (声優)|鈴木みのり]]）、タマモクロス（[[大空直美]]）、メジロライアン（[[土師亜文]]）、アイネスフウジン（[[長江里加]]）、ゴールドシチー（[[香坂さき]]）、サクラチヨノオー（[[野口瑠璃子]]）、デアリングタクト（[[羊宮妃那]]）、メジロラモーヌ（'''東山奈央'''）、ヴィブロス（[[伊藤彩沙]]）、スティルインラブ（[[宮下早紀]]）、ブエナビスタ（[[和泉風花]]）、ジェンティルドンナ（[[芹澤優]]）、アーモンドアイ（[[石原夏織]]）、グランアレグリア（[[夏目妃菜]]）、ラヴズオンリーユー（[[久保田未夢]]）、クロノジェネシス（[[真名瀬日和]]）</ref>
+| 「うまぴょい伝説」
+|-
+| rowspan="2"|2025年9月24日 || rowspan="2"|Risky Business
+| rowspan="2"|{{vau|Parabola|2}}
+| 「Risky Business」
+| テレビアニメ『うたごえはミルフィーユ』挿入歌
+|-
+| 「[[unravel]] -アカペラアレンジver.-」
+| 『うたごえはミルフィーユ』関連曲
+|-
+| rowspan="2"|2025年11月19日 || rowspan="2"|Cross heart〜偽りのない気持ち
+| マリー（'''東山奈央'''）
+| 「Cross heart〜偽りのない気持ち」
+| rowspan="2"|テレビアニメ『[[機械じかけのマリー]]』エンディングテーマ
+|-
+| マリー（'''東山奈央'''）、マリー2（[[小清水亜美]]）
+| 「Cross heart〜偽りのない気持ち（duet ver.）」
+|-
+| 2025年12月24日 || TVアニメ「かくりよの宿飯」「かくりよの宿飯 弐」オリジナル・サウンドトラック<ref group="注" name="DL" />
+| 津場木葵（'''東山奈央'''）、大旦那（[[小西克幸]]）
+| 「涙のレシピ×ひと匙の光」
+| テレビアニメ『[[かくりよの宿飯 弐]]』エンディングテーマ
+|-
+| 2026年4月27日 || ラグナドールバンドプロジェクト コンピレーションアルバム<ref group="注" name="DL" />
+| {{vau|地獄バンド}}
+| 「ネバネバのスティッキートラップ」
+| ゲーム『[[ラグナドール 妖しき皇帝と終焉の夜叉姫]]』関連曲
+|-
+| style="text-align:center;"|-<ref group="注" name="NOTCD">CD未収録。</ref> || style="text-align:center;"|-
+| 瀬川ひろ（'''東山奈央'''）
+| 「漏電」<ref>{{Cite web|url=https://www.youtube.com/watch?v=4tos4H45xjU|title=瀬川ひろ『漏電』リリックビデオ【カッコウの許嫁 Season2】|website=YouTube|language=ja|date=2025-09-05|accessdate=2026-03-06}}</ref>
+| テレビアニメ『[[カッコウの許嫁 Season2]]』関連曲
+|}
+
+=== その他参加作品 ===
+{| class="wikitable" style="font-size:small"
+! 発売日 !! 商品名 !! 歌 !! 楽曲 !! 備考
+|-
+| 2013年5月21日
+| スナイパイ72 - 君はYes! -
+| '''Nao Tohyama'''
+| 「君はYes!」
+| パチスロ『スナイパイ72』主題歌
+|-
+| 2016年1月27日
+| [[Q-MHz (アルバム)|Q-MHz]]
+| [[Q-MHz]] featuring '''東山奈央'''
+| 「手探りで今のなかを」<br />「I, my, me, our Mulberry」
+| 
+|-
+| {{nobr|2017年12月22日}}
+| GRANBLUE FANTASY ORIGINAL SOUNDTRACKS Lyria
+| rowspan="2" | '''東山奈央'''
+| 「Lyria」
+| rowspan="2" | ゲーム『[[グランブルーファンタジー]]』劇中歌
+|-
+| 2019年5月1日
+| GRANBLUE FANTASY ORIGINAL SOUNDTRACKS Promise
+| 「Sky Journey」
+|-
+| 2024年5月22日
+| 魔王/Amateras
+| [[BURNOUT SYNDROMES]]×'''東山奈央'''
+| 「魔王」
+| テレビアニメ『[[魔王学院の不適合者 II 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜]]』第2クールオープニングテーマ
+|}
+
+== ライブ・イベント ==
+{{For2|ワルキューレでの活動|ワルキューレ (マクロスΔ)#出演・公演}}
+=== ワンマンライブ ===
+{| class="wikitable" style="font-size:small;"
+! 出演日 !! タイトル !! 会場
+|-
+| 2010年12月4日
+| 中川かのんデビューイベント2010 WINTER“ゆーでぃーえっくす制圧!いっくよー!”
+| [[秋葉原UDX]]（[[東京都]]）
+|-
+| 2011年10月29日
+| 中川かのん starring 東山奈央／夏色サプライズ 発売記念イベント〜秋かもね!恋かもね!〜
+| [[六本木ファーストビル|ラフォーレミュージアム六本木]]（東京都）
+|-
+| 2012年2月12日
+| 中川かのん starring 東山奈央 1st コンサート2012 Ribbon Revolution
+| [[日比谷公会堂]]（東京都）
+|-
+| 2014年2月22日
+| 中川かのん starring 東山奈央 2nd コンサート2014 Ribbon Illusion
+| [[舞浜アンフィシアター]]（[[千葉県]]）
+|-
+| 2018年2月3日
+| 東山奈央 1st LIVE “Rainbow”
+| [[日本武道館]]（東京都）
+|-
+| 2019年8月12日 - 9月22日
+| 東山奈央 1st TOUR “LIVE Infinity”
+| {{Collapsible list|title=5会場
+ | [[オリックス劇場]]（[[大阪府]]）
+ | [[名古屋国際会議場]]センチュリーホール（[[愛知県]]）
+ | [[パシフィコ横浜]]国立大ホール（[[神奈川県]]）
+ | Legacy Taipei（[[台北]]）
+ | BANDAI NAMCO SHANGHAI BASE - DREAM HALL（[[上海]]）
+ }}
+|-
+| 2020年12月5日、6日
+| 東山奈央 10th アニバーサリーライブ「Special Thanks! フェスティバル」
+| [[東京ガーデンシアター]]（東京都）
+|-
+| 2022年3月12日
+| 東山奈央生誕祭 〜なおぼう、20代やめるってよ〜
+| [[EX THEATER ROPPONGI]]（東京都）
+|-
+| 2022年10月10日 - 11月3日
+| 東山奈央 5th ANNIVERSARY TOUR「Welcome to MY WONDERLAND」
+| {{Collapsible list|title=3会場
+ | [[刈谷市総合文化センター]] 大ホール（愛知県）
+ | [[堺市民芸術文化ホール|フェニーチェ堺]]（大阪府）
+ | パシフィコ横浜 国立大ホール（神奈川県）
+ }}
+|-
+| 2024年2月12日
+| 東山奈央 7th Anniversary Party "Live☆Pallet"
+| [[恵比寿ザ・ガーデンホール]]（東京都）
+|-
+| 2024年5月12日 - 5月19日
+| NAO TOYAMA Billboard Live 2024“p.rhythm”
+| {{Collapsible list|title=2会場
+ | Billboard Live OSAKA（大阪府）
+ | Billboard Live YOKOHAMA（神奈川県）
+ }}
+|-
+| 2025年2月22日
+| 東山奈央 ワンマンライブ『わたしのかんがえたむてきのセトリ！』
+| [[ミーツポート#Kanadevia Hall(TOKYO DOME CITY HALL)|TOKYO DOME CITY HALL]]（東京都）
+|-
+| 2026年2月8日
+| 東山奈央ワンマンライブ2026「祭 – Matsuri -」
+| [[八王子市民会館|J:COMホール八王子]]（東京都）
+|-
+| 2027年3月11日（予定）
+| 東山奈央 10th Anniv. Final Live「OVER THE RAINBOW」
+| 日本武道館（東京都）
+|}
+
+=== 合同ライブ ===
+{| class="wikitable" style="font-size:small;"
+! 出演日 !! タイトル !! 会場
+|-
+| 2012年10月28日
+| [[咲-Saki-フェス 四角い宇宙でSquarePanic!]]
+| [[中野サンプラザ]]（東京都）
+|-
+| 2013年4月21日
+| [[ハヤテのごとく!×神のみぞ知るセカイ・ジョイントコンサート2013 『本日、満開桜色!』]]
+| [[パシフィコ横浜]]国立大ホール（[[神奈川県]]）
+|-
+| 2013年11月23日
+| [[ANIMAX MUSIX#2013年|ANIMAX MUSIX 2013]]
+| [[横浜アリーナ]]（神奈川県）
+|-
+| 2014年5月4日
+| Rhodanthe* Special Live 2014 ハロー * コンニチハ!!
+| [[Zepp Tokyo]]（[[東京都]]）
+|-
+| 2014年11月30日
+| THE IDOLM@STER CINDERELLA GIRLS 2ndLIVE PARTY M@GIC!!
+| [[国立代々木第一体育館]]（東京都）
+|-
+| 2014年12月7日
+| [[アニうた KITAKYUSHU#2014年|アニうた KITAKYUSHU 2014]]
+| [[西日本総合展示場]]（[[福岡県]]）
+|-
+| 2015年8月30日
+| [[Animelo Summer Live#2015年|Animelo Summer Live 2015 -GATE-]]
+| [[さいたまスーパーアリーナ]]（[[埼玉県]]）
+|-
+| 2015年11月29日
+| THE IDOLM@STER CINDERELLA GIRLS 3rdLIVE シンデレラの舞踏会 - Power of Smile -
+| [[幕張メッセ]]国際展示場9-11ホール（[[千葉県]]）
+|-
+| 2016年1月1日
+| Rhodanthe* New Year Concert 2016「FIRST*MODE」
+| [[東京国際フォーラム]]ホールA（東京都）
+|-
+| 2016年10月16日
+| THE IDOLM@STER CINDERELLA GIRLS 4thLIVE TriCastle Story 346 Castle
+| さいたまスーパーアリーナ（埼玉県）
+|-
+| 2017年5月13日・14日
+| THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!! 宮城公演
+| [[セキスイハイムスーパーアリーナ]]（[[宮城県]]）
+|-
+| 2017年8月13日
+| THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!! さいたまスーパーアリーナ公演
+| rowspan="2"|さいたまスーパーアリーナ（埼玉県）
+|-
+| 2017年8月26日
+| [[Animelo Summer Live#2017年|Animelo Summer Live 2017 -THE CARD-]]
+|-
+| 2017年11月23日
+| [[ANIMAX MUSIX#ANIMAX MUSIX 2017 YOKOHAMA|ANIMAX MUSIX 2017 YOKOHAMA]]
+| 横浜アリーナ（神奈川県）
+|-
+| 2018年8月26日
+| [[Animelo Summer Live#2018年|Animelo Summer Live 2018 "OK!"]]
+| さいたまスーパーアリーナ（埼玉県）
+|-
+| 2018年11月10日
+| THE IDOLM@STER CINDERELLA GIRLS 6thLIVE MERRY-GO-ROUNDOME!!!
+| [[メットライフドーム]]（埼玉県）
+|-
+| 2019年2月24日
+| Nao Toyama Special Live in C3AFA Hong Kong 2019
+| [[香港コンベンション・アンド・エキシビション・センター|香港會議展覽中心]]（[[香港]]）
+|-
+| 2019年8月30日
+| [[Animelo Summer Live#2019年|Animelo Summer Live 2019 -STORY-]]
+| さいたまスーパーアリーナ（埼玉県）
+|-
+| 2019年10月5日・6日
+| フライングドッグ十周年記念 LIVE犬フェス2
+| [[豊洲PIT]]（東京都）
+|-
+| 2020年2月15日・16日 
+| THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Glowing Rock!
+| [[京セラドーム大阪]]（[[大阪府]]）
+|-
+| 2021年2月27日
+| [[リスアニ!]] LIVE 2021
+| [[日本武道館]]（東京都）
+|-
+| 2021年6月19日
+| EJ My Girl Festival 2021
+| [[舞浜アンフィシアター]]（千葉県）
+|-
+| 2021年8月28日
+| [[Animelo Summer Live#2021年|Animelo Summer Live 2021 -COLORS-]]
+| さいたまスーパーアリーナ（埼玉県）
+|-
+| 2021年10月2日・3日
+| THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! MerryMaerchen Land
+| 西日本総合展示場 新館（福岡県）
+|-
+| 2021年11月20日
+| [[ANIMAX MUSIX#2021年|ANIMAX MUSIX 2021]]
+| 横浜アリーナ（神奈川県）
+|-
+| 2022年1月23日
+| リスアニ! LIVE 2022 SUNDAY STAGE
+| 日本武道館（東京都）
+|-
+| 2022年4月2日
+| THE IDOLM@STER CINDERELLA GIRLS 10th ANNIVERSARY M@GICAL WONDERLAND!!!
+| [[ベルーナドーム]]（埼玉県）
+|-
+| 2022年5月8日
+| Rhodanthe* Music Festival 2022 大感謝!!
+| [[ぴあアリーナMM]]（神奈川県）
+|-
+| 2022年8月26日
+| [[Animelo Summer Live#2022年|Animelo Summer Live 2022 -Sparkle-]]
+| さいたまスーパーアリーナ（埼玉県）
+|-
+| 2023年2月11日
+| THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023
+| [[東京ドーム]]（東京都）
+|-
+| 2023年8月27日
+| [[Animelo Summer Live#2023年|Animelo Summer Live 2023 -AXEL-]]
+| さいたまスーパーアリーナ (埼玉県）
+|-
+| 2023年11月18日
+| ANIMAX MUSIX 2023
+| 横浜アリーナ（神奈川県）
+|-
+| 2024年9月1日
+|  [[Animelo Summer Live#Animelo Summer Live 2024 -Stargazer-|Animelo Summer Live 2024 -Stargazer-]]
+| さいたまスーパーアリーナ (埼玉県）
+|-
+| 2024年12月1日
+| [[声グラFES.|声優グランプリ30周年記念「声グラFES.」]]
+| 幕張メッセ イベントホール（千葉県）
+|-
+| 2025年5月24日
+| ウマ娘 プリティーダービー 6th EVENT The New Frontier
+| さいたまスーパーアリーナ (埼玉県）
+|-
+| 2025年6月28日・29日 
+| THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 福岡公演 
+| [[マリンメッセ福岡]]（福岡県）
+|-
+| 2025年9月6日 
+| THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE
+| [[Kアリーナ横浜]]（神奈川県）
+|-
+| 2025年11月15日
+| ANIMAX MUSIX 2025 YOKOHAMA
+| 横浜アリーナ（神奈川県）
+|-
+| 2026年10月3日
+| [[名探偵プリキュア!LIVE2026 キュアット熱唱!はなまるShowtime☆]]
+| パシフィコ横浜国立大ホール（神奈川県）
+|}
+
+=== その他 ===
+<!-- インストアライブなど特筆性のないものは載せない -->
+
+== 書籍 ==
+=== オフィシャルブック ===
+* 東山奈央オフィシャルブック NOW loading…（[[太田出版]]、2022年3月10日発売、{{ISBN|978-4-77-831800-0}}）
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist2}}
+{{Ras}}
+{{Ep}}
+{{Vau}}
+=== 出典 ===
+{{Reflist|2}}
+
+== 外部リンク ==
+* [https://intention-k.com/profile/nao_toyama Nao Toyama｜Intention]
+* {{Official website|https://toyamanao.com/|東山奈央 オフィシャルサイト}}
+* [https://www.jvcmusic.co.jp/flyingdog/-/Artist/A023615.html 東山　奈央 | FlyingDog] - ビクターエンタテインメント
+* {{YouTube|handle=toyamanao}}
+* {{Ameba ブログ}}
+* {{Twitter}}
+* {{Instagram}}
+
+{{東山奈央}}
+{{インテンション}}
+{{ラジオどっとあい}}
+{{ビクターエンタテインメント}}
+{{声優アワード|助演女優賞／ゲーム賞}}
+{{プリキュアシリーズ歴代プリキュア役声優}}
+{{Normdaten}}
+{{デフォルトソート:とうやま なお}}
+
+[[Category:日本の女性声優]]
+[[Category:日本の女性ポップ歌手]]
+[[Category:アニメソング歌手]]
+[[Category:フライングドッグのアーティスト]]
+[[Category:INTENTION]]
+[[Category:過去のアーツビジョングループ所属者]]
+[[Category:日本ナレーション演技研究所出身の人物]]
+[[Category:声優アワード]]
+[[Category:東京都出身の人物]]
+[[Category:1992年生]]
+[[Category:存命人物]]

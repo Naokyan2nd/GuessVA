@@ -1,0 +1,6817 @@
+{
+  "chars": {
+    "高橋なの|ぱすてるチャイムContinue": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "美沙|ひよ恋": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シルマ|グラール騎士団": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヴォローネ|剣と魔法と学園モノ。2G": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "スプーン型MMS メリエンダ|武装神姫 BATTLE RONDO": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "宇佐美桃花|なみだうさぎ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ローザ・アピアレード|グリオットの眠り姫": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "女子高生|恶魔阿萨谢尔在召唤你": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "通行人|恶魔阿萨谢尔在召唤你": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "娘|战国乙女": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "山田アグリ|艶漢": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "カリナ|鋼の錬金術師 嘆きの丘の聖なる星": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アリサ|101番目の百物語": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "謎の少女|FAIRY TAIL ゼレフ覚醒": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "バティスタ|UNDER NIGHT IN-BIRTH": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "12月29日|『駄肉祭』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アリサ|あやつりピエロの物語": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "君島文香|いじめ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "白崎リリス|おれと一乃のゲーム同好会活動日誌 シリーズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "クロエ・ウィンケル|コードギアス 亡国のアキト": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "理子|ラブボイスフェア カノジョは嘘を愛しすぎてる": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "デモの女|交响诗篇AO": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ステイシー・シェリング|人狼 - Chaotic Time -": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "女生徒D|僕のショパン 名曲集&ドラマCDシリーズ ♯2リスト": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "小早川佐奈|君と一緒に2": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ソプラノ姫|太鼓の達人 ちびドラゴンと不思議なオーブ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ラルコ|太鼓の達人 ちびドラゴンと不思議なオーブ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リヴァ|太鼓の達人 ちびドラゴンと不思議なオーブ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "母親|战姬绝唱SYMPHOGEAR": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "生徒A|战姬绝唱SYMPHOGEAR": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "犬|映画 スマイルプリキュア! 絵本の中はみんなチグハグ!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アデレイド・アグレイアーデン|暁のヴァンピレス 前奏曲 -side Adelaide × Malheureux-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "2月19日|朗読劇『まおゆう魔王勇者 エピソード0 はじまりに至る物語』昼の部・夜の部": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "クロノス・クロニカ|桃色大戦ぱいろん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "椿ゆに|桃色大戦ぱいろん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "女子A|樱花庄的宠物女孩": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "狭間菜月|いっしょに寝るの! 〜estate notturno〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "室見立華|なれる!SE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "伊藤初芽|ぽちゃぽちゃ水泳部": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ジャンヌ・ダルク|エンゲージナイツ 〜新約英雄大戦〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ノストラダムス|エンゲージナイツ 〜新約英雄大戦〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シエラ・ローズ|グラナド・エスパダ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミハイル|ドラッグオンドラグーン3": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "龙"
+      ],
+      "origin": [
+        "龙"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ハーラー|フェアリーフェンサー エフ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "道節|伏 銀華と氷刃の猟奇録 巻之弐": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "少女|侵略!!イカ娘": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リリウム・マクラツム|俺に働けって言われても 乙": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "メイヴ|幻獣姫": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "12月8日|愚者信长": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "2014年4月6日・7月20日|愚者信长": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヒメ|星霜のアマゾネス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "潮田渚|暗殺教室": {
+      "age": "???",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "教师",
+        "学生"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "8月18日|朗読劇『まおゆう魔王勇者 人間宣言 〜名もなき少女が 魂の解放を叫ぶ〜』昼の部・夜の部": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "迦具夜|機巧少女は傷つかない Facing \"Burnt Red\"": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "メルヴィ|神撃のバハムート": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "Jervis|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "摩耶|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "敷波|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "綾波|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "鳥海|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "レイハーネフ|限界凸騎 モンスターモンピース": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "佐々木千穂|魔法战争": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "由比ヶ浜結衣|魔法战争": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "メイド妹|魔王勇者": {
+      "age": "???",
+      "gender": [],
+      "hair": [
+        "红"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "女仆",
+        "勇者"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "オリビエ|Cross Ange": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan"
+      ]
+    },
+    "シルヴィア・斑鳩・ミスルギ|Cross Ange": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "エマ・ティグリス|JKヴァンパイア 〜運命のフェスタ〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "森崎つばさ|Wake Up, Girls! ステージの天使": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "1|Z/X -Zillions of enemy X- NC DramaCD": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "仮|ガールフレンド": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "渋谷みつば|キスベル": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "トーキー|クレヨンしんちゃん 嵐を呼ぶ カスカベ映画スターズ!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "越水ソフィア|グリモア〜私立グリモワール魔法学園〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ナナミ|ナナミと一緒に学ぼ!English日常会話": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "少女|ノラガミ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アポロン|ファントム オブ キル": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "エルフリーデ・“サカモト”・カブレラ|フリーダムウォーズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ソニア・ソルバニア|フレイム王国興亡記 ドラマCD「乙女の戦い -Sweet Girl's War-」": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アリーシャ|モンスターハンター メゼポルタ開拓記": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "titles": [
+        "勇者"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ナモナ|モンスターハンター メゼポルタ開拓記": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ティフィ青山|リング☆ドリーム 女子プロレス大戦": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "稲荷ひめり|リング☆ドリーム 女子プロレス大戦": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ダブラスM2|ロボットガールズZ ONLINE": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "机器人"
+      ],
+      "origin": [
+        "机器人"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "テキサスマっ子|ロボットガールズZ ONLINE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "幼い千棘|伪恋": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ジェイド|偶像大师 灰姑娘女孩": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "テツロウ|偶像大师 灰姑娘女孩": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ルリア|偶像大师 灰姑娘女孩": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "桃色の生物|偶像大师 灰姑娘女孩": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "中沢工|农林": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "犬神|妖怪百姫たん!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "雷獣|妖怪百姫たん!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ユリアナ|戦場の円舞曲": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ダブラスM2|机器人少女Z": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "机器人"
+      ],
+      "origin": [
+        "机器人"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ウルスラ・タトラ12|棺姫のチャイカ AVENGING BATTLE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "深水陽菜|玻璃lip": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "アメリア|禁忌のマグナ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アヤ|絶滅危愚少女 Amazing Twins": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "早乙女葵|落櫻散華抄": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "クリスティーナ・リンドホルム|蒼穹のスカイガレオン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ピクシー|魔法科高中的劣等生": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ピクシー|魔法科高校の劣等生 Out of Order": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ユリ＝アスマ|CLOSERS": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ノーバディ|XBLAZE LOST:MEMORIES": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "神宮寺すばる|うそカノ ドラマCD": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ナタリー|のうりん ドラマCD": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "東塔いるみ|ゆるかみ!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "渋谷はち|ゆるかみ!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シルヴィア・斑鳩・ミスルギ|クロスアンジュ 天使と竜の輪舞tr.": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "常磐|ザクセスヘブン リベリオン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "トリッシュ・ウナ|ジョジョの奇妙な冒険 アイズオブヘブン": {
+      "age": "15",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "スマイルハート|スクール オブ ラグナロク": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ハーラー|フェアリーフェンサー エフ ADVENT DARK FORCE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "春咲ひより|プリンセスコネクト!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リコリス・ロヴィナー|ラングリッサー リインカーネーション -転生-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "阿古町|乱撃!魔法学園 -ムリムリ女神- by GMO": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "柏木遙香|初恋の歌": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ユゥナ|我的青春恋爱物语果然有问题": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "九条カレン|我的青春恋爱物语果然有问题": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "かえで|戦国姫譚MURAMASA-雅-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ルウシェ・エルレンシア|白猫プロジェクト": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "愛宕|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "榛名|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "比叡|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "金剛|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "霧島|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "高雄|舰队Collection": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "カラミティ・ジェーン|Fate/Grand Order": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "茨木童子|Fate/Grand Order": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "鈴鹿御前|Fate/Grand Order": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "公主"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ドロシー|アリスオーダー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アドバイス|シドマイヤーズ シヴィライゼーション VI": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "マリー|スカルガールズ 2ndアンコール": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "学生"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ミキ・ソーヴェスタ|スターオーシャン5 -Integrity and Faithlessness-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミキ・ソーヴェスタ|スターオーシャン5 Integrity and Faithlessness": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミキ・ソーヴェスタ|スターオーシャン:アナムネシス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "江口結瞳|ストライク・ザ・ブラッド": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "フェステニア・ミューズ|スーパーロボット大戦OG ムーン・デュエラーズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "大淵ヒマリ|デジモンワールド -next 0rder-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "氷見しずく|マギアコネクト": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "デーヴィー|ミラクルニキ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "白蓮|ミラクルニキ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "六角ケイ|メダロット ガールズミッション": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "相良美宇|レコラヴ Blue Ocean / Gold Beach": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ベラ|レムリア 〜Strada Of Chain〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "マリー・アントワネット|ワールドチェイン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "愛宕|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "敷波|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "榛名|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "比叡|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "綾波|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "金剛|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "霧島|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "高雄|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "鳥海|劇場版 艦これ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アネッタ|哥布林杀手": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ナレーション|少年阿贝 GO!GO!小芝麻": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "千家小鈴|感染×少女": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "犬神|感染×少女": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "百喰恵|感染×少女": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "うちはサスケ|火影忍者疾风传": {
+      "age": "12",
+      "gender": [
+        "男"
+      ],
+      "hair": [
+        "黑"
+      ],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [
+        "忍者"
+      ],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "早夜|田中君总是如此慵懒": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アンナ|真空管ドールズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ロッテ|终末的伊泽塔": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "-|魔法少女育成计划": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "スノーホワイト|魔法少女育成计划": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "姫河小雪|魔法少女育成计划": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "高中生"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "神崎ユリナ|18if": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "神"
+      ],
+      "origin": [
+        "神"
+      ],
+      "titles": [
+        "偶像"
+      ],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "北方くるみ|STARHORSE Pocket": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミンディ|くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "美尋|たまぽんず": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "メイヴ|エウレカセブンAO「ロード・ドント・スロー・ミー・ダウン」": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ラン・メイラン|コード・オブ・ジョーカー THE AGENTS": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ノエル|セブンズストーリー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ララ|セブンズストーリー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "レベッカ|セブンズストーリー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "大淵ヒマリ|デジモンワールド -next 0rder- INTERNATIONAL EDITION": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヘラ|デスティニーチャイルド": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ユカタン|ドラえもん のび太の南極カチコチ大冒険": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ジーナ・プレディ|ノーブルウィッチーズ6 第506統合戦闘航空団 疑心!": {
+      "age": "19",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "魔法使",
+        "队长"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ボブちゃん|バイブリーアニメーションスタジオ プロモーションムービー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "セリカ|ファイアーエムブレム Echoes もうひとりの英雄王": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "セリカ|ファイアーエムブレム ヒーローズ": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "セリカ|ファイアーエムブレム無双": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ヒヨリ|プリンセスコネクト！Re:Dive PRICONNE CHARACTER SONG": {
+      "age": "16",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "光武リイナ|偶像事变": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "偶像"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "森園蔦枝|劇的奇想音盤 艶漢": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "うちはサスケ|博人传-火影次世代-": {
+      "age": "12",
+      "gender": [
+        "男"
+      ],
+      "hair": [
+        "黑"
+      ],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [
+        "忍者"
+      ],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "ユカタン|哆啦A梦 大雄的南极冰冰凉大冒险": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ナフヴァム|哥布林杀手": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ニール|哥布林杀手": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "フローリア|哥布林杀手": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ラール|哥布林杀手": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "イリス|异世界食堂": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヒルダ|异世界食堂": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リーズ城|御城プロジェクト:RE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヴァルトブルク城|御城プロジェクト:RE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "高天神城|御城プロジェクト:RE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "九条カレン|摇曳露营△": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "桜井美景|摇曳露营△": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ソウタ|数码宝贝宇宙 应用怪兽": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "園田涼子|月色真美": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "折山香琳|未成年だけどコドモじゃない": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "東風谷早苗|東方Project二次創作同人アニメ「秘封活動記録 -祝-」": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "一之瀬帆波|欢迎来到实力至上主义的教室": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "エルフクイーン|碧蓝幻想": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ピンクぴにゃこら太|碧蓝幻想": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "メルヴィ|碧蓝幻想": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "死月の使徒|碧蓝幻想": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ユウナ・クロフォード|英雄伝説 閃の軌跡III": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "レイシア|BEATLESS": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan"
+      ]
+    },
+    "バティスタ|BLAZBLUE CROSS TAG BATTLE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リリ|CARAVAN STORIES": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "美浜さな|JUDGE EYES:死神の遺言": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミカグラ・ユイ|New ガンダムブレイカー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヴィクティム|OVERLORD II": {
+      "age": "???",
+      "gender": [],
+      "hair": [
+        "粉"
+      ],
+      "race": [
+        "天使"
+      ],
+      "origin": [
+        "天使"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan"
+      ]
+    },
+    "少女|おじゃる丸": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "朝日向万那|ましろウィッチ 真夜中のメルヒェン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "匣屋マチ|ゆらぎ荘の幽奈さん 湯けむり迷宮": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "SOL ストライクラプター|アリス・ギア・アイギス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "SOL ラプター|アリス・ギア・アイギス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "マルガレータ＝オブ＝エピック|ファンタシースターオンライン2": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "オプトレイオン|ファンタシースターオンライン2 es": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "コンゴウ|ファンタシースターオンライン2 es": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "デモリションコメット|ファンタシースターオンライン2 es": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ホーリーレイ|ファンタシースターオンライン2 es": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "獅子咬|ファンタシースターオンライン2 es": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヒヨリ|プリンセスコネクト！Re:Dive": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "春咲ひより|プリンセスコネクト！Re:Dive": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リーフェ・ブロムダール|プレカトゥスの天秤": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シロ|ボンバーガール": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "詩音千里|マギアレコード 魔法少女まどか☆マギカ外伝": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "姫野りんこ|ヤンキーショタとオタクおねえさん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ブリトニー・シュルズベリィ|ワイルドアームズ ミリオンメモリーズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "クーピー|叛逆性百万亚瑟王": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シュク|夢間集": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リリエッタ|大人的防具店": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ロリエッタ|大人的防具店": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "天城那々子|恶魔战线": {
+      "age": "28",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "レイリィ・ミラー|戦場のヴァルキュリア4": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "有星タエ|映画 妖怪ウォッチ FOREVER FRIENDS": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ベル|暁のエピカ -Union Brave-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "川合胡桃|来自多彩世界的明天": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ユウナ・クロフォード|英雄伝説 閃の軌跡 IV -THE END OF SAGA-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "みあ シルバーストーン|茜色少女": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミス・メルバ|虚空魔境": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "レビィ|超时空要塞Δ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "クロエ・ラウ|重神机潘多拉": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "津場木葵|鹿枫堂": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "高中生",
+        "学生"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "飫肥萌|47 HEROINES": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "岩清水ナツ|7SEEDS": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan"
+      ]
+    },
+    "鷺澤有里栖|D.C.4 〜ダ・カーポ4〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "音無橘花|EVE rebirth terror": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "エフィル・メイ|VARIOUS DAYLIFE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "獅子島・L・七尾|Z/X Code reunion": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "堂島晶|この音とまれ!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "うるる|しまじろうのわお!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "カリーナ|どるふろ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "外囿ホカノ|ぼっちゃまは今日もイジられる": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "エクレール|ガールズ&パンツァー 最終章": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ケイティ・キムラ|キャロル&チューズデイ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "コロナ|クロス×ロゴス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シータ|グリムエコーズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リコ|ソードアート・オンライン アーケード ディープ・エクスプローラー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ディート|ダーククリスタル: エイジ・オブ・レジスタンス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ロクサーヌ|ドラゴンクエストライバルズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ピポ|バースデー・ワンダーランド": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アクア|ファンタジーライフ オンライン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ツバキ|俺を好きなのはお前だけかよ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "伊部遥|名探偵コナン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "フウくん|妖怪ウォッチ4 ぼくらは同じ空を見上げている / 4++": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "有星タエ|妖怪ウォッチ4 ぼくらは同じ空を見上げている / 4++": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "愛姫 MEGOHIME|愛姫 MEGOHIME": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan"
+      ]
+    },
+    "田村愛|愛姫 MEGOHIME": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アメリア・サンダース|摇曳露营△": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "鈴宮陽衣|斉木楠雄のΨ難 Ψ始動編": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "学生"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "お市|胡蝶綺 〜若き信長〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "織田信勝|胡蝶綺 〜若き信長〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "リリコ|荒野のコトブキ飛行隊": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "クリスティーナ・リンドホルム|蒼天のスカイガレオン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "不知火|陰陽師本格幻想RPG": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "くろむ|魔入りました!入間くん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "クロケル・ケロリ|魔入りました!入間くん": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "titles": [
+        "学生"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "孫尚香|RANBU 三国志乱舞": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "華雄|RANBU 三国志乱舞": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ダフネ|Re:从零开始的异世界生活": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "魔法使"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "北方くるみ|STARHORSE4": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ケロリーヌ|おしりたんてい": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "迅羽|なぜなにデンドログラム": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シャスティ|クイズRPG 魔法使いと黒猫のウィズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヤーシャラージャ・ローカパーラ|クイズRPG 魔法使いと黒猫のウィズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "逢沢永夏|グリザイア クロノスリベリオン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "青木紅愛|グレイプニル": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "リリー|ゲーセン少女と異文化交流": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "最明クルミ|サクラ革命 〜華咲く乙女たち〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ケイ|スタースマッシュ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ジビア|スパイ教室 第3巻発売記念ボイスドラマ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "クレオメ|ファイナルファンタジー ブレイブエクスヴィアス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "レビィ|モンスターストライク THE MOVIE ルシファー 絶望の夜明け": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "リコリス・ロヴィナー|ラングリッサー モバイル": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "方舟の聖女|ラングリッサー モバイル": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ツバキ|俺を好きなのはお前だけかよ〜俺たちのゲームセット〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "桜井美景|恋爱小行星": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ルイス・ジェームズ・モリアーティ|憂国のモリアーティ": {
+      "age": "23",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "不知火|百鬼異聞録〜妖怪カードバトル〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ブラック・ジャック|絵師神の絆": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リーセリア|聖剣学院の魔剣使い": {
+      "age": "15",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ユウナ・クロフォード|英雄伝説 創の軌跡": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アナスタシア|超时空要塞Δ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "イケロスヌーズ|超时空要塞Δ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ダセット|超时空要塞Δ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "レイピアサシン|超时空要塞Δ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "迅羽|＜Infinite Dendrogram＞-インフィニット・デンドログラム-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan"
+      ]
+    },
+    "鷺澤有里咲|D.C.4 Fortunate Departures 〜ダ・カーポ4〜 フォーチュネイトデパーチャーズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "鷺澤有里栖|D.C.4 Fortunate Departures 〜ダ・カーポ4〜 フォーチュネイトデパーチャーズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "茨木童子|Fate/Grand Carnival": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan"
+      ]
+    },
+    "城門ツバサ|PARQUET": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "茨木リノ|PARQUET": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ピース|うみねこのなく頃に咲 〜猫箱と夢想の交響曲〜": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [
+        "魔法使"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "カリーナ|どるふろ -癒し篇2-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "河瀬川英子|ぼくたちのリメイク": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "音依|アニマエ・アルケー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ナリ|ガーディアンテイルズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミコト|ピーチボーイリバーサイド": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミコト|ピーチボーイリバーサイド バトルサーガ": {
+      "age": "???",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "日羽|フラ・フラダンス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "閻魔王|ラグナドール 妖しき皇帝と終焉の夜叉姫": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シャーロット|ロードオブヒーローズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "カルナティア・セリ・アナバルド|不过是蜘蛛什么的": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "大島叶多|不过是蜘蛛什么的": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "宮美一花|四つ子ぐらし": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ロウェルミナ・アースワルド|天才王子の赤字国家再生術 ショートドラマ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "公主"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "エリス|悪役令嬢は嫌われ貴族に恋をする": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "安城ナガラ|新幹線変形ロボ シンカリオンZ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "桜井咲耶|桜井さんは気づいてほしい": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "米倉マリナ|白い砂のアクアトープ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "メグリア|真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "骑士"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "リーゼロッテ＝クレティア|精灵幻想记": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "リーゼロッテ＝クレティア|精霊幻想記アナザーテイル": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ノーチラス|終末のアーカーシャ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "6月8日|詠唱劇「新本格魔法少女りすか」": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "レイナ・プラウラー|超时空要塞△ 绝对LIVE!!!!!!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "小坂奈緒|青春ヘビーローテーション": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "シーラ・トェル・メタ＝リカーナ|BASTARD!! -暗黒の破壊神-": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "黑"
+      ],
+      "race": [
+        "神"
+      ],
+      "origin": [
+        "神"
+      ],
+      "titles": [
+        "公主"
+      ],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "ナレーション|「艦これ」いつかあの海で": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "榛名|「艦これ」いつかあの海で": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "金剛|「艦これ」いつかあの海で": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "神志名サオリ|みんなで早押しクイズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ナナ|ソウルハッカーズ2": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ユーリア・ウォルフ|タクティクスオウガ リボーン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "テレビ朝日版第2期|ドラえもん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "カリーナ|ドールズフロントライン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "堀江タコスロ墨|ハナビちゃんは遅れがち": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ハーラー|フェアリーフェンサー エフ Refrain Chord": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ヒヨリ|プリコネ！グランドマスターズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヒヨリ|プリンセスコネクト!Re:Dive Season 2": {
+      "age": "16",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "スミ|ポンコツクエスト〜魔王と派遣の魔物たち〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "井上カグラ|ミコノート はれときどきけがれ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "カグラ|ミコノート 第\"0\"話 -前日譚-": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ロウェルミナ・アースワルド|天才王子的赤字国家重生术": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "公主"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "吉永虹|慢活开始": {
+      "age": "???",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "プロト|我が焔炎にひれ伏せ世界": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "プロト|我が焔炎にひれ伏せ世界 ボイスドラマ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "10月30日|朗読ライブ「旅のラゴス」": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "Mixalive TOKYO Theater Mixa|朗読ライブ「旅のラゴス」": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "最上アサヒ|神クズ☆アイドル 番外編": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "神"
+      ],
+      "origin": [
+        "神"
+      ],
+      "titles": [
+        "偶像"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "最上アサヒ|神废柴☆偶像": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "神"
+      ],
+      "origin": [
+        "神"
+      ],
+      "titles": [
+        "偶像"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "17日|舞台『青少年アシベ』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "7月13日|舞台『青少年アシベ』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "大手町三井ホール|舞台『青少年アシベ』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "カーラ|薬師の魔女ですが、なぜか副業で離婚代行しています 挿しボイスコード": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "須磨|鬼灭之刃": {
+      "age": "19",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ジゼル・ジュエル|BLEACH 千年血戦篇": {
+      "age": "???",
+      "gender": [],
+      "hair": [
+        "红"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "鷺澤有里咲|D.C.5 〜ダ・カーポ5〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "小石川惟子|SHY": {
+      "age": "14",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "勇者"
+      ],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "鮎川星|うちの会社の小さい先輩の話": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "エルシール|アナザーエデン 時空を超える猫": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "メジロラモーヌ|ウマ娘 プリティーダービー": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "アナスタシア|キュービックスターズ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "キンバリー|ストリートファイター6": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ラフィーナ・オルカ・ヴェールガ|ティアムーン帝国物語〜断頭台から始まる、姫の転生逆転ストーリー〜": {
+      "age": "14",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "学生",
+        "队长"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "チマ|ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "セリカ|ファイアーエムブレム エンゲージ": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "聖園ミカ|ブルーアーカイブ -Blue Archive-": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "学生",
+        "队长"
+      ],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "セレスティーヌ|ポーション頼みで生き延びます!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ロタ|ヴィンランド・サガ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ラファンパン|便利屋斎藤さん、異世界に行く": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "妖精"
+      ],
+      "origin": [
+        "妖精"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "セシリア|悪役令嬢、セシリア・シルビィは死にたくないので男装することにした。〜もしかして運命の強制力!? ドキドキお菓子作り!〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "女仆",
+        "公主",
+        "巫女",
+        "学生"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "10月14日 - 15日|朗読劇『スノーホワイト育成計画』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "飛行船シアター|朗読劇『スノーホワイト育成計画』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "1月28日 - 29日|朗読劇『森の音楽家クラムベリー外伝 魔法少女育成計画 UNRIPE DUET』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "草月ホール|朗読劇『森の音楽家クラムベリー外伝 魔法少女育成計画 UNRIPE DUET』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ナイト|異世界でチート能力を手にした俺は、現実世界をも無双する〜レベルアップは人生を変えた〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ソフィ|英雄教室": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ジビア|间谍教室": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "卯咲もふ|鴨乃橋ロンの禁断推理": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "美国",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "スピカ|かつて魔法少女と悪は敵対していた。": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "天沢キョウ|ささやくように恋を唄う": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "斎藤詩織|じいさんばあさん若返る": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "キャサリン・サバスラ|コードギアス 奪還のロゼ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "リーゼロッテ＝クレティア|セリア先生のどきどきインタビュールーム": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "HD-2D版|ドラゴンクエストIII そして伝説へ…": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リーゼロッテ＝クレティア|リーゼロッテのわくわくまじかる商会": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ローズバンク|七つの大罪 黙示録の四騎士": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "山野さん|休日のわるものさん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ヘンゼル＆グレーテル|勝利の女神:NIKKE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ムアラニ|原神": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "柚日咲めくる|声优广播的台前幕后": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "亜璃恵瑠|夜のクラゲは泳げない": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "三輪藍|大室家": {
+      "age": "18",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "狸塚ビーンズ|妖怪学校の先生はじめました!": {
+      "age": "3",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "棚橋夕香|愚蠢天使与恶魔共舞": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "中園エマ|指尖相触，恋恋不舍": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ムフルム|星降る王国のニナ": {
+      "age": "???",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "8月11日|朗読劇『じいさんばあさん若返る』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "科学技術館 サイエンスホール|朗読劇『じいさんばあさん若返る』": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "桃夭|百妖谱": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "牧葉ヒカル|盖塔机器人U": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "中富葉香|終末トレインどこへいく?": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "クラウディア|結婚するって、本当ですか": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "琥珀|联谊会上找不到女生": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "リルベチカ|魔女のふろーらいふ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アルカナ|魔王学院の不適合者 II 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "茨木童子|Fate/Grand Order 藤丸立香はわからない": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "マリエッタ|Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "セレナ|ある魔女が死ぬまで": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "御倉ひるね|この本を盗む者は": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "きりんちゃん|たべっ子どうぶつ THE MOVIE": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "みずいろのコウペンちゃん|コウペンちゃん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "高柳弥生|ロックは淑女の嗜みでして": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [
+        "女仆"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "アリューシア・シトラス|乡下大叔成为剑圣": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "ビガ|你的形貌": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "三葉凛子|前橋ウィッチーズ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "2025|地獄先生ぬ〜べ〜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "坂本葵|坂本日常": {
+      "age": "26",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "jikan",
+        "anilist"
+      ]
+    },
+    "ハイダ|想星のアクエリオン Myth of Emotions": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ミホ|未ル わたしのみらい": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "マリー|机械构造的玛丽": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "仙石喜歌|歌声是法式千层酥": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "メイプル|牧場物語 Let's!風のグランドバザール": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "黒曜リナリス|異修羅": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "マリア|终究最强炼金术师？": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "玉那覇りく|阿波連さんははかれない season2": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "須磨|鬼灭之刃 火之神血风谭2": {
+      "age": "19",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "神"
+      ],
+      "origin": [
+        "神"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "藤乃代葉|鵺の陰陽師 Summer◇Memories": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "アリス|LV999の村人": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "サン|エリスの聖杯": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ブラウニー|ネコぱら セカイコネクト": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "ディアナ|プラグマタ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "キュアアルカナ・シャドウ|名侦探光之美少女": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "森亜るるか|名侦探光之美少女": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "キュアアルカナ・シャドウ|映画名探偵プリキュア!": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "森亜るるか|映画名探偵プリキュア!": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "薺|春夏秋冬代行者 春の舞": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [],
+      "origin": [],
+      "titles": [],
+      "genres": [],
+      "source": []
+    },
+    "アンゲリカ|本好きの下剋上 領主の養女": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "蓝"
+      ],
+      "race": [
+        "妖精"
+      ],
+      "origin": [
+        "妖精"
+      ],
+      "titles": [
+        "骑士"
+      ],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "百歳あお|真夜中ハートチューン": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "梅田里緒|花ざかりの君たちへ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    },
+    "エイマ|領民0人スタートの辺境領主様": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "titles": [],
+      "genres": [],
+      "source": [
+        "anilist"
+      ]
+    }
+  },
+  "media": {
+    "ぱすてるチャイムContinue": [],
+    "ひよ恋": [
+      "恋爱"
+    ],
+    "グラール騎士団": [
+      "动作",
+      "剧情",
+      "奇幻",
+      "超自然"
+    ],
+    "剣と魔法と学園モノ。2G": [],
+    "武装神姫 BATTLE RONDO": [],
+    "なみだうさぎ": [],
+    "グリオットの眠り姫": [],
+    "恶魔阿萨谢尔在召唤你": [],
+    "战国乙女": [],
+    "艶漢": [],
+    "鋼の錬金術師 嘆きの丘の聖なる星": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "剧情",
+      "奇幻"
+    ],
+    "101番目の百物語": [],
+    "FAIRY TAIL ゼレフ覚醒": [],
+    "UNDER NIGHT IN-BIRTH": [],
+    "『駄肉祭』": [],
+    "あやつりピエロの物語": [],
+    "いじめ": [
+      "剧情"
+    ],
+    "おれと一乃のゲーム同好会活動日誌 シリーズ": [],
+    "コードギアス 亡国のアキト": [
+      "机器人"
+    ],
+    "ラブボイスフェア カノジョは嘘を愛しすぎてる": [],
+    "交响诗篇AO": [],
+    "人狼 - Chaotic Time -": [],
+    "僕のショパン 名曲集&ドラマCDシリーズ ♯2リスト": [],
+    "君と一緒に2": [],
+    "太鼓の達人 ちびドラゴンと不思議なオーブ": [],
+    "战姬绝唱SYMPHOGEAR": [],
+    "映画 スマイルプリキュア! 絵本の中はみんなチグハグ!": [],
+    "暁のヴァンピレス 前奏曲 -side Adelaide × Malheureux-": [],
+    "朗読劇『まおゆう魔王勇者 エピソード0 はじまりに至る物語』昼の部・夜の部": [],
+    "桃色大戦ぱいろん": [],
+    "樱花庄的宠物女孩": [
+      "喜剧",
+      "剧情",
+      "恋爱",
+      "日常"
+    ],
+    "いっしょに寝るの! 〜estate notturno〜": [],
+    "なれる!SE": [],
+    "ぽちゃぽちゃ水泳部": [],
+    "エンゲージナイツ 〜新約英雄大戦〜": [],
+    "グラナド・エスパダ": [],
+    "ドラッグオンドラグーン3": [],
+    "フェアリーフェンサー エフ": [],
+    "伏 銀華と氷刃の猟奇録 巻之弐": [],
+    "侵略!!イカ娘": [
+      "喜剧",
+      "日常"
+    ],
+    "俺に働けって言われても 乙": [],
+    "幻獣姫": [],
+    "愚者信长": [],
+    "星霜のアマゾネス": [],
+    "暗殺教室": [
+      "动作",
+      "喜剧",
+      "超自然"
+    ],
+    "朗読劇『まおゆう魔王勇者 人間宣言 〜名もなき少女が 魂の解放を叫ぶ〜』昼の部・夜の部": [],
+    "機巧少女は傷つかない Facing \"Burnt Red\"": [],
+    "神撃のバハムート": [
+      "动作",
+      "冒险",
+      "奇幻",
+      "超自然"
+    ],
+    "舰队Collection": [],
+    "限界凸騎 モンスターモンピース": [],
+    "魔法战争": [],
+    "魔王勇者": [
+      "冒险",
+      "奇幻",
+      "恋爱"
+    ],
+    "Cross Ange": [
+      "动作",
+      "H",
+      "机器人",
+      "恋爱",
+      "科幻"
+    ],
+    "JKヴァンパイア 〜運命のフェスタ〜": [],
+    "Wake Up, Girls! ステージの天使": [],
+    "Z/X -Zillions of enemy X- NC DramaCD": [],
+    "ガールフレンド": [
+      "音乐"
+    ],
+    "キスベル": [],
+    "クレヨンしんちゃん 嵐を呼ぶ カスカベ映画スターズ!": [],
+    "グリモア〜私立グリモワール魔法学園〜": [],
+    "ナナミと一緒に学ぼ!English日常会話": [],
+    "ノラガミ": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "超自然"
+    ],
+    "ファントム オブ キル": [
+      "动作",
+      "冒险",
+      "奇幻"
+    ],
+    "フリーダムウォーズ": [],
+    "フレイム王国興亡記 ドラマCD「乙女の戦い -Sweet Girl's War-」": [],
+    "モンスターハンター メゼポルタ開拓記": [],
+    "リング☆ドリーム 女子プロレス大戦": [],
+    "ロボットガールズZ ONLINE": [],
+    "伪恋": [],
+    "偶像大师 灰姑娘女孩": [],
+    "农林": [],
+    "妖怪百姫たん!": [],
+    "戦場の円舞曲": [],
+    "机器人少女Z": [],
+    "棺姫のチャイカ AVENGING BATTLE": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "奇幻"
+    ],
+    "玻璃lip": [],
+    "禁忌のマグナ": [],
+    "絶滅危愚少女 Amazing Twins": [
+      "日常"
+    ],
+    "落櫻散華抄": [],
+    "蒼穹のスカイガレオン": [],
+    "魔法科高中的劣等生": [],
+    "魔法科高校の劣等生 Out of Order": [],
+    "CLOSERS": [
+      "动作",
+      "科幻",
+      "超自然"
+    ],
+    "XBLAZE LOST:MEMORIES": [],
+    "うそカノ ドラマCD": [],
+    "のうりん ドラマCD": [],
+    "ゆるかみ!": [],
+    "クロスアンジュ 天使と竜の輪舞tr.": [],
+    "ザクセスヘブン リベリオン": [],
+    "ジョジョの奇妙な冒険 アイズオブヘブン": [],
+    "スクール オブ ラグナロク": [],
+    "フェアリーフェンサー エフ ADVENT DARK FORCE": [],
+    "プリンセスコネクト!": [
+      "冒险",
+      "喜剧",
+      "奇幻"
+    ],
+    "ラングリッサー リインカーネーション -転生-": [],
+    "乱撃!魔法学園 -ムリムリ女神- by GMO": [],
+    "初恋の歌": [],
+    "我的青春恋爱物语果然有问题": [
+      "喜剧",
+      "剧情",
+      "恋爱",
+      "日常"
+    ],
+    "戦国姫譚MURAMASA-雅-": [],
+    "白猫プロジェクト": [
+      "动作",
+      "冒险",
+      "奇幻",
+      "恋爱"
+    ],
+    "Fate/Grand Order": [
+      "动作",
+      "奇幻"
+    ],
+    "アリスオーダー": [],
+    "シドマイヤーズ シヴィライゼーション VI": [],
+    "スカルガールズ 2ndアンコール": [],
+    "スターオーシャン5 -Integrity and Faithlessness-": [],
+    "スターオーシャン5 Integrity and Faithlessness": [],
+    "スターオーシャン:アナムネシス": [],
+    "ストライク・ザ・ブラッド": [
+      "动作",
+      "H",
+      "奇幻",
+      "超自然"
+    ],
+    "スーパーロボット大戦OG ムーン・デュエラーズ": [],
+    "デジモンワールド -next 0rder-": [],
+    "マギアコネクト": [],
+    "ミラクルニキ": [],
+    "メダロット ガールズミッション": [],
+    "レコラヴ Blue Ocean / Gold Beach": [],
+    "レムリア 〜Strada Of Chain〜": [],
+    "ワールドチェイン": [],
+    "劇場版 艦これ": [
+      "动作",
+      "科幻"
+    ],
+    "哥布林杀手": [],
+    "少年阿贝 GO!GO!小芝麻": [],
+    "感染×少女": [],
+    "火影忍者疾风传": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "剧情",
+      "奇幻",
+      "超自然"
+    ],
+    "田中君总是如此慵懒": [],
+    "真空管ドールズ": [],
+    "终末的伊泽塔": [],
+    "魔法少女育成计划": [],
+    "18if": [
+      "冒险",
+      "奇幻",
+      "悬疑",
+      "超自然"
+    ],
+    "STARHORSE Pocket": [],
+    "くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ": [
+      "喜剧"
+    ],
+    "たまぽんず": [
+      "喜剧",
+      "奇幻"
+    ],
+    "エウレカセブンAO「ロード・ドント・スロー・ミー・ダウン」": [],
+    "コード・オブ・ジョーカー THE AGENTS": [],
+    "セブンズストーリー": [],
+    "デジモンワールド -next 0rder- INTERNATIONAL EDITION": [],
+    "デスティニーチャイルド": [
+      "动作",
+      "超自然"
+    ],
+    "ドラえもん のび太の南極カチコチ大冒険": [
+      "喜剧"
+    ],
+    "ノーブルウィッチーズ6 第506統合戦闘航空団 疑心!": [],
+    "バイブリーアニメーションスタジオ プロモーションムービー": [],
+    "ファイアーエムブレム Echoes もうひとりの英雄王": [],
+    "ファイアーエムブレム ヒーローズ": [
+      "冒险",
+      "喜剧"
+    ],
+    "ファイアーエムブレム無双": [],
+    "プリンセスコネクト！Re:Dive PRICONNE CHARACTER SONG": [],
+    "偶像事变": [],
+    "劇的奇想音盤 艶漢": [],
+    "博人传-火影次世代-": [],
+    "哆啦A梦 大雄的南极冰冰凉大冒险": [],
+    "异世界食堂": [
+      "奇幻",
+      "日常"
+    ],
+    "御城プロジェクト:RE": [],
+    "摇曳露营△": [
+      "喜剧",
+      "日常"
+    ],
+    "数码宝贝宇宙 应用怪兽": [],
+    "月色真美": [],
+    "未成年だけどコドモじゃない": [],
+    "東方Project二次創作同人アニメ「秘封活動記録 -祝-」": [],
+    "欢迎来到实力至上主义的教室": [],
+    "碧蓝幻想": [],
+    "英雄伝説 閃の軌跡III": [],
+    "BEATLESS": [],
+    "BLAZBLUE CROSS TAG BATTLE": [],
+    "CARAVAN STORIES": [],
+    "JUDGE EYES:死神の遺言": [],
+    "New ガンダムブレイカー": [],
+    "OVERLORD II": [],
+    "おじゃる丸": [],
+    "ましろウィッチ 真夜中のメルヒェン": [],
+    "ゆらぎ荘の幽奈さん 湯けむり迷宮": [],
+    "アリス・ギア・アイギス": [],
+    "ファンタシースターオンライン2": [
+      "动作",
+      "科幻"
+    ],
+    "ファンタシースターオンライン2 es": [],
+    "プリンセスコネクト！Re:Dive": [],
+    "プレカトゥスの天秤": [],
+    "ボンバーガール": [],
+    "マギアレコード 魔法少女まどか☆マギカ外伝": [],
+    "ヤンキーショタとオタクおねえさん": [],
+    "ワイルドアームズ ミリオンメモリーズ": [],
+    "叛逆性百万亚瑟王": [],
+    "夢間集": [],
+    "大人的防具店": [],
+    "恶魔战线": [],
+    "戦場のヴァルキュリア4": [],
+    "映画 妖怪ウォッチ FOREVER FRIENDS": [],
+    "暁のエピカ -Union Brave-": [],
+    "来自多彩世界的明天": [],
+    "英雄伝説 閃の軌跡 IV -THE END OF SAGA-": [],
+    "茜色少女": [],
+    "虚空魔境": [],
+    "超时空要塞Δ": [],
+    "重神机潘多拉": [],
+    "鹿枫堂": [
+      "喜剧",
+      "日常"
+    ],
+    "47 HEROINES": [],
+    "7SEEDS": [],
+    "D.C.4 〜ダ・カーポ4〜": [],
+    "EVE rebirth terror": [],
+    "VARIOUS DAYLIFE": [],
+    "Z/X Code reunion": [
+      "冒险",
+      "奇幻",
+      "科幻"
+    ],
+    "この音とまれ!": [],
+    "しまじろうのわお!": [],
+    "どるふろ": [
+      "喜剧",
+      "科幻"
+    ],
+    "ぼっちゃまは今日もイジられる": [],
+    "ガールズ&パンツァー 最終章": [
+      "动作",
+      "运动"
+    ],
+    "キャロル&チューズデイ": [
+      "剧情",
+      "音乐",
+      "科幻"
+    ],
+    "クロス×ロゴス": [],
+    "グリムエコーズ": [],
+    "ソードアート・オンライン アーケード ディープ・エクスプローラー": [],
+    "ダーククリスタル: エイジ・オブ・レジスタンス": [],
+    "ドラゴンクエストライバルズ": [],
+    "バースデー・ワンダーランド": [
+      "冒险",
+      "奇幻"
+    ],
+    "ファンタジーライフ オンライン": [],
+    "俺を好きなのはお前だけかよ": [
+      "喜剧",
+      "剧情",
+      "H",
+      "恋爱",
+      "日常"
+    ],
+    "名探偵コナン": [
+      "冒险",
+      "喜剧",
+      "悬疑",
+      "心理"
+    ],
+    "妖怪ウォッチ4 ぼくらは同じ空を見上げている / 4++": [],
+    "愛姫 MEGOHIME": [
+      "科幻"
+    ],
+    "斉木楠雄のΨ難 Ψ始動編": [
+      "喜剧",
+      "日常",
+      "超自然"
+    ],
+    "胡蝶綺 〜若き信長〜": [
+      "动作",
+      "冒险",
+      "剧情",
+      "恋爱"
+    ],
+    "荒野のコトブキ飛行隊": [
+      "动作",
+      "冒险"
+    ],
+    "蒼天のスカイガレオン": [],
+    "陰陽師本格幻想RPG": [],
+    "魔入りました!入間くん": [
+      "喜剧",
+      "奇幻"
+    ],
+    "RANBU 三国志乱舞": [],
+    "Re:从零开始的异世界生活": [
+      "动作",
+      "冒险",
+      "剧情",
+      "奇幻",
+      "心理",
+      "悬疑"
+    ],
+    "STARHORSE4": [],
+    "おしりたんてい": [
+      "喜剧",
+      "奇幻",
+      "悬疑"
+    ],
+    "なぜなにデンドログラム": [
+      "奇幻"
+    ],
+    "クイズRPG 魔法使いと黒猫のウィズ": [],
+    "グリザイア クロノスリベリオン": [],
+    "グレイプニル": [
+      "动作",
+      "H",
+      "悬疑",
+      "超自然"
+    ],
+    "ゲーセン少女と異文化交流": [],
+    "サクラ革命 〜華咲く乙女たち〜": [],
+    "スタースマッシュ": [],
+    "スパイ教室 第3巻発売記念ボイスドラマ": [],
+    "ファイナルファンタジー ブレイブエクスヴィアス": [],
+    "モンスターストライク THE MOVIE ルシファー 絶望の夜明け": [
+      "动作",
+      "奇幻"
+    ],
+    "ラングリッサー モバイル": [],
+    "俺を好きなのはお前だけかよ〜俺たちのゲームセット〜": [],
+    "恋爱小行星": [],
+    "憂国のモリアーティ": [
+      "剧情",
+      "悬疑",
+      "心理"
+    ],
+    "百鬼異聞録〜妖怪カードバトル〜": [],
+    "絵師神の絆": [],
+    "聖剣学院の魔剣使い": [
+      "奇幻",
+      "恋爱"
+    ],
+    "英雄伝説 創の軌跡": [],
+    "＜Infinite Dendrogram＞-インフィニット・デンドログラム-": [],
+    "D.C.4 Fortunate Departures 〜ダ・カーポ4〜 フォーチュネイトデパーチャーズ": [],
+    "Fate/Grand Carnival": [],
+    "PARQUET": [],
+    "うみねこのなく頃に咲 〜猫箱と夢想の交響曲〜": [],
+    "どるふろ -癒し篇2-": [],
+    "ぼくたちのリメイク": [],
+    "アニマエ・アルケー": [],
+    "ガーディアンテイルズ": [],
+    "ピーチボーイリバーサイド": [],
+    "ピーチボーイリバーサイド バトルサーガ": [],
+    "フラ・フラダンス": [],
+    "ラグナドール 妖しき皇帝と終焉の夜叉姫": [],
+    "ロードオブヒーローズ": [],
+    "不过是蜘蛛什么的": [],
+    "四つ子ぐらし": [],
+    "天才王子の赤字国家再生術 ショートドラマ": [],
+    "悪役令嬢は嫌われ貴族に恋をする": [],
+    "新幹線変形ロボ シンカリオンZ": [],
+    "桜井さんは気づいてほしい": [],
+    "白い砂のアクアトープ": [],
+    "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました": [
+      "动作",
+      "冒险",
+      "奇幻",
+      "恋爱",
+      "日常"
+    ],
+    "精灵幻想记": [],
+    "精霊幻想記アナザーテイル": [],
+    "終末のアーカーシャ": [],
+    "詠唱劇「新本格魔法少女りすか」": [],
+    "超时空要塞△ 绝对LIVE!!!!!!": [],
+    "青春ヘビーローテーション": [],
+    "BASTARD!! -暗黒の破壊神-": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "H",
+      "奇幻"
+    ],
+    "「艦これ」いつかあの海で": [
+      "动作",
+      "科幻"
+    ],
+    "みんなで早押しクイズ": [],
+    "ソウルハッカーズ2": [],
+    "タクティクスオウガ リボーン": [],
+    "ドラえもん": [
+      "冒险",
+      "喜剧",
+      "奇幻"
+    ],
+    "ドールズフロントライン": [
+      "动作",
+      "剧情"
+    ],
+    "ハナビちゃんは遅れがち": [
+      "喜剧",
+      "奇幻",
+      "日常"
+    ],
+    "フェアリーフェンサー エフ Refrain Chord": [],
+    "プリコネ！グランドマスターズ": [],
+    "プリンセスコネクト!Re:Dive Season 2": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "奇幻"
+    ],
+    "ポンコツクエスト〜魔王と派遣の魔物たち〜": [
+      "冒险",
+      "喜剧",
+      "奇幻"
+    ],
+    "ミコノート はれときどきけがれ": [],
+    "ミコノート 第\"0\"話 -前日譚-": [],
+    "天才王子的赤字国家重生术": [],
+    "慢活开始": [],
+    "我が焔炎にひれ伏せ世界": [],
+    "我が焔炎にひれ伏せ世界 ボイスドラマ": [],
+    "朗読ライブ「旅のラゴス」": [],
+    "神クズ☆アイドル 番外編": [],
+    "神废柴☆偶像": [],
+    "舞台『青少年アシベ』": [],
+    "薬師の魔女ですが、なぜか副業で離婚代行しています 挿しボイスコード": [],
+    "鬼灭之刃": [
+      "动作",
+      "冒险",
+      "剧情",
+      "奇幻",
+      "超自然"
+    ],
+    "BLEACH 千年血戦篇": [
+      "动作",
+      "冒险",
+      "超自然"
+    ],
+    "D.C.5 〜ダ・カーポ5〜": [],
+    "SHY": [
+      "动作",
+      "剧情",
+      "心理"
+    ],
+    "うちの会社の小さい先輩の話": [
+      "喜剧",
+      "恋爱",
+      "日常"
+    ],
+    "アナザーエデン 時空を超える猫": [],
+    "ウマ娘 プリティーダービー": [
+      "剧情",
+      "日常",
+      "运动"
+    ],
+    "キュービックスターズ": [],
+    "ストリートファイター6": [
+      "动作"
+    ],
+    "ティアムーン帝国物語〜断頭台から始まる、姫の転生逆転ストーリー〜": [
+      "剧情",
+      "奇幻",
+      "恋爱"
+    ],
+    "ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅": [],
+    "ファイアーエムブレム エンゲージ": [],
+    "ブルーアーカイブ -Blue Archive-": [],
+    "ポーション頼みで生き延びます!": [
+      "奇幻"
+    ],
+    "ヴィンランド・サガ": [
+      "动作",
+      "冒险",
+      "剧情"
+    ],
+    "便利屋斎藤さん、異世界に行く": [
+      "冒险",
+      "喜剧",
+      "奇幻",
+      "日常"
+    ],
+    "悪役令嬢、セシリア・シルビィは死にたくないので男装することにした。〜もしかして運命の強制力!? ドキドキお菓子作り!〜": [],
+    "朗読劇『スノーホワイト育成計画』": [],
+    "朗読劇『森の音楽家クラムベリー外伝 魔法少女育成計画 UNRIPE DUET』": [],
+    "異世界でチート能力を手にした俺は、現実世界をも無双する〜レベルアップは人生を変えた〜": [
+      "动作",
+      "冒险",
+      "奇幻",
+      "恋爱"
+    ],
+    "英雄教室": [
+      "动作",
+      "奇幻",
+      "日常"
+    ],
+    "间谍教室": [],
+    "鴨乃橋ロンの禁断推理": [
+      "剧情",
+      "悬疑"
+    ],
+    "かつて魔法少女と悪は敵対していた。": [
+      "喜剧",
+      "奇幻",
+      "Mahou Shoujo",
+      "恋爱"
+    ],
+    "ささやくように恋を唄う": [
+      "剧情",
+      "音乐",
+      "恋爱"
+    ],
+    "じいさんばあさん若返る": [
+      "喜剧",
+      "奇幻",
+      "恋爱",
+      "日常"
+    ],
+    "コードギアス 奪還のロゼ": [
+      "动作",
+      "剧情",
+      "机器人",
+      "科幻",
+      "悬疑"
+    ],
+    "セリア先生のどきどきインタビュールーム": [
+      "喜剧",
+      "奇幻"
+    ],
+    "ドラゴンクエストIII そして伝説へ…": [],
+    "リーゼロッテのわくわくまじかる商会": [],
+    "七つの大罪 黙示録の四騎士": [
+      "动作",
+      "冒险",
+      "奇幻"
+    ],
+    "休日のわるものさん": [
+      "喜剧",
+      "日常"
+    ],
+    "勝利の女神:NIKKE": [],
+    "原神": [
+      "冒险",
+      "奇幻"
+    ],
+    "声优广播的台前幕后": [],
+    "夜のクラゲは泳げない": [
+      "剧情",
+      "音乐",
+      "日常"
+    ],
+    "大室家": [
+      "喜剧",
+      "日常"
+    ],
+    "妖怪学校の先生はじめました!": [
+      "喜剧",
+      "超自然"
+    ],
+    "愚蠢天使与恶魔共舞": [],
+    "指尖相触，恋恋不舍": [],
+    "星降る王国のニナ": [
+      "剧情",
+      "奇幻",
+      "恋爱"
+    ],
+    "朗読劇『じいさんばあさん若返る』": [],
+    "百妖谱": [
+      "奇幻",
+      "悬疑",
+      "超自然"
+    ],
+    "盖塔机器人U": [],
+    "終末トレインどこへいく?": [
+      "冒险",
+      "喜剧",
+      "科幻",
+      "超自然"
+    ],
+    "結婚するって、本当ですか": [
+      "恋爱",
+      "日常"
+    ],
+    "联谊会上找不到女生": [],
+    "魔女のふろーらいふ": [],
+    "魔王学院の不適合者 II 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜": [],
+    "Fate/Grand Order 藤丸立香はわからない": [
+      "喜剧"
+    ],
+    "Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます": [],
+    "ある魔女が死ぬまで": [
+      "冒险",
+      "剧情",
+      "奇幻"
+    ],
+    "この本を盗む者は": [
+      "冒险",
+      "奇幻",
+      "悬疑"
+    ],
+    "たべっ子どうぶつ THE MOVIE": [
+      "动作",
+      "冒险",
+      "奇幻"
+    ],
+    "コウペンちゃん": [
+      "日常"
+    ],
+    "ロックは淑女の嗜みでして": [
+      "剧情",
+      "音乐"
+    ],
+    "乡下大叔成为剑圣": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "奇幻"
+    ],
+    "你的形貌": [],
+    "前橋ウィッチーズ": [
+      "剧情",
+      "Mahou Shoujo",
+      "音乐",
+      "超自然"
+    ],
+    "地獄先生ぬ〜べ〜": [
+      "冒险",
+      "喜剧",
+      "恐怖",
+      "超自然"
+    ],
+    "坂本日常": [
+      "动作",
+      "喜剧"
+    ],
+    "想星のアクエリオン Myth of Emotions": [
+      "动作",
+      "奇幻",
+      "机器人",
+      "悬疑",
+      "科幻"
+    ],
+    "未ル わたしのみらい": [
+      "冒险",
+      "奇幻",
+      "科幻"
+    ],
+    "机械构造的玛丽": [],
+    "歌声是法式千层酥": [],
+    "牧場物語 Let's!風のグランドバザール": [],
+    "異修羅": [
+      "动作",
+      "剧情",
+      "奇幻"
+    ],
+    "终究最强炼金术师？": [],
+    "阿波連さんははかれない season2": [
+      "喜剧",
+      "恋爱",
+      "日常"
+    ],
+    "鬼灭之刃 火之神血风谭2": [],
+    "鵺の陰陽師 Summer◇Memories": [],
+    "LV999の村人": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "奇幻"
+    ],
+    "エリスの聖杯": [
+      "剧情",
+      "奇幻",
+      "悬疑",
+      "恋爱",
+      "超自然"
+    ],
+    "ネコぱら セカイコネクト": [],
+    "プラグマタ": [],
+    "名侦探光之美少女": [],
+    "映画名探偵プリキュア!": [
+      "Mahou Shoujo"
+    ],
+    "春夏秋冬代行者 春の舞": [
+      "剧情",
+      "奇幻",
+      "恋爱"
+    ],
+    "本好きの下剋上 領主の養女": [
+      "剧情",
+      "奇幻",
+      "日常"
+    ],
+    "真夜中ハートチューン": [
+      "喜剧",
+      "恋爱"
+    ],
+    "花ざかりの君たちへ": [
+      "喜剧",
+      "剧情",
+      "恋爱",
+      "日常"
+    ],
+    "領民0人スタートの辺境領主様": [
+      "动作",
+      "喜剧",
+      "剧情",
+      "奇幻",
+      "恋爱",
+      "日常"
+    ]
+  },
+  "wikidata": {
+    "まおゆう魔王勇者": {
+      "gender": ""
+    },
+    "ゆるキャン△ SEASON3": {
+      "gender": ""
+    },
+    "かつて魔法少女と悪は敵対していた。": {
+      "gender": ""
+    },
+    "星降る王国のニナ": {
+      "gender": ""
+    },
+    "鬼滅の刃 目指せ！最強隊士！": {
+      "gender": ""
+    },
+    "SHY 第1期": {
+      "gender": ""
+    },
+    "Ron Kamonohashi, season 1": {
+      "gender": ""
+    },
+    "銀河機攻隊 マジェスティックプリンス": {
+      "gender": ""
+    },
+    "ゆるキャン△ Have a nice day!": {
+      "gender": ""
+    },
+    "GATE 自衛隊 彼の地にて、斯く戦えり": {
+      "gender": ""
+    },
+    "いずれ最強の錬金術師?": {
+      "gender": ""
+    },
+    "聖園ミカ": {
+      "gender": "女性"
+    },
+    "ピクシー": {
+      "gender": "女性"
+    },
+    "馬場亜璃恵瑠": {
+      "gender": "女性"
+    },
+    "SAKAMOTO DAYS": {
+      "gender": ""
+    },
+    "地獄先生ぬ〜べ〜": {
+      "gender": ""
+    },
+    "ヴィクティム": {
+      "gender": "アジェンダー"
+    },
+    "片田舎のおっさん、剣聖になる 〜ただの田舎の剣術師範だったのに、大成した弟子たちが俺を放ってくれない件〜": {
+      "gender": ""
+    },
+    "機械じかけのマリー": {
+      "gender": ""
+    },
+    "前橋ウィッチーズ": {
+      "gender": ""
+    },
+    "ゆるキャン△ SEASON4": {
+      "gender": ""
+    },
+    "ニセコイ": {
+      "gender": ""
+    },
+    "さばげぶっ!": {
+      "gender": ""
+    },
+    "真夜中ハートチューン": {
+      "gender": ""
+    },
+    "春夏秋冬代行者 春の舞": {
+      "gender": ""
+    },
+    "片田舎のおっさん、剣聖になる 〜ただの田舎の剣術師範だったのに、大成した弟子たちが俺を放ってくれない件〜 第1期": {
+      "gender": ""
+    },
+    "領民0人スタートの辺境領主様": {
+      "gender": ""
+    },
+    "LV999の村人": {
+      "gender": ""
+    },
+    "レレイ・ラ・レレーナ": {
+      "gender": "女性"
+    },
+    "いずれ最強の錬金術師? 第1期": {
+      "gender": ""
+    },
+    "ガールフレンド（仮）": {
+      "gender": ""
+    },
+    "名探偵プリキュア!": {
+      "gender": ""
+    },
+    "桐崎千棘": {
+      "gender": "女性"
+    },
+    "SAKAMOTO DAYS 第1期": {
+      "gender": ""
+    },
+    "百歳あお": {
+      "gender": "女性"
+    },
+    "森亜るるか": {
+      "gender": "女性"
+    },
+    "Tune In to the Midnight Heart, season 1": {
+      "gender": ""
+    },
+    "川島瑞樹": {
+      "gender": "女性"
+    },
+    "アンゲリカ": {
+      "gender": "女性"
+    },
+    "STAR DRIVER 輝きのタクト": {
+      "gender": ""
+    },
+    "幻影ヲ駆ケル太陽": {
+      "gender": ""
+    },
+    "ガリレイドンナ": {
+      "gender": ""
+    },
+    "艦隊これくしょん -艦これ-": {
+      "gender": ""
+    },
+    "グラスリップ": {
+      "gender": ""
+    },
+    "クロスアンジュ 天使と竜の輪舞": {
+      "gender": ""
+    },
+    "アイドルマスター シンデレラガールズ": {
+      "gender": ""
+    },
+    "やはり俺の青春ラブコメはまちがっている。": {
+      "gender": ""
+    },
+    "レガリア The Three Sacred Stars": {
+      "gender": ""
+    },
+    "終末のイゼッタ": {
+      "gender": ""
+    },
+    "月がきれい": {
+      "gender": ""
+    },
+    "Granblue Fantasy The Animation": {
+      "gender": ""
+    },
+    "劇場版マクロスΔ 激情のワルキューレ": {
+      "gender": ""
+    },
+    "色づく世界の明日から": {
+      "gender": ""
+    },
+    "あかねさす少女": {
+      "gender": ""
+    },
+    "ドールズフロントライン": {
+      "gender": ""
+    },
+    "荒野のコトブキ飛行隊": {
+      "gender": ""
+    },
+    "リズと青い鳥": {
+      "gender": ""
+    },
+    "グランブルーファンタジー リリンク": {
+      "gender": ""
+    },
+    "バースデー・ワンダーランド": {
+      "gender": ""
+    },
+    "ルリア": {
+      "gender": "女性"
+    },
+    "ダンベル何キロ持てる?": {
+      "gender": ""
+    },
+    "恋する小惑星": {
+      "gender": ""
+    },
+    "本好きの下剋上": {
+      "gender": ""
+    },
+    "ヤマノススメ": {
+      "gender": ""
+    },
+    "英雄伝説 閃の軌跡IV -THE END OF SAGA-": {
+      "gender": ""
+    },
+    "ゴブリンスレイヤー": {
+      "gender": ""
+    },
+    "ゆるキャン△": {
+      "gender": ""
+    },
+    "蜘蛛ですが、なにか？": {
+      "gender": ""
+    },
+    "トリニティセブン": {
+      "gender": ""
+    },
+    "Re:ゼロから始める異世界生活": {
+      "gender": ""
+    },
+    "青春ブタ野郎はゆめみる少女の夢を見ない": {
+      "gender": ""
+    },
+    "グランブルーファンタジー The Animation Season2": {
+      "gender": ""
+    },
+    "英雄伝説 創の軌跡": {
+      "gender": ""
+    },
+    "きんいろモザイク": {
+      "gender": ""
+    },
+    "魔入りました!入間くん": {
+      "gender": ""
+    },
+    "ろんぐらいだぁす!": {
+      "gender": ""
+    },
+    "この美術部には問題がある!": {
+      "gender": ""
+    },
+    "Re:ゼロから始める異世界生活2nd season": {
+      "gender": ""
+    },
+    "魔法科高校の劣等生": {
+      "gender": ""
+    },
+    "ガールズ＆パンツァー 最終章 第2話,": {
+      "gender": ""
+    },
+    "由比ヶ浜結衣": {
+      "gender": "女性"
+    },
+    "ピーチボーイリバーサイド": {
+      "gender": ""
+    },
+    "異国迷路のクロワーゼ": {
+      "gender": ""
+    },
+    "彼女、お借りします": {
+      "gender": ""
+    },
+    "咲-Saki-阿知賀編 episode of side-A": {
+      "gender": ""
+    },
+    "アスタロッテのおもちゃ!": {
+      "gender": ""
+    },
+    "ダフネ": {
+      "gender": "女性"
+    },
+    "スローループ": {
+      "gender": ""
+    },
+    "さくら荘のペットな彼女": {
+      "gender": ""
+    },
+    "THE UNLIMITED 兵部京介": {
+      "gender": ""
+    },
+    "白い砂のアクアトープ": {
+      "gender": ""
+    },
+    "志摩リン": {
+      "gender": "女性"
+    },
+    "The Genius Prince's Guide to Raising a Nation Out of Debt": {
+      "gender": ""
+    },
+    "ぼくたちのリメイク": {
+      "gender": ""
+    },
+    "俺の彼女と幼なじみが修羅場すぎる": {
+      "gender": ""
+    },
+    "精霊幻想記": {
+      "gender": ""
+    },
+    "ゆるキャン△ SEASON2": {
+      "gender": ""
+    },
+    "神のみぞ知るセカイ": {
+      "gender": ""
+    },
+    "ヒヨリ": {
+      "gender": "女性"
+    },
+    "魔法戦争": {
+      "gender": ""
+    },
+    "ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜": {
+      "gender": ""
+    },
+    "英雄教室": {
+      "gender": ""
+    },
+    "ピピ美": {
+      "gender": "女性"
+    },
+    "映画 ゆるキャン△": {
+      "gender": ""
+    },
+    "メジロラモーヌ": {
+      "gender": "女性"
+    },
+    "便利屋斎藤さん、異世界に行く": {
+      "gender": ""
+    },
+    "神クズ☆アイドル": {
+      "gender": ""
+    },
+    "スパイ教室": {
+      "gender": ""
+    },
+    "はたらく魔王さま!": {
+      "gender": ""
+    },
+    "はたらく魔王さま!!": {
+      "gender": ""
+    },
+    "一之瀬帆波": {
+      "gender": "女性"
+    },
+    "最上アサヒ": {
+      "gender": "女性"
+    },
+    "Truth and Girlfriend": {
+      "gender": ""
+    },
+    "異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～": {
+      "gender": ""
+    },
+    "ティアムーン帝国物語 〜断頭台から始まる、姫の転生逆転ストーリー〜": {
+      "gender": ""
+    },
+    "SHY": {
+      "gender": ""
+    },
+    "Banished from the Heroes' Party, season 1": {
+      "gender": ""
+    },
+    "終末トレインどこへいく？": {
+      "gender": ""
+    },
+    "クロケル・ケロリ": {
+      "gender": "女性"
+    },
+    "声優ラジオのウラオモテ": {
+      "gender": ""
+    },
+    "アンテーゼ": {
+      "gender": "女性"
+    },
+    "青春ブタ野郎はおでかけシスターの夢を見ない": {
+      "gender": ""
+    },
+    "ポーション頼みで生き延びます！": {
+      "gender": ""
+    },
+    "夜のクラゲは泳げない": {
+      "gender": ""
+    },
+    "結婚するって、本当ですか": {
+      "gender": ""
+    },
+    "愚かな天使は悪魔と踊る": {
+      "gender": ""
+    },
+    "劇場版 響け！ユーフォニアム ～届けたいメロディ～": {
+      "gender": ""
+    },
+    "休日のわるものさん": {
+      "gender": ""
+    },
+    "青春ブタ野郎はランドセルガールの夢を見ない": {
+      "gender": ""
+    },
+    "犬神さんと猫山さん": {
+      "gender": ""
+    },
+    "ユア・フォルマ": {
+      "gender": ""
+    },
+    "グレンダイザーU": {
+      "gender": ""
+    },
+    "じいさんばあさん若返る": {
+      "gender": ""
+    },
+    "ユニコーンオーバーロード": {
+      "gender": ""
+    },
+    "小石川惟子": {
+      "gender": "女性"
+    },
+    "ラフィーナ・オルカ・ヴェールガ": {
+      "gender": "女性"
+    },
+    "合コンに行ったら女がいなかった話": {
+      "gender": ""
+    }
+  }
+}

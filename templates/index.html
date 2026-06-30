@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/static/nao_shark.png" type="image/png">
+    <title>東山奈央キャラ当て</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Maru+Gothic:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/app.css">
+    <style>
+        :root {
+            --primary: #e85d75;
+            --primary-dark: #c9455c;
+            --primary-light: #ffe4ea;
+            --accent: #f5a623;
+            --text-color: #2d2a32;
+            --text-muted: #6c6570;
+            --card-bg: rgba(255, 255, 255, 0.88);
+            --border-color: rgba(232, 93, 117, 0.18);
+            --bg-gradient: linear-gradient(160deg, #fdf4f6 0%, #fff8f0 45%, #f0f4ff 100%);
+            --radius: 16px;
+            --shadow-md: 0 8px 32px rgba(232, 93, 117, 0.12);
+        }
+        .dark-theme {
+            --primary: #f06b82;
+            --primary-light: #3d2530;
+            --text-color: #f0eaf2;
+            --text-muted: #a89aad;
+            --card-bg: rgba(38, 32, 46, 0.92);
+            --border-color: rgba(240, 107, 130, 0.22);
+            --bg-gradient: linear-gradient(160deg, #141018 0%, #1a1520 50%, #121828 100%);
+        }
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            font-family: 'Noto Sans JP', 'Zen Maru Gothic', sans-serif;
+            background: var(--bg-gradient);
+            background-attachment: fixed;
+            color: var(--text-color);
+        }
+        .landing-top {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 2;
+        }
+    </style>
+</head>
+<body class="app-page">
+    <div class="app-bg" aria-hidden="true">
+        <span class="app-bg-blob app-bg-blob--1"></span>
+        <span class="app-bg-blob app-bg-blob--2"></span>
+        <span class="app-bg-blob app-bg-blob--3"></span>
+        <span class="app-bg-shimmer"></span>
+    </div>
+
+    <div class="landing-top">
+        <button type="button" class="theme-fab" id="themeBtn" title="テーマ切替">🌙</button>
+    </div>
+
+    <main class="landing-wrap">
+        <header class="landing-hero">
+            <img src="/static/nao_shark.png" class="landing-mascot" alt="マスコット">
+            <h1 class="landing-title">東山奈央キャラ当て</h1>
+            <p class="landing-sub">東山奈央さんが演じたキャラクターを当てるクイズ。<br>一人で挑戦するか、友達とオンライン対戦しよう。</p>
+        </header>
+
+        <div class="mode-grid">
+            <a href="/solo" class="mode-card mode-card--solo">
+                <div class="mode-card-icon">🎯</div>
+                <h2 class="mode-card-title">ソロプレイ</h2>
+                <p class="mode-card-desc">ヒントを頼りに正解キャラを推理。回数制限やフィルター設定で自分のペースで遊べます。</p>
+                <span class="mode-card-cta">ひとりで始める</span>
+            </a>
+            <a href="/multiplayer" class="mode-card mode-card--mp">
+                <div class="mode-card-icon">⚔️</div>
+                <h2 class="mode-card-title">オンライン対戦</h2>
+                <p class="mode-card-desc">同じ正解を当てる対戦モード。先に正解した方が勝ち。ルーム作成・チャット対応。</p>
+                <span class="mode-card-cta">対戦する</span>
+            </a>
+        </div>
+
+        <p class="landing-foot">データベース {{ total_chars }} キャラ · デフォルト候補 {{ playable_chars }} キャラ</p>
+    </main>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

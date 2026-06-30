@@ -1,0 +1,1264 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/static/nao_shark.png" type="image/png">
+    <meta charset="UTF-8">
+    <title>東山奈央さんが演じたキャラクターを当ててみよう！</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Maru+Gothic:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/app.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.js"></script>
+    <style>
+        :root {
+            --primary: #e85d75;
+            --primary-dark: #c9455c;
+            --primary-light: #ffe4ea;
+            --accent: #f5a623;
+            --accent-light: #fff3d6;
+            --success: #2f9e44;
+            --success-bg: #d3f9d8;
+            --warning: #e67700;
+            --warning-bg: #fff3cd;
+            --info-bg: #e9ecef;
+            --danger: #e03131;
+            --bg-color: #fdf4f6;
+            --bg-gradient: linear-gradient(160deg, #fdf4f6 0%, #fff8f0 45%, #f0f4ff 100%);
+            --text-color: #2d2a32;
+            --text-muted: #6c6570;
+            --card-bg: rgba(255, 255, 255, 0.88);
+            --border-color: rgba(232, 93, 117, 0.18);
+            --button-bg: #ffffff;
+            --button-hover-bg: #fff5f7;
+            --shadow-sm: 0 2px 8px rgba(232, 93, 117, 0.08);
+            --shadow-md: 0 8px 32px rgba(232, 93, 117, 0.12);
+            --shadow-lg: 0 16px 48px rgba(45, 42, 50, 0.12);
+            --radius: 16px;
+            --radius-sm: 10px;
+            --toolbar-bg: rgba(255, 255, 255, 0.92);
+        }
+
+        .dark-theme {
+            --primary: #f06b82;
+            --primary-dark: #e85d75;
+            --primary-light: #3d2530;
+            --accent: #ffc857;
+            --accent-light: #3d3520;
+            --success-bg: #1e3a2a;
+            --warning-bg: #3d3520;
+            --info-bg: #3a3540;
+            --bg-color: #141018;
+            --bg-gradient: linear-gradient(160deg, #141018 0%, #1a1520 50%, #121828 100%);
+            --text-color: #f0eaf2;
+            --text-muted: #a89aad;
+            --card-bg: rgba(38, 32, 46, 0.92);
+            --border-color: rgba(240, 107, 130, 0.22);
+            --button-bg: #2a2230;
+            --button-hover-bg: #352c3c;
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
+            --shadow-md: 0 8px 32px rgba(0, 0, 0, 0.35);
+            --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.45);
+            --toolbar-bg: rgba(30, 26, 38, 0.92);
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Sans JP', 'Zen Maru Gothic', sans-serif;
+            text-align: center;
+            margin: 0;
+            min-height: 100vh;
+            padding: 24px 20px 60px;
+            background: var(--bg-gradient);
+            background-attachment: fixed;
+            color: var(--text-color);
+            transition: background 0.4s, color 0.3s;
+        }
+
+        body::before {
+            display: none;
+        }
+
+        .page-wrap {
+            position: relative;
+            z-index: 1;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* Toolbar */
+        .toolbar {
+            position: fixed;
+            top: 16px;
+            right: 16px;
+            display: flex;
+            gap: 8px;
+            padding: 8px;
+            background: var(--toolbar-bg);
+            backdrop-filter: blur(12px);
+            border: 1px solid var(--border-color);
+            border-radius: 999px;
+            box-shadow: var(--shadow-md);
+            z-index: 100;
+        }
+
+        .icon-btn {
+            background: var(--button-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            width: 44px;
+            height: 44px;
+            font-size: 20px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.25s ease;
+            color: var(--text-color);
+        }
+
+        .icon-btn:hover {
+            background: var(--button-hover-bg);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .icon-btn:active { transform: scale(0.95); }
+
+        /* Hero */
+        .hero {
+            padding: 20px 0 8px;
+            animation: fadeUp 0.6s ease;
+            text-align: center;
+            margin: 0 auto;
+            max-width: 720px;
+        }
+
+        .hero-mascot {
+            height: 130px;
+            filter: drop-shadow(0 8px 16px rgba(232, 93, 117, 0.2));
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-8px); }
+        }
+
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(16px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .hero-title {
+            font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+            font-size: clamp(1.1rem, 3.5vw, 1.65rem);
+            font-weight: 700;
+            margin: 12px 0 6px;
+            line-height: 1.5;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-logo {
+            height: 44px;
+            vertical-align: middle;
+            margin-right: 6px;
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+        }
+
+        .hero-sub {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin: 0 0 24px;
+        }
+
+        /* Game panel */
+        .game-panel {
+            background: var(--card-bg);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            padding: 28px 24px;
+            box-shadow: var(--shadow-md);
+            max-width: 560px;
+            margin: 0 auto 28px;
+            animation: fadeUp 0.6s ease 0.1s both;
+        }
+
+        .search-wrap {
+            position: relative;
+            margin-bottom: 4px;
+        }
+
+        .search-wrap::before {
+            content: '🔍';
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 16px;
+            opacity: 0.5;
+            pointer-events: none;
+        }
+
+        #guess_name {
+            width: 100%;
+            padding: 14px 16px 14px 42px;
+            font-size: 16px;
+            font-family: inherit;
+            border: 2px solid var(--border-color);
+            border-radius: var(--radius-sm);
+            background: var(--button-bg);
+            color: var(--text-color);
+            transition: border-color 0.2s, box-shadow 0.2s;
+            outline: none;
+        }
+
+        #guess_name:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 4px rgba(232, 93, 117, 0.15);
+        }
+
+        #guess_name::placeholder { color: var(--text-muted); }
+
+        .suggestions {
+            position: absolute;
+            top: calc(100% + 6px);
+            left: 0;
+            width: 100%;
+            max-height: 220px;
+            overflow-y: auto;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-sm);
+            display: none;
+            z-index: 1000;
+            list-style: none;
+            padding: 6px;
+            margin: 0;
+            text-align: left;
+            box-shadow: var(--shadow-md);
+        }
+
+        .suggestions li {
+            padding: 10px 12px;
+            cursor: pointer;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: background 0.15s;
+        }
+
+        .suggestions li:hover {
+            background: var(--primary-light);
+            color: var(--primary-dark);
+        }
+
+        .suggestions li .suggest-work {
+            display: block;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        .modal-hint {
+            font-size: 0.82rem;
+            color: var(--text-muted);
+            margin: 6px 0 0 28px;
+        }
+
+        .dark-theme .suggestions li:hover {
+            color: var(--primary);
+        }
+
+        /* Buttons */
+        .button-row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 18px;
+        }
+
+        .btn {
+            padding: 11px 22px;
+            font-size: 15px;
+            font-family: inherit;
+            font-weight: 600;
+            border-radius: 999px;
+            cursor: pointer;
+            height: 44px;
+            border: none;
+            transition: all 0.2s ease;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: #fff;
+        }
+
+        .btn-primary:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(232, 93, 117, 0.35);
+        }
+
+        .btn-secondary {
+            background: var(--button-bg);
+            color: var(--text-color);
+            border: 1.5px solid var(--border-color);
+        }
+
+        .btn-secondary:hover:not(:disabled) {
+            background: var(--button-hover-bg);
+            transform: translateY(-2px);
+        }
+
+        .btn-accent {
+            background: linear-gradient(135deg, var(--accent) 0%, #e08e10 100%);
+            color: #fff;
+        }
+
+        .btn-accent:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(245, 166, 35, 0.35);
+        }
+
+        .btn-ghost {
+            background: transparent;
+            color: var(--text-muted);
+            border: 1.5px solid var(--border-color);
+            box-shadow: none;
+        }
+
+        .btn-ghost:hover:not(:disabled) {
+            color: var(--danger);
+            border-color: var(--danger);
+            background: rgba(224, 49, 49, 0.06);
+        }
+
+        .btn:disabled {
+            opacity: 0.45;
+            cursor: not-allowed;
+            transform: none !important;
+            box-shadow: none !important;
+        }
+
+        .btn:active:not(:disabled) { transform: scale(0.97); }
+
+        /* Progress */
+        .progress-section {
+            max-width: 560px;
+            margin: 0 auto 32px;
+            animation: fadeUp 0.6s ease 0.2s both;
+        }
+
+        .progress-label {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.88rem;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+
+        .progress-track {
+            height: 10px;
+            background: var(--border-color);
+            border-radius: 999px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary) 0%, var(--accent) 100%);
+            border-radius: 999px;
+            transition: width 0.4s ease;
+            min-width: 4px;
+        }
+
+        /* Messages */
+        .message {
+            max-width: 560px;
+            margin: 0 auto 16px;
+            padding: 12px 18px;
+            border-radius: var(--radius-sm);
+            font-weight: 500;
+            font-size: 0.95rem;
+            animation: fadeUp 0.4s ease;
+        }
+
+        .message-error {
+            background: rgba(224, 49, 49, 0.1);
+            color: var(--danger);
+            border: 1px solid rgba(224, 49, 49, 0.25);
+        }
+
+        .message-result {
+            background: var(--primary-light);
+            color: var(--primary-dark);
+            border: 1px solid var(--border-color);
+        }
+
+        .dark-theme .message-result {
+            color: var(--primary);
+        }
+
+        /* Section titles */
+        .section-title {
+            font-family: 'Zen Maru Gothic', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 700;
+            margin: 32px 0 16px;
+            color: var(--text-color);
+            position: relative;
+            display: inline-block;
+        }
+
+        .section-title::after {
+            content: '';
+            display: block;
+            width: 40px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary), var(--accent));
+            border-radius: 2px;
+            margin: 6px auto 0;
+        }
+
+        /* Cards */
+        .card-list-vertical {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 18px;
+            margin-top: 8px;
+        }
+
+        .horizontal-card {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            color: var(--text-color);
+            width: 100%;
+            max-width: 100%;
+            padding: 22px 28px;
+            box-shadow: var(--shadow-sm);
+            transition: box-shadow 0.45s cubic-bezier(0.4, 0, 0.2, 1),
+                        border-color 0.45s cubic-bezier(0.4, 0, 0.2, 1),
+                        background 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+            gap: 20px;
+            position: relative;
+            cursor: default;
+        }
+
+        @media (hover: hover) {
+            .horizontal-card:hover {
+                border-color: rgba(232, 93, 117, 0.55);
+                background: var(--button-hover-bg);
+                box-shadow: 0 0 0 1px rgba(232, 93, 117, 0.15),
+                            0 12px 32px rgba(232, 93, 117, 0.18),
+                            0 4px 12px rgba(45, 42, 50, 0.08);
+                z-index: 2;
+            }
+
+            .dark-theme .horizontal-card:hover {
+                border-color: rgba(240, 107, 130, 0.5);
+                box-shadow: 0 0 0 1px rgba(240, 107, 130, 0.2),
+                            0 12px 32px rgba(240, 107, 130, 0.22),
+                            0 4px 12px rgba(0, 0, 0, 0.3);
+            }
+        }
+
+        .card-portrait {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 110px;
+            flex-shrink: 0;
+        }
+
+        .card-name {
+            margin-bottom: 10px;
+            font-weight: 700;
+            font-size: 15px;
+            word-break: break-word;
+            text-align: center;
+            max-width: 110px;
+            color: var(--text-color);
+            line-height: 1.35;
+        }
+
+        .card-img-box {
+            width: 100px;
+            height: 140px;
+            overflow: hidden;
+            border-radius: 12px;
+            border: 2px solid var(--border-color);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .card-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .card-attrs {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 6px 10px;
+            justify-content: space-between;
+            align-items: flex-start;
+            flex: 1;
+            min-width: 0;
+            overflow-x: auto;
+            padding-bottom: 4px;
+        }
+
+        .attr-block {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            flex: 1 0 0;
+            min-width: 88px;
+        }
+
+        .info-label {
+            font-weight: 600;
+            font-size: 11px;
+            margin-bottom: 6px;
+            color: var(--text-muted);
+            letter-spacing: 0.02em;
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        .tag-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            justify-content: center;
+            width: 100%;
+        }
+
+        .info-tag {
+            font-size: 11px;
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-weight: 500;
+            display: inline-block;
+            line-height: 1.3;
+        }
+
+        .el-tag--info {
+            background: var(--info-bg);
+            color: var(--text-muted);
+        }
+
+        .el-tag--warning {
+            background: var(--warning-bg);
+            color: var(--warning);
+        }
+
+        .el-tag--success {
+            background: var(--success-bg);
+            color: var(--success);
+        }
+
+        .dark-theme .el-tag--success { color: #69db7c; }
+        .dark-theme .el-tag--warning { color: #ffc078; }
+
+        /* Modals */
+        .settings-modal {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(20, 16, 24, 0.55);
+            backdrop-filter: blur(6px);
+            z-index: 9999;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .settings-content {
+            background: var(--card-bg);
+            backdrop-filter: blur(20px);
+            padding: 28px;
+            border-radius: var(--radius);
+            width: 100%;
+            max-width: 420px;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            animation: fadeUp 0.3s ease;
+        }
+
+        .modal-title {
+            font-family: 'Zen Maru Gothic', sans-serif;
+            font-size: 1.3rem;
+            font-weight: 700;
+            margin: 0 0 20px;
+            color: var(--text-color);
+        }
+
+        .modal-section-title {
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--primary);
+            margin: 18px 0 10px;
+            text-align: left;
+        }
+
+        .modal-field {
+            margin: 14px 0;
+            text-align: left;
+        }
+
+        .modal-field label {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .modal-checkbox {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            font-size: 0.95rem;
+        }
+
+        .modal-checkbox input {
+            width: 18px;
+            height: 18px;
+            accent-color: var(--primary);
+        }
+
+        .year-display {
+            margin-top: 8px;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .modal-confirm {
+            width: 100%;
+            margin-top: 20px;
+            padding: 13px;
+            font-size: 16px;
+            font-family: inherit;
+            font-weight: 600;
+            border: none;
+            border-radius: 999px;
+            cursor: pointer;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: #fff;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .modal-confirm:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(232, 93, 117, 0.35);
+        }
+
+        .intro-content {
+            text-align: left;
+            font-size: 0.9rem;
+            line-height: 1.7;
+            color: var(--text-color);
+        }
+
+        .hint-section {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin: 10px 0;
+        }
+
+        .hint-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .no-dot-list {
+            list-style: none;
+            padding-left: 0;
+            margin: 8px 0;
+        }
+
+        .no-dot-list li {
+            padding: 4px 0;
+            color: var(--text-muted);
+        }
+
+        /* Result modal */
+        #resultModal { display: none; }
+
+        .result-modal-box {
+            background: var(--card-bg);
+            padding: 32px 28px;
+            border-radius: var(--radius);
+            max-width: 420px;
+            width: 90%;
+            text-align: center;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            animation: fadeUp 0.35s ease;
+        }
+
+        .result-emoji {
+            font-size: 2.5rem;
+            margin-bottom: 8px;
+        }
+
+        .result-heading {
+            font-family: 'Zen Maru Gothic', sans-serif;
+            font-size: 1.4rem;
+            margin: 0 0 12px;
+        }
+
+        .result-heading.win { color: var(--success); }
+        .result-heading.lose { color: var(--text-muted); }
+
+        /* noUiSlider theme */
+        .noUi-connect { background: linear-gradient(90deg, var(--primary), var(--accent)); }
+        .noUi-handle {
+            border: 2px solid var(--primary);
+            border-radius: 50%;
+            box-shadow: var(--shadow-sm);
+            cursor: grab;
+        }
+        .noUi-target {
+            background: var(--border-color);
+            border: none;
+            box-shadow: none;
+        }
+
+        @media (max-width: 600px) {
+            body { padding: 16px 12px 48px; }
+
+            .toolbar {
+                top: 10px;
+                right: 10px;
+                padding: 6px;
+            }
+
+            .icon-btn { width: 38px; height: 38px; font-size: 17px; }
+
+            .hero-mascot { height: 100px; }
+
+            .game-panel { padding: 20px 16px; }
+
+            .horizontal-card {
+                flex-direction: column;
+                align-items: center;
+                padding: 18px;
+            }
+
+            .card-attrs {
+                flex-wrap: wrap;
+                justify-content: center;
+                overflow-x: visible;
+            }
+
+            .attr-block {
+                flex: 0 0 auto;
+                min-width: 72px;
+            }
+
+            .button-row .btn {
+                font-size: 13px;
+                padding: 10px 16px;
+                height: 40px;
+            }
+        }
+    </style>
+</head>
+
+<body class="app-page">
+    <div class="app-bg" aria-hidden="true">
+        <span class="app-bg-blob app-bg-blob--1"></span>
+        <span class="app-bg-blob app-bg-blob--2"></span>
+        <span class="app-bg-blob app-bg-blob--3"></span>
+        <span class="app-bg-shimmer"></span>
+    </div>
+
+    <nav class="toolbar">
+        <a class="icon-btn" href="/" title="ホーム" style="text-decoration:none;line-height:44px;">🏠</a>
+        <button class="icon-btn info-btn" onclick="openInfo()" title="ルール">📄</button>
+        <button class="icon-btn theme-btn" id="themeBtn" onclick="toggleTheme()" title="テーマ切替">🌙</button>
+        <button class="icon-btn settings-btn" onclick="openSettings()" title="設定">⚙️</button>
+    </nav>
+
+    <div id="settingsModal" class="settings-modal">
+        <div class="settings-content">
+            <h3 class="modal-title">セッティング</h3>
+
+            <div class="modal-section-title">初声出演の年</div>
+            <div class="modal-field">
+                <label>初声出演の年の範囲</label>
+                <div id="yearSlider" style="margin: 16px 8px;"></div>
+                <div class="year-display" id="yearRangeDisplay"></div>
+            </div>
+
+            <div class="modal-section-title">最大推測回数</div>
+            <div class="modal-field">
+                <label>最大推測回数：<strong id="guessChanceDisplay"></strong> 回</label>
+                <div id="guessChanceSlider" style="margin: 16px 8px;"></div>
+            </div>
+
+            <div class="modal-section-title">その他</div>
+            <div class="modal-field">
+                <label class="modal-checkbox">
+                    <input type="checkbox" id="onlyMainCharacter">
+                    メインキャラオンリー
+                </label>
+            </div>
+            <div class="modal-field">
+                <label class="modal-checkbox">
+                    <input type="checkbox" id="qualityPoolCharacter" checked>
+                    充実データのみ（立绘あり・年龄已知）
+                </label>
+                <p class="modal-hint">現在の候補：<strong id="poolCountDisplay">{{ pool_stats.total }}</strong> キャラ</p>
+            </div>
+            <button class="modal-confirm" onclick="saveSettingsAndRestart()">確認してリスタート</button>
+        </div>
+    </div>
+
+    <div id="infoModal" class="settings-modal" style="display: none;">
+        <div class="settings-content">
+            <h2 class="modal-title">ゲームルール</h2>
+            <div class="intro-content">
+                <p><strong>ゲームの目的：</strong>東山奈央さんが演じたキャラクターの中からランダムに1人が選ばれます。キャラクター名を入力して正解を当てましょう。各回の推測結果を手がかりに、少しずつ正解に近づけます。</p>
+                <p><strong>ヒントの色について：</strong></p>
+                <div class="hint-section">
+                    <div class="hint-item">
+                        <span class="info-tag el-tag--success">緑色</span>
+                        <span>完全に一致</span>
+                    </div>
+                    <div class="hint-item">
+                        <span class="info-tag el-tag--warning">黄色</span>
+                        <span>近いが一致していない</span>
+                    </div>
+                    <div class="hint-item">
+                        <span class="info-tag el-tag--info">灰色</span>
+                        <span>一致しない</span>
+                    </div>
+                </div>
+                <p><strong>黄色ハイライトの条件：</strong></p>
+                <ul class="no-dot-list">
+                    <li>初登場年齢・初声出演の年：正解との差が5年以内</li>
+                    <li>肩書：類似の関係（例：姉–妹、アイドル–歌手）</li>
+                </ul>
+                <p><strong>矢印の意味：</strong></p>
+                <ul class="no-dot-list">
+                    <li><strong>↑</strong> 入力した値が正解より小さい</li>
+                    <li><strong>↓</strong> 入力した値が正解より大きい</li>
+                </ul>
+            </div>
+            <button class="modal-confirm" onclick="closeInfo()" style="margin-top:16px">閉じる</button>
+        </div>
+    </div>
+
+    <div class="page-wrap">
+        <header class="hero">
+            <img src="/static/nao_shark.png" class="hero-mascot" alt="マスコット"><br>
+            <h1 class="hero-title">
+                <img src="/static/nao_logo.png" class="hero-logo" alt="ロゴ">
+                東山奈央さんが演じたキャラクターを当ててみよう！
+            </h1>
+            <p class="hero-sub">ヒントを頼りに、正解のキャラクターを見つけよう{% if pool_stats.quality %}（候補 {{ pool_stats.total }} キャラ）{% endif %}</p>
+        </header>
+
+        <section class="game-panel">
+            <form method="POST" autocomplete="off">
+                <input type="hidden" id="guess_id" name="guess_id" value="">
+                <div class="search-wrap">
+                    <input id="guess_name" name="guess_name" placeholder="キャラ名を入力…" required {% if not answer_exists %}disabled{% endif %}>
+                    <ul id="suggestions" class="suggestions"></ul>
+                </div>
+                <div class="button-row">
+                    <button type="submit" class="btn btn-primary" id="submitBtn" {% if not answer_exists %}disabled{% endif %}>送信</button>
+                    <button type="button" class="btn btn-secondary" onclick="location.href='/restart'">リスタート</button>
+                    <button type="button" id="randomBtn" class="btn btn-accent" {% if not answer_exists %}disabled{% endif %}>ランダム</button>
+                    <button type="submit" name="give_up" value="1" id="giveUpBtn" class="btn btn-ghost" formnovalidate>ギブアップ</button>
+                </div>
+            </form>
+        </section>
+
+        {% if error %}
+        <div class="message message-error">{{ error }}</div>
+        {% endif %}
+
+        {% if result %}
+        <div class="message message-result">{{ result }}</div>
+        {% endif %}
+
+        <div class="progress-section">
+            <div class="progress-label">
+                <span>推測回数</span>
+                <span>{{ attempts }} / {{ guess_chance }}</span>
+            </div>
+            <div class="progress-track">
+                <div class="progress-fill" style="width: {{ (attempts / guess_chance * 100) | round(1) }}%"></div>
+            </div>
+        </div>
+
+        {% if result %}
+        <h3 class="section-title">正解</h3>
+        <div class="card-list-vertical">
+            <div class="horizontal-card">
+                <div class="card-portrait">
+                    <div class="card-name">{{ answer.名前.split('（')[0] }}</div>
+                    <div class="card-img-box">
+                        <img src="{{ answer.image }}" class="card-img" alt="{{ answer.名前 }}" onerror="this.onerror=null;this.src='/static/char_placeholder.png';">
+                    </div>
+                </div>
+                <div class="card-attrs">
+                    {% for label, value, is_list in [
+                        ("初登場の作品", answer.初登場の作品, False),
+                        ("初登場の年齢", answer.初登場の年齢, False),
+                        ("性別", answer.性別, True),
+                        ("種族", answer.種族, True),
+                        ("出身", answer.出身, True),
+                        ("髪色", answer.髪色, True),
+                        ("肩書", answer.肩書, True),
+                        ("初声出演の年", answer.初声出演の年, False),
+                        ("作品ジャンル", answer.作品ジャンル, True),
+                        ("出演メディア", answer.出演メディア, True)
+                    ] %}
+                    <div class="attr-block">
+                        <div class="info-label">{{ label }}</div>
+                        <div class="tag-group">
+                            {% if is_list %}
+                                {% for item in value %}
+                                    <span class="info-tag el-tag--success">{{ item }}</span>
+                                {% endfor %}
+                            {% else %}
+                                <span class="info-tag el-tag--success">{{ value }}</span>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        {% if guessed %}
+        <h3 class="section-title">推測したキャラ</h3>
+        <div class="card-list-vertical">
+            {% for gid in guessed %}
+            {% set char = chars_by_id[gid] %}
+            {% if char %}
+            <div class="horizontal-card">
+                <div class="card-portrait">
+                    <div class="card-name">{{ char.名前.split('（')[0] }}</div>
+                    <div class="card-img-box">
+                        <img src="{{ char.image }}" class="card-img" alt="{{ char.名前 }}" onerror="this.onerror=null;this.src='/static/char_placeholder.png';">
+                    </div>
+                </div>
+                <div class="card-attrs">
+                    {% for label, value, is_list in [
+                        ("初登場の作品", char.初登場の作品, False),
+                        ("初登場の年齢", char.初登場の年齢, False),
+                        ("性別", char.性別, True),
+                        ("種族", char.種族, True),
+                        ("出身", char.出身, True),
+                        ("髪色", char.髪色, True),
+                        ("肩書", char.肩書, True),
+                        ("初声出演の年", char.初声出演の年, False),
+                        ("作品ジャンル", char.作品ジャンル, True),
+                        ("出演メディア", char.出演メディア, True)
+                    ] %}
+                    <div class="attr-block">
+                        <div class="info-label">{{ label }}</div>
+                        <div class="tag-group">
+                            {% if is_list %}
+                                {% for item in value %}
+                                    {% if char.id == answer.id %}
+                                        <span class="info-tag el-tag--success">{{ item }}</span>
+                                    {% else %}
+                                        {% set guess_value = item %}
+                                        {% set answer_value = answer[label] %}
+                                        {% if guess_value in answer_value %}
+                                            <span class="info-tag el-tag--success">{{ item }}</span>
+                                        {% elif gid in closeness and label in closeness[gid] and guess_value in closeness[gid][label] %}
+                                            <span class="info-tag el-tag--warning">{{ item }}</span>
+                                        {% else %}
+                                            <span class="info-tag el-tag--info">{{ item }}</span>
+                                        {% endif %}
+                                    {% endif %}
+                                {% endfor %}
+                            {% else %}
+                                {% if char.id == answer.id %}
+                                    <span class="info-tag el-tag--success">{{ value }}</span>
+                                {% else %}
+                                    {% set guess_value = value %}
+                                    {% set answer_value = answer[label] %}
+                                    {% if guess_value == answer_value %}
+                                        <span class="info-tag el-tag--success">{{ value }}</span>
+                                    {% elif gid in closeness and label in closeness[gid] %}
+                                        {% if closeness[gid][label] == "close" %}
+                                            <span class="info-tag el-tag--warning">{{ value }}{{ closeness[gid][label + '_arrow'] or '' }}</span>
+                                        {% else %}
+                                            <span class="info-tag el-tag--info">{{ value }}{{ closeness[gid][label + '_arrow'] or '' }}</span>
+                                        {% endif %}
+                                    {% else %}
+                                        <span class="info-tag el-tag--info">{{ value }}</span>
+                                    {% endif %}
+                                {% endif %}
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+
+    <div id="resultModal" class="settings-modal">
+        <div class="result-modal-box">
+            {% if result and "正解" in result %}
+            <div class="result-emoji">🎉</div>
+            <h2 class="result-heading win">正解です！</h2>
+            {% else %}
+            <div class="result-emoji">😴</div>
+            <h2 class="result-heading lose">お前はまだまだだ...</h2>
+            {% endif %}
+            <p id="modalText" style="font-weight:600; margin:0 0 8px;">正解は：</p>
+            <div id="answerCard" style="margin-top:12px;"></div>
+            <div class="button-row" style="margin-top: 20px;">
+                <button type="button" class="btn btn-secondary" onclick="document.getElementById('resultModal').style.display='none'">戻す</button>
+                <button type="button" class="btn btn-primary" onclick="location.href='/restart'">リスタート</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const poolChars = {{ characters | tojson }};
+        const guessedIds = {{ guessed | tojson }};
+        const input = document.getElementById("guess_name");
+        const guessIdInput = document.getElementById("guess_id");
+        const suggestions = document.getElementById("suggestions");
+        const submitBtn = document.getElementById("submitBtn");
+        const isGameOver = {{ 'true' if not answer_exists else 'false' }};
+        let searchTimer = null;
+
+        function pickSuggestion(item) {
+            input.value = item.name;
+            guessIdInput.value = item.id;
+            suggestions.style.display = 'none';
+            submitBtn.disabled = false;
+        }
+
+        function updateSuggestions() {
+            const query = input.value.trim();
+            suggestions.innerHTML = '';
+            if (!query) {
+                suggestions.style.display = 'none';
+                return;
+            }
+            clearTimeout(searchTimer);
+            searchTimer = setTimeout(() => {
+                fetch(`/api/search?q=${encodeURIComponent(query)}&exclude=${guessedIds.join(',')}`)
+                    .then((r) => r.json())
+                    .then((matches) => {
+                        suggestions.innerHTML = '';
+                        if (!matches.length) {
+                            suggestions.style.display = 'none';
+                            return;
+                        }
+                        matches.forEach((item) => {
+                            const li = document.createElement('li');
+                            li.innerHTML = `${item.name}<span class="suggest-work">${item.work}</span>`;
+                            li.onclick = () => pickSuggestion(item);
+                            suggestions.appendChild(li);
+                        });
+                        suggestions.style.display = 'block';
+                    })
+                    .catch(() => { suggestions.style.display = 'none'; });
+            }, 200);
+        }
+
+        input.addEventListener("input", () => {
+            guessIdInput.value = '';
+            updateSuggestions();
+            submitBtn.disabled = isGameOver || input.value.trim().length === 0;
+        });
+        input.addEventListener("focus", updateSuggestions);
+        document.addEventListener('click', e => {
+            if (!suggestions.contains(e.target) && e.target !== input) {
+                suggestions.style.display = 'none';
+            }
+        });
+
+        window.addEventListener("DOMContentLoaded", () => {
+            submitBtn.disabled = isGameOver || input.value.trim().length === 0;
+            const giveUpBtn = document.getElementById("giveUpBtn");
+            if (isGameOver && giveUpBtn) giveUpBtn.disabled = true;
+        });
+
+        const randomBtn = document.getElementById("randomBtn");
+        if (randomBtn) {
+            randomBtn.addEventListener("click", () => {
+                const remaining = poolChars.filter((c) => !guessedIds.includes(c.id));
+                if (remaining.length === 0) return;
+                const pick = remaining[Math.floor(Math.random() * remaining.length)];
+                pickSuggestion(pick);
+                input.closest("form")?.submit();
+            });
+        }
+
+        function updateThemeIcon() {
+            const btn = document.getElementById('themeBtn');
+            if (btn) btn.textContent = document.body.classList.contains('dark-theme') ? '☀️' : '🌙';
+        }
+
+        function toggleTheme() {
+            document.body.classList.toggle('dark-theme');
+            localStorage.setItem('theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light');
+            updateThemeIcon();
+        }
+
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-theme');
+        }
+        updateThemeIcon();
+
+        function openSettings() {
+            document.getElementById('settingsModal').style.display = 'flex';
+        }
+
+        function closeSettings() {
+            document.getElementById('settingsModal').style.display = 'none';
+        }
+
+        let isMouseDownOnModal = false;
+        const settingsModal = document.getElementById('settingsModal');
+        settingsModal.addEventListener('mousedown', e => { isMouseDownOnModal = e.target === settingsModal; });
+        settingsModal.addEventListener('mouseup', e => {
+            if (isMouseDownOnModal && e.target === settingsModal) closeSettings();
+            isMouseDownOnModal = false;
+        });
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const yearSlider = document.getElementById('yearSlider');
+            const yearRangeDisplay = document.getElementById('yearRangeDisplay');
+            const guessChanceSlider = document.getElementById('guessChanceSlider');
+            const guessChanceDisplay = document.getElementById('guessChanceDisplay');
+            const onlyMainCheckbox = document.getElementById('onlyMainCharacter');
+            const qualityPoolCheckbox = document.getElementById('qualityPoolCharacter');
+
+            function getCookie(name) {
+                const value = `; ${document.cookie}`;
+                const parts = value.split(`; ${name}=`);
+                if (parts.length === 2) return parts.pop().split(';').shift();
+            }
+
+            const savedMinYear = parseInt(getCookie('minYear') || {{ min_year }});
+            const savedMaxYear = parseInt(getCookie('maxYear') || {{ max_year }});
+            const savedGuessChance = parseInt(getCookie('guessChance') || 10);
+            const savedOnlyMain = getCookie('onlyMain') || '0';
+            const savedQualityPool = getCookie('qualityPool') ?? '1';
+
+            noUiSlider.create(yearSlider, {
+                start: [savedMinYear, savedMaxYear],
+                connect: true,
+                step: 1,
+                range: { 'min': {{ min_year }}, 'max': {{ max_year }} },
+                format: { to: v => Math.round(v), from: v => Math.round(v) }
+            });
+
+            yearRangeDisplay.textContent = `選択範囲：${savedMinYear}年 ～ ${savedMaxYear}年`;
+            yearSlider.noUiSlider.on('update', values => {
+                yearRangeDisplay.textContent = `選択範囲：${values[0]}年 ～ ${values[1]}年`;
+            });
+
+            noUiSlider.create(guessChanceSlider, {
+                start: savedGuessChance,
+                connect: [true, false],
+                step: 1,
+                range: { 'min': 3, 'max': 20 },
+                format: { to: v => Math.round(v), from: v => Math.round(v) }
+            });
+
+            guessChanceDisplay.textContent = savedGuessChance;
+            guessChanceSlider.noUiSlider.on('update', values => {
+                guessChanceDisplay.textContent = values[0];
+            });
+
+            onlyMainCheckbox.checked = savedOnlyMain === '1';
+            if (qualityPoolCheckbox) qualityPoolCheckbox.checked = savedQualityPool === '1';
+        });
+
+        function openInfo() {
+            document.getElementById('infoModal').style.display = 'flex';
+        }
+
+        function closeInfo() {
+            document.getElementById('infoModal').style.display = 'none';
+        }
+
+        document.getElementById('infoModal').addEventListener('mousedown', e => {
+            if (e.target.id === 'infoModal') closeInfo();
+        });
+
+        function saveSettingsAndRestart() {
+            const yearValues = yearSlider.noUiSlider.get();
+            document.cookie = `minYear=${Math.round(yearValues[0])}; path=/`;
+            document.cookie = `maxYear=${Math.round(yearValues[1])}; path=/`;
+            document.cookie = `guessChance=${Math.round(guessChanceSlider.noUiSlider.get())}; path=/`;
+            document.cookie = `onlyMain=${document.getElementById('onlyMainCharacter').checked ? '1' : '0'}; path=/`;
+            document.cookie = `qualityPool=${document.getElementById('qualityPoolCharacter').checked ? '1' : '0'}; path=/`;
+            setTimeout(() => location.href = '/restart', 100);
+        }
+    </script>
+
+    {% if result and answer %}
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const modal = document.getElementById('resultModal');
+            const modalText = document.getElementById('modalText');
+            const answerCard = document.getElementById('answerCard');
+            const answer = {{ answer | tojson }};
+            const resultText = {{ result | tojson }};
+            const isWin = resultText.includes("正解");
+
+            if (modal && modalText && answerCard && answer) {
+                modal.style.display = 'flex';
+                const nameColor = isWin ? 'var(--success)' : 'var(--primary)';
+                modalText.innerHTML = `正解は：<span style="font-weight:700; color:${nameColor};">${answer.名前}</span>`;
+
+                const tag = (items) => items.map(v => `<span class="info-tag el-tag--success">${v}</span>`).join(' ');
+                answerCard.innerHTML = `
+                    <div style="display:flex; flex-direction:column; align-items:center; gap:12px;">
+                        <div class="card-img-box" style="width:90px; height:120px;">
+                            <img src="${answer.image || '/static/char_placeholder.png'}" class="card-img" alt="" onerror="this.onerror=null;this.src='/static/char_placeholder.png';">
+                        </div>
+                        <div class="intro-content" style="text-align:center; font-size:0.85rem;">
+                            <div style="margin-bottom:6px;"><strong>初登場の作品</strong><br>${tag([answer.初登場の作品])}</div>
+                            <div style="margin-bottom:6px;"><strong>初声出演の年</strong><br>${tag([answer.初声出演の年])}</div>
+                            <div><strong>肩書</strong><br>${tag(answer.肩書)}</div>
+                        </div>
+                    </div>`;
+            }
+        });
+    </script>
+    {% endif %}
+</body>
+</html>

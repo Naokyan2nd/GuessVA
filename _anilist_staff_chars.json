@@ -1,0 +1,3048 @@
+{
+  "staff_id": 106184,
+  "chars": {
+    "シーラ・トェル・メタ=リカーナ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "黑"
+      ],
+      "titles": [
+        "公主"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "The beautiful princess of Meta-llicana Kingdom, known for her long black hair. She is proud of her royal upbringing and has a strong sense of responsibility but is quite naïve. She is subject to the mercy of Dark Schneider’s whims but eventually falls for him."
+    },
+    "岩清水ナツ": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "A shy, awkward, and withdrawn 16-year-old girl. Natsu has difficulty expressing herself and was always put down at home and bullied in school. She becomes essential to the team's survival by observing and writing down what they discover, such as which foods are edible. She has conflicting feelings for Arashi, knowing that he has a girlfriend. She is picked on or rather, teased by Semimaru frequently. Natsu means summer and iwashimizu means water trickling from rocks.\n"
+    },
+    "中川かのん": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "偶像"
+      ],
+      "race": [
+        "神"
+      ],
+      "origin": [
+        "神"
+      ],
+      "description": "__Height:__ 161 cm\n\nKanon is the most popular teen idol around for her beauty and singing talents. She was also in Keima and Elsie's class but had not been in school because of her idol status. However, she returns one day. She is constantly worried about the acknowledgment of her existence by others; this fear was so extreme and demonstrated when she attacked Keima with a stun gun after he said that he did not know her. Kanon hopes that her song would \"resound in everyone's hearts.\"   ~!She becomes the target of Fiore of Vintage which causes Kanon to be paranoid to the point that she reveals to Keima she still remembers him and confesses her love to him in front of their class. But before Keima can do anything, Apollo takes over and runs away but is soon stabbed by Fiore with a enchanted cursed dagger. Kanon is currently in a coma where Apollo's powers are keeping her alive for at least one week. Blaming himself for not being quick to rescue her, Keima vows to find the other Goddesses to save Kanon/Apollo's lives and has Elsie, a big fan of Kanon, disguises herself as Kanon to avoid a commotion in public.!~"
+    },
+    "梅田里緒": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Rio is Hokuto&#039;s younger sister and Minami&#039;s aunt. She is very pretty and amiable. She befriends Mizuki and helps her whenever she can. She also has Julia as a classmate for a short amount of time."
+    },
+    "湯音": {
+      "age": "13",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "法国",
+        "地球"
+      ],
+      "description": "Yune is a girl from Japan who is brought to Paris by Claude&#039;s grandfather to serve in their families&#039; metal crafts shop due to reasons that have yet to be fully explained. She spends her time in the Galerie du Roy, the shopping arcade the shop is located in,  becoming the store&#039;s &quot;shop girl&quot; and attracting customers as she adapts to the different lifestyle of the French."
+    },
+    "アポロ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "妖魔界"
+      ],
+      "description": "The second of the Sisters of Jupiter to be revealed, Apollo is Diana's older sister and resides in Kanon Nakagawa. She is shown to remember nothing about how she ended up in Kanon's body, the original sealing of old hell being the last thing she remembers.  Apollo's personality is significantly more scatterbrained and ditsy than that of her sister, even referring to herself as an idiot when asked by Kanon about what their next course of action should be. She has told Kanon that she has gained power from the love expressed in Kanon's songs, and teases Kanon about how Kanon cherishes her memories of Keima, despite her belief that he does not remember Kanon.  (Source: Wikipedia)"
+    },
+    "スガタメ・タイガー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [
+        "女仆",
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Tiger is a first-year student at Southern Cross High School. She works as a personal maid for Sugata and secretly has a crush on him. She is skilled in martial arts and knows about the Glittering Crux hidden beneath the school&#039;s interior. She&#039;s shown to be friendly and sweet, but a little timid. Keito Nichi used a scent in the Science lab to cause Tiger to remember her and Sugata reading a story book about a Tiger and pancakes and how she loved Sugata, but he&#039;s betrothed to Wako. With that, she passed out, and the Glittering Crux uses her and her Cybody to create an illusion in Zero Time, capturing Wako and Takuto. However, she couldn&#039;t control and fight with her Cybody, being easily defeated by Tauburn, thus destroying the illusion."
+    },
+    "蛇苺": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "忍者"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Hebiichigo is a kunoichi from kirigakure. She is a part of New Seven Ninja Swordsmen who uses Nuibari and wire strings as her weapons\n~!It was later revealed that she was an orphan with no memories of her family, who grew up on a trash heap outside of Kirigakure. In the Great Sea Battle of Kirigakure Arc, she was killed by Funamushi.!~"
+    },
+    "マルゴット・ナイト": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "金"
+      ],
+      "titles": [
+        "魔法使"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A blonde, 6-winged black magic user, as well as Naruze’s lover. Always smiling. Freely uses her abilities in flight, characteristic of magicians. Pursues a career in the transportation industry. Between the inseparable pair of her and Malga, Margot has a cheerful attitude and has an overall positive look on things, which is clearly shown by her always-smiling face. However, if Malga becomes endangered, she can put on a serious face as well.  (Source: Genesis-Horizon Wikia)"
+    },
+    "八月一日静": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ニーちゃん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "description": "Nii-chan is Shiemi Moriyama's Familiar that she summons during the demonstration after Izumo Kamiki summoned two spirit foxes. It is a baby Greenman spirit that takes a liking to Shiemi often sitting on top of her head. Nii-chan aids Shiemi by producing plant from it's body such as aloe and sprouts tree branches as barriers. Nii-chan appears protective of Shiemi as he shields her from the falling debris during a mission in the amusement park with tree barriers. Possibly because it's still an infant, it does not think of Shiemi or the humans as a threat. It speaks by saying the phrase \"Nii!\""
+    },
+    "フェリシテ・コレット": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Giselle's younger sister.  (Source: Official website)"
+    },
+    "桐崎千棘": {
+      "age": "15",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "__Height:__ 160 cm\n\nThe main female protagonist of the series. She is the daughter of [Adelt Wogner Kirisaki](https://anilist.co/character/82935) and [Hana Kirisaki](https://anilist.co/character/84919) who served as the fake girlfriend of [Raku Ichijou](https://anilist.co/character/48393) for the next three years of her school life to prevent a war from starting between their families.\n\nChitoge is somewhat a forgetful, stern and bold girl. However, once someone gets to know her better, she becomes very talkative and nice. Similar to Raku, Chitoge is the type to go out of her way to help someone. For example, when Raku lost his pendant once again from the chain being broken, Chitoge had secretly gotten the Beehive gang to help fix it for him and gave it back later that night. Chitoge is somewhat oblivious when it comes to love and others' love interests, for example, how she didn't know what [Seishirou Tsugumi](https://anilist.co/character/58885)’s \"symptoms\" were, which were actually love. She is also very athletic as she can easily jump over the school's walls and swim the length of the school pool in a couple of seconds. Ever since she was a child she had a hard time making friends as they disliked her. As a result, she had a cold demeanor toward people at the start of the series due to her relationship with her family. This led her to create notebooks filled with information on classmates in an attempt to make friends. When Chitoge had lost her ribbon, she becomes very emotional and sad, wanting to find the ribbon very badly. Unlike her usual self, when [Marika Tachibana](https://anilist.co/character/66597) insulted her for caring so much about a ribbon, she cried innocently, scaring the girl into speaking in her accent and helping in finding the ribbon. Raku also noted that she felt more womanly as Chitoge was meek and quite happy when he tried to buy a replacement ribbon for her and when she hugged him for finding her actual ribbon, but prefers her usual self better. It should be noted that she treasured the ribbon for two key reasons: because her mother gave it to her, and secondly because Raku told her when they were young that it would look good on her.\n~!In the end of the manga it is shown that Chitoge became a fashion designer and she and Raku got married.!~"
+    },
+    "新子憧": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "高中生",
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Ako Atarashi is a first-year high school student at Achiga Girls' Academy in Nara Prefecture and a protagonist in the spin-off manga \"Saki Achiga-hen episode of side-A\". She is an elementary school friend of Shizuno Takakamo and Nodoka Haramura. She was the third best player in Achiga's mahjong club as an elementary school student. When the club disbanded, she attended a different middle school in order to continue playing and intended on entering mahjong powerhouse Bansei High School. When Shizuno re-established the club, she decided to return to the school.   ~! Ako likes to play fast and has a good sense for the flow of the game. Ako is the most skilled player on the Achiga team but is overlooked because of the upperclassmen's special abilites. !~"
+    },
+    "美沙": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Hiyori's classmate. She's 147cm tall."
+    },
+    "九条カレン": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "英国",
+        "地球"
+      ],
+      "description": "**Height:** 150 cm\n\nA half-British, half-Japanese girl who was Alice's friend back in England. She comes to Japan and enrols in Shinobu's school. Karen is generally a very energetic girl (even more so than Youko). She is very outgoing and not afraid to show her emotions.\n\nKaren has mentioned on multiple occasions that she \"really really really loves\" (大大大好き!) Shinobu, which makes Alice jealous sometimes. She gets along with everybody in her class, even to the point where they would give her lots of food if she ever forgot her lunch. It has been noted that Karen doesn't gain weight despite consuming lots of food.  She calls Aya, \"Ayaya\", because of a small misunderstanding when they first met."
+    },
+    "円城寺紫乃": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Cultural Research Club kouhai. Small and cute like a woodland creature, but can make vicious comments without meaning to. Loves Taichi's voice."
+    },
+    "瀬波ヒカリ": {
+      "age": "14",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Senami Hikari: she's mysterious, and a bit spooky.  source: anime description"
+    },
+    "メイヴ・マキャフリィ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Maeve is Chloe's older sister and is Team Goldilocks' pilot of the RA121 Gloria. After Ao alters the course of history, it is revealed that like her sister, she lives with their mother who owns a bakery.  (Source: Wikipedia)"
+    },
+    "アラタ・ミユ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "中島法子": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "粉"
+      ],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "She is the sweet, cute, and possibly most \"normal\" girl in class 5-3 compared to some of her classmates. Unlike the others, Noriko never tries to look for trouble, but trouble constantly does seem to find her. Originally a \"background character\" early on (mostly found alongside her best friend Shizuka), \"Noro-chan\" slowly becomes one of the more prominent members of the class and a consistent target for spiritual activity. Miki in particular has a beef against her: With her cute face, shoulder-length pink hair and the second-largest bust in the class, the buxom blonde always gets upset whenever Noriko steals the spotlight away from her (consistently saying Noro-chan no kuse ni!!, or \"That Noro-chan!\") While she does seem docile and quiet, Noriko does occasionally unleash a wilder and more playful side (but it takes certain yōkai phenomenon to do so). She's also known as a bookworm and a rather clever tactician; once she was the key to resolving a very creepy case that involved the ghost of the school library and a series of kidnappings related to the ghost's favorite book, which incidentally was the same as Noriko's."
+    },
+    "イソルド": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "潮田渚": {
+      "age": "???",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "titles": [
+        "教师",
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 159 cm (5'2.5\")\n__Class:__ Class 3-E \n\nHe is one of the students in Class 3-E. Nagisa is seen as one of the weakest students in the class due to his small stature and mediocre physical abilities that are comparable to a girl. However, he is actually the most talented to become an assassin out of all the students, something acknowledged by [Korosensei](https://anilist.co/character/65643) and [Karasuma](https://anilist.co/character/73881). He is able to draw closer while hiding his bloodlust to make a surprise attack and able to make his opponents falter through his bloodlust alone.  Nagisa usually writes Korosensei's weaknesses that at first seen minor (since it doesn't look like major weaknesses), but eventually revealed to be useful since once they're able to almost kill Korosensei because of one of his weaknesses that is the same as the one that Nagisa has written down in his note.  Outwardly friendly and polite to his friends and everyone, he hides a somewhat darker side of him as an assassin that won't be able to be found out during daily classes and will only be shown during training and assassination time. According to Karasuma, whenever Nagisa unleashes his killing intent, he isn't training and truly goes for a kill.\n\n~!In the end, he kills [Koro-Sensei](https://anilist.co/character/65643/Korosensei).!~\n\n~!In the epilogue, 7 years later, Nagisa becomes a teacher of Paradise High School's Class 3-5, Deciding to follow in Koro-sensei's steps.!~"
+    },
+    "クロエ・ウィンケル": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Anna Clement's assistant."
+    },
+    "由比ヶ浜結衣": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "Yui is a cheerful, outgoing girl who becomes the Service Club's first \"customer\", asking them to help her bake cookies for \"a certain someone\". Her problems lie not with her personality, but with her inability to deal with issues by herself. She believes that talent is inborn, and often aspired to be like others until [Yukino](https://anilist.co/character/67067) changed her way of thinking. Following her experience with the Service Club, Yui begins to attend Service Club sessions after school as well, despite Yukino's objections early on.\n\n~!She is the owner of the dog that led to [Hachiman](https://anilist.co/character/67065)'s accident.!~\n\n~!She has feelings for [Hachiman](https://anilist.co/character/67065) which she admits to the members of the Service Club in the final episode of the series.!~\n"
+    },
+    "リーゼロッテ・シャルロック": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "金"
+      ],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Lieselotte is a beautiful young lady, who has flowing, long blonde hair that is tied up in twin tail. She has purple eyes compared to her sister who has blue eyes. She is also very voluptuous. Her main attire consists of thigh boots, opera gloves, shorts, and a cape-like dress that leaves her midriff open that is held by two strings attached to her choker."
+    },
+    "佐々木千穂": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "魔王"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Chiho is Maou's friend and a fellow employee at MgRonald's. She has a crush on Maou. She can hear and understand the language of Ente Isla, after receiving feedback from a hypnosis spell that Maou cast on her father, Inspector Sasaki.\n\nShe has a strong will and a polite, friendly, pleasant all around personality. She is head over heels for Maou, and sometimes gets jealous when she sees Emi and Maou together.\n\nShe is a part-time employee at MgRonald's along with Maou. Maou had met her father when he first landed on Earth, as her father is a policeman and caught him and Ashiya loitering around. Chiho attends school at Sasahata North High School.\n\n(Source: Hataraku Maou-sama Wikia)"
+    },
+    "桃子": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "レイシア": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [
+        "魔法使",
+        "模特"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "An hIE gynoid who escaped from the Tokyo Laboratory of the Memeframe Corporation. She encounters Arato and she is asking him to become her \"Owner.\" Her weapon is a black casket that is used to stop bullets and create electromagnetic fields that can deactivate all electronic devices in a wide range.\n\n~![Arato](https://anilist.co/character/124562/Arato-Endou) falls in love with Lacia, and she also begins to love him back!~\n\n~!In episode 24, Lacia, damaged by battle, is deactivated and dies. However, after the credits we see her in front of Arato's door as she explains to him that before dying, she had transferred her consciousness to the central computer, thus taking the body of another hIE and remodeling it to come back to life.!~\n\n~!Her original purpose was to automate humanity since humanity leaned towards automation heavily. But the Hazard incident caused them to subconsciously think leaning their life to Super AI is dangerous. After Arato's confession however, she tried different approach, that being shutting down Higgins for good and replacing Higgins with her to make Human-Super AI relationship anew.!~"
+    },
+    "ユウギリ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 103 cm\n__Power:__ Mind reading"
+    },
+    "ヴェーラ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Vera is a native of Tundrastar. Her name is derived from the Russian \"Вера\"."
+    },
+    "夏川 真那": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Masuzu's little sister."
+    },
+    "メイド妹": {
+      "age": "???",
+      "gender": [],
+      "hair": [
+        "红"
+      ],
+      "titles": [
+        "女仆",
+        "勇者"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Two young sisters who took refuge at the Crimson Scholar's estate. Coming from a serf family of seven siblings, the sisters' other siblings died from hunger and disease. Due the harsh life of serfdom which their lord treated them like slaves, they escaped and hope to get a better life at the city. However, Chief Maid looks down on the sisters since their presence would bring trouble with the Crimson Scholar. Furthermore, she considers them \"bugs\" for allowing life harsh realities to control their fate rather than overcoming it and control their own lives as human beings and not thinking and planning their future. Upon asking the Chief Maid to teach them to become proper humans, they are taken unto her guard, working as assistant maids. Thanks to the education given to them, Big Sister Maid becomes knowledgeable about the different lives and social classes of human society while Little Sister Maid becomes an expert with food and drinks. Contrary to the knowledge of Hero and the others, they do not know the Crimson Scholar's secret."
+    },
+    "高坂 雪穂": {
+      "age": "14",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "高中生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "美国",
+        "地球"
+      ],
+      "description": "Yukiho is Honoka Kousaka's younger sister. She is best friends with Eli Ayase's little Sister Alisa and they are both in the same middle school class together. "
+    },
+    "山田 ペコ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ひかる・まきば": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Hikaru Makiba is the daughter of ranch owner Danbei Makiba and a friend of Duke Fleed (whom she originally knew as Daisuke Umon). Later when Duke reveals his true identity to her, Hikaru joins the fight against the Vegan Empire, piloting the Marine Spazer. "
+    },
+    "メルティナ・メルヴィス": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Tarot Card:__ Sorceress"
+    },
+    "相羽 六": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [
+        "魔法使"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "The magician who finds by Takeshi that collapsed on the school campus and she accidentally turns Takeshi into a magician."
+    },
+    "とも": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Chihiro's friend, who helps her make her characters. She is shy in person, but gets animated when interested with a subject."
+    },
+    "猫山鈴": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ダブラスM2": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "豪徳寺 かよ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A high school freshman, Kayo is a member of the Aogiri High School Survival Game Club. She goes to the same class as Momoka, Class C, but wasn't initially noticed. She doesn't talk much. She admits that she has no interest in survival games but joined the club because of her love for cosplaying. She sews her own costumes.\r\n\r\nShe once displayed her cosplaying talent to Momoka in order to start a conversation with her because she didn't want to \"seem like an otaku\" by suddenly bringing it up."
+    },
+    "シルヴィア・斑鳩・ミスルギ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "戦艦 金剛": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "褐"
+      ],
+      "titles": [
+        "女仆",
+        "巫女"
+      ],
+      "race": [
+        "军舰拟人"
+      ],
+      "origin": [
+        "日本"
+      ],
+      "description": "\"The super-dreadnought fitted with Western technology at Vickers in England, Kongou has arrived! Even in the Pacific Theatre, I'll use the power of my speed to be of great use! Look forward to it!\" - Kongou\n\nKongou has long brown hair tied into buns on either side of her head. She and her sister ships are typically seen wearing a modified shrine maiden outfit with thigh high boots. Since she was built in England and shipped to Japan, she tends to speak in broken English and loves drinking tea. She is very affectionate towards the admiral and is always trying to win his heart."
+    },
+    "榛名": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "军舰拟人"
+      ],
+      "origin": [
+        "日本"
+      ],
+      "description": "\"I'm the fast battleship, Haruna.\n\nI was equipped with a set of four domestically made 36cm cannons. I stayed bravely watching the sky over Etajima village's naval base till the end. Haruna's last memory is of fighting as the last of the four fast battleship sisters.\"\n\nHaruna was the last surviving Kongou-class battleship and resiliently weathered bombing runs from American aircraft at Kure Naval base in Naval Academy Etajima before sinking at her moorings. Even then, she was not fully submerged. This is reflected in her higher luck stat compared to other Kongou-class ships."
+    },
+    "愛宕": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "军舰拟人"
+      ],
+      "origin": [
+        "日本"
+      ],
+      "description": "A cheerful, if often absent-minded, shipgirl based on the real-life Japanese cruiser Atago. Her sister ship is [Takao](https://anilist.co/character/196078/Takao).\n\nIn the *Shimakaze Tsumujikaze no Shoujo* manga, she serves as Admiral [Sumire Aosaki](https://anilist.co/character/383183/Sumire-Aosaki)'s secretary and turns down her romantic advances. She also has a tendency to slack off, which causes her sister to do her job for her, something which causes the two to occasionally make snide remarks at each other."
+    },
+    "超弩級戦艦 比叡": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "军舰拟人"
+      ],
+      "origin": [
+        "日本"
+      ],
+      "description": "\"I'm Hiei, Kongou Onee-sama's sister. I'm looking forward to gaining experience and getting closer to my sister's brilliance.\" - Hiei\n\n\"The battlecruiser that Admiral Inoue loved, it's Hiei.\nEven though I'm a shiny Imperial ship, I'll work my hardest. Did you know I was even the test-ship for the Yamato class? Eh? The Battle of Guadalcanal? Yes, I fought hard.\" - Hiei"
+    },
+    "霧島": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "军舰拟人"
+      ],
+      "origin": [
+        "日本"
+      ],
+      "description": "One of Kongou's sister ships. Based on the real-life Japanese battleship Kirishima.\n\nIn episode 6 of the first anime, she serves as the curry contest's announcer."
+    },
+    "ルトガルニコフ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "パフ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "女仆"
+      ],
+      "race": [
+        "妖精"
+      ],
+      "origin": [
+        "妖精"
+      ],
+      "description": "Pafu is a young dog-like fairy from Hope Kingdom. She and her older brother, Aroma, fled from their home world as it was invaded by the Zetsuborgs. She is a maid in training."
+    },
+    "レレイ・ラ・レレーナ": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Lelei is generally an emotionless girl, with her face constantly fixed in an expressionless look. She is usually calm and silent amongst her friends and would always speak in a collected way. She rarely raises her voice, even in dire situations.\n\nHowever, there are cases where she displays her emotions, such as surprise and awe when she was saved by the JSDF when she was nearly stomped by a horse.\n\nShe is a student of Grand Master Cato El Altestan, having moved in with him to the outskirts of Coda village when she was nearly 10 years old."
+    },
+    "クローディア・エンフィールド": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Claudia is the second highest ranking student of Seidoukan Academy and its Student Council President. She recommended [Ayato](https://anilist.co/character/89058)'s transfer to the academy. She has held the position of President since junior high."
+    },
+    "レクティ・アイゼナッハ": {
+      "age": "14",
+      "gender": [],
+      "hair": [
+        "金"
+      ],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "Eye color: Emerald\nHair color: Blonde\n\nLecty is ambitious and sincere, but she lacks confidence in herself and also gets very nervous while facing people, a reason why her results in battle exams are failing. Despite having low self-esteem she doesn't neglect her training to improve herself. She also has a tendency to apologize for the smallest things.\n\nWeapon & Abilities: \n\nAma no Hibakiri (Dragonslayer) - A pair of blue twin swords with light blue glyps on them. She is a close combat warrior and is also very efficient in using them but because she gets nervous she can't fight properly.\n\n(Source: Kuusen Madoushi Kouhosei no Kyoukan Wiki)"
+    },
+    "黒鉄珠雫": {
+      "age": "15",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "**Ranking:** A-Rank\n\nIkki Kurogane's younger sister. Unlike her older brother, she was well-respected as a child and was even forgiven due to her talent as a Blazer and was the only person in their family who didn't despise or look down on Ikki for being an F-Rank Blazer and was saddened after he left.\n\n"
+    },
+    "倉田亜美": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "高中生",
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A slightly clumsy college student who takes up cycling on the weekends with her childhood friend [Aoi Niigaki](https://anilist.co/character/120345/Aoi-Niigaki).\nShe owns a red PONTIAC Firebird FDB166 folding bicycle (named Pontiankh inside the story for copyright reasons), nicknamed \"Ponta-kun\", and later gets a Focus Culebro SL 3.0."
+    },
+    "伊万莉まりあ": {
+      "age": "13",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "高中生",
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Maria Imari is a really cheerful girl who really enjoys manga and anime. Is a second-year student of Tsukumori Middle School. She has Chuunibyou."
+    },
+    "鈴乃木凛": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Her bike is a Suzuki GSX400S Katana.\n\nShe loves all Suzuki bikes unconditionally."
+    },
+    "太田早夜": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "[Oota](https://anilist.co/character/89788/Oota)'s sister, who goes to same school as [Rino](https://anilist.co/character/89792/Rino-Tanaka). She is a shy person with an unusually small voice. She belongs to the Volleyball Club."
+    },
+    "ケイ・ティエスト": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "レイナ・プラウラー": {
+      "age": "15",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ロッテ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "傘木希美": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Instrument:__ Flute\n\nNozomi is a second-year student who used to play flute for the Kitauji High School's Bass Band Club in her first year. She and most of the first year members quit the club due to a conflict between the first-year members and the third-year members at that time.\n\nSound! Euphonium Season 2 Spoilers: ~!Nozomi tried to rejoin the band as well as get Asuka's approval. However, Asuka initially rejected due to the fear of Mizore possibly being affected by Nozomi's sudden return, causing a negative impact on Mizore's performance for the competition. However, due to an unexpected move by Nozomi to talk to Mizore causing her to run off, the latter managed to talk things out with Nozomi and restore their friendship. It is also revealed that Mizore played the oboe for the sole reason that it was the only thing that connected her with Nozomi.!~\n\nLiz and the Blue Bird Spoilers: ~!In Liz and the Blue Bird, Mizore and Nozomi's relationship develops further. Mizore becomes less dependent on Nozomi and decides to go to a music school after graduating, while Nozomi decides to go to a regular university.!~"
+    },
+    "ルリア": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A girl with special powers who runs away from the soldiers of the Erste Empire with her guardian Katalina before eventually meeting Gran. She has no memories of her life prior to being held captive by the Empire."
+    },
+    "園田涼子": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "姫河小雪": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "高中生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A middle school girl who had always dreamed of becoming a Magical Girl, sharing that dream with her childhood friend Souta Kishibe. She vowed to be a righteous and pure Magical Girl after transforming for the first time. Her ability allows her to hear the voices of anyone under distress.\n\n~!She survives the elimination game without killing anyone. However, her ideology is shattered as a result of what she had seen. She now desires strength in order to prevent large scale conflicts.!~"
+    },
+    "天野望": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Nozomi is very outgoing and supportive of her friends. She aspires to become a designer one day."
+    },
+    "神崎ユリナ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "偶像"
+      ],
+      "race": [
+        "神"
+      ],
+      "origin": [
+        "神"
+      ],
+      "description": "An idol and Katsumi Kanzaki's sister, suffering from Sleeping Beauty Syndrome. Initially brainwashed by Eve to serve as her mouthpiece and guardian."
+    },
+    "光武リイナ": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "偶像"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 160 cm (5'3\")\n\nA member of the Subculture Party as well as the idol unit Mikarina."
+    },
+    "一之瀬帆波": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "__Height:__ 159 cm (5'2\")\n\nIf there was one sentence to describe Honami, it would be that she is genuinely kind-hearted, benevolent, and a pacifist to the core who is against using underhanded means and violence. One of her main traits is her unselfish and supportive personality, combined with her excellent social skills and her being naturally people-oriented. Honami is also a charismatic and energetic person, and extends her sweet and benign character even to those of the lower classes, unlike many other upper-class students.\n"
+    },
+    "志摩リン": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A solo camper who started camping due to her grandfather’s influence. She experiences camping with another person for the first time when she meets [Nadeshiko](https://anilist.co/character/124576/Kagamihara-Nadeshiko). She’s not a member of the outdoor crew, but she worries about Nadeshiko a bit."
+    },
+    "津場木葵": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "高中生",
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A second-year college student who has the ability to see spirits. She is passionate about food and loves cooking and eating. She was adopted by her grandfather after her parents neglected her, and he was the one who taught her how to cook. She is kind, often helping the ayakashi. She is also stubborn with reckless tendencies."
+    },
+    "ピピ美": {
+      "age": "14",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Pipimi is a tall, 14-year old girl. Pipimi is the calmer one out of the pair and goes for the more action packed and violent genres."
+    },
+    "妖精弓手": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "银"
+      ],
+      "titles": [],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "description": "A high elf adventurer. She came with Dwarf Shaman and Lizard Priest to find Goblin Slayer and recruit his help. They face some trouble earlier as they are unable to pronounce \"Goblin Slayer\" and refer to him in other names, until they find him. They revel their objective; due to the increase in other demon monsters, there are not enough people to deal with Goblins and the elf army cannot mobilize to attack goblins as it would create suspicion and panic, if the army were focusing only on taking out the weakest monsters. They wish to hire Goblin Slayer to help them kill goblins. Her party also joins him to help him. She initially looks down on Goblin Slayer, due to his unkempt and weak appearance, but later comes to respect him, when she sees him in battle. She is a light-weight when it comes to drinking. She is Silver Rank."
+    },
+    "古賀朋絵": {
+      "age": "15",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "美国",
+        "地球"
+      ],
+      "description": "__Height:__ 150 cm (4'11\")\n\nA typical 1st year high-school student at Minegahara High School who can take hints, but is slightly scatterbrained. Being overly concerned about how people look at her, she hides her Hakata accent, which comes out when she panics or is relaxed.\n\n(Source: Aniplex USA, edited)"
+    },
+    "川合胡桃": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "She is the vice president of art & photography club who was the first to notice and take a video of Hitomi Tsukishiro slipping out of Yuito Aoi's room where she is insistent that Hitomi is in a relationship with him or that he may have been about to force himself on her and she was also responsible for uploading the video to social media. Kurumi is a fun-loving and cheerful girl. Kurumi admires her elder sister the most that she wants to be like her."
+    },
+    "ヴィクティム": {
+      "age": "???",
+      "gender": [],
+      "hair": [
+        "粉"
+      ],
+      "titles": [],
+      "race": [
+        "天使"
+      ],
+      "origin": [
+        "天使"
+      ],
+      "description": "Victim is a Floor Guardian on the eighth floor of the Great Tomb of Nazarick. \n\nIt has the appearance of 1 meter long bright pink embryo with an angelic halo and featherless stick-like wings. Despite being one of the most rarely seen of the Floor Guardians, Victim is courteous to his colleagues. Victim speaks in a different language than the others NPCs, but though he speaks in an alien tongue, they nevertheless seem to have no trouble understanding him. He is humble and modest about his position as a living sacrifice, believing it is his sole duty and purpose to serve the Supreme Beings and Nazarick. \n\nVictim did not exist in the web novel version."
+    },
+    "川島瑞樹": {
+      "age": "28",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "偶像",
+        "模特"
+      ],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "**Height:** 159 cm\n**Hometown:** Osaka\n\nPreviously a newscaster, Mizuki decided instead to pursue the path of becoming an idol. She's nearing her 30's and is a bit self-conscious about that, taking very good care of her appearance, and eagerly competing with her younger comrades. Her insecurity about her age stretches into not having a boyfriend or husband.\n\nShe acts as a role model for some of the idols. For example, she taught Karin Domyoji how to speak more clearly and smoothly. She is very mature and hard-working and often tells the Producer that he can rely on her whenever he wants. Her hobbies are cleaning and doing laundry, and she even offers to clean up the Producer's room in one of her SR card comments.\n\nThe staff tried to tell her to simply be herself during her drama CD interview, when she pretends to be a teenage girl or sexy temptress, because of her fears of being too old. At one point, she even tries to steal Nana Abe's \"eternal seventeen alien\" shtick, but it made the staff angry.\n \n(Source: Project iM@S)"
+    },
+    "みあシルバーストーン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "カルナティア・セリ・アナバルド": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "The daughter of Duke Anabald.\n\nIn her previous life, she was a boy named Ooshima Kanata, but she reincarnated as a beautiful girl. She's a prodigy on par with [Shun](https://anilist.co/character/130487/Schlain-Zagan-Analeit), and has been his best friend since their former life. Her speech is normally elegant and refined, but when talking with others who have reincarnated, she talks like a boy."
+    },
+    "黒崎ほのか": {
+      "age": "14",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 153 cm\n\nAoi first met her whilst she is climbing a mountain. Honoka was alone and so Aoi invited her to join her group. She is initially quiet and wary of the group, but eventually opens up. Honoka has a keen interest in photography and climbs mountains so that she can capture landscapes.\n"
+    },
+    "ジーナ・ボイド": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 168 cm\nA Russian girl that moved to Japan to study abroad."
+    },
+    "ピポ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "クーピー": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "妖精"
+      ],
+      "origin": [
+        "妖精"
+      ],
+      "description": "Asa's fairy"
+    },
+    "高見沢アリサ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "高中生",
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "**Height:** 150 cm (4'9\")\n\nArisa is one of the first year students in Sakuragaoka High School, a friend of Kotaro Enomoto, and the primary love interest of Ken Shibasaki.\n\nIn middle school, Arisa was shown to be somewhat submissive until the bullying incident, going along with what the rest of the class says or does even if she was uncomfortable with it. It was a big weak point for her, given how compassionate she is otherwise, but she is one to own up to her feelings if given a proper push.\nShe's a very courageous and outgoing girl following the incident, however. She's willing to stick up for her friends, offers them her protection, and also tries to talk with them more. She still has problems with communicating though, given that she feels insecure about the incident and she hates the feeling of being alone. \n\n(Source: Love Committee Wikia)"
+    },
+    "堂島晶": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "One of Chiharu Houtsuki's apprentice. She becomes the koto club's instructor."
+    },
+    "川流もも": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "She is the first girl whom Tenchi has an chance encounter with, though she is the school's student council president it was her Vice President, Hana, who pulls all the strings, she is very kind and joyful, but she is also, clumsy and an airhead. "
+    },
+    "リリエッタ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "メアリ・モーンスタン": {
+      "age": "19",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ダフネ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [
+        "魔法使"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Daphne is one of the Witches of Sin, being the Witch of Gluttony. All she wants is to be full, it's her reason for living. Daphne enjoys giving people nicknames, such as Subarun for Subaru.\n\n~! Daphne's main ability is \"Authority of Gluttony\". With this authority, Daphne is able to cause a individual to have and feel extreme levels of hunger by just touching them or looking at them. When Subaru encountered Daphne it only look one look from her left eye for him to start eating his arm and ignores everything that was going on around him. Echidna states that a look from Daphne's left eye isn't all impressive and the true terror of Daphne comes when she uses her right eye or eats her target. !~  "
+    },
+    "ゴマちゃん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ケイティ・キ厶ラ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "天使"
+      ],
+      "origin": [
+        "天使"
+      ],
+      "description": "Angela’s new manager."
+    },
+    "桜井美景": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 160 cm"
+    },
+    "ミス・メルバ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "青木紅愛": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "A female freshman from Shuichi's highschool that in the beginning of the series attempts to commit suicide by immolation due to the death of her parents to the hands of a \"monster.\" She is saved from this situation by Shuichi. Whilst being saved, she discovers Shuichi's other form and with this information she later convinces him into doing what she wants him to do.\n\nShe is a rather smart girl that takes advantage of any opportunity to gain the upper hand in any given situation be it by using her female attributes (mostly against Shuichi) or by using the enemies' secrets and goals against them. She is also quite emotionally complex, being very caring and concerned for the people that she cares about while at the same being able to kill someone in order to ensure that she and the people closest to her survive but feeling terrible with herself after the fact. She also massively enjoys the power that comes with teaming up with Shuichi to the point of almost sexual pleasure."
+    },
+    "ジゼル・ジュエル": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 160 cm (5'3\")\n\nGiselle Gewelle is a Quincy and a member of the Wandenreich's Sternritter with the designation \"Z\" - \"The Zombie.\"  Even in dangerous situations, she almost always has a happy or goofy expression on her face. Giselle has an antagonistic relationship with Candice Catnipp; she claims Candice likes to have \"fun\" with her subordinates, and frequently mocks her power and temperament. However, she is willing to help Candice when requested.\n\nIn battle, Giselle is very cruel, using The Zombie to force several Shinigami to kill themselves while they retained awareness of their actions and begged her to stop; however, she claims to not be a sadist. She has no qualms with using her unique powers to turn the bodies of her fallen friends and comrades into weapons to fight with.Giselle frequently uses reverse psychology to trick opponents into attacking her and triggering her special ability.\n\n~!In extra pages detailing some of the Sternritter that were released with chapter 615 in Shonen Jump, Giselle is confirmed to be biologically male.!~"
+    },
+    "更科瑠夏": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 158 cm (5'2\")\n\nRuka Sarashina suffers from arrhythmia and seeks a lover that will help her cope with her condition. She's seen as being a very pushy and possessive kind of person. This personality of hers developed after learning of her condition and being alienated from her peers. Because of this, she became very fixated on the idea that getting a boyfriend would help her in having a faster heartbeat.\n\nAlong with her rather brash personality, she doesn't like giving up easily; often making poor decisions to get what she wants."
+    },
+    "クロケル・ケロリ": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "description": "__Rank:__ _Bet_ (Anime), _Daleth_ (Manga)\n__Inherited Magic:__ Ice Surface\n__Familiars:__ Blizzard Wolf, Snow King Fox\n__Height:__ 155 cm\n\nKeroli is a student at Babyls Demon School. She is in the same class as Iruma, the Misfit Class. Normally under the guise of an ordinary-looking freshman student, she has an Akudol alter-ego named Kuromu. Around school, she wears big, rounded glasses that have the ability to disguise her appearance to other demons. When she is acting as Kuromu, she wears a wig."
+    },
+    "鈴宮陽衣": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Hii Suzumiya is a new transfer student in Toritsuka Reita's class."
+    },
+    "天城那々子": {
+      "age": "28",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A sniper for the terrorist group CCC, where she acts under the code name 07."
+    },
+    "寺島詩織": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "小石川惟子": {
+      "age": "14",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "勇者"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Nationality:__ Japanese\n__Height:__ 156 cm\n\nA kind girl with a secret pain inside of her, but despite that is very strong-willed and thoughtful. Her headband is decorated with a crescent moon on it. She used to be a hardworking member of the rhythmic gymnastics club at her previous school. Her love for superheroes was influenced by her little brother, Kinakomochi."
+    },
+    "ルイス・ジェームズ・モリアーティ": {
+      "age": "23",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 183 cm (6')\n__Hometown:__ East End\n\nWilliam's younger brother. When young, he was often very ill, but was later treated after moving in with the Moriarty family. Louis often serves as the family butler, despite being a nobleman."
+    },
+    "洋木茅春": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生",
+        "勇者"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Youki Chiharu is the newest transfer student in [Amatsuyu Kisaragi](https://anilist.co/character/138900)'s class. Her nickname, Tsubaki, is derived from the combination of the second character of her given name (春) and surname (木), resulting in (椿) which is the Japanese name for _Toona sinensis_  or Chinese Mahogany flower. She declared an unwavering love and loyalty to Kisaragi on her first day of transferring, which irritates some of the previous heroine present in the class. She promised Amatsuyu that she'll become a girl that will love him \"unconditionally, gentle and will do anything for him\" while kissing his hand, making a dramatic spectacle for the class to see."
+    },
+    "阿南スガオ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "He is Ashibe's best friend. He had to move to the Republic of Asnikul with his family."
+    },
+    "睦天命": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "迅羽": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Xunyu is a Master from the Huang He Empire. She is currently ranked 2nd in their duel rankings. She is also one of the Huang He Si Ling.\n\nDue to the effect of her Jiangshi job, Xunyu is an undead with skin so pale it appears blue and jagged teeth. She dresses in outfits similar to what those jiangshi wear in traditional Chinese literature, complete with a Voice Changing Fu that covers her face and changes her voice.\n\nShe is a young girl with a mischievous attitude, being fond of playing little tricks on people from time to time. However, she is quite friendly, managing to make several friends amongst the Masters of the Kingdom of Altar during her stay there.\n\n(Source: Infinite Dendrogram Wiki)"
+    },
+    "カレン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "愛姫": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "お市": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "瀬川ひろ": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Hiro Segawa is the love interest of Nagi Umino."
+    },
+    "リリコ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "カラミティ・ジェーン": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "アヤ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "茨木童子": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "クロエ・ラウ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Leon’s “little sister” who supports him. They are not related by blood but she thinks of him as a real older brother. She does her best to look after Leon, who is useless when it comes to anything except research. She’s cheerful and unafraid of anything or anyone, a really energetic girl. \n\n(Source: Honey's Anime)\n\n\t\t\t\n"
+    },
+    "レビィ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "鈴鹿御前": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [
+        "公主"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A dancing princess who made her stronghold on Mount Suzuka during the Heian period. Together with Sakanoue no Tamuramaro, she engaged in Oni extermination."
+    },
+    "キビツ・ミコト": {
+      "age": "???",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "He has come to the Western Continent to kill any and all Oni that he encounters. He travels with a dog and a Oni named Millia."
+    },
+    "カリーナ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Kalina is a logistics officer for Griffin and Kryuger, who became the Commander's adjutant when they joined G&K in 2062 and has been serving under their command ever since. Her job is to manage the constant flux of resources used by the Commander and their T-Dolls during their operations, as well as handle secretary work.\n\n(Source: Girls' Frontline wiki)"
+    },
+    "アルカナ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "深水陽菜": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "夏凪日羽": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "高雄": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "军舰拟人"
+      ],
+      "origin": [
+        "日本"
+      ],
+      "description": "\"If you're talking about cruisers, no matter how you look at it, it has to be me, Takao!\nAttached to Vice Admiral Kondo's 4th fleet, I participated in many naval battles.\nOvercoming these hard-fought conflicts, I concluded with a diligent defence of Singapore.\""
+    },
+    "クラウディア": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "百鬼": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "**Occupation:** Spy\n**Affiliation:** Lamplight\n**Skills:** She is good at stealing and is the most athletic member of the team.\n\nSibylla is one of the main protagonists in the Spy Classroom series. She was born into a gangster family, and she and her younger siblings were forced to help in gang activities. She has a strong sense of justice and wanted to be a spy to protect her younger siblings."
+    },
+    "リーゼロッテ・クレティア": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "The governor of Amande and founder of the Rikka firm, which quickly established itself as an international enterprise with branches in other countries. \n\n~!Like with Rio and Latifa, she has memories of a previous life as Minamoto Rikka, a high schooler!~"
+    },
+    "アンゲリカ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [
+        "蓝"
+      ],
+      "titles": [
+        "骑士"
+      ],
+      "race": [
+        "妖精"
+      ],
+      "origin": [
+        "妖精"
+      ],
+      "description": "__Family structure__\n~!　Father: [father](https://anilist.co/character/201615) (an attendant at the castle of Ehrenfest)\n　 Mother: [mother](https://anilist.co/character/201616) ([Florencia](https://anilist.co/character/201321)'s attendant)\n　 Younger sister: [Lieseleta](https://anilist.co/character/225790)!~\n\n__Status__\n~!Class: mednoble\nOccupation: apprentice knight → knight / [Rozemyne](https://anilist.co/character/126156)'s aide!~\n\n__Age related__\n~!　Grade difference with Rozemyne: +5\n　 Birth season: summer!~\n\n<br>A knight apprentice and a mednoble. A lithe girl of few words who has fairy-like beauty, she doesn't look like a knight no matter how you look at her. She has pale light blue hair and deep blue eyes."
+    },
+    "ロウェルミナ・アースワルド": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "公主"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "The youngest princess of the Earthworld Empire and a former classmate of Wein and Ninym."
+    },
+    "香織": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "河瀬川英子": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "Eiko is a competitive, stubborn, and mature young woman whose enthusiasm and talent for film-making have no bounds. She is also somewhat prickly and looks up to her older sister and professor Misaki Kanou. \n\nAt the same time, she is able to empathize with others and holds herself to the same high standards she expects of her colleagues.\n\n~!Later it is revealed that she also had romantic feelings towards Kyouya.!~"
+    },
+    "千川棔": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "坂本葵": {
+      "age": "26",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Aoi is the wife of [Tarou Sakamoto](https://anilist.co/character/196522/Sakamoto-Tarou) and mother of [Hana Sakamoto](https://anilist.co/character/272877/Sakamoto-Hana). She met Tarou at a convenience store where he fell in love with Aoi. Soon after the two married and had a daughter. Shortly after meeting, Aoi expressed her feelings about death and convinced Sakamoto to retire as a hitman and not kill anymore."
+    },
+    "セレスティーナ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "三輪藍": {
+      "age": "18",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 165 cm"
+    },
+    "3Hパーソナルユース94年型": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ラフィーナ・オルカ・ヴェールガ": {
+      "age": "14",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生",
+        "队长"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Birthday season:__ Spring (early)\n__Home town:__ Holy Principality of Belluga\n\nThe daughter of Duke Orleans, the ruler of the Holy Principality of Belluga where Saint-Noel Academy is located. The president of the student council and effective ruler of Saint-Noel Academy, where aristocrats and royalty such as [Mia](https://anilist.co/character/172654) and [Sion](https://anilist.co/character/220617) attend. She is a true saint who does not care about her status, treats ordinary people and nobles alike, and while giving mercy to them, she has a fastidious personality, values justice, and can judge others mercilessly.\n\nIn the previous timeline, she had little contact with Mia, but rather intentionally refused to have a relationship with Mia. She supported [the leader](https://anilist.co/character/220615) of the revolutionary army.\n\nThere was no one she could call her \"friend\", but in the timeline of the main story, she became friends with Mia and was saved through this relationship."
+    },
+    "桃夭": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "安城ナガラ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "メグリア": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "骑士"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A receptionist for the adventurer's guild in Zoltan, Megria will occasionally purchase herbs gathered by Red. She has a strong trust of the competent and classy Red, who she suspects is hiding the fact that he is a powerful knight.\n\n(Source: Official Site)"
+    },
+    "ヒルダ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "description": "A demon mercenary based in the imperial capital. Her excellent night vision and ability to accurately discern even the smallest sounds have earned her the nickname \"Night Strider.\"\n\n(Source: Official Site)"
+    },
+    "卯咲もふ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "美国",
+        "地球"
+      ],
+      "description": "Mofu Usaki is world-renowned neurosurgeon who does surgeries on a microscopic scale and undertakes at least 800 surgeries a year. She also stars in the liveshow \"Lie or Truth? ESP!!\""
+    },
+    "米倉マリナ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Marina is an energetic girl who is like the sun! She has Venezuelan roots and sometimes speaks Spanish. She has no barriers when talking to anyone, and really enjoys spending time with sea creatures.\n"
+    },
+    "須磨": {
+      "age": "19",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Suma is a kunoichi and one of Tengen Uzui's wives."
+    },
+    "エクレール": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "玉那覇りく": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "Riku Tamanaha is a kind and cheerful girl who is also very shy and has a fear of interpersonal relationships. She is a kogyaru, a type of gyaru who is known for her fashionable style and outgoing personality. However, Tamanaha's shyness often prevents her from expressing herself fully, and she often overthinks situations and makes herself anxious. This is due to a past experience where she was too clingy to her friends in elementary school, which ended up pushing them away.\n\nDespite her shyness, Tamanaha is very determined to make friends in high school. She is especially eager to be friends with Aharen again, but she is afraid of being rejected. However, Aharen is actually very happy to see her again and they quickly become friends.\n\nTamanaha is a likable character who is easy to root for. She is relatable to many people who struggle with social anxiety, and her story is one of hope and redemption."
+    },
+    "柚日咲めくる": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "最上アサヒ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "偶像"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "She is a national idol with legendary popularity who was involved in a car accident a year ago and became a ghost because of her unfulfilled love for her idol."
+    },
+    "吉永虹": {
+      "age": "???",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ヒヨリ": {
+      "age": "16",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "堀江タコスロ墨": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "中園エマ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ラファンパン": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "妖精"
+      ],
+      "origin": [
+        "妖精"
+      ],
+      "description": "__Height:__ 30 cm\n__Race:__ Moonlight Fairy"
+    },
+    "闇レイナ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "One of the members of Yami_Q_ray, created by the Siren Delta System after Reina."
+    },
+    "南七世": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A construction company employee who is caught between the wishes of her client and orders of a designer."
+    },
+    "聖園ミカ": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "__Height:__ 157 cm\n__Academy:__ Trinity General School\n__Year:__ 3rd Year\n\nA member of Trinity's student council, Tea Party, and one of its three student council presidents. Unlike the other two presidents of the Tea Party, she isn't particularly bright when it comes to politics, but her strength is not to be underestimated. \n"
+    },
+    "ロタ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "[Einar](https://anilist.co/character/28030)'s sister."
+    },
+    "ソフィティア・フェムト": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ナイト": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "アイラ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "偶像",
+        "学生"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "英国",
+        "地球"
+      ],
+      "description": "Student from London who came to Japan to be a school idol."
+    },
+    "棚橋夕香": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "精灵"
+      ],
+      "origin": [
+        "精灵"
+      ],
+      "description": "Kensaku's childhood friend (self-proclaimed girlfriend). She has a burning rivalry with Lily, who she views as her romantic rival."
+    },
+    "鮎川星": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "斎藤詩織": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "鳥海": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "军舰拟人"
+      ],
+      "origin": [
+        "日本"
+      ],
+      "description": ""
+    },
+    "琥珀": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Kohaku works at the same crossdressing bar as [Suou](https://anilist.co/character/321927/Suou) and [Fuji](https://anilist.co/character/321928/Fuji) with an aggressive \"Ore-sama\" persona which she struggles through with trial-and-error. Her earnest personality contrasts with the absurdity of Suou and Fuji's antics."
+    },
+    "山野": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ビガ": {
+      "age": "18",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A Sami girl who lives in Kautokeino, a technologically-restricted zone in Norway. She is a skilled bio-hacker who becomes acquaintances with [Harold](https://anilist.co/character/213705/Harold-W-Lucraft) and [Echika](https://anilist.co/character/213704/Echika-Hieda), having a crush on the former and disliking the latter due to the circumstances in which they met. However, they make up their differences afterwards, becoming close friends and allies."
+    },
+    "中富葉香": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "She was friends with the other girls when they were in school together, but was especially close with [Shizuru.](https://anilist.co/character/309908/Shizuru-Chikura) She watched over everyone quietly with a smile, but made everyone worried when she left."
+    },
+    "亜璃恵瑠": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "マリア": {
+      "age": "17",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "リナリス": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "キャサリン・サバスラ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "スピカ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ムフルム": {
+      "age": "???",
+      "gender": [
+        "男"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "マリー・エバンズ": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "仙石喜歌": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "**Height:** 159 cm\n\nA member of the unit Parabola."
+    },
+    "狸塚ビーンズ": {
+      "age": "3",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "The youngest of the Maizuka family."
+    },
+    "天沢キョウ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A violinist. She is [Hajime's](https://anilist.co/character/217319) older sister. ~!She passed away in an accident when she was young.!~"
+    },
+    "アリューシア・シトラス": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "マリエッタ": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "骑士"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Marietta is one of Cedric's knights. She talks in an overly sweet voice.\n\n(Source: Official Site)"
+    },
+    "三葉凛子": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "狩野さやか": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "ミンディ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "高柳弥生": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "女仆"
+      ],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A former \"Noble Maiden\" at Sakuragokoro Girls' Academy."
+    },
+    "アリス": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [
+        "魔王"
+      ],
+      "race": [
+        "魔族"
+      ],
+      "origin": [
+        "魔族"
+      ],
+      "description": "__Height:__ 144 cm\n\nA demon girl born into the demon race who wishes to coexist with humans. Inheriting the ideas of her father, the Demon King, she begins to work towards realizing her ideals after meeting [Kagami](https://anilist.co/character/373000/Koji-Kagami), who does not hate demons."
+    },
+    "みずいろのコウペンちゃん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "御倉ひるね": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "百歳あお": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "Momotose Ao is a famous VTuber and side character in Tune In to the Midnight Heart. As part of the VTuber group Blue Box, she has over 3 million subscribers and does streaming as well as live shows. <br><br>\n\n(Source: Tune in to the Midnight Heart Wiki)"
+    },
+    "森亜るるか": {
+      "age": "16",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "A mysterious girl who works as a member of the \"Phantom Thieves\" for some reason, despite being a Pretty Cure. She has a laid-back and unconventional personality."
+    },
+    "きりんちゃん": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "サン": {
+      "age": "???",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "薺": {
+      "age": "12",
+      "gender": [
+        "女"
+      ],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": "She's a little girl who [Hinagiku](https://anilist.co/character/319954/Hinagiku-Kayo) and [Sakura](https://anilist.co/character/319956/Sakura-Himedaka) met while heading to Mount Ryugu. She's the first person to witness the return of Spring."
+    },
+    "美尋": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    },
+    "エイマ": {
+      "age": "???",
+      "gender": [],
+      "hair": [],
+      "titles": [],
+      "race": [
+        "人类"
+      ],
+      "origin": [
+        "日本",
+        "地球"
+      ],
+      "description": ""
+    }
+  }
+}
