@@ -39,7 +39,7 @@
 
 ## 試遊リンク
 
-[https://guessnao.onrender.com/](https://guessnao.onrender.com/)
+[https://guessva.onrender.com/](https://guessva.onrender.com/)
 
 ---
 
@@ -84,4 +84,4 @@
 
 ## 试玩链接
 
-[https://guessnao.onrender.com/](https://guessnao.onrender.com/)
+[https://guessva.onrender.com/](https://guessva.onrender.com/)
