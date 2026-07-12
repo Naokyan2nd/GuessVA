@@ -58,8 +58,8 @@
     </div>
 
     <div class="landing-top utility-actions">
-        <a class="theme-fab utility-link" href="/language/{{ 'ja' if lang == 'zh' else 'zh' }}?next={{ request.path }}">{{ '🇯🇵 ' ~ t('日本語') if lang == 'zh' else '🇨🇳 ' ~ t('中文') }}</a>
         <button type="button" class="theme-fab" id="themeBtn" title="{{ t('テーマ切替') }}">{{ t('ダーク') }}</button>
+        <a class="theme-fab utility-link" href="/language/{{ 'ja' if lang == 'zh' else 'zh' }}?next={{ request.path }}">{{ '🇯🇵 ' ~ t('日本語') if lang == 'zh' else '🇨🇳 ' ~ t('中文') }}</a>
     </div>
 
     <main class="landing-wrap">
