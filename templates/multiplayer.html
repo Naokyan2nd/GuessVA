@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ 'zh-CN' if lang == 'zh' else 'ja' }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/static/nao_shark.png" type="image/png">
-    <title>オンライン対戦 — 東山奈央キャラ当て</title>
+    <title>{{ t('オンライン対戦') }} — {{ t('東山奈央キャラ当て') }}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Maru+Gothic:wght@500;700&display=swap" rel="stylesheet">
@@ -242,7 +242,7 @@
         }
         .search-wrap { position: relative; }
         .search-wrap::before {
-            content: '🔍'; position: absolute; left: 14px; top: 50%;
+            content: ''; position: absolute; left: 14px; top: 50%;
             transform: translateY(-50%); opacity: 0.5; pointer-events: none;
         }
         .search-wrap input { width: 100%; padding: 14px 16px 14px 42px; font-size: 16px;
@@ -311,6 +311,7 @@
             .attr-block { flex: 0 0 auto; min-width: 72px; }
         }
     </style>
+    <link rel="stylesheet" href="/static/refined.css">
 </head>
 <body class="app-page">
     <div class="app-bg" aria-hidden="true">
@@ -322,14 +323,17 @@
 
     <div class="page-wrap">
         <nav class="top-nav">
-            <a href="/" class="nav-back">← ホーム</a>
-            <button type="button" class="theme-fab" id="themeBtn" title="テーマ切替">🌙</button>
+            <a href="/" class="nav-back">← {{ t('ホーム') }}</a>
+            <div class="utility-actions">
+                <a class="theme-fab utility-link" href="/language/{{ 'ja' if lang == 'zh' else 'zh' }}?next={{ request.full_path | urlencode }}">{{ '🇯🇵 ' ~ t('日本語') if lang == 'zh' else '🇨🇳 ' ~ t('中文') }}</a>
+                <button type="button" class="theme-fab" id="themeBtn" title="{{ t('テーマ切替') }}">{{ t('ダーク') }}</button>
+            </div>
         </nav>
 
         <header class="hero-block">
-            <h1 class="hero-title">オンライン対戦</h1>
-            <p class="hero-sub">同じキャラを当てる対戦 — 先に正解した方が勝ち！</p>
-            <div class="p2p-badge">🔗 WebRTC P2P · 回数制限なし · 推測回数はお互いに見える</div>
+            <h1 class="hero-title">{{ t('オンライン対戦') }}</h1>
+            <p class="hero-sub">{{ t('同じ問題に挑戦し、先に正解したプレイヤーの勝ち。') }}</p>
+            <div class="p2p-badge">{{ t('P2P接続 · 回数制限なし · 推測回数を共有') }}</div>
         </header>
 
         <div class="center-stack">
@@ -337,21 +341,21 @@
 
         <!-- Menu -->
         <div class="mp-screen panel" data-screen="menu">
-            <p class="mp-hint" style="margin-bottom:20px">ホストとゲストが<strong>同じ正解キャラ</strong>を当てる対戦。<br>先に正解した方が勝ち。推測回数に制限はありません。</p>
-            <button class="btn btn-primary btn-block" id="mpHostBtn">部屋を作る（ホスト）</button>
-            <button class="btn btn-secondary btn-block" id="mpJoinBtn">部屋に参加</button>
+            <p class="mp-hint" style="margin-bottom:20px">{{ t('部屋を作るか、共有された6桁の番号で参加してください。') }}</p>
+            <button class="btn btn-primary btn-block" id="mpHostBtn">{{ t('部屋を作る（ホスト）') }}</button>
+            <button class="btn btn-secondary btn-block" id="mpJoinBtn">{{ t('部屋に参加') }}</button>
         </div>
 
         <!-- Host: configure rules before creating room -->
         <div class="mp-screen panel" data-screen="host-config" style="display:none">
-            <h3 style="margin-top:0">ルール設定</h3>
-            <p class="mp-hint" style="margin-bottom:16px">この部屋の出題ルールを決めてから部屋を作成します。</p>
+            <h3 style="margin-top:0">{{ t('ルール設定') }}</h3>
+            <p class="mp-hint" style="margin-bottom:16px">{{ t('この部屋の出題ルールを決めてから部屋を作成します。') }}</p>
 
-            <label>あなたの名前</label>
-            <input class="mp-input" id="hostName" placeholder="ホスト" maxlength="20">
+            <label>{{ t('あなたの名前') }}</label>
+            <input class="mp-input" id="hostName" placeholder="{{ t('ホスト') }}" maxlength="20">
 
             <div class="mp-config-field">
-                <label>初声出演の年</label>
+                <label>{{ t('初声出演の年') }}</label>
                 <div class="mp-year-row">
                     <input class="mp-input" id="cfgMinYear" type="number" min="{{ min_year }}" max="{{ max_year }}">
                     <span>～</span>
@@ -361,58 +365,58 @@
 
             <label class="mp-check-row">
                 <input type="checkbox" id="cfgOnlyMain">
-                メインキャラオンリー
+                {{ t('メインキャラオンリー') }}
             </label>
             <label class="mp-check-row">
                 <input type="checkbox" id="cfgQualityPool" checked>
-                充実データのみ（立绘あり・年龄已知）
+                {{ t('詳細データあり（立ち絵・年齢情報あり）') }}
             </label>
-            <p class="mp-pool-preview" id="cfgPoolPreview">候補を計算中…</p>
+            <p class="mp-pool-preview" id="cfgPoolPreview">{{ t('候補を計算中…') }}</p>
 
-            <button class="btn btn-primary btn-block" id="mpCreateRoomBtn">部屋を作成</button>
-            <button class="btn btn-secondary btn-block" id="mpBackFromConfigBtn">戻る</button>
+            <button class="btn btn-primary btn-block" id="mpCreateRoomBtn">{{ t('部屋を作成') }}</button>
+            <button class="btn btn-secondary btn-block" id="mpBackFromConfigBtn">{{ t('戻る') }}</button>
         </div>
 
         <!-- Host lobby (after room created) -->
         <div class="mp-screen panel" data-screen="host" style="display:none">
-            <h3 style="margin-top:0">待機ルーム</h3>
+            <h3 style="margin-top:0">{{ t('待機ルーム') }}</h3>
             <div id="mpRoomConfigBox" class="mp-config-box" style="display:none">
-                <div class="mp-config-title">この対局のルール</div>
+                <div class="mp-config-title">{{ t('この対局のルール') }}</div>
                 <div class="mp-config-tags" id="mpRoomConfigTags"></div>
             </div>
             <div id="mpRoomCodeBox" style="display:none">
-                <p class="mp-hint">この番号を友達に共有してください</p>
+                <p class="mp-hint">{{ t('この番号を友達に共有してください') }}</p>
                 <div class="room-code" id="mpRoomCode"></div>
-                <p class="mp-hint">接続ページ： <span id="mpJoinLink"></span></p>
+                <p class="mp-hint">{{ t('接続ページ：') }} <span id="mpJoinLink"></span></p>
             </div>
             <div id="mpHostActions" style="display:none">
-                <h4>参加者</h4>
-                <div id="mpGuestList"><p class="mp-hint">まだ参加者がいません…</p></div>
-                <button class="btn btn-primary btn-block" id="mpStartBtn" disabled>ゲーム開始</button>
+                <h4>{{ t('参加者') }}</h4>
+                <div id="mpGuestList"><p class="mp-hint">{{ t('まだ参加者がいません…') }}</p></div>
+                <button class="btn btn-primary btn-block" id="mpStartBtn" disabled>{{ t('ゲーム開始') }}</button>
             </div>
-            <button class="btn btn-secondary btn-block" id="mpBackBtn">戻る</button>
+            <button class="btn btn-secondary btn-block" id="mpBackBtn">{{ t('戻る') }}</button>
         </div>
 
         <!-- Join -->
         <div class="mp-screen panel" data-screen="join" style="display:none">
-            <h3 style="margin-top:0">部屋に参加</h3>
-            <label>部屋番号（6桁）</label>
+            <h3 style="margin-top:0">{{ t('部屋に参加') }}</h3>
+            <label>{{ t('部屋番号（6桁）') }}</label>
             <input class="mp-input" id="joinCodeInput" placeholder="123456" maxlength="6" inputmode="numeric">
-            <label>あなたの名前</label>
-            <input class="mp-input" id="guestNameInput" placeholder="プレイヤー" maxlength="20">
-            <button class="btn btn-primary btn-block" id="mpJoinRoomBtn">参加する</button>
-            <button class="btn btn-secondary btn-block" id="mpBackBtn2" onclick="document.querySelector('[data-screen=menu]').style.display='block';document.querySelector('[data-screen=join]').style.display='none'">戻る</button>
+            <label>{{ t('あなたの名前') }}</label>
+            <input class="mp-input" id="guestNameInput" placeholder="{{ t('プレイヤー') }}" maxlength="20">
+            <button class="btn btn-primary btn-block" id="mpJoinRoomBtn">{{ t('参加する') }}</button>
+            <button class="btn btn-secondary btn-block" id="mpBackBtn2" onclick="document.querySelector('[data-screen=menu]').style.display='block';document.querySelector('[data-screen=join]').style.display='none'">{{ t('戻る') }}</button>
         </div>
 
         <!-- Guest waiting -->
         <div class="mp-screen panel" data-screen="guest-wait" style="display:none">
-            <h3 style="margin-top:0">接続中…</h3>
-            <p class="mp-hint">ホストのゲーム開始を待っています</p>
+            <h3 style="margin-top:0">{{ t('接続中…') }}</h3>
+            <p class="mp-hint">{{ t('ホストのゲーム開始を待っています') }}</p>
             <div id="mpGuestConfigBox" class="mp-config-box" style="display:none">
-                <div class="mp-config-title">この対局のルール</div>
+                <div class="mp-config-title">{{ t('この対局のルール') }}</div>
                 <div class="mp-config-tags" id="mpGuestConfigTags"></div>
             </div>
-            <div style="font-size:2rem;margin:20px 0">⏳</div>
+            <div class="waiting-mark" aria-label="待機中"></div>
         </div>
 
         <!-- Game -->
@@ -426,7 +430,7 @@
     <div id="mpChatPanel" class="mp-chat-panel" aria-hidden="true">
         <div class="mp-chat-header" id="mpChatHeader">
             <span class="mp-chat-header-left">
-                💬 チャット
+                {{ t('チャット') }}
                 <span id="mpChatBadge" class="mp-chat-badge"></span>
             </span>
             <button type="button" class="mp-chat-toggle" id="mpChatToggle" aria-label="チャットを折りたたむ">−</button>
@@ -434,8 +438,8 @@
         <div class="mp-chat-body">
             <div id="mpChatMessages" class="mp-chat-messages"></div>
             <div class="mp-chat-input-row">
-                <input class="mp-input" id="mpChatInput" placeholder="メッセージを入力…" maxlength="300" autocomplete="off">
-                <button type="button" class="btn btn-primary" id="mpChatSend">送信</button>
+                <input class="mp-input" id="mpChatInput" placeholder="{{ t('メッセージを入力…') }}" maxlength="300" autocomplete="off">
+                <button type="button" class="btn btn-primary" id="mpChatSend">{{ t('送信') }}</button>
             </div>
         </div>
     </div>
@@ -447,6 +451,7 @@
         window.MP_JOIN_CODE = {{ join_code | tojson }};
         window.MP_MIN_YEAR = {{ min_year }};
         window.MP_MAX_YEAR = {{ max_year }};
+        window.UI_TRANSLATIONS = {{ js_i18n | tojson }};
     </script>
     <script src="/static/app.js"></script>
     <script src="/static/multiplayer.js"></script>

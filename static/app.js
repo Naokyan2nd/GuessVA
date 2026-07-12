@@ -4,7 +4,10 @@
     function syncThemeBtn() {
         const btn = document.getElementById('themeBtn');
         if (btn) {
-            btn.textContent = document.body.classList.contains('dark-theme') ? '☀️' : '🌙';
+            const chinese = document.documentElement.lang.startsWith('zh');
+            btn.textContent = document.body.classList.contains('dark-theme')
+                ? (chinese ? '浅色' : 'ライト')
+                : (chinese ? '深色' : 'ダーク');
         }
     }
 

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ 'zh-CN' if lang == 'zh' else 'ja' }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/static/nao_shark.png" type="image/png">
-    <title>東山奈央キャラ当て</title>
+    <title>{{ t('東山奈央キャラ当て') }}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Maru+Gothic:wght@500;700&display=swap" rel="stylesheet">
@@ -47,6 +47,7 @@
             z-index: 2;
         }
     </style>
+    <link rel="stylesheet" href="/static/refined.css">
 </head>
 <body class="app-page">
     <div class="app-bg" aria-hidden="true">
@@ -56,33 +57,38 @@
         <span class="app-bg-shimmer"></span>
     </div>
 
-    <div class="landing-top">
-        <button type="button" class="theme-fab" id="themeBtn" title="テーマ切替">🌙</button>
+    <div class="landing-top utility-actions">
+        <a class="theme-fab utility-link" href="/language/{{ 'ja' if lang == 'zh' else 'zh' }}?next={{ request.path }}">{{ '🇯🇵 ' ~ t('日本語') if lang == 'zh' else '🇨🇳 ' ~ t('中文') }}</a>
+        <button type="button" class="theme-fab" id="themeBtn" title="{{ t('テーマ切替') }}">{{ t('ダーク') }}</button>
     </div>
 
     <main class="landing-wrap">
         <header class="landing-hero">
-            <img src="/static/nao_shark.png" class="landing-mascot" alt="マスコット">
-            <h1 class="landing-title">東山奈央キャラ当て</h1>
-            <p class="landing-sub">東山奈央さんが演じたキャラクターを当てるクイズ。<br>一人で挑戦するか、友達とオンライン対戦しよう。</p>
+            <div class="landing-brand">
+                <img src="/static/nao_shark.png" class="landing-mascot" alt="マスコット">
+                <div>
+                    <h1 class="landing-title">{{ t('東山奈央キャラ当て') }}</h1>
+                    <p class="landing-sub">{{ t('出演キャラクターの情報を手がかりに、正解を当てるクイズ。') }}</p>
+                </div>
+            </div>
         </header>
 
         <div class="mode-grid">
             <a href="/solo" class="mode-card mode-card--solo">
-                <div class="mode-card-icon">🎯</div>
-                <h2 class="mode-card-title">ソロプレイ</h2>
-                <p class="mode-card-desc">ヒントを頼りに正解キャラを推理。回数制限やフィルター設定で自分のペースで遊べます。</p>
-                <span class="mode-card-cta">ひとりで始める</span>
+                <div class="mode-card-icon">1 PLAYER</div>
+                <h2 class="mode-card-title">{{ t('ソロプレイ') }}</h2>
+                <p class="mode-card-desc">{{ t('ヒントを比べながら、自分のペースで正解を探します。') }}</p>
+                <span class="mode-card-cta">{{ t('ひとりで始める') }}</span>
             </a>
             <a href="/multiplayer" class="mode-card mode-card--mp">
-                <div class="mode-card-icon">⚔️</div>
-                <h2 class="mode-card-title">オンライン対戦</h2>
-                <p class="mode-card-desc">同じ正解を当てる対戦モード。先に正解した方が勝ち。ルーム作成・チャット対応。</p>
-                <span class="mode-card-cta">対戦する</span>
+                <div class="mode-card-icon">2 PLAYERS</div>
+                <h2 class="mode-card-title">{{ t('オンライン対戦') }}</h2>
+                <p class="mode-card-desc">{{ t('友達と同じ問題に挑戦し、先に正解した方が勝ちです。') }}</p>
+                <span class="mode-card-cta">{{ t('対戦する') }}</span>
             </a>
         </div>
 
-        <p class="landing-foot">データベース {{ total_chars }} キャラ · デフォルト候補 {{ playable_chars }} キャラ</p>
+        <p class="landing-foot">{{ t('データベース {total} キャラ · デフォルト候補 {playable} キャラ', total=total_chars, playable=playable_chars) }}</p>
     </main>
 
     <script src="/static/app.js"></script>

@@ -7,6 +7,8 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
+from character_i18n import display_value
+
 UNKNOWN_AGE = frozenset({'???', '未知', '?', '', None})
 
 
@@ -44,7 +46,12 @@ def build_indexes(characters: list[dict]) -> tuple[dict, dict]:
     by_id = {c['id']: c for c in characters}
     by_name: dict[str, list[str]] = defaultdict(list)
     for c in characters:
-        by_name[c['名前']].append(c['id'])
+        names = {c['名前']}
+        for localized in c.get('_i18n', {}).values():
+            if localized.get('名前'):
+                names.add(localized['名前'])
+        for name in names:
+            by_name[name].append(c['id'])
     return by_id, dict(by_name)
 
 
@@ -135,7 +142,7 @@ def filter_characters(
 def compare_hints(guess_char: dict, answer_char: dict, similar_rules: dict) -> dict:
     closeness = {}
     for key, answer_value in answer_char.items():
-        if key in ('名前', 'id', 'image', 'has_image', 'has_age'):
+        if key in ('名前', 'id', 'image', 'has_image', 'has_age') or key.startswith('_'):
             continue
         guess_value = guess_char.get(key)
         if guess_value is None or answer_value is None:
@@ -201,20 +208,25 @@ def search_characters(pool: list[dict], query: str, limit: int = 20) -> list[dic
         return []
     results = []
     for char in pool:
-        name = char.get('名前', '')
-        work = char.get('初登場の作品', '')
-        if q in name.lower() or q in work.lower():
+        localized = char.get('_i18n', {})
+        searchable = {
+            char.get('名前', ''),
+            char.get('初登場の作品', ''),
+            *(values.get('名前', '') for values in localized.values()),
+            *(values.get('初登場の作品', '') for values in localized.values()),
+        }
+        if any(q in str(value).lower() for value in searchable):
             results.append(char)
             if len(results) >= limit:
                 break
     return results
 
 
-def character_search_payload(char: dict) -> dict:
+def character_search_payload(char: dict, language: str = 'ja') -> dict:
     return {
         'id': char['id'],
-        'name': char['名前'],
-        'work': char['初登場の作品'],
+        'name': display_value(char, '名前', char['名前'], language),
+        'work': display_value(char, '初登場の作品', char['初登場の作品'], language),
         'image': char.get('image', '/static/char_placeholder.png'),
     }
 

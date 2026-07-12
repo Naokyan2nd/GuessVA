@@ -12,6 +12,7 @@ from pathlib import Path
 
 from flask import Flask, flash, get_flashed_messages, jsonify, redirect, render_template, request, session, url_for
 
+from character_i18n import display_value, localized_character, prepare_character_localizations
 
 
 from game_logic import (
@@ -28,6 +29,7 @@ from game_logic import (
     character_search_payload,
     secret_key,
 )
+from i18n import get_language, javascript_translations, translate
 
 
 
@@ -44,6 +46,26 @@ app = Flask(__name__)
 app.secret_key = secret_key()
 
 
+@app.context_processor
+def inject_i18n():
+    language = get_language()
+    return {
+        'lang': language,
+        't': translate,
+        'js_i18n': javascript_translations(),
+        'cv': lambda char, field, value=None: display_value(
+            char,
+            field,
+            char.get(field) if value is None else value,
+            language,
+        ),
+    }
+
+
+def localized_character_name(char):
+    return display_value(char, '名前', char.get('名前', ''), get_language())
+
+
 
 with open(JSON_PATH, 'r', encoding='utf-8') as f:
 
@@ -54,6 +76,8 @@ with open(JSON_PATH, 'r', encoding='utf-8') as f:
 if ensure_character_metadata(characters, STATIC_DIR):
 
     JSON_PATH.write_text(json.dumps(characters, ensure_ascii=False, indent=2), encoding='utf-8')
+
+prepare_character_localizations(characters, BASE_DIR)
 
 
 
@@ -308,7 +332,7 @@ def api_search():
         pool = get_filtered_characters(request)
     guessed = set(request.args.get('exclude', '').split(',')) - {''}
     results = [
-        character_search_payload(c)
+        character_search_payload(c, get_language())
         for c in search_characters(pool, q)
         if c['id'] not in guessed
     ]
@@ -324,6 +348,18 @@ def mp_preview_pool():
 
 
 
+
+
+@app.route('/language/<language>')
+def set_language(language):
+    if language not in {'ja', 'zh'}:
+        language = 'ja'
+    next_url = request.args.get('next', '/')
+    if not next_url.startswith('/') or next_url.startswith('//'):
+        next_url = '/'
+    response = redirect(next_url)
+    response.set_cookie('language', language, max_age=31536000, samesite='Lax')
+    return response
 
 
 @app.route('/')
@@ -387,6 +423,7 @@ def solo():
     closeness = session.get('closeness', {})
 
     result = error = None
+    result_is_win = False
 
 
 
@@ -400,7 +437,10 @@ def solo():
 
         if request.form.get('give_up') == '1':
 
-            result = end_game(answer, f"❌ お前はまだまだだ...正解は{answer['名前']}...")
+            result = end_game(
+                answer,
+                translate('❌ お前はまだまだだ...正解は{name}...', name=localized_character_name(answer)),
+            )
 
         else:
 
@@ -424,15 +464,18 @@ def solo():
 
             if not guess_name and not guess_id:
 
-                error = '❗ キャラ名を入力してください。'
+                error = translate('❗ キャラ名を入力してください。')
 
             elif guessed_char is None:
 
-                error = '❗ そのキャラクターは見つかりませんでした。もう一度入力してください。'
+                error = translate('❗ そのキャラクターは見つかりませんでした。もう一度入力してください。')
 
             elif guessed_char['id'] in guessed:
 
-                error = f"⚠️  {guessed_char['名前']} はすでに推測されています。別のキャラを試してください。"
+                error = translate(
+                    '⚠️  {name} はすでに推測されています。別のキャラを試してください。',
+                    name=localized_character_name(guessed_char),
+                )
 
             else:
 
@@ -450,7 +493,11 @@ def solo():
 
                 if guessed_char['id'] == answer['id']:
 
-                    result = end_game(answer, f'✅ 正解です！正解は{guessed_char["名前"]}！')
+                    result = end_game(
+                        answer,
+                        translate('✅ 正解です！正解は{name}！', name=localized_character_name(guessed_char)),
+                    )
+                    result_is_win = True
 
                 else:
 
@@ -464,7 +511,13 @@ def solo():
 
                     if attempts >= guess_chance:
 
-                        result = end_game(answer, f"❌ お前はまだまだだ...正解は{answer['名前']}...")
+                        result = end_game(
+                            answer,
+                            translate(
+                                '❌ お前はまだまだだ...正解は{name}...',
+                                name=localized_character_name(answer),
+                            ),
+                        )
 
 
 
@@ -474,13 +527,14 @@ def solo():
 
         if result:
 
-            flash(result, 'result')
+            flash(result, 'result_win' if result_is_win else 'result_lose')
 
         return redirect(url_for('solo'))
 
 
 
     error = result = None
+    result_is_win = False
 
     for category, message in get_flashed_messages(with_categories=True):
 
@@ -488,9 +542,14 @@ def solo():
 
             error = message
 
-        elif category == 'result':
+        elif category in {'result', 'result_lose'}:
 
             result = message
+
+        elif category == 'result_win':
+
+            result = message
+            result_is_win = True
 
     answer_exists = 'answer_id' in session
 
@@ -510,13 +569,14 @@ def solo():
 
         'guess.html',
 
-        characters=filtered_characters,
+        characters=[character_search_payload(c, get_language()) for c in filtered_characters],
 
         chars_by_id=CHAR_BY_ID,
 
         error=error,
 
         result=result,
+        result_is_win=result_is_win,
 
         attempts=attempts,
 
@@ -529,6 +589,7 @@ def solo():
         answer_id=answer['id'],
 
         answer=answer,
+        answer_display=localized_character(answer, get_language()),
 
         guess_chance=guess_chance,
 
@@ -570,13 +631,13 @@ def multiplayer():
 
         'multiplayer.html',
 
-        characters=characters,
+        characters=[localized_character(c, get_language()) for c in characters],
 
-        filtered_characters=filtered_characters,
+        filtered_characters=[localized_character(c, get_language()) for c in filtered_characters],
 
         similar_attributes=相似属性,
 
-        all_characters=characters,
+        all_characters=[localized_character(c, get_language()) for c in characters],
 
         min_year=MIN_YEAR,
 
@@ -604,10 +665,10 @@ def mp_create_room():
     _cleanup_rooms()
     data = request.get_json(silent=True) or {}
     config = normalize_room_config(data.get('config'), MIN_YEAR, MAX_YEAR)
-    host_name = (data.get('host_name') or 'ホスト').strip()[:20] or 'ホスト'
+    host_name = (data.get('host_name') or translate('ホスト')).strip()[:20] or translate('ホスト')
     pool = filter_from_config(characters, config, abs_min_year=MIN_YEAR, abs_max_year=MAX_YEAR)
     if not pool:
-        return jsonify({'error': '条件に合うキャラがいません。設定を変更してください。'}), 400
+        return jsonify({'error': translate('条件に合うキャラがいません。設定を変更してください。')}), 400
     config_info = describe_room_config(config, len(pool))
     for _ in range(20):
         code = f"{random.randint(100000, 999999)}"
@@ -625,7 +686,7 @@ def mp_create_room():
                 'config': config_info,
                 'host_name': host_name,
             })
-    return jsonify({'error': '部屋の作成に失敗しました'}), 500
+    return jsonify({'error': translate('部屋の作成に失敗しました')}), 500
 
 
 
@@ -639,17 +700,17 @@ def mp_join_room(code):
 
     if not room:
 
-        return jsonify({'error': '部屋が見つかりません'}), 404
+        return jsonify({'error': translate('部屋が見つかりません')}), 404
 
     if len(room['guests']) >= MAX_GUESTS:
 
-        return jsonify({'error': '部屋が満員です'}), 403
+        return jsonify({'error': translate('部屋が満員です')}), 403
 
 
 
     data = request.get_json(silent=True) or {}
 
-    player_name = (data.get('player_name') or 'プレイヤー').strip()[:20] or 'プレイヤー'
+    player_name = (data.get('player_name') or translate('プレイヤー')).strip()[:20] or translate('プレイヤー')
 
     guest_id = secrets.token_hex(8)
 
@@ -679,7 +740,7 @@ def mp_join_room(code):
         'guest_id': guest_id,
         'room_code': code,
         'config': room.get('config_info') or describe_room_config(room.get('config', {})),
-        'host_name': room.get('host_name', 'ホスト'),
+        'host_name': room.get('host_name', translate('ホスト')),
     })
 
 
@@ -694,7 +755,7 @@ def mp_post_signal(code):
 
     if not room:
 
-        return jsonify({'error': '部屋が見つかりません'}), 404
+        return jsonify({'error': translate('部屋が見つかりません')}), 404
 
 
 
@@ -748,7 +809,7 @@ def mp_poll_signals(code):
 
     if not room:
 
-        return jsonify({'error': '部屋が見つかりません'}), 404
+        return jsonify({'error': translate('部屋が見つかりません')}), 404
 
 
 

@@ -3,8 +3,16 @@
 
     const STUN = { iceServers: [{ urls: 'stun:stun.l.google.com:19302' }] };
     const POLL_MS = 700;
+    const UI_TRANSLATIONS = window.UI_TRANSLATIONS || {};
 
     const $ = (id) => document.getElementById(id);
+    const tr = (text, values = {}) => {
+        let translated = UI_TRANSLATIONS[text] || text;
+        for (const [key, value] of Object.entries(values)) {
+            translated = translated.replaceAll(`{${key}}`, String(value));
+        }
+        return translated;
+    };
 
     let role = null;
     let roomCode = null;
@@ -41,7 +49,9 @@
     function resolveGuess(guessId, guessName) {
         if (guessId && charById[guessId]) return charById[guessId];
         if (!guessName) return null;
-        const matches = Object.values(charById).filter((c) => c.名前 === guessName);
+        const matches = Object.values(charById).filter(
+            (c) => c.名前 === guessName || c._display?.名前 === guessName,
+        );
         return matches.length === 1 ? matches[0] : null;
     }
 
@@ -108,8 +118,16 @@
     }
 
     function configTagsHtml(config) {
-        if (!config?.labels?.length) return '';
-        return config.labels.map((l) => `<span class="mp-config-tag">${l}</span>`).join('');
+        if (!config) return '';
+        const labels = [
+            tr('初声出演：{min}年 ～ {max}年', { min: config.minYear, max: config.maxYear }),
+            tr(config.onlyMain ? 'メインキャラのみ' : 'メイン＋サブキャラ'),
+            tr(config.qualityPool ? '充実データのみ' : '全キャラ'),
+        ];
+        if (config.poolCount != null) {
+            labels.push(tr('候補：{count} キャラ', { count: config.poolCount }));
+        }
+        return labels.map((label) => `<span class="mp-config-tag">${escapeHtml(label)}</span>`).join('');
     }
 
     function applyRoomConfig(config) {
@@ -137,9 +155,9 @@
                 body: JSON.stringify({ config: collectHostConfig() }),
             });
             if (!info.poolCount) {
-                el.innerHTML = '<span style="color:var(--error,#c00)">条件に合うキャラがいません</span>';
+                el.innerHTML = `<span style="color:var(--error,#c00)">${tr('条件に合うキャラがいません')}</span>`;
             } else {
-                el.innerHTML = `候補：<strong>${info.poolCount}</strong> キャラ`;
+                el.innerHTML = tr('候補：{count} キャラ', { count: `<strong>${info.poolCount}</strong>` });
             }
         } catch (e) {
             el.textContent = e.message;
@@ -177,9 +195,9 @@
 
     function getMyChatName() {
         if (role === 'host') {
-            return ($('hostName')?.value || game?.players?.host?.name || 'ホスト').trim().slice(0, 20) || 'ホスト';
+            return ($('hostName')?.value || game?.players?.host?.name || tr('ホスト')).trim().slice(0, 20) || tr('ホスト');
         }
-        return (playerName || $('guestNameInput')?.value || 'プレイヤー').trim().slice(0, 20) || 'プレイヤー';
+        return (playerName || $('guestNameInput')?.value || tr('プレイヤー')).trim().slice(0, 20) || tr('プレイヤー');
     }
 
     function getMyChatId() {
@@ -252,7 +270,7 @@
         const text = String(msg.text || '').trim().slice(0, 300);
         if (!text) return;
         appendChatMessage({
-            from: msg.from || 'プレイヤー',
+            from: msg.from || tr('プレイヤー'),
             fromId: msg.fromId,
             text,
             mine: forceMine || msg.fromId === getMyChatId(),
@@ -348,7 +366,7 @@
             ...opts,
         });
         const data = await res.json().catch(() => ({}));
-        if (!res.ok) throw new Error(data.error || 'リクエスト失敗');
+        if (!res.ok) throw new Error(data.error || tr('リクエスト失敗'));
         return data;
     }
 
@@ -412,7 +430,7 @@
         }
     }
 
-    async function hostConnectGuest(gid, playerName = 'プレイヤー') {
+    async function hostConnectGuest(gid, playerName = tr('プレイヤー')) {
         if (peers[gid]?.pc) return;
 
         const pc = new RTCPeerConnection(STUN);
@@ -427,7 +445,7 @@
 
         pc.onconnectionstatechange = () => {
             if (pc.connectionState === 'failed') {
-                setStatus(`接続失敗: ${playerName}`, 'error');
+                setStatus(tr('接続失敗: {name}', { name: playerName }), 'error');
             }
         };
 
@@ -502,8 +520,8 @@
             refreshChatVisibility();
             if (role === 'host') {
                 sendTo(pid, { type: 'welcome', playerId: pid });
-                if (!chatMessages.some((m) => m.system && m.text.includes('接続'))) {
-                    addSystemChat('接続しました。チャットが使えます。');
+                if (!chatMessages.some((m) => m.system && m.text === tr('接続しました。チャットが使えます。'))) {
+                    addSystemChat(tr('接続しました。チャットが使えます。'));
                 }
                 if (game?.started) {
                     const pool = Object.values(charById);
@@ -519,8 +537,8 @@
                     syncPlayer(pid);
                 }
             } else if (role === 'guest') {
-                setStatus('接続完了！ホストの開始を待っています…', 'ok');
-                addSystemChat('接続しました。チャットが使えます。');
+                setStatus(tr('接続完了！ホストの開始を待っています…'), 'ok');
+                addSystemChat(tr('接続しました。チャットが使えます。'));
             }
         };
 
@@ -539,10 +557,10 @@
     // --- Game Host Logic ---
 
     function initHostGame() {
-        const hostName = ($('hostName')?.value || 'ホスト').trim().slice(0, 20) || 'ホスト';
+        const hostName = ($('hostName')?.value || tr('ホスト')).trim().slice(0, 20) || tr('ホスト');
         const pool = filterFromConfig(window.MP_ALL_CHARACTERS || [], roomConfig);
         if (!pool.length) {
-            setStatus('条件に合うキャラがいません。設定を変更してください。', 'error');
+            setStatus(tr('条件に合うキャラがいません。設定を変更してください。'), 'error');
             return;
         }
         const answerChar = pool[Math.floor(Math.random() * pool.length)];
@@ -570,7 +588,7 @@
             if (!peer.pc) continue;
             game.players[gid] = {
                 id: gid,
-                name: peer.playerName || 'プレイヤー',
+                name: peer.playerName || tr('プレイヤー'),
                 attempts: 0,
                 guessed: [],
                 closeness: {},
@@ -580,7 +598,7 @@
             };
         }
 
-        names = pool.map((c) => c.名前);
+        names = pool.map((c) => c._display?.名前 || c.名前);
         charById = Object.fromEntries(pool.map((c) => [c.id, c]));
         allCharacters = window.MP_ALL_CHARACTERS || [];
 
@@ -591,7 +609,7 @@
         syncAll();
         showScreen('game');
         renderGame();
-        setStatus('ゲーム進行中 — 先に正解した方が勝ち！', 'ok');
+        setStatus(tr('ゲーム進行中 — 先に正解した方が勝ち！'), 'ok');
         $('mpStartBtn').disabled = true;
     }
 
@@ -599,7 +617,7 @@
         if (msg.type === 'chat') {
             const payload = {
                 type: 'chat',
-                from: msg.from || peers[pid]?.playerName || 'プレイヤー',
+                from: msg.from || peers[pid]?.playerName || tr('プレイヤー'),
                 fromId: msg.fromId || pid,
                 text: msg.text,
                 ts: msg.ts || Date.now(),
@@ -624,17 +642,19 @@
 
         const guessedChar = resolveGuess(guessId, guessName);
         if (!guessName && !guessId) {
-            player.error = 'キャラ名を入力してください。';
+            player.error = tr('キャラ名を入力してください。');
             syncPlayer(pid);
             return;
         }
         if (!guessedChar) {
-            player.error = 'そのキャラクターは見つかりませんでした。';
+            player.error = tr('そのキャラクターは見つかりませんでした。');
             syncPlayer(pid);
             return;
         }
         if (player.guessed.includes(guessedChar.id)) {
-            player.error = `${guessedChar.名前} はすでに推測されています。`;
+            player.error = tr('{name} はすでに推測されています。', {
+                name: guessedChar._display?.名前 || guessedChar.名前,
+            });
             syncPlayer(pid);
             return;
         }
@@ -644,7 +664,9 @@
 
         if (guessedChar.id === game.answer.id) {
             player.status = 'won';
-            player.result = `✅ 正解！ ${guessedChar.名前}`;
+            player.result = tr('正解：{name}', {
+                name: guessedChar._display?.名前 || guessedChar.名前,
+            });
             if (!game.winner) {
                 game.winner = { id: pid, name: player.name };
                 game.ended = true;
@@ -667,7 +689,9 @@
         for (const p of Object.values(game.players)) {
             if (p.status === 'playing') {
                 p.status = 'lost';
-                p.result = `終了 — 正解は ${game.answer.名前}`;
+                p.result = tr('終了 — 正解は {name}', {
+                    name: game.answer._display?.名前 || game.answer.名前,
+                });
             }
         }
         syncAll();
@@ -725,8 +749,12 @@
             receiveChatMessage(msg, false);
         } else if (msg.type === 'game_start') {
             names = msg.names;
-            charById = Object.fromEntries(msg.characters.map((c) => [c.id, c]));
             allCharacters = window.MP_ALL_CHARACTERS || msg.characters;
+            const localById = Object.fromEntries(allCharacters.map((c) => [c.id, c]));
+            charById = Object.fromEntries(msg.characters.map((c) => [
+                c.id,
+                { ...c, _display: localById[c.id]?._display || c._display },
+            ]));
             if (msg.config) applyRoomConfig(msg.config);
             guestState = {
                 attempts: 0, guessed: [], closeness: {}, status: 'playing',
@@ -734,7 +762,7 @@
             };
             game = { started: true, ended: false, players: msg.players, winner: null };
             showScreen('game');
-            setStatus('対戦開始！先に正解した方が勝ち！', 'ok');
+            setStatus(tr('対戦開始！先に正解した方が勝ち！'), 'ok');
             renderGame();
         } else if (msg.type === 'state_update') {
             guestState = msg.you;
@@ -745,14 +773,14 @@
         } else if (msg.type === 'game_end') {
             game = game || { started: true };
             game.winner = msg.winner;
-            game.answer = msg.answer;
+            game.answer = charById[msg.answer?.id] || msg.answer;
             game.ended = true;
             if (guestState) {
                 if (guestState.status !== 'won') guestState.status = 'lost';
                 if (!guestState.result) {
                     guestState.result = game.winner?.id === myPlayerId
-                        ? `✅ 正解！`
-                        : `❌ ${game.winner?.name || '相手'}が先に正解…`;
+                        ? tr('正解です')
+                        : tr('{name}が先に正解しました', { name: game.winner?.name || tr('相手') });
                 }
             }
             showScreen('game');
@@ -779,33 +807,35 @@
     function renderAttrTags(char, closenessForChar, answerChar) {
         return ATTRS.map(([label, isList]) => {
             const value = char[label];
+            const displayValue = char._display?.[label] ?? value;
             let tags = '';
             if (isList) {
-                tags = value.map((item) => {
+                tags = value.map((item, index) => {
                     const av = answerChar[label];
-                    if (char.id === answerChar.id) return tagHtml(item, 'success');
-                    if (av.includes(item)) return tagHtml(item, 'success');
-                    if (closenessForChar?.[label]?.includes(item)) return tagHtml(item, 'warning');
-                    return tagHtml(item, 'info');
+                    const text = displayValue[index] ?? item;
+                    if (char.id === answerChar.id) return tagHtml(text, 'success');
+                    if (av.includes(item)) return tagHtml(text, 'success');
+                    if (closenessForChar?.[label]?.includes(item)) return tagHtml(text, 'warning');
+                    return tagHtml(text, 'info');
                 }).join('');
             } else {
                 const av = answerChar[label];
                 if (char.id === answerChar.id || value === av) {
-                    tags = tagHtml(value, 'success');
+                    tags = tagHtml(displayValue, 'success');
                 } else if (closenessForChar?.[label] === 'close') {
-                    tags = tagHtml(value + (closenessForChar[label + '_arrow'] || ''), 'warning');
+                    tags = tagHtml(displayValue + (closenessForChar[label + '_arrow'] || ''), 'warning');
                 } else if (closenessForChar?.[label] === 'far') {
-                    tags = tagHtml(value + (closenessForChar[label + '_arrow'] || ''), 'info');
+                    tags = tagHtml(displayValue + (closenessForChar[label + '_arrow'] || ''), 'info');
                 } else {
-                    tags = tagHtml(value, 'info');
+                    tags = tagHtml(displayValue, 'info');
                 }
             }
-            return `<div class="attr-block"><div class="info-label">${label}</div><div class="tag-group">${tags}</div></div>`;
+            return `<div class="attr-block"><div class="info-label">${tr(label)}</div><div class="tag-group">${tags}</div></div>`;
         }).join('');
     }
 
     function renderCard(char, closenessMap, answerChar) {
-        const shortName = char.名前.split('（')[0];
+        const shortName = char._display?.名前 || char.名前.split('（')[0];
         return `<div class="horizontal-card">
             <div class="card-portrait">
                 <div class="card-name">${shortName}</div>
@@ -840,13 +870,13 @@
             : (game?.players || []);
 
         const playersHtml = `<div class="mp-scoreboard">
-            <div class="mp-scoreboard-title">対戦状況 <span class="mp-scoreboard-hint">（推測回数はお互いに見えます）</span></div>
+            <div class="mp-scoreboard-title">${tr('対戦状況')} <span class="mp-scoreboard-hint">${tr('（推測回数はお互いに見えます）')}</span></div>
             <div class="mp-players">${plist.map((p) => {
                 const isMe = p.id === myId;
-                const badge = p.status === 'won' ? '🏆' : p.status === 'lost' ? '💤' : '🎮';
-                const label = isMe ? 'あなた' : '相手';
+                const badge = tr(p.status === 'won' ? '勝利' : p.status === 'lost' ? '終了' : '対戦中');
+                const label = tr(isMe ? 'あなた' : '相手');
                 const cls = isMe ? 'mp-player-chip mp-player-self' : 'mp-player-chip mp-player-rival';
-                return `<span class="${cls}">${badge} ${label} · ${p.name}：<strong>${p.attempts}</strong> 回</span>`;
+                return `<span class="${cls}">${badge} · ${label} · ${escapeHtml(p.name)}：<strong>${p.attempts}</strong> ${tr('回')}</span>`;
             }).join('')}</div>
         </div>`;
 
@@ -854,10 +884,10 @@
         const ans = role === 'host' ? game.answer : (game?.answer || null);
         const showAnswer = state.status !== 'playing' && ans;
         if (showAnswer) {
-            cardsHtml += `<h3 class="section-title">正解</h3><div class="card-list-vertical">${renderCard(ans, {}, ans)}</div>`;
+            cardsHtml += `<h3 class="section-title">${tr('正解')}</h3><div class="card-list-vertical">${renderCard(ans, {}, ans)}</div>`;
         }
         if (state.guessed.length) {
-            cardsHtml += `<h3 class="section-title">あなたの推測</h3><div class="card-list-vertical">`;
+            cardsHtml += `<h3 class="section-title">${tr('あなたの推測')}</h3><div class="card-list-vertical">`;
             for (const gid of state.guessed) {
                 const ch = charById[gid];
                 if (!ch) continue;
@@ -869,7 +899,7 @@
 
         const configHtml = roomConfig?.labels?.length
             ? `<div class="mp-config-box" style="margin-top:0;margin-bottom:12px">
-                <div class="mp-config-title">本局のルール</div>
+                <div class="mp-config-title">${tr('本局のルール')}</div>
                 <div class="mp-config-tags">${configTagsHtml(roomConfig)}</div>
                </div>`
             : '';
@@ -877,17 +907,17 @@
         area.innerHTML = `
             ${configHtml}
             ${playersHtml}
-            <div class="mp-my-attempts">あなたの推測：<strong>${state.attempts}</strong> 回</div>
+            <div class="mp-my-attempts">${tr('あなたの推測：')}<strong>${state.attempts}</strong> ${tr('回')}</div>
             ${state.error ? `<div class="message message-error">${state.error}</div>` : ''}
             ${state.result ? `<div class="message message-result">${state.result}</div>` : ''}
-            ${game?.winner ? `<div class="message message-result">🏆 勝者：${game.winner.name}</div>` : ''}
+            ${game?.winner ? `<div class="message message-result">${tr('勝者：')}${escapeHtml(game.winner.name)}</div>` : ''}
             <section class="game-panel" style="margin-top:16px">
                 <div class="search-wrap">
-                    <input id="mpGuessInput" placeholder="キャラ名を入力…" ${canPlay ? '' : 'disabled'}>
+                    <input id="mpGuessInput" placeholder="${tr('キャラ名を入力…')}" ${canPlay ? '' : 'disabled'}>
                     <ul id="mpSuggestions" class="suggestions"></ul>
                 </div>
                 <div class="button-row">
-                    <button class="btn btn-primary" id="mpSubmitBtn" ${canPlay ? '' : 'disabled'}>送信</button>
+                    <button class="btn btn-primary" id="mpSubmitBtn" ${canPlay ? '' : 'disabled'}>${tr('送信')}</button>
                 </div>
             </section>
             ${cardsHtml}
@@ -959,7 +989,7 @@
     async function hostCreateRoom() {
         try {
             const config = collectHostConfig();
-            const hostName = ($('hostName')?.value || 'ホスト').trim().slice(0, 20) || 'ホスト';
+            const hostName = ($('hostName')?.value || tr('ホスト')).trim().slice(0, 20) || tr('ホスト');
             const data = await api('/api/mp/room', {
                 method: 'POST',
                 body: JSON.stringify({ config, host_name: hostName }),
@@ -973,7 +1003,7 @@
             const linkEl = $('mpJoinLink');
             if (linkEl) linkEl.textContent = `${location.origin}/multiplayer?join=${roomCode}`;
             showScreen('host');
-            setStatus('参加者を待っています…', 'wait');
+            setStatus(tr('参加者を待っています…'), 'wait');
 
             startPolling(async () => {
                 try {
@@ -1011,11 +1041,11 @@
         const el = $('mpGuestList');
         if (!el) return;
         if (!guests.length) {
-            el.innerHTML = '<p class="mp-hint">まだ参加者がいません…</p>';
+            el.innerHTML = `<p class="mp-hint">${tr('まだ参加者がいません…')}</p>`;
             return;
         }
         el.innerHTML = guests.map((g) =>
-            `<div class="mp-guest-item">🟢 ${g.player_name}</div>`
+            `<div class="mp-guest-item">${escapeHtml(g.player_name)}</div>`
         ).join('');
         $('mpStartBtn').disabled = false;
     }
@@ -1024,13 +1054,13 @@
         const code = ($('joinCodeInput')?.value || '').trim();
         const name = ($('guestNameInput')?.value || '').trim();
         if (!/^\d{6}$/.test(code)) {
-            setStatus('6桁の部屋番号を入力してください', 'error');
+            setStatus(tr('6桁の部屋番号を入力してください'), 'error');
             return;
         }
         try {
             const data = await api(`/api/mp/room/${code}/join`, {
                 method: 'POST',
-                body: JSON.stringify({ player_name: name || 'プレイヤー' }),
+                body: JSON.stringify({ player_name: name || tr('プレイヤー') }),
             });
             role = 'guest';
             roomCode = code;
@@ -1038,7 +1068,12 @@
             playerName = name;
             applyRoomConfig(data.config);
             showScreen('guest-wait');
-            setStatus(data.host_name ? `${data.host_name} の部屋に接続中…` : 'ホストと接続中…', 'wait');
+            setStatus(
+                data.host_name
+                    ? tr('{name} の部屋に接続中…', { name: data.host_name })
+                    : tr('ホストと接続中…'),
+                'wait',
+            );
 
             startPolling(async () => {
                 try {

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ 'zh-CN' if lang == 'zh' else 'ja' }}">
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/static/nao_shark.png" type="image/png">
     <meta charset="UTF-8">
-    <title>東山奈央さんが演じたキャラクターを当ててみよう！</title>
+    <title>{{ t('東山奈央キャラ当て') }}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Maru+Gothic:wght@500;700&display=swap" rel="stylesheet">
@@ -197,7 +197,7 @@
         }
 
         .search-wrap::before {
-            content: '🔍';
+            content: '';
             position: absolute;
             left: 14px;
             top: 50%;
@@ -784,6 +784,7 @@
             }
         }
     </style>
+    <link rel="stylesheet" href="/static/refined.css">
 </head>
 
 <body class="app-page">
@@ -795,79 +796,80 @@
     </div>
 
     <nav class="toolbar">
-        <a class="icon-btn" href="/" title="ホーム" style="text-decoration:none;line-height:44px;">🏠</a>
-        <button class="icon-btn info-btn" onclick="openInfo()" title="ルール">📄</button>
-        <button class="icon-btn theme-btn" id="themeBtn" onclick="toggleTheme()" title="テーマ切替">🌙</button>
-        <button class="icon-btn settings-btn" onclick="openSettings()" title="設定">⚙️</button>
+        <a class="icon-btn" href="/" title="{{ t('ホーム') }}" style="text-decoration:none;">{{ t('ホーム') }}</a>
+        <button class="icon-btn info-btn" onclick="openInfo()" title="{{ t('ルール') }}">{{ t('ルール') }}</button>
+        <button class="icon-btn theme-btn" id="themeBtn" onclick="toggleTheme()" title="{{ t('テーマ切替') }}">{{ t('ダーク') }}</button>
+        <button class="icon-btn settings-btn" onclick="openSettings()" title="{{ t('設定') }}">{{ t('設定') }}</button>
+        <a class="icon-btn" href="/language/{{ 'ja' if lang == 'zh' else 'zh' }}?next={{ request.path }}" style="text-decoration:none;">{{ '🇯🇵 ' ~ t('日本語') if lang == 'zh' else '🇨🇳 ' ~ t('中文') }}</a>
     </nav>
 
     <div id="settingsModal" class="settings-modal">
         <div class="settings-content">
-            <h3 class="modal-title">セッティング</h3>
+            <h3 class="modal-title">{{ t('セッティング') }}</h3>
 
-            <div class="modal-section-title">初声出演の年</div>
+            <div class="modal-section-title">{{ t('初声出演の年') }}</div>
             <div class="modal-field">
-                <label>初声出演の年の範囲</label>
+                <label>{{ t('初声出演の年の範囲') }}</label>
                 <div id="yearSlider" style="margin: 16px 8px;"></div>
                 <div class="year-display" id="yearRangeDisplay"></div>
             </div>
 
-            <div class="modal-section-title">最大推測回数</div>
+            <div class="modal-section-title">{{ t('最大推測回数') }}</div>
             <div class="modal-field">
-                <label>最大推測回数：<strong id="guessChanceDisplay"></strong> 回</label>
+                <label>{{ t('最大推測回数：') }}<strong id="guessChanceDisplay"></strong> {{ t('回') }}</label>
                 <div id="guessChanceSlider" style="margin: 16px 8px;"></div>
             </div>
 
-            <div class="modal-section-title">その他</div>
+            <div class="modal-section-title">{{ t('その他') }}</div>
             <div class="modal-field">
                 <label class="modal-checkbox">
                     <input type="checkbox" id="onlyMainCharacter">
-                    メインキャラオンリー
+                    {{ t('メインキャラオンリー') }}
                 </label>
             </div>
             <div class="modal-field">
                 <label class="modal-checkbox">
                     <input type="checkbox" id="qualityPoolCharacter" checked>
-                    充実データのみ（立绘あり・年龄已知）
+                    {{ t('詳細データあり（立ち絵・年齢情報あり）') }}
                 </label>
-                <p class="modal-hint">現在の候補：<strong id="poolCountDisplay">{{ pool_stats.total }}</strong> キャラ</p>
+                <p class="modal-hint">{{ t('現在の候補：') }}<strong id="poolCountDisplay">{{ pool_stats.total }}</strong> {{ t('キャラ') }}</p>
             </div>
-            <button class="modal-confirm" onclick="saveSettingsAndRestart()">確認してリスタート</button>
+            <button class="modal-confirm" onclick="saveSettingsAndRestart()">{{ t('確認してリスタート') }}</button>
         </div>
     </div>
 
     <div id="infoModal" class="settings-modal" style="display: none;">
         <div class="settings-content">
-            <h2 class="modal-title">ゲームルール</h2>
+            <h2 class="modal-title">{{ t('ゲームルール') }}</h2>
             <div class="intro-content">
-                <p><strong>ゲームの目的：</strong>東山奈央さんが演じたキャラクターの中からランダムに1人が選ばれます。キャラクター名を入力して正解を当てましょう。各回の推測結果を手がかりに、少しずつ正解に近づけます。</p>
-                <p><strong>ヒントの色について：</strong></p>
+                <p><strong>{{ t('ゲームの目的：') }}</strong>{{ t('東山奈央さんが演じたキャラクターの中からランダムに1人が選ばれます。キャラクター名を入力して正解を当てましょう。各回の推測結果を手がかりに、少しずつ正解に近づけます。') }}</p>
+                <p><strong>{{ t('ヒントの色について：') }}</strong></p>
                 <div class="hint-section">
                     <div class="hint-item">
-                        <span class="info-tag el-tag--success">緑色</span>
-                        <span>完全に一致</span>
+                        <span class="info-tag el-tag--success">{{ t('緑色') }}</span>
+                        <span>{{ t('完全に一致') }}</span>
                     </div>
                     <div class="hint-item">
-                        <span class="info-tag el-tag--warning">黄色</span>
-                        <span>近いが一致していない</span>
+                        <span class="info-tag el-tag--warning">{{ t('黄色') }}</span>
+                        <span>{{ t('近いが一致していない') }}</span>
                     </div>
                     <div class="hint-item">
-                        <span class="info-tag el-tag--info">灰色</span>
-                        <span>一致しない</span>
+                        <span class="info-tag el-tag--info">{{ t('灰色') }}</span>
+                        <span>{{ t('一致しない') }}</span>
                     </div>
                 </div>
-                <p><strong>黄色ハイライトの条件：</strong></p>
+                <p><strong>{{ t('黄色ハイライトの条件：') }}</strong></p>
                 <ul class="no-dot-list">
-                    <li>初登場年齢・初声出演の年：正解との差が5年以内</li>
-                    <li>肩書：類似の関係（例：姉–妹、アイドル–歌手）</li>
+                    <li>{{ t('初登場年齢・初声出演の年：正解との差が5年以内') }}</li>
+                    <li>{{ t('肩書：類似の関係（例：姉–妹、アイドル–歌手）') }}</li>
                 </ul>
-                <p><strong>矢印の意味：</strong></p>
+                <p><strong>{{ t('矢印の意味：') }}</strong></p>
                 <ul class="no-dot-list">
-                    <li><strong>↑</strong> 入力した値が正解より小さい</li>
-                    <li><strong>↓</strong> 入力した値が正解より大きい</li>
+                    <li><strong>↑</strong> {{ t('入力した値が正解より小さい') }}</li>
+                    <li><strong>↓</strong> {{ t('入力した値が正解より大きい') }}</li>
                 </ul>
             </div>
-            <button class="modal-confirm" onclick="closeInfo()" style="margin-top:16px">閉じる</button>
+            <button class="modal-confirm" onclick="closeInfo()" style="margin-top:16px">{{ t('閉じる') }}</button>
         </div>
     </div>
 
@@ -876,23 +878,23 @@
             <img src="/static/nao_shark.png" class="hero-mascot" alt="マスコット"><br>
             <h1 class="hero-title">
                 <img src="/static/nao_logo.png" class="hero-logo" alt="ロゴ">
-                東山奈央さんが演じたキャラクターを当ててみよう！
+                {{ t('東山奈央キャラ当て') }}
             </h1>
-            <p class="hero-sub">ヒントを頼りに、正解のキャラクターを見つけよう{% if pool_stats.quality %}（候補 {{ pool_stats.total }} キャラ）{% endif %}</p>
+            <p class="hero-sub">{{ t('キャラクター名を入力して属性を比較') }}{% if pool_stats.quality %} · {{ t('候補 {count} キャラ', count=pool_stats.total) }}{% endif %}</p>
         </header>
 
         <section class="game-panel">
             <form method="POST" autocomplete="off">
                 <input type="hidden" id="guess_id" name="guess_id" value="">
                 <div class="search-wrap">
-                    <input id="guess_name" name="guess_name" placeholder="キャラ名を入力…" required {% if not answer_exists %}disabled{% endif %}>
+                    <input id="guess_name" name="guess_name" placeholder="{{ t('キャラ名を入力…') }}" required {% if not answer_exists %}disabled{% endif %}>
                     <ul id="suggestions" class="suggestions"></ul>
                 </div>
                 <div class="button-row">
-                    <button type="submit" class="btn btn-primary" id="submitBtn" {% if not answer_exists %}disabled{% endif %}>送信</button>
-                    <button type="button" class="btn btn-secondary" onclick="location.href='/restart'">リスタート</button>
-                    <button type="button" id="randomBtn" class="btn btn-accent" {% if not answer_exists %}disabled{% endif %}>ランダム</button>
-                    <button type="submit" name="give_up" value="1" id="giveUpBtn" class="btn btn-ghost" formnovalidate>ギブアップ</button>
+                    <button type="submit" class="btn btn-primary" id="submitBtn" {% if not answer_exists %}disabled{% endif %}>{{ t('送信') }}</button>
+                    <button type="button" class="btn btn-secondary" onclick="location.href='/restart'">{{ t('リスタート') }}</button>
+                    <button type="button" id="randomBtn" class="btn btn-accent" {% if not answer_exists %}disabled{% endif %}>{{ t('ランダム') }}</button>
+                    <button type="submit" name="give_up" value="1" id="giveUpBtn" class="btn btn-ghost" formnovalidate>{{ t('ギブアップ') }}</button>
                 </div>
             </form>
         </section>
@@ -907,7 +909,7 @@
 
         <div class="progress-section">
             <div class="progress-label">
-                <span>推測回数</span>
+                <span>{{ t('推測回数') }}</span>
                 <span>{{ attempts }} / {{ guess_chance }}</span>
             </div>
             <div class="progress-track">
@@ -916,13 +918,13 @@
         </div>
 
         {% if result %}
-        <h3 class="section-title">正解</h3>
+        <h3 class="section-title">{{ t('正解') }}</h3>
         <div class="card-list-vertical">
             <div class="horizontal-card">
                 <div class="card-portrait">
-                    <div class="card-name">{{ answer.名前.split('（')[0] }}</div>
+                    <div class="card-name">{{ cv(answer, '名前') }}</div>
                     <div class="card-img-box">
-                        <img src="{{ answer.image }}" class="card-img" alt="{{ answer.名前 }}" onerror="this.onerror=null;this.src='/static/char_placeholder.png';">
+                        <img src="{{ answer.image }}" class="card-img" alt="{{ cv(answer, '名前') }}" onerror="this.onerror=null;this.src='/static/char_placeholder.png';">
                     </div>
                 </div>
                 <div class="card-attrs">
@@ -939,14 +941,14 @@
                         ("出演メディア", answer.出演メディア, True)
                     ] %}
                     <div class="attr-block">
-                        <div class="info-label">{{ label }}</div>
+                        <div class="info-label">{{ t(label) }}</div>
                         <div class="tag-group">
                             {% if is_list %}
                                 {% for item in value %}
-                                    <span class="info-tag el-tag--success">{{ item }}</span>
+                                    <span class="info-tag el-tag--success">{{ cv(answer, label, item) }}</span>
                                 {% endfor %}
                             {% else %}
-                                <span class="info-tag el-tag--success">{{ value }}</span>
+                                <span class="info-tag el-tag--success">{{ cv(answer, label, value) }}</span>
                             {% endif %}
                         </div>
                     </div>
@@ -957,16 +959,16 @@
         {% endif %}
 
         {% if guessed %}
-        <h3 class="section-title">推測したキャラ</h3>
+        <h3 class="section-title">{{ t('推測したキャラ') }}</h3>
         <div class="card-list-vertical">
             {% for gid in guessed %}
             {% set char = chars_by_id[gid] %}
             {% if char %}
             <div class="horizontal-card">
                 <div class="card-portrait">
-                    <div class="card-name">{{ char.名前.split('（')[0] }}</div>
+                    <div class="card-name">{{ cv(char, '名前') }}</div>
                     <div class="card-img-box">
-                        <img src="{{ char.image }}" class="card-img" alt="{{ char.名前 }}" onerror="this.onerror=null;this.src='/static/char_placeholder.png';">
+                        <img src="{{ char.image }}" class="card-img" alt="{{ cv(char, '名前') }}" onerror="this.onerror=null;this.src='/static/char_placeholder.png';">
                     </div>
                 </div>
                 <div class="card-attrs">
@@ -983,40 +985,40 @@
                         ("出演メディア", char.出演メディア, True)
                     ] %}
                     <div class="attr-block">
-                        <div class="info-label">{{ label }}</div>
+                        <div class="info-label">{{ t(label) }}</div>
                         <div class="tag-group">
                             {% if is_list %}
                                 {% for item in value %}
                                     {% if char.id == answer.id %}
-                                        <span class="info-tag el-tag--success">{{ item }}</span>
+                                        <span class="info-tag el-tag--success">{{ cv(char, label, item) }}</span>
                                     {% else %}
                                         {% set guess_value = item %}
                                         {% set answer_value = answer[label] %}
                                         {% if guess_value in answer_value %}
-                                            <span class="info-tag el-tag--success">{{ item }}</span>
+                                            <span class="info-tag el-tag--success">{{ cv(char, label, item) }}</span>
                                         {% elif gid in closeness and label in closeness[gid] and guess_value in closeness[gid][label] %}
-                                            <span class="info-tag el-tag--warning">{{ item }}</span>
+                                            <span class="info-tag el-tag--warning">{{ cv(char, label, item) }}</span>
                                         {% else %}
-                                            <span class="info-tag el-tag--info">{{ item }}</span>
+                                            <span class="info-tag el-tag--info">{{ cv(char, label, item) }}</span>
                                         {% endif %}
                                     {% endif %}
                                 {% endfor %}
                             {% else %}
                                 {% if char.id == answer.id %}
-                                    <span class="info-tag el-tag--success">{{ value }}</span>
+                                    <span class="info-tag el-tag--success">{{ cv(char, label, value) }}</span>
                                 {% else %}
                                     {% set guess_value = value %}
                                     {% set answer_value = answer[label] %}
                                     {% if guess_value == answer_value %}
-                                        <span class="info-tag el-tag--success">{{ value }}</span>
+                                        <span class="info-tag el-tag--success">{{ cv(char, label, value) }}</span>
                                     {% elif gid in closeness and label in closeness[gid] %}
                                         {% if closeness[gid][label] == "close" %}
-                                            <span class="info-tag el-tag--warning">{{ value }}{{ closeness[gid][label + '_arrow'] or '' }}</span>
+                                            <span class="info-tag el-tag--warning">{{ cv(char, label, value) }}{{ closeness[gid][label + '_arrow'] or '' }}</span>
                                         {% else %}
-                                            <span class="info-tag el-tag--info">{{ value }}{{ closeness[gid][label + '_arrow'] or '' }}</span>
+                                            <span class="info-tag el-tag--info">{{ cv(char, label, value) }}{{ closeness[gid][label + '_arrow'] or '' }}</span>
                                         {% endif %}
                                     {% else %}
-                                        <span class="info-tag el-tag--info">{{ value }}</span>
+                                        <span class="info-tag el-tag--info">{{ cv(char, label, value) }}</span>
                                     {% endif %}
                                 {% endif %}
                             {% endif %}
@@ -1033,18 +1035,18 @@
 
     <div id="resultModal" class="settings-modal">
         <div class="result-modal-box">
-            {% if result and "正解" in result %}
-            <div class="result-emoji">🎉</div>
-            <h2 class="result-heading win">正解です！</h2>
+            {% if result_is_win %}
+            <p class="result-kicker">RESULT</p>
+            <h2 class="result-heading win">{{ t('正解です！') }}</h2>
             {% else %}
-            <div class="result-emoji">😴</div>
-            <h2 class="result-heading lose">お前はまだまだだ...</h2>
+            <p class="result-kicker">RESULT</p>
+            <h2 class="result-heading lose">{{ t('ゲーム終了') }}</h2>
             {% endif %}
-            <p id="modalText" style="font-weight:600; margin:0 0 8px;">正解は：</p>
+            <p id="modalText" style="font-weight:600; margin:0 0 8px;">{{ t('正解は：') }}</p>
             <div id="answerCard" style="margin-top:12px;"></div>
             <div class="button-row" style="margin-top: 20px;">
-                <button type="button" class="btn btn-secondary" onclick="document.getElementById('resultModal').style.display='none'">戻す</button>
-                <button type="button" class="btn btn-primary" onclick="location.href='/restart'">リスタート</button>
+                <button type="button" class="btn btn-secondary" onclick="document.getElementById('resultModal').style.display='none'">{{ t('戻す') }}</button>
+                <button type="button" class="btn btn-primary" onclick="location.href='/restart'">{{ t('リスタート') }}</button>
             </div>
         </div>
     </div>
@@ -1126,7 +1128,12 @@
 
         function updateThemeIcon() {
             const btn = document.getElementById('themeBtn');
-            if (btn) btn.textContent = document.body.classList.contains('dark-theme') ? '☀️' : '🌙';
+            if (btn) {
+                const chinese = document.documentElement.lang.startsWith('zh');
+                btn.textContent = document.body.classList.contains('dark-theme')
+                    ? (chinese ? '浅色' : 'ライト')
+                    : (chinese ? '深色' : 'ダーク');
+            }
         }
 
         function toggleTheme() {
@@ -1163,6 +1170,8 @@
             const guessChanceDisplay = document.getElementById('guessChanceDisplay');
             const onlyMainCheckbox = document.getElementById('onlyMainCharacter');
             const qualityPoolCheckbox = document.getElementById('qualityPoolCharacter');
+            const rangeTemplate = {{ t('選択範囲：{min}年 ～ {max}年') | tojson }};
+            const formatRange = (min, max) => rangeTemplate.replace('{min}', min).replace('{max}', max);
 
             function getCookie(name) {
                 const value = `; ${document.cookie}`;
@@ -1184,9 +1193,9 @@
                 format: { to: v => Math.round(v), from: v => Math.round(v) }
             });
 
-            yearRangeDisplay.textContent = `選択範囲：${savedMinYear}年 ～ ${savedMaxYear}年`;
+            yearRangeDisplay.textContent = formatRange(savedMinYear, savedMaxYear);
             yearSlider.noUiSlider.on('update', values => {
-                yearRangeDisplay.textContent = `選択範囲：${values[0]}年 ～ ${values[1]}年`;
+                yearRangeDisplay.textContent = formatRange(values[0], values[1]);
             });
 
             noUiSlider.create(guessChanceSlider, {
@@ -1235,14 +1244,14 @@
             const modal = document.getElementById('resultModal');
             const modalText = document.getElementById('modalText');
             const answerCard = document.getElementById('answerCard');
-            const answer = {{ answer | tojson }};
-            const resultText = {{ result | tojson }};
-            const isWin = resultText.includes("正解");
+            const answer = {{ answer_display | tojson }};
+            const isWin = {{ result_is_win | tojson }};
+            const answerPrefix = {{ t('正解は：') | tojson }};
 
             if (modal && modalText && answerCard && answer) {
                 modal.style.display = 'flex';
                 const nameColor = isWin ? 'var(--success)' : 'var(--primary)';
-                modalText.innerHTML = `正解は：<span style="font-weight:700; color:${nameColor};">${answer.名前}</span>`;
+                modalText.innerHTML = `${answerPrefix}<span style="font-weight:700; color:${nameColor};">${answer._display.名前}</span>`;
 
                 const tag = (items) => items.map(v => `<span class="info-tag el-tag--success">${v}</span>`).join(' ');
                 answerCard.innerHTML = `
@@ -1251,9 +1260,9 @@
                             <img src="${answer.image || '/static/char_placeholder.png'}" class="card-img" alt="" onerror="this.onerror=null;this.src='/static/char_placeholder.png';">
                         </div>
                         <div class="intro-content" style="text-align:center; font-size:0.85rem;">
-                            <div style="margin-bottom:6px;"><strong>初登場の作品</strong><br>${tag([answer.初登場の作品])}</div>
-                            <div style="margin-bottom:6px;"><strong>初声出演の年</strong><br>${tag([answer.初声出演の年])}</div>
-                            <div><strong>肩書</strong><br>${tag(answer.肩書)}</div>
+                            <div style="margin-bottom:6px;"><strong>{{ t('初登場の作品') }}</strong><br>${tag([answer._display.初登場の作品])}</div>
+                            <div style="margin-bottom:6px;"><strong>{{ t('初声出演の年') }}</strong><br>${tag([answer.初声出演の年])}</div>
+                            <div><strong>{{ t('肩書') }}</strong><br>${tag(answer._display.肩書)}</div>
                         </div>
                     </div>`;
             }
